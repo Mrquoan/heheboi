@@ -3115,7 +3115,7 @@ Il2CppFlags = {
 end)
 return __bundle_require("GGIl2cpp")
 
-local function hide()
+
 bc = gg
 bc.gTI = gg.getTargetInfo
 bc.gTP = gg.getTargetPackage
@@ -3710,5 +3710,5 @@ gg.addListItems(m)  gg.clearFull()
 end
 end
 ISAOffsets()
-end
+
 
