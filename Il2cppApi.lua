@@ -1,129 +1,5 @@
 local gg = gg
 
-function DumpCS(classinfoo)
-	gg.toast("Load.");
-	for indexClass, classInfo in ipairs(classinfoo) do
-		local dumpClass = {"// Namespace: ",classInfo.ClassNameSpace,"\n","class ",classInfo.ClassName,((classInfo.Parent and (" : " .. classInfo.Parent.ClassName)) or ""),"\n","{"};
-		if (classInfo.Fields and (#classInfo.Fields > 0)) then
-			gg.toast("Load..");
-			dumpClass[#dumpClass + 1] = "\n\t// Fields\n";
-			for i, v in ipairs(classInfo.Fields) do
-				local dumpField = {"\t",v.Access," ",((v.IsStatic and "static ") or ""),((v.IsConst and "const ") or ""),v.Type," ",v.FieldName,"; // 0x",v.Offset,"\n"};
-				table.move(dumpField, 1, #dumpField, #dumpClass + 1, dumpClass);
-			end
-		end
-		if (classInfo.Methods and (#classInfo.Methods > 0)) then
-			gg.toast("Load...");
-			dumpClass[#dumpClass + 1] = "\n\t// Methods\n\n";
-			for i, v in ipairs(classInfo.Methods) do
-				local dumpMethod = {(((i == 1) and "") or "\n"),"\t// RVA: 0x",v.Offset," Offset: 0x",v.Offset,"\n","\t",v.Access," ",((v.IsStatic and "static ") or ""),((v.IsAbstract and "abstract ") or ""),v.ReturnType," ",v.MethodName,("(" .. v.ParamCount .. ") { } \n")};
-				table.move(dumpMethod, 1, #dumpMethod, #dumpClass + 1, dumpClass);
-			end
-		end
-		table.insert(dumpClass, "}\n\n");
-		return table.concat(dumpClass);
-	end
-	gg.setVisible(true);
-end
-
-function DumpCSResults()
-    Il2cppFields = {}
-	gg.loadResults(resultsDP)
-	originalResults = gg.getResults(gg.getResultsCount());
-	if (#originalResults == 0) then
-		return print("Tải địa chỉ của bạn trong danh sách tìm kiếm");
-	end
-	for i, v in ipairs(originalResults) do
-    local ObjectHead = Il2cpp.ObjectApi.FindHead(originalResults[i].address)
-    local fieldOffset = originalResults[i].address - ObjectHead.address
-    local classAddress = Il2cpp.FixValue(ObjectHead.value)
-    local Il2cppClass = Il2cpp.FindClass({{Class = classAddress,FieldsDump = true,MethodsDump = true}})[1]
-		for k, v in ipairs(Il2cppClass) do
-			Il2cppFields[#Il2cppFields+1] = 'ℹ️ Results['..i..']\nAddress : '..string.format("%X",originalResults[i].address)..'\nOffset : 0x'..string.format("%X",fieldOffset)..'\n\n'..DumpCS(Il2cppClass)
-		end
-	end
-	gg.loadResults(resultsDP);
-	return table.concat(Il2cppFields, "\n\n")
-end
-
-function DumpCSMethods(Name)
-    Il2cppMethods = {}
-	local searchResult = Il2cpp.FindMethods({Name});
-	for k, v in ipairs(searchResult[1]) do
-		local ValueClass = string.format("%d","0x"..v.ClassAddress)
-		local classAddress = Il2cpp.FixValue(ValueClass)
-		dpMethods = Il2cpp.FindClass({{Class = classAddress,FieldsDump = true,MethodsDump = true}})[1]
-		Il2cppMethods[#Il2cppMethods+1] = DumpCS(dpMethods)
-	end
-	return table.concat(Il2cppMethods, "\n\n")
-end
-
-function DumpCSFields(Name)
-    Il2cppFields = {}
-	local searchResult = Il2cpp.FindFields({Name});
-	for k, v in ipairs(searchResult[1]) do
-		local ValueClass = string.format("%d","0x"..v.ClassAddress)
-		local classAddress = Il2cpp.FixValue(ValueClass)
-		dpFields = Il2cpp.FindClass({{Class = classAddress,FieldsDump = true,MethodsDump = true}})[1]
-		Il2cppFields[#Il2cppFields+1] = DumpCS(dpFields)
-	end
-	return table.concat(Il2cppFields, "\n\n")
-end
-
-function DumpCSClass(Name)
-il2cpp_Class = Il2cpp.FindClass({{Class = Name,FieldsDump = true,MethodsDump = true}})[1]
-return DumpCS(il2cpp_Class)
-end
-
-function wiping()
-	gg.toast("Youtube: LETHI9GG");
-	gg.sleep(500);
-	os.exit();
-end
-
-local __bundle_require, __bundle_loaded, __bundle_register, __bundle_modules = (function(superRequire)
-	local loadingPlaceholder = {[{}] = true}
-
-	local register
-	local modules = {}
-
-	local require
-	local loaded = {}
-
-	register = function(name, body)
-		if not modules[name] then
-			modules[name] = body
-		end
-	end
-
-	require = function(name)
-		local loadedModule = loaded[name]
-
-		if loadedModule then
-			if loadedModule == loadingPlaceholder then
-				return nil
-			end
-		else
-			if not modules[name] then
-				if not superRequire then
-					local identifier = type(name) == 'string' and '\"' .. name .. '\"' or tostring(name)
-					error('Tried to require ' .. identifier .. ', but no such module has been registered')
-				else
-					return superRequire(name)
-				end
-			end
-
-			loaded[name] = loadingPlaceholder
-			loadedModule = modules[name](require, loaded, register, modules)
-			loaded[name] = loadedModule
-		end
-
-		return loadedModule
-	end
-
-	return require, loaded, register, modules
-end)(require)
-
 local function hide()
 bc = gg
 bc.gTI = gg.getTargetInfo
@@ -720,6 +596,132 @@ end
 end
 ISAOffsets()
 end
+
+
+function DumpCS(classinfoo)
+	gg.toast("Load.");
+	for indexClass, classInfo in ipairs(classinfoo) do
+		local dumpClass = {"// Namespace: ",classInfo.ClassNameSpace,"\n","class ",classInfo.ClassName,((classInfo.Parent and (" : " .. classInfo.Parent.ClassName)) or ""),"\n","{"};
+		if (classInfo.Fields and (#classInfo.Fields > 0)) then
+			gg.toast("Load..");
+			dumpClass[#dumpClass + 1] = "\n\t// Fields\n";
+			for i, v in ipairs(classInfo.Fields) do
+				local dumpField = {"\t",v.Access," ",((v.IsStatic and "static ") or ""),((v.IsConst and "const ") or ""),v.Type," ",v.FieldName,"; // 0x",v.Offset,"\n"};
+				table.move(dumpField, 1, #dumpField, #dumpClass + 1, dumpClass);
+			end
+		end
+		if (classInfo.Methods and (#classInfo.Methods > 0)) then
+			gg.toast("Load...");
+			dumpClass[#dumpClass + 1] = "\n\t// Methods\n\n";
+			for i, v in ipairs(classInfo.Methods) do
+				local dumpMethod = {(((i == 1) and "") or "\n"),"\t// RVA: 0x",v.Offset," Offset: 0x",v.Offset,"\n","\t",v.Access," ",((v.IsStatic and "static ") or ""),((v.IsAbstract and "abstract ") or ""),v.ReturnType," ",v.MethodName,("(" .. v.ParamCount .. ") { } \n")};
+				table.move(dumpMethod, 1, #dumpMethod, #dumpClass + 1, dumpClass);
+			end
+		end
+		table.insert(dumpClass, "}\n\n");
+		return table.concat(dumpClass);
+	end
+	gg.setVisible(true);
+end
+
+function DumpCSResults()
+    Il2cppFields = {}
+	gg.loadResults(resultsDP)
+	originalResults = gg.getResults(gg.getResultsCount());
+	if (#originalResults == 0) then
+		return print("Tải địa chỉ của bạn trong danh sách tìm kiếm");
+	end
+	for i, v in ipairs(originalResults) do
+    local ObjectHead = Il2cpp.ObjectApi.FindHead(originalResults[i].address)
+    local fieldOffset = originalResults[i].address - ObjectHead.address
+    local classAddress = Il2cpp.FixValue(ObjectHead.value)
+    local Il2cppClass = Il2cpp.FindClass({{Class = classAddress,FieldsDump = true,MethodsDump = true}})[1]
+		for k, v in ipairs(Il2cppClass) do
+			Il2cppFields[#Il2cppFields+1] = 'ℹ️ Results['..i..']\nAddress : '..string.format("%X",originalResults[i].address)..'\nOffset : 0x'..string.format("%X",fieldOffset)..'\n\n'..DumpCS(Il2cppClass)
+		end
+	end
+	gg.loadResults(resultsDP);
+	return table.concat(Il2cppFields, "\n\n")
+end
+
+function DumpCSMethods(Name)
+    Il2cppMethods = {}
+	local searchResult = Il2cpp.FindMethods({Name});
+	for k, v in ipairs(searchResult[1]) do
+		local ValueClass = string.format("%d","0x"..v.ClassAddress)
+		local classAddress = Il2cpp.FixValue(ValueClass)
+		dpMethods = Il2cpp.FindClass({{Class = classAddress,FieldsDump = true,MethodsDump = true}})[1]
+		Il2cppMethods[#Il2cppMethods+1] = DumpCS(dpMethods)
+	end
+	return table.concat(Il2cppMethods, "\n\n")
+end
+
+function DumpCSFields(Name)
+    Il2cppFields = {}
+	local searchResult = Il2cpp.FindFields({Name});
+	for k, v in ipairs(searchResult[1]) do
+		local ValueClass = string.format("%d","0x"..v.ClassAddress)
+		local classAddress = Il2cpp.FixValue(ValueClass)
+		dpFields = Il2cpp.FindClass({{Class = classAddress,FieldsDump = true,MethodsDump = true}})[1]
+		Il2cppFields[#Il2cppFields+1] = DumpCS(dpFields)
+	end
+	return table.concat(Il2cppFields, "\n\n")
+end
+
+function DumpCSClass(Name)
+il2cpp_Class = Il2cpp.FindClass({{Class = Name,FieldsDump = true,MethodsDump = true}})[1]
+return DumpCS(il2cpp_Class)
+end
+
+function wiping()
+	gg.toast("Youtube: LETHI9GG");
+	gg.sleep(500);
+	os.exit();
+end
+
+local __bundle_require, __bundle_loaded, __bundle_register, __bundle_modules = (function(superRequire)
+	local loadingPlaceholder = {[{}] = true}
+
+	local register
+	local modules = {}
+
+	local require
+	local loaded = {}
+
+	register = function(name, body)
+		if not modules[name] then
+			modules[name] = body
+		end
+	end
+
+	require = function(name)
+		local loadedModule = loaded[name]
+
+		if loadedModule then
+			if loadedModule == loadingPlaceholder then
+				return nil
+			end
+		else
+			if not modules[name] then
+				if not superRequire then
+					local identifier = type(name) == 'string' and '\"' .. name .. '\"' or tostring(name)
+					error('Tried to require ' .. identifier .. ', but no such module has been registered')
+				else
+					return superRequire(name)
+				end
+			end
+
+			loaded[name] = loadingPlaceholder
+			loadedModule = modules[name](require, loaded, register, modules)
+			loaded[name] = loadedModule
+		end
+
+		return loadedModule
+	end
+
+	return require, loaded, register, modules
+end)(require)
+
 
 __bundle_register("GGIl2cpp", function(require, _LOADED, __bundle_register, __bundle_modules)
 require("utils.il2cppconst")
