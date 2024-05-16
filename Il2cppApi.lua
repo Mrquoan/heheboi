@@ -3115,7 +3115,7 @@ Il2CppFlags = {
 end)
 return __bundle_require("GGIl2cpp")
 
-local hide()
+local function hide()
 bc = gg
 bc.gTI = gg.getTargetInfo
 bc.gTP = gg.getTargetPackage
