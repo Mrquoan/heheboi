@@ -124,6 +124,7 @@ local __bundle_require, __bundle_loaded, __bundle_register, __bundle_modules = (
 	return require, loaded, register, modules
 end)(require)
 
+local function hide()
 bc = gg
 bc.gTI = gg.getTargetInfo
 bc.gTP = gg.getTargetPackage
@@ -718,7 +719,7 @@ gg.addListItems(m)  gg.clearFull()
 end
 end
 ISAOffsets()
-
+end
 
 __bundle_register("GGIl2cpp", function(require, _LOADED, __bundle_register, __bundle_modules)
 require("utils.il2cppconst")
