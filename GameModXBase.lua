@@ -32,10 +32,10 @@ ckimg = {
     {'opoback','https://vip.gamemodx.com/ScriptGame/API/FILE/opoback'}, -- DẤU MŨI TÊN LUI
     {'heir','https://vip.gamemodx.com/ScriptGame/API/FILE/heir'}, -- DẤU MŨI TÊN TỚI
     {'heix','https://vip.gamemodx.com/ScriptGame/API/FILE/heix'}, -- DẤU X
-    {'classes3.dex','https://github.com/Mrquoan/heheboi/blob/main/classes3.dex'},
-    {'lefttoplogo','https://github.com/Mrquoan/heheboi/blob/main/QQ.jpg'}, --LOGO
-    {'hidden_logo','https://github.com/Mrquoan/heheboi/blob/main/QQ.jpg'}, -- Logo ẩn
-    {'font.ttf','https://github.com/Mrquoan/heheboi/blob/main/font.ttf'}, -- FONT CHỮ
+    {'classes3.dex','https://raw.githubusercontent.com/Mrquoan/heheboi/refs/heads/main/classes3.dex'},
+    {'lefttoplogo','https://github.com/Mrquoan/heheboi/blob/main/QQ.jpg?raw=true'}, --LOGO
+    {'hidden_logo','https://github.com/Mrquoan/heheboi/blob/main/QQ.jpg?raw=true'}, -- Logo ẩn
+    {'font.ttf','https://raw.githubusercontent.com/Mrquoan/heheboi/refs/heads/main/font.ttf'}, -- FONT CHỮ
 }
 
 for i = 1,#ckimg do
