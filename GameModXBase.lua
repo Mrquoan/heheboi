@@ -1795,9 +1795,9 @@ _ENV['侧边背景渐变2']='0056d3'
 
 _ENV['分页选中颜色']='ffffff'
 
-lefttoplogo='/storage/emulated/0/GameModX/lefttoplogo'
+lefttoplogo='/storage/emulated/0/QUOAN/lefttoplogo'
 
-hiddenlogo='/storage/emulated/0/GameModX/hidden_logo'
+hiddenlogo='/storage/emulated/0/QUOAN/hidden_logo'
 
 
 
