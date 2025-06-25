@@ -104,7 +104,6 @@ home = function()
         toolsLT9.Setting()
     end
     if Il2cpp.FieldApi.DumpEnum and Il2cpp.GlobalMetadataApi.fieldDefaultValuesSize == 0 then
-        cli.Alert("il2cppLT9 Warning", "Protected games may cause errors\n\n", "❗")
         toolsLT9.data.Settings[4] = false
         Il2cpp.FieldApi.DumpEnum = false
         gg.saveVariable(toolsLT9.data, toolsLT9.dataFile)
@@ -124,9 +123,7 @@ home = function()
     if #checkSaveList > 0 and TAB == "list" then
         toolsLT9.handleClick()
     else
-
-        toolsLT9.Search()
-
+		gg.sleep(200)
     end
 end,
     Developer = function()
@@ -506,33 +503,7 @@ end,
         end)
         toolsLT9.createRestore(address, #s)
         Il2cpp.PatchesAddress(address, s)
-        --[[
-        local menu = gg.prompt({
-            cli.Prompt("PatchesAddress Menu", "•") .. "\nEnter Class Name", 
-            "Enter Method Name",
-            "Value To Patch (\\x20\\x00\\x80\\x52\\xc0\\x03\\x5f\\xd6)"
-        }, {
-            className, 
-            methodName, 
-            edit
-        }, {
-            "text", 
-            "text", 
-            "text"}
-        )
-        if menu ~= nil then
-            local Method1 = Il2cpp.FindMethods({menu[2]})[1]
-            local s = menu[3]
-            s = s:gsub("\\x(%x%x)", function(x)
-                return string.char(tonumber(x, 16))
-            end)
-            for k, v in ipairs(Method1) do
-                if v.ClassName == menu[1] then
-                    toolsLT9.createRestore(tonumber(v.AddressInMemory, 16), #s)
-                    Il2cpp.PatchesAddress(tonumber(v.AddressInMemory, 16), s)
-                end
-            end
-        end]]
+
     end,
     restoreTable = {},
     restoreValues = function(address)
@@ -1019,65 +990,54 @@ local asmLT9 = {
 }
 
 editsLT9 = {
-    searchName = function()
-        searchPrompt = gg.prompt({
-            cli.Prompt("Search Name", "•") .. "\nEnter Name:", 
-            "Classes", 
-            "Fields",
-            "Methods"
-        }, 
-        toolsLT9.data.searchName
-        , {
-            "text",
-            "checkbox", 
-            "checkbox", 
-            "checkbox"
-        })
-        if searchPrompt ~= nil then
-            _searchPrompt = searchPrompt
-            toolsLT9.data.searchName = searchPrompt
-            gg.saveVariable(toolsLT9.data, toolsLT9.dataFile)
-            local kind = {
-                Api = toolsLT9.SearchApi,
-                Class = searchPrompt[2] and {
-                    Fields = true,
-                    Methods = true
-                },
-                Fields = searchPrompt[3],
-                Methods = searchPrompt[4]
-            }
-            local results = Il2cpp.searchName(searchPrompt[1], kind)
-            if results.Fields then
-                for i, v in pairs(results.Fields) do
-                    if type(i) == "number" and not toolsLT9.cache.fields[v.FieldInfoAddress] then
-                        toolsLT9.cache.fields[v.FieldInfoAddress] = v
-                        toolsLT9.cache.fields.results[#toolsLT9.cache.fields.results+1] = v
-                    end
-                end
+searchName = function()
+    local searchPrompt = {
+        "default_search",
+        true,
+        true,
+        true 
+    }
+    toolsLT9.data.searchName = searchPrompt
+    gg.saveVariable(toolsLT9.data, toolsLT9.dataFile)
+    local kind = {
+        Api = toolsLT9.SearchApi,
+        Class = searchPrompt[2] and {
+            Fields = true,
+            Methods = true
+        },
+        Fields = searchPrompt[3],
+        Methods = searchPrompt[4]
+    }
+    local results = Il2cpp.searchName(searchPrompt[1], kind)
+    if results.Fields then
+        for i, v in pairs(results.Fields) do
+            if type(i) == "number" and not toolsLT9.cache.fields[v.FieldInfoAddress] then
+                toolsLT9.cache.fields[v.FieldInfoAddress] = v
+                toolsLT9.cache.fields.results[#toolsLT9.cache.fields.results+1] = v
             end
-            if results.Methods then
-                for i, v in pairs(results.Methods) do
-                    if type(i) == "number" and not toolsLT9.cache.methods[v.AddressInMemory] then
-                        toolsLT9.cache.methods[v.AddressInMemory] = v
-                        toolsLT9.cache.methods.results[#toolsLT9.cache.methods.results+1] = v
-                    end
-                end
-            end
-            if results.Class then
-                for i, v in pairs(results.Class) do
-                    if type(i) == "number" and not toolsLT9.cache.class[v.ClassAddress] then
-                        toolsLT9.cache.class[v.ClassAddress] = v
-                        toolsLT9.cache.class.results[#toolsLT9.cache.class.results+1] = v
-                    end
-                end
-            end
-            if toolsLT9.AddListItems then
-                results:AddList()
-            end
-            toolsLT9:getSize()
-            cli.Alert("Search Name", "Field Results [".. (results.Fields and #results.Fields or '0') .."]\nMethod Results [".. (results.Methods and #results.Methods or '0') .."]\nClass Results [".. (results.Class and #results.Class or '0') .."]\n", "•")
         end
-    end,
+    end
+    if results.Methods then
+        for i, v in pairs(results.Methods) do
+            if type(i) == "number" and not toolsLT9.cache.methods[v.AddressInMemory] then
+                toolsLT9.cache.methods[v.AddressInMemory] = v
+                toolsLT9.cache.methods.results[#toolsLT9.cache.methods.results+1] = v
+            end
+        end
+    end
+    if results.Class then
+        for i, v in pairs(results.Class) do
+            if type(i) == "number" and not toolsLT9.cache.class[v.ClassAddress] then
+                toolsLT9.cache.class[v.ClassAddress] = v
+                toolsLT9.cache.class.results[#toolsLT9.cache.class.results+1] = v
+            end
+        end
+    end
+    if toolsLT9.AddListItems then
+        results:AddList()
+    end
+    toolsLT9:getSize()
+end,
     getEditApi = function(value, flags, fix)
         local Flags = {[4] = "X",[16] = "S",[64] = "D"}
         local address = editsLT9.editSpace
