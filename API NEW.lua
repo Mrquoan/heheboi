@@ -124,11 +124,9 @@ home = function()
     if #checkSaveList > 0 and TAB == "list" then
         toolsLT9.handleClick()
     else
-        -- Loại bỏ menu và có thể gọi hàm khác hoặc không làm gì
-        -- Ví dụ: Gọi trực tiếp hàm Search
+
         toolsLT9.Search()
-        -- Hoặc để trống nếu không muốn thực hiện hành động nào
-        -- return
+
     end
 end,
     Developer = function()
