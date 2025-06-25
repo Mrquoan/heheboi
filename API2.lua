@@ -99,65 +99,38 @@ end
 toolsLT9 = {
     Results_Size = 0,
     cache = {methods = {results = {}}, fields = {results = {}}, class = {results = {}}, head = {results = {}}},
-    home = function()
-        if not toolsLT9.data.Settings then
-            toolsLT9.Setting()
-        end
-        if Il2cpp.FieldApi.DumpEnum and Il2cpp.GlobalMetadataApi.fieldDefaultValuesSize == 0 then
-            cli.Alert("il2cppLT9 Warning", "Protected games may cause errors\n\n", "❗")
-            toolsLT9.data.Settings[4] = false
+home = function()
+    if not toolsLT9.data.Settings then
+        toolsLT9.Setting()
+    end
+    if Il2cpp.FieldApi.DumpEnum and Il2cpp.GlobalMetadataApi.fieldDefaultValuesSize == 0 then
+        cli.Alert("il2cppLT9 Warning", "Protected games may cause errors\n\n", "❗")
+        toolsLT9.data.Settings[4] = false
+        Il2cpp.FieldApi.DumpEnum = false
+        gg.saveVariable(toolsLT9.data, toolsLT9.dataFile)
+    end
+    if not toolsLT9.dataGame.enum and toolsLT9.data.Settings[4] and Il2cpp.FieldApi.DumpEnum and not Il2cpp.GlobalMetadataApi.Il2CppFieldDefaultValue.Il2CppFieldDefaultTable then
+        if gg.alert(script_title .. "\n\n" .. "• Enum Api •" .. "\n\nLoad [" .. (Il2cpp.GlobalMetadataApi.fieldDefaultValuesSize / 0xC) .. "] Enum\n\n", "Ok", "No") == 1 then
+            Il2cpp.GlobalMetadataApi.Il2CppFieldDefaultValue:new()
+            toolsLT9.dataGame.enum = Il2cpp.GlobalMetadataApi.Il2CppFieldDefaultValue.Il2CppFieldDefaultTable
+            gg.saveVariable(toolsLT9.dataGame, toolsLT9.dataFileGame)
+        else
             Il2cpp.FieldApi.DumpEnum = false
+            toolsLT9.data.Settings[4] = false
             gg.saveVariable(toolsLT9.data, toolsLT9.dataFile)
         end
-        if not toolsLT9.dataGame.enum and toolsLT9.data.Settings[4] and Il2cpp.FieldApi.DumpEnum and not Il2cpp.GlobalMetadataApi.Il2CppFieldDefaultValue.Il2CppFieldDefaultTable then
-            if gg.alert(script_title .. "\n\n" .. "• Enum Api •" .. "\n\nLoad [" .. (Il2cpp.GlobalMetadataApi.fieldDefaultValuesSize / 0xC) .. "] Enum\n\n", "Ok", "No") == 1 then
-                Il2cpp.GlobalMetadataApi.Il2CppFieldDefaultValue:new()
-                toolsLT9.dataGame.enum = Il2cpp.GlobalMetadataApi.Il2CppFieldDefaultValue.Il2CppFieldDefaultTable
-                gg.saveVariable(toolsLT9.dataGame, toolsLT9.dataFileGame)
-            else
-                Il2cpp.FieldApi.DumpEnum = false
-                toolsLT9.data.Settings[4] = false
-                gg.saveVariable(toolsLT9.data, toolsLT9.dataFile)
-            end
-        end
-        local checkSaveList, TAB = getSelectedItems() --gg.getSelectedListItems()
-        if #checkSaveList > 0 and TAB == "list" then
-            toolsLT9.handleClick()
-        else
-            local options = {
-                "Search",
-                "FindHead",
-                "Dumper", 
-                "ScriptCreator",
-                "Results",
-                "Setting",
-                "Developer",
-            }
-            local optionsMenu = {
-                " Search Name",
-                " FindHead",
-                " Dumper", 
-                " Script Creator",
-                " Results[" .. toolsLT9.Results_Size .."]",
-                " Setting",
-                " Developer",
-                " Exit"
-            }
-            menu = gg.choice(
-                optionsMenu, 
-                _menu,
-                script_title--cli.Choice("Main Menu", "Select a function:", "•")
-                )
-            if menu ~= nil then
-                _menu = menu
-                if menu == #optionsMenu then
-                    os.exit()
-                end
-                _G["toolsLT9"][options[menu]]()
-            end
-        end
-        --print( Il2cppMemory )
-    end,
+    end
+    local checkSaveList, TAB = getSelectedItems()
+    if #checkSaveList > 0 and TAB == "list" then
+        toolsLT9.handleClick()
+    else
+        -- Loại bỏ menu và có thể gọi hàm khác hoặc không làm gì
+        -- Ví dụ: Gọi trực tiếp hàm Search
+        toolsLT9.Search()
+        -- Hoặc để trống nếu không muốn thực hiện hành động nào
+        -- return
+    end
+end,
     Developer = function()
         DeveloperItems = {
             Il2cpp.globalMetadataStart,
