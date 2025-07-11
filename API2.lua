@@ -928,12 +928,27 @@ function edit(tagOrValue, valuesString)
     local valuetoedit = {}
     for i, addrInfo in ipairs(Quoan) do
         local addr = addrInfo.address or addrInfo
+        local dataType = addrInfo.flags -- Lấy loại dữ liệu từ kết quả tìm kiếm
         for j = 1, #mvqedit do
-            local numVal = tonumber(mvqedit[j])
+            local value = mvqedit[j]
+            -- Chuyển đổi giá trị phù hợp với loại dữ liệu
+            local convertedValue = value
+            if dataType == gg.TYPE_DWORD or 
+               dataType == gg.TYPE_WORD or 
+               dataType == gg.TYPE_QWORD or 
+               dataType == gg.TYPE_BYTE or 
+               dataType == gg.TYPE_XOR or
+			   dataType == gg.TYPE_FLOAT or 
+               dataType == gg.TYPE_DOUBLE then
+                convertedValue = tonumber(value) or value
+            else
+                gg.alert("⚠️ Lỗi: Loại dữ liệu không được hỗ trợ: " .. tostring(dataType))
+                return false
+            end
             table.insert(valuetoedit, {
                 address = addr + (4 * (j - 1)),
-				flags = gg.TYPE_AUTO,
-                value = numVal or mvqedit[j],
+                flags = dataType, -- Giữ nguyên loại dữ liệu của kết quả tìm kiếm
+                value = convertedValue,
                 freeze = true
             })
         end
@@ -948,7 +963,7 @@ function edit(tagOrValue, valuesString)
     gg.addListItems(valuetoedit)
     gg.removeListItems(valuetoedit)
     gg.clearResults()
-	gg.sleep(500)
+    gg.sleep(500)
     return true
 end
 
@@ -1081,5 +1096,3 @@ function MVQAllClass(clazz)
     gg.loadResults(results)
 end
 --███████████████████████--███████████████████████
-
-      --Trying to leak my script? U dump fuck. Here!!! Dec this then u will know what in here
