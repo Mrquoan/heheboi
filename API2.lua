@@ -1,5 +1,4 @@
---███████████████████████--███████████████████████
--- sc1 - ARM Edit Master (Cập nhật: Real + Equivalent Float/Double)
+
 --███████████████████████--███████████████████████
 
 -- Chuyển float → int32 (IEEE 754)
