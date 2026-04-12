@@ -1,5 +1,4 @@
---Module: Il2CppGG v1.0.4
---Author: LeThi9GG
+
 local __bundle_require, __bundle_loaded, __bundle_register, __bundle_modules = (function(superRequire)
 	local loadingPlaceholder = {[{}] = true}
 
