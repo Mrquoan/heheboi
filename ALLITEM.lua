@@ -1,4 +1,5 @@
 local enums = {
+	
     ['Item v8.1'] = {
 		['NEW ITEM'] = {
 MasterArcherPannier = "quiver_bag",
