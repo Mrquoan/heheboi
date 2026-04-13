@@ -1,5 +1,13 @@
 local enums = {
-
+    ['Item v8.1'] = {
+		['NEW ITEM'] = {
+MasterArcherPannier = "quiver_bag",
+GardenBedDesignLvl2 = "research_cropfield_1",
+Leather Hose = "leather_hose",
+TheScarletHunt = "battlepass_finished",
+		},
+    },
+	
     ['Item v8.0'] = {
 		['Talisman'] = {
 NamelessMercy = "talisman_backup_3",
