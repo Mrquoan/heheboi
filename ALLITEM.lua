@@ -6,7 +6,7 @@ local enums = {
 MasterArcherPannier = "quiver_bag",
 GardenBedDesignLvl2 = "research_cropfield_1",
 LeatherHose = "leather_hose",
-TheScarletHunt = "battlepass_finished",
+TheScarletHunt = "battlepass_stamp_large",
 		},
     },
 
