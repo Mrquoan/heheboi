@@ -6585,5 +6585,691 @@ local toolsLT9 = {
 
 return toolsLT9
 end)
+__bundle_register("toolbox.search", function(require, _LOADED, __bundle_register, __bundle_modules)
+local editsLT9 = {
+    searchName = function()
+        local searchPrompt = gg.prompt({
+            cli.Prompt("Search Name", "•") .. "\nEnter Name:", 
+            "SearchApi",
+            "Classes", 
+            "Fields",
+            "Methods"
+        }, 
+        toolsLT9.data.searchName or {'name', true, true, true, true}
+        , {
+            "text",
+            "checkbox", 
+            "checkbox",
+            "checkbox", 
+            "checkbox"
+        })
+
+        if searchPrompt ~= nil then
+            _searchPrompt = searchPrompt
+            toolsLT9.data.searchName = searchPrompt
+            gg.saveVariable(toolsLT9.data, toolsLT9.dataFile)
+            
+            local kind = {
+                Api = searchPrompt[2],
+                Class = searchPrompt[3],
+                Fields = searchPrompt[4],
+                Methods = searchPrompt[5]
+            }
+            
+            local results = Il2Cpp:searchName(searchPrompt[1], kind)
+            
+            if results.Fields then
+                for i, v in pairs(results.Fields) do
+                    if type(i) == "number" and not toolsLT9.cache.fields[v.address] then
+                        toolsLT9.cache.fields[v.address] = v
+                        toolsLT9.cache.fields.results[#toolsLT9.cache.fields.results+1] = v
+                    end
+                end
+            end
+            if results.Methods then
+                for i, v in pairs(results.Methods) do
+                    if type(i) == "number" and not toolsLT9.cache.methods[v.address] then
+                        toolsLT9.cache.methods[v.address] = v
+                        toolsLT9.cache.methods.results[#toolsLT9.cache.methods.results+1] = v
+                    end
+                end
+            end
+            if results.Class then
+                for i, v in pairs(results.Class) do
+                    if type(i) == "number" and not toolsLT9.cache.class[v.address] then
+                        toolsLT9.cache.class[v.address] = v
+                        toolsLT9.cache.class.results[#toolsLT9.cache.class.results+1] = v
+                    end
+                end
+            end
+            
+            if toolsLT9.AddListItems then
+                results:AddList()
+            end
+            
+            toolsLT9:getSize()
+            cli.Alert("Search Name", "Field Results [".. (results.Fields and #results.Fields or '0') .."]\nMethod Results [".. (results.Methods and #results.Methods or '0') .."]\nClass Results [".. (results.Class and #results.Class or '0') .."]\n", "•")
+        end
+    end,
+    
+    createEditApi = function(method)
+        local menu_type = {" Boolean", " Integer", " Single (float)", " Double", " End Function"}
+        local menu_item
+        
+        local types = method:GetReturnType().type
+        if types == 2 then 
+            menu_item = 1
+        elseif types == 12 then 
+            menu_item = 3
+        elseif types == 13 then 
+            menu_item = 4
+        elseif types >= 4 and 9 <= types then 
+            menu_item = 2 
+        end
+        
+        local edit_type = gg.choice(
+            menu_type, 
+            menu_item, 
+            cli.Choice("Select Type Of Edit", "", "•")
+        )
+        
+        if not edit_type then return end
+        if edit_type ~= nil then
+            local value
+            local flags
+            if edit_type == 1 then
+                local menu = gg.choice({ " True", " False" }, nil, cli.Choice("Set Boolean Edit", "", "•"))
+                if not menu then return end
+                value = menu == 1 and 1 or 0
+                flags = 4
+            end
+            
+            if edit_type == 2 then
+                local menu = gg.prompt({ cli.Prompt("Enter Number -2147483648 to 4294967295", "•")}, {}, {"number"})
+                if not menu then return end
+                value = tonumber(menu[1])
+                flags = 4
+            end
+            
+            if edit_type == 3 then
+                local menu = gg.prompt({ cli.Prompt("Enter Number -3,4e+38 to 3,4e+38", "•")}, {}, {"number"})
+                if not menu then return end
+                value = tonumber(menu[1])
+                flags = 16
+            end
+            if edit_type == 4 then
+                local menu = gg.prompt({ cli.Prompt("Enter Number -1,8e+308 to 1,8e+308", "•")}, {}, {"number"})
+                if not menu then return end
+                value = tonumber(menu[1])
+                flags = 64
+            end
+            if edit_type == 5 then
+                value = 0
+                flags = 4
+            end
+            return value, flags
+        end
+    end
+}
+
+return editsLT9
+end)
+__bundle_register("toolbox.creator", function(require, _LOADED, __bundle_register, __bundle_modules)
+local scriptCreator = {
+    createdFunctions = {},
+    
+    scriptMenu = function()
+
+    getSize = function()
+        return #toolsLT9.cache.scriptCreator.method + #toolsLT9.cache.scriptCreator.hook + #toolsLT9.cache.scriptCreator.field
+    end,
+    
+    menuEditor = function()
+        local menu = gg.choice({ " Edit Function Names", " Edit Menu Order" }, nil, cli.Choice("Menu Editor", "", "•"))
+        if menu ~= nil then
+            if menu == 1 then
+                local menuItems, menuType = {}, {}
+                for i, v in pairs(scriptCreator.createdFunctions) do
+                    menuItems[i] = v.functionName
+                    menuType[i] = "text"
+                end
+                local renameFunctions = gg.prompt(menuItems, menuItems, menuType)
+                if renameFunctions ~= nil then
+                    for i, v in pairs(scriptCreator.createdFunctions) do
+                        v.functionName = renameFunctions[i]
+                    end
+                end
+            end
+            if menu == 2 then
+                local menuItems, menuType, currentPosition, isSet = {}, {}, {}, {}
+                for i, v in pairs(scriptCreator.createdFunctions) do
+                    menuItems[i] = v.functionName .. " [1; " .. #scriptCreator.createdFunctions .. "]"
+                    currentPosition[i] = i
+                    menuType[i] = "number"
+                    isSet[i] = false
+                end
+                ::setorder::
+                local reorderMenu = gg.prompt(menuItems, currentPosition, menuType)
+                if reorderMenu ~= nil then
+                    for i, v in pairs(reorderMenu) do isSet[tonumber(v)] = true end
+                    for i, v in pairs(isSet) do
+                        if v == false then
+                            for index, value in pairs(isSet) do value = false end
+                            goto setorder
+                        end
+                    end
+                    local tempTable = {}
+                    for i, v in pairs(scriptCreator.createdFunctions) do
+                        tempTable[tonumber(reorderMenu[i])] = v
+                    end
+                    scriptCreator.createdFunctions = tempTable
+                end
+            end
+        end
+    end,
+
+    functionsMenu = function()
+        local menuItems = {}
+        for i, v in pairs(scriptCreator.createdFunctions) do
+            menuItems[i] = v.functionName
+        end
+        local menu = gg.choice(menuItems, nil, cli.Choice("Edit Functions", "Select function to edit:", "•"))
+        if menu ~= nil then
+            local functionMenu = gg.choice({ " Delete Field Edits", " Delete Method Edits", " Delete Hook Edits", " Delete Function" }, nil, cli.Choice("Edit Function", "", "•"))
+            if functionMenu ~= nil then
+                if functionMenu == 1 then
+                    local editsItems = {}
+                    for i, v in pairs(scriptCreator.createdFunctions[menu].edits) do
+                        editsItems[i] = ""
+                        if v.fieldEdits then
+                            for index, value in pairs(v.fieldEdits) do
+                                editsItems[i] = editsItems[i] .. value.FieldName .. "\n"
+                            end
+                        end
+                    end
+                    local editsIndex = gg.choice(editsItems, nil, cli.Choice("Fields Menu", "Select Edit to delete Field edit from:", "•"))
+                    if editsIndex then
+                         local fieldEditsItems = {}
+                         if scriptCreator.createdFunctions[menu].edits[editsIndex].fieldEdits then
+                             for i, v in pairs(scriptCreator.createdFunctions[menu].edits[editsIndex].fieldEdits) do
+                                 fieldEditsItems[i] = v.FieldName
+                             end
+                             local fieldEdits = gg.multiChoice(fieldEditsItems, nil, cli.Choice("Select Field edits to delete", "", "•"))
+                             if fieldEdits ~= nil then
+                                 for i, v in pairs(fieldEdits) do
+                                     table.remove(scriptCreator.createdFunctions[menu].edits[editsIndex].fieldEdits, i)
+                                 end
+                                 cli.Alert("Edits Deleted", "Field edits removed from the function "..menuItems[menu], "•")
+                             end
+                         else
+                            cli.Alert("Error", "No field edits found in this class block", "!")
+                         end
+                    end
+                end
+                if functionMenu == 2 then
+                    local editsItems = {}
+                    for i, v in pairs(scriptCreator.createdFunctions[menu].edits) do
+                        editsItems[i] = ""
+                        if v.methodEdits then
+                            for index, value in pairs(v.methodEdits) do
+                                editsItems[i] = editsItems[i] .. value.MethodName .. "\n"
+                            end
+                        end
+                    end
+                    local editsIndex = gg.choice(editsItems, nil, cli.Choice("Methods Menu", "Select Edit to delete Method edit from:", "•"))
+                    if editsIndex then
+                        local methodEditsItems = {}
+                        if scriptCreator.createdFunctions[menu].edits[editsIndex].methodEdits then
+                            for i, v in pairs(scriptCreator.createdFunctions[menu].edits[editsIndex].methodEdits) do
+                                methodEditsItems[i] = v.MethodName
+                            end
+                            local methodEdits = gg.multiChoice(methodEditsItems, nil, cli.Choice("Select Method edits to delete", "", "•"))
+                            if methodEdits ~= nil then
+                                for i, v in pairs(methodEdits) do
+                                    table.remove(scriptCreator.createdFunctions[menu].edits[editsIndex].methodEdits, i)
+                                end
+                                cli.Alert("Edits Deleted", "Method edits removed from the function "..menuItems[menu], "•")
+                            end
+                        else
+                            cli.Alert("Error", "No method edits found in this class block", "!")
+                        end
+                    end
+                end
+                -- Xử lý xóa Hook
+                if functionMenu == 3 then
+                    local editsItems = {}
+                    for i, v in pairs(scriptCreator.createdFunctions[menu].edits) do
+                        editsItems[i] = ""
+                        if v.hookEdits then
+                            for index, value in pairs(v.hookEdits) do
+                                editsItems[i] = editsItems[i] .. value.MethodName .. " (".. (value.HookType or "Param") ..")\n"
+                            end
+                        end
+                    end
+                    local editsIndex = gg.choice(editsItems, nil, cli.Choice("Hooks Menu", "Select Edit to delete Hook edit from:", "•"))
+                    if editsIndex then
+                        local hookEditsItems = {}
+                        if scriptCreator.createdFunctions[menu].edits[editsIndex].hookEdits then
+                            for i, v in pairs(scriptCreator.createdFunctions[menu].edits[editsIndex].hookEdits) do
+                                hookEditsItems[i] = v.MethodName
+                            end
+                            local hookEdits = gg.multiChoice(hookEditsItems, nil, cli.Choice("Select Hook edits to delete", "", "•"))
+                            if hookEdits ~= nil then
+                                for i, v in pairs(hookEdits) do
+                                    table.remove(scriptCreator.createdFunctions[menu].edits[editsIndex].hookEdits, i)
+                                end
+                                cli.Alert("Edits Deleted", "Hook edits removed from the function "..menuItems[menu], "•")
+                            end
+                        else
+                            cli.Alert("Error", "No hook edits found in this class block", "!")
+                        end
+                    end
+                end
+                if functionMenu == 4 then
+                    local confirmDelete = gg.choice({" Yes", " No"}, nil, cli.Choice("Delete Function", "Are you sure you want to delete this function?", "•"))
+                    if confirmDelete ~= nil and confirmDelete == 1 then
+                        table.remove(scriptCreator.createdFunctions, menu)
+                        cli.Alert("Function Deleted", menuItems[menu] .. " has been deleted." , "•")
+                    end
+                end
+            end
+        end
+    end,
+
+    exportScript = function(scriptString)
+        local path = gg.EXT_STORAGE .. "/LeThi9GG/" .. gg.getTargetPackage() .. "." .. os.date("%b_%d_%Y_%H.%M") .. ".lua"
+        local file = io.open(path, "w+")
+        if file then
+            file:write(scriptString)
+            file:close()
+            cli.Alert("Script Exported", "The script has been saved to:\n" .. path, "•")
+        else
+            cli.Alert("Error", "Cannot write to " .. path, "❌")
+        end
+    end,
+
+    handleClass = function(classTable)
+        local tempTable = {}
+        ::continue::
+        local menu = gg.choice({" Fields", " Methods", " Hooks", " Done"}, nil, cli.Choice("Create Edits", "Select type of edit to create:", "•"))
+        if menu ~= nil then
+            if menu == 1 then
+                local addToTable = scriptCreator.handleFields(classTable:GetFields())
+                if addToTable then
+                    table.insert(tempTable, addToTable)
+                    cli.Alert("Edits Created", "Fields edits created:", "•")
+                end
+                goto continue
+            end
+            if menu == 2 then
+                local addToTable = scriptCreator.handleMethods(classTable:GetMethods())
+                if addToTable then
+                    table.insert(tempTable, addToTable)
+                    cli.Alert("Edits Created", "Method edits created:", "•")
+                end
+                goto continue
+            end
+            if menu == 3 then
+                local addToTable = scriptCreator.handleHooks(classTable:GetMethods())
+                if addToTable then
+                    table.insert(tempTable, addToTable)
+                    cli.Alert("Edits Created", "Hook edits created:", "•")
+                end
+                goto continue
+            end
+            if menu == 4 then
+                scriptCreator.createFunction(tempTable)
+            end
+        end
+    end,
+
+    createFunction = function(tempTable)
+        local createNew
+        if #scriptCreator.createdFunctions > 0 then
+            local addOrNew = gg.choice({" Create New Function", " Add To Function"}, nil, cli.Choice("Function Menu", "Create new function or add to existing one?", "•"))
+            if addOrNew == 1 then createNew = true end
+            if addOrNew == 2 then createNew = false end
+        else
+            createNew = true
+        end
+        if createNew ~= nil then
+            if createNew == true then
+                local nameFunction = gg.prompt({cli.Prompt("Enter name for function", "•")}, {}, {"text"})
+                if nameFunction ~= nil then
+                    table.insert(scriptCreator.createdFunctions, {
+                        functionName = nameFunction[1],
+                        edits = tempTable
+                    })
+                    cli.Alert("Function Added", "Edits have been added to new function "..nameFunction[1], "•")
+                end
+            end
+            if createNew == false then
+                local menuItems = {}
+                for i, v in pairs(scriptCreator.createdFunctions) do
+                    menuItems[i] = v.functionName
+                end
+                local funcMenu = gg.choice(menuItems, nil, cli.Choice("Select Function", "Select function to insert edits into:", "•"))
+                if funcMenu ~= nil then
+                    for i, v in pairs(tempTable) do
+                        for index, value in pairs(scriptCreator.createdFunctions[funcMenu].edits) do
+                            local classFound = false
+                            if v.Class == value.Class then
+                                classFound = true
+                                -- Merge Method Edits
+                                if v.methodEdits then
+                                    if value.methodEdits then
+                                        for editIndex, editValue in pairs(v.methodEdits) do
+                                            table.insert(value.methodEdits, editValue)
+                                        end
+                                    else
+                                        value.methodEdits = v.methodEdits
+                                    end
+                                end
+                                -- Merge Field Edits
+                                if v.fieldEdits then
+                                    if value.fieldEdits then
+                                        for editIndex, editValue in pairs(v.fieldEdits) do
+                                            table.insert(value.fieldEdits, editValue)
+                                        end
+                                    else
+                                        value.fieldEdits = v.fieldEdits
+                                    end
+                                end
+                                -- Merge Hook Edits (NEW)
+                                if v.hookEdits then
+                                    if value.hookEdits then
+                                        for editIndex, editValue in pairs(v.hookEdits) do
+                                            table.insert(value.hookEdits, editValue)
+                                        end
+                                    else
+                                        value.hookEdits = v.hookEdits
+                                    end
+                                end
+                                break
+                            end
+                            if classFound == false then
+                                table.insert(scriptCreator.createdFunctions[funcMenu].edits, v)
+                                cli.Alert("Edits Added", "Edits have been added to "..scriptCreator.createdFunctions[funcMenu].functionName, "•")
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end,
+
+    handleFields = function(fieldsTable)
+        local menuItems = {}
+        for i, v in pairs(fieldsTable) do
+            menuItems[i] = v:GetName()
+        end
+        local menu = gg.multiChoice(menuItems, nil, cli.Choice("Select Fields", "Select Fields to create edits for:", "•"))
+        if menu ~= nil then
+            local promptItems = {}
+            local promptTypes = {}
+            for i, v in pairs(menu) do
+                promptItems[#promptItems + 1] = menuItems[i]
+                promptTypes[#promptTypes + 1] = "number"
+            end
+            ::set_edits::
+            local editMenu = gg.prompt(promptItems, nil, promptTypes)
+            if editMenu ~= nil then
+                local edits = {}
+                for i, v in pairs(editMenu) do
+                    table.insert(edits, {
+                        FieldName = promptItems[i],
+                        edit = v
+                    })
+                    if #v == 0 then goto set_edits end
+                end
+                return {
+                    Class = fieldsTable[1]:GetParent():GetName(),
+                    fieldEdits = edits
+                }
+            end
+        end
+    end,
+
+    handleMethods = function(methodsTable)
+        local menuItems = {}
+        local functionEdits = {}
+        for i, v in pairs(methodsTable) do
+            menuItems[i] = v:GetName()
+        end
+        local menu = gg.multiChoice(menuItems, nil, cli.Choice("Select Methods", "Select Methods to create PATCH edits for:", "•"))
+        if menu ~= nil then
+            local menuItems2 = {}
+            for i, v in pairs(menu) do
+                menuItems2[#menuItems2 + 1] = menuItems[i]
+            end
+            ::set_edits::
+            local selectedMenu = gg.choice(menuItems2, nil, cli.Choice("Select Method", "Select Method to create edit for:", "•"))
+            if selectedMenu ~= nil then
+                local value, flags = _G.editsLT9.createEditApi(methodsTable[selectedMenu])
+                if value then
+                    functionEdits[selectedMenu] = {value = value, flags = flags}
+                end
+            end
+            
+            local count = 0
+            for _ in pairs(functionEdits) do count = count + 1 end
+            
+            if count > 0 then -- Modified logic to allow partial selection
+                local edits = {}
+                for i, v in pairs(functionEdits) do
+                    table.insert(edits, {
+                        MethodName = menuItems2[i],
+                        edit = v
+                    })
+                end
+                return {
+                    Class = methodsTable[1]:GetClass():GetName(),
+                    methodEdits = edits
+                }
+            else
+               -- If nothing selected yet, loop back or exit? Logic in original was strict.
+               -- Keeping it simple here.
+               if selectedMenu then goto set_edits end
+            end
+        end
+    end,
+
+    -- NEW FUNCTION: handleHooks
+    handleHooks = function(methodsTable)
+        local menuItems = {}
+        for i, v in pairs(methodsTable) do
+            menuItems[i] = v:GetName()
+        end
+        local menu = gg.multiChoice(menuItems, nil, cli.Choice("Select Methods", "Select Methods to create HOOKS for:", "•"))
+        
+        if menu ~= nil then
+            local hookEdits = {}
+            for i, selectedIndex in pairs(menu) do
+                local method = methodsTable[i]
+                local hookType = gg.choice({"Param Hook", "Call Hook", "Field Hook"}, nil, cli.Choice("Hook Type", "Method: " .. method:GetName(), "•"))
+                
+                if hookType == 1 then
+                    local hookParam = toolsLT9.hookParamMenu(method, true)
+                    table.insert(hookEdits, {
+                        MethodName = method:GetName(),
+                        HookType = "Param",
+                        Params = hookParam.hook.param
+                    })
+                elseif hookType == 2 then
+                    local hookCall = toolsLT9.hookCallMenu(method, true)
+                    table.insert(hookEdits, {
+                        MethodName = method:GetName(),
+                        HookType = "Call",
+                        Call = {
+                            MethodName = hookCall.hook.call:GetName(),
+                            Params = hookCall.hook.param
+                        }
+                    })
+                elseif hookType == 3 then
+                    local hookField = toolsLT9.hookFieldMenu(method, true)
+                    table.insert(hookEdits, {
+                        MethodName = method:GetName(),
+                        HookType = "Field",
+                        Field = hookField.hook.field
+                    })
+                end
+            end
+
+            if #hookEdits > 0 then
+                return {
+                    Class = methodsTable[1]:GetClass():GetName(),
+                    hookEdits = hookEdits
+                }
+            end
+        end
+    end,
+
+    generateScript = function()
+        local menu = gg.prompt({cli.Prompt("Enter a title for your script", "•")}, {Il2Cpp.Info.name .. " v" .. Il2Cpp.Info.targetInfo.versionName}, {"text"})
+        if menu ~= nil then
+            local scriptTitle = menu[1]
+
+            local scriptTableContent = tostring(scriptCreator.createdFunctions)
+
+            local scriptTable = {
+                'local functionTable = ' .. scriptTableContent,
+                '',
+                'local scriptTitle = "' .. scriptTitle .. '"',
+                '',
+                require("toolbox.generateScript") -- Requires template to handle hooks
+            }
+            local scriptString = ""
+            for i, v in pairs(scriptTable) do
+                scriptString = scriptString .. v .. "\n"
+            end
+            scriptCreator.exportScript(scriptString)
+        end
+    end
+}
+
+return scriptCreator
+end)
+__bundle_register("toolbox.generateScript", function(require, _LOADED, __bundle_register, __bundle_modules)
+return [==[io.open("Il2CppGG.lua", "w"):write(gg.makeRequest(gg.makeRequest("https://github.com/lethi9gg/Il2CppGG/releases/latest").content:match("app%-argument=(.-)\""):gsub("tag", "download") .. "/Il2CppGG.lua").content):close(); require"Il2CppGG"
+Il2Cpp()
+
+local restoreFields = {}
+local restoreMethods = {}
+local restoreHooks = {}
+
+function handleClick(editsTable, functionIndex)
+    if restoreFields[functionIndex] or restoreMethods[functionIndex] or restoreHooks[functionIndex] then
+        if restoreFields[functionIndex] then
+            for i, v in ipairs(restoreFields[functionIndex]) do 
+                gg.setValues(v)
+            end
+            restoreFields[functionIndex] = nil
+        end
+        if restoreMethods[functionIndex] then
+            for i, v in ipairs(restoreMethods[functionIndex]) do 
+                v()
+            end
+            restoreMethods[functionIndex] = nil
+        end
+        if restoreHooks[functionIndex] then
+            for i, v in ipairs(restoreHooks[functionIndex]) do 
+                v:off()
+            end
+            restoreHooks[functionIndex] = nil
+        end
+        gg.alert(functionTable[functionIndex].functionName .. " Disabled")
+    else
+        for i, v in pairs(editsTable) do
+            local klass = Il2Cpp.Class(v.Class)[1]
+            
+            if v.fieldEdits then
+                restoreFields[functionIndex] = {}
+                handleFieldEdits(v.Class, v.fieldEdits, klass, functionIndex)
+            end
+            if v.methodEdits then
+                restoreMethods[functionIndex] = {}
+                handleMethodEdits(v.Class, v.methodEdits, klass, functionIndex)
+            end
+            if v.hookEdits then
+                restoreHooks[functionIndex] = {}
+                handleHookEdits(v.Class, v.hookEdits, klass, functionIndex)
+            end
+        end
+        gg.alert(functionTable[functionIndex].functionName .. " Enabled")
+    end
+end
+
+function handleFieldEdits(className, fieldEditsTable, klass, functionIndex)
+    local classInstances = klass:GetInstance()
+    local tempTable = {}
+    for index, value in pairs(fieldEditsTable) do
+        local field = klass:GetField(value.FieldName)
+        local tempTable = field:GetValue(classInstances)
+        table.insert(restoreFields[functionIndex], tempTable)
+        field:SetValue(classInstances, value.edit)
+    end
+end
+
+function handleMethodEdits(className, methodEditsTable, klass, functionIndex)
+    for i, v in pairs(methodEditsTable) do
+        local method = klass:GetMethod(v.MethodName)
+        table.insert(restoreMethods[functionIndex], Il2Cpp.Patch:setValues(method.methodPointer, v.edit.value, nil, v.edit.flags))
+    end
+end
+
+function handleHookEdits(className, hookEditsTable, klass, functionIndex)
+    for i, v in pairs(hookEditsTable) do
+        local method = klass:GetMethod(v.MethodName)
+        local methodHook
+        
+        if v.HookType == "Param" then 
+            methodHook = method:method()
+            methodHook:param(v.Params)
+        elseif v.HookType == "Call" then 
+            local methodCall = klass:GetMethod(v.Call.MethodName)
+            methodHook = method:call()(methodCall)
+            methodHook:setValues(v.Call.Params)
+        elseif v.HookType == "Field" then 
+            methodHook = method:field()
+            methodHook:setValues(v.Field)
+        end
+        
+        table.insert(restoreHooks[functionIndex], methodHook)
+    end
+end
+
+local items, selection, message = {}, {}, scriptTitle
+for i, v in pairs(functionTable) do
+    items[i] = v.functionName
+end
+table.insert(items, "Exit")
+
+function home()
+    local menu = gg.multiChoice(items, selection, message)
+    if menu ~= nil then
+        if menu[#items] then 
+            os.exit()
+        end
+        for i, v in pairs(functionTable) do
+            if menu[i] ~= selection[i] then
+                if menu[i] or selection[i] then
+                    handleClick(functionTable[i].edits, i)
+                end
+            end
+        end
+        selection = menu
+    end
+end
+
+home()
+
+while true do
+    if gg.isVisible() then
+        gg.setVisible(false)
+        home()
+    end
+    gg.sleep(100)
+end]==]
+end)
 
 return __bundle_require("Il2CppGG")
