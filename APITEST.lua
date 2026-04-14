@@ -1,4 +1,5 @@
-
+--Module: Il2CppGG v1.0.4
+--Author: LeThi9GG
 local __bundle_require, __bundle_loaded, __bundle_register, __bundle_modules = (function(superRequire)
 	local loadingPlaceholder = {[{}] = true}
 
@@ -42,13 +43,45 @@ local __bundle_require, __bundle_loaded, __bundle_register, __bundle_modules = (
 	return require, loaded, register, modules
 end)(require)
 __bundle_register("Il2CppGG", function(require, _LOADED, __bundle_register, __bundle_modules)
+require("init")
+require("toolbox.main")
+end)
+__bundle_register("init", function(require, _LOADED, __bundle_register, __bundle_modules)
 ---@module Il2Cpp
+--[[
+Il2CppGG/
+├── core/
+│   ├── Il2Cpp.lua (Core module, handles versioning and utilities)
+│   ├── Struct.lua (Defines version-specific Il2Cpp structures)
+│   ├── Version.lua (Version detection and structure selection)
+│   ├── Universalsearcher.lua (Module for locating metadata and key pointers)
+│   └── Meta.lua (Module for Il2Cpp metadata)
+├── api/
+│   ├── Class.lua (Module for Il2Cpp classes)
+│   ├── Field.lua (Module for Il2Cpp fields)
+│   ├── Method.lua (Module for Il2Cpp methods)
+│   ├── Type.lua (Module for Il2Cpp types)
+│   ├── Image.lua (Module for Il2Cpp images/assemblies)
+│   ├── Object.lua (Module for memory object manipulation)
+│   └── Param.lua (Parameter operations module)
+├── utils/
+│   ├── Androidinfo.lua (Helper for Android device information)
+│   ├── Hook.lua (Memory hooking for modification and reverse engineering)
+│   ├── Patch.lua (Memory Patch)
+│   └── Dump.lua (Class dumping to C# format)
+├── build/
+│   └── Il2CppGG.lua (Bundled, production-ready script)
+├── buildLT9.lua (Build script to bundle modules)
+├── init.lua (Entry point for development)
+└── test.lua (Usage examples for hooking and dumping)
+]]
+
 Il2Cpp = function(config)
     local _path, config = package.path, config or {}
     package.path = gg.getFile():match("(.*[/%\\])") .. "?.lua;" .. package.path;
     
     ---Main initialization module for Il2Cpp framework
-    Il2Cpp = require "core.Il2Cpp"()
+    Il2Cpp = setmetatable({}, {__index = require "core.Il2Cpp"(config)})
     
     package.path = _path
     
@@ -73,9 +106,13 @@ Il2Cpp = function(config)
     if not metaStart and not metaEnd then
         metaStart, metaEnd = Il2Cpp.Searcher:FindGlobalMetaData()
     end
-    Il2Cpp.Searcher:Il2CppMetadataRegistration(metaStart)
+    
     Il2Cpp.Meta.metaStart = metaStart
     Il2Cpp.Meta.metaEnd = metaEnd
+    
+    Il2Cpp.Searcher:Il2CppMetadataRegistration(metaStart)
+    
+    
     Il2Cpp.Meta(metaStart, Il2Cpp.Version)
     Il2Cpp.log:info("Metadata Version: " .. Il2Cpp.Meta.Version)
     Il2Cpp.log:info("Metadata Start Address: " .. Il2Cpp.ToHex(metaStart))
@@ -106,8 +143,8 @@ Il2Cpp = function(config)
     
     -- Calculate type size and initialize Type module properties
     --Il2Cpp.typeSize = Il2Cpp.Meta.Header.typeDefinitionsSize / Il2Cpp.typeCount
-    Il2Cpp.Type.typeCount = Il2Cpp.typeCount--Il2Cpp.gV(Il2Cpp.metaReg + ( 6 * Il2Cpp.pointSize), Il2Cpp.pointer)
-    Il2Cpp.Type.type = Il2Cpp.pMetadataRegistration.types--Il2Cpp.gV(Il2Cpp.metaReg + ( 7 * Il2Cpp.pointSize), Il2Cpp.pointer)
+    --Il2Cpp.Type.typeCount = Il2Cpp.typeCount--Il2Cpp.gV(Il2Cpp.metaReg + ( 6 * Il2Cpp.pointSize), Il2Cpp.pointer)
+    --Il2Cpp.Type.type = Il2Cpp.pMetadataRegistration.types--Il2Cpp.gV(Il2Cpp.metaReg + ( 7 * Il2Cpp.pointSize), Il2Cpp.pointer)
     --Il2Cpp.Type.typeSize = Il2Cpp.Type.type + ((Il2Cpp.Type.typeCount - 1) * Il2Cpp.pointSize)
     
     
@@ -145,6 +182,8 @@ local pointSize = x64 and 8 or 4
 local Struct = require "core.Struct"
 local Version = require "core.Version"
 local Config = require "config"
+
+
 
 -- Utility function to simulate Linq.ToDictionary
 function table.toDictionary(array, keySelector)
@@ -354,12 +393,14 @@ function Il2Cpp.classGG(fields, version)
                 includeField = false
             end
             ]]
+            --field.version.min = field.version.min or 0
+            --field.version.max = field.version.max or 99
             local v = field.version
-            if (v and #v == 0) and (version < (v.min or 0) or version > (v.max or 99)) then
+            if (v and #v == 0) and ((v.min and version < v.min) or (v.max and version > v.max)) then
                 includeField = false
             elseif v and #v > 0 then
                 for _, attr in ipairs(v) do
-                    if (version < (attr.min or 0) or version > (attr.max or 99)) then
+                    if ((attr.min and version < attr.min) or (attr.max and version > attr.max)) then
                         includeField = false
                     end
                 end
@@ -374,10 +415,12 @@ function Il2Cpp.classGG(fields, version)
                 field.type = Il2Cpp.classGG(field.type, version)
             end
             local tInfo = Il2Cpp.type[field.type]
-            
+            local o = offset
             offset = Il2Cpp.align(offset, 
                 math.min(tInfo and tInfo.size or field.type.size, Il2Cpp.pointSize)
             )
+            --print(tInfo and tInfo.size or field.type.size, math.min(tInfo and tInfo.size or field.type.size, Il2Cpp.pointSize) )
+            local oo = offset
             if not tInfo then
                 klass[field.name] = field.type
                 field.type.address = offset
@@ -391,12 +434,14 @@ function Il2Cpp.classGG(fields, version)
                 }
                 offset = offset + tInfo.size
             end
+            --print(field.name, o, oo, offset)
         end
     end
     klass.size = offset
     klass.GetSize = function(self)
         return self.size 
     end
+    --print(version, fields.name, offset)
     return setmetatable(klass, {
         __call = function(self, addr, addList, prefix)
             Il2Cpp.log:debug(fields.name .. ":", addr)
@@ -435,7 +480,7 @@ function Il2Cpp.classGG(fields, version)
         end
     })
 end
-
+--print(Il2Cpp.classGG(Struct.Il2CppClass, 24.3).size);os.exit()
 ---@class Il2CppFlags
 ---Il2Cpp flags and attributes for methods and fields
 Il2Cpp.Il2CppFlags = {
@@ -700,36 +745,42 @@ function Il2Cpp:Dumper(config, target, callback)
         target.path = gg.EXT_STORAGE .. "/" .. info.packageName .. "-" .. info.versionCode .. "-" .. (info.x64 and "64" or "32") .. ".cs"
     end
     local config = config or {
-        DumpAttribute = false,
-        DumpField = true,
-        DumpProperty = true,
-        DumpMethod = true,
-        DumpFieldOffset = true,
-        DumpMethodOffset = true,
-        DumpTypeDefIndex = false,
+        Attribute = false,
+        Field = true,
+        Property = true,
+        Method = true,
+        FieldOffset = true,
+        MethodOffset = true,
+        TypeDefIndex = false,
     }
     self.log:info("Path: " .. target.path)
     
+    local Decompiler = not target.runtime and self.Decompiler.new(config)
     local output = io.open(target.path, "w")
     local startTime = os.time();
     -- Dump images
     local imageDefs = target.image or self.Image()
+    local classCount = 0
     for i, imageDef in ipairs(imageDefs) do
+        classCount = classCount + imageDef.typeCount
         output:write(string.format("// Image %d: %s - %d\n", i - 1, imageDef:GetName(), imageDef.typeStart))
     end
-
+    local scale = classCount / (classCount > 100 and 100 or 10)
     -- Dump types
     for _, imageDef in ipairs(imageDefs) do
-        local imageName = imageDef:GetName()
+        local imageName = imageDef:GetName():gsub(".dll", "")
         local typeEnd = imageDef.typeStart + imageDef.typeCount
-        for typeDefIndex = imageDef.typeStart, typeEnd do
+        for typeDefIndex = imageDef.typeStart + 0, typeEnd - 0 do
             if callback and gg.isClickedUiButton() then
-                local message = "[" .. imageName .. "]: " .. typeEnd - typeDefIndex .. "/" .. typeEnd-- .. " -> " .. (typeEnd / typeDefIndex) .. "%"
-                if callback(message) and gg.alert("Dumper Interrupted:\n\n- Done: " .. typeDefIndex .. "/" .. typeEnd .. " Class.\n- Continue?\n", "Ok", "", "Exit") == 3 then
-                    break
+                local index = typeDefIndex - imageDef.typeStart
+                local pct = (index - scale) / scale
+                local message =  " - " .. imageName .."[".. index .. ":" .. classCount .. "]" .. " -> " .. pct .. "%"
+                if callback(message) and gg.alert("Dumper Interrupted:\n\n- Done: " .. typeDefIndex .. "/" .. classCount .. " Class.\n- Continue?\n", "Ok", "", "Exit") == 3 then
+                    return
                 end
             end
-            output:write(self.Class(typeDefIndex):Dump(config) .. "\n")
+            --local klass = Decompiler and Il2Cpp.Meta:GetTypeDefinition(typeDefIndex) or self.Class(typeDefIndex)
+            output:write((Decompiler and Decompiler:typeDefinition(Il2Cpp.Meta:GetTypeDefinition(typeDefIndex), typeDefIndex) or self.Class(typeDefIndex):Dump(config)) .. "\n")
         end
     end
     output:close()
@@ -759,7 +810,7 @@ function Il2Cpp:searchName(searchParams, config)
         results.Fields = results.Fields.address and {results.Fields} or results.Fields
         function results.Fields:AddList(self)
             local result = {}
-            for i, v in ipairs(results.Fields) do               
+            for i, v in ipairs(results.Fields) do
                 local className = "class: " .. v:GetParent():GetName()
                 table.insert(result, {address = v.address, flags = Il2Cpp.MainType, name = className .. "\n" .. v:ToString()})
             end
@@ -817,9 +868,9 @@ return setmetatable(Struct, {
         elseif default == 31 or default == 29.1 then
             default = 29.1
         end
-        Il2Cpp._Version = default
-        Il2Cpp._Il2CppMethodDefinition = self.Il2CppMethodDefinition
-        Il2Cpp._Il2CppGlobalMetadataHeader = self.Il2CppGlobalMetadataHeader
+        --Il2Cpp._Version = default
+        --Il2Cpp._Il2CppMethodDefinition = self.Il2CppMethodDefinition
+        --Il2Cpp._Il2CppGlobalMetadataHeader = self.Il2CppGlobalMetadataHeader
         -- Pass version to structs to filter fields
         for k, v in pairs(self) do
             v.name = k
@@ -829,15 +880,29 @@ return setmetatable(Struct, {
         -- Load all Il2Cpp API modules
         local api = {
             Patch = require "utils.Patch",
+            
             Meta = require "core.Meta",
+            
+            Decompiler = require "core.Decompiler",
+            
             Searcher = require "core.Universalsearcher",
+            
             Class = require "api.Class",
+            
             Field = require "api.Field",
+            
             Method = require "api.Method",
+            
             Param = require "api.Param",
+            
             Object = require "api.Object",
+            
             Image = require "api.Image",
-            Type = require "api.Type"
+           
+            Type = require "api.Type",
+            
+            
+            Struct = self
         }
         
         return setmetatable(api, {
@@ -845,6 +910,7 @@ return setmetatable(Struct, {
         })
     end
 })
+
 
 end)
 __bundle_register("utils.Androidinfo", function(require, _LOADED, __bundle_register, __bundle_modules)
@@ -1052,7 +1118,7 @@ local Structs = {
         { "token", "UInt32", version = { min = 19 } },
         
         IsValueType = function(this) return bit32.band(this.bitfield, 0x1) == 1 end,
-        IsEnum = function(this) return bit32.band(bit32.rshift(this.bitfield, 1), 0x1) == 1 end
+        IsEnum = function(this) return bit32.band(bit32.rshift(this.bitfield, 1), 0x1) == 1 end,
     },
 
     ---@class VirtualInvokeData
@@ -1133,19 +1199,24 @@ Structs.Il2CppClass = {
     { "gc_desc", "Pointer" }, -- GC descriptor pointer
     { "name", "Pointer"}, -- Class name pointer
     { "namespaze", "Pointer" }, -- Class namespace pointer
+    
     { "byval_arg", "Pointer", version = { max = 24.0 } }, -- ByVal argument pointer (≤ v24.0)
     { "byval_arg", Structs.Il2CppType, version = { min = 24.1 } }, -- ByVal argument type (≥ v24.1)
     { "this_arg", "Pointer", version = { max = 24.0 } }, -- This argument pointer (≤ v24.0)
     { "this_arg", Structs.Il2CppType, version = { min = 24.1 } }, -- This argument type (≥ v24.1)
+    
     { "element_class", "Pointer" }, -- Element class pointer
     { "castClass", "Pointer" }, -- Cast class pointer
     { "declaringType", "Pointer" }, -- Declaring type pointer
     { "parent", "Pointer" }, -- Parent class pointer
     { "generic_class", "Pointer" }, -- Generic class pointer
+    
     { "typeDefinition", "Pointer", version = { min = 24.1, max = 24.5 } }, -- Type definition pointer (v24.1-v24.5)
     { "typeMetadataHandle", "Pointer", version = { min = 27 } }, -- Type metadata handle (≥ v27)
+    
     { "interopData", "Pointer" }, -- Interop data pointer
-    { "klass", "Pointer", version = { min = 24.1 } }, -- Class pointer (≥ v24.1)
+    { "klass", "Pointer", version = { min = 24.2 } }, -- Class pointer (≥ v24.1)
+    
     
     { "fields", "Pointer" }, -- Fields pointer
     { "events", "Pointer" }, -- Events pointer
@@ -1165,6 +1236,7 @@ Structs.Il2CppClass = {
     
     { "cctor_started", "UInt32" }, -- Static constructor started flag
     { "cctor_finished", "UInt32" }, -- Static constructor finished flag
+    
     { "cctor_thread", "UInt64", version = { max = 24.1 } }, -- Static constructor thread ID (≤ v24.1)
     { "cctor_thread", "Size_t", version = { min = 24.2 } }, -- Static constructor thread ID (≥ v24.2)
     
@@ -1206,7 +1278,7 @@ Structs.Il2CppClass = {
 ---Method information structure with version-specific fields
 Structs.MethodInfo = {
     { "methodPointer", "Pointer" }, -- Method pointer
-    { "virtualMethodPointer", "Pointer", version = { min = 29 } }, -- Virtual method pointer (≥ v29)
+    { "virtualMethodPointer", "Pointer", version = { min = 29 } }, -- Virtual method pointer (≥ v31)
     { "invoker_method", "Pointer" }, -- Invoker method pointer
     { "name", "Pointer" }, -- Method name pointer
     { "klass", "Pointer", version = { min = 24.1 } }, -- Class pointer (≥ v24.1)
@@ -1235,7 +1307,7 @@ Structs.PropertyInfo = {
     { "token", "UInt32" }
 }
 
-Structs.Il2CppPropertyDefinitionDef = {
+Structs.Il2CppPropertyDefinition = {
     { "nameIndex", "UInt32"},
     { "get", "Int32"},
     { "set", "Int32"},
@@ -1365,8 +1437,106 @@ Structs.Il2CppFieldDefaultValue = {
     
 }
 
+Structs.Il2CppFieldDefinition = {
+    { "nameIndex", "UInt32" },
+    { "typeIndex", "Int32"},
+    { "customAttributeIndex", "Int32", version = {max = 24}},
+    { "token", "UInt32", version = {min = 19}}
+}
+
+
+
+
+for key, value in pairs(require("api.Definition")) do
+    if Structs[key] then
+        for name, func in pairs(value) do
+            Structs[key][name] = func
+        end
+    end
+end
+
+
 
 return Structs
+end)
+__bundle_register("api.Definition", function(require, _LOADED, __bundle_register, __bundle_modules)
+local MetaDefInfo = {}
+
+local function GetName(def, index)
+    return Il2Cpp.Meta:GetStringFromIndex(index or def.nameIndex)
+end
+
+MetaDefInfo.Il2CppFieldDefinition = {
+    GetName = GetName,
+    
+    GetType = function(fieldDef)
+        return Il2Cpp.Type(fieldDef.typeIndex)
+    end
+}
+
+MetaDefInfo.Il2CppMethodDefinition = {
+    GetName = GetName,
+    
+    GetReturnType = function(methodDef)
+        return Il2Cpp.Type(methodDef.returnType)
+    end,
+    
+    GetParam  = function(methodDef)
+        if not methodDef.parameters then
+            methodDef.parameters = {}
+            for index = 0, methodDef.parameterCount - 1 do
+                local paramDef = Il2Cpp.Param(methodDef.parameterStart + index)
+                methodDef.parameters[index + 1] = paramDef
+            end
+        end
+        return methodDef.parameters
+    end
+}
+
+
+MetaDefInfo.Il2CppTypeDefinition = {
+    
+    GetName = function(typeDef, ...)
+        return Il2Cpp.Type:GetTypeDefName(typeDef, ...)
+    end,
+    
+    Dump = function(typeDef, config)
+        local Decompiler = Il2Cpp.Decompiler.new(config)
+        return Decompiler:typeDefinition(typeDef)
+    end,
+    
+    GetInfo = function(typeDef, obj)
+        local obj = obj or {
+            field = Il2Cpp.Meta.GetFieldDefinition,
+            method = Il2Cpp.Meta.GetMethodDefinition
+        }
+        for name, func in pairs(obj) do
+            local count = typeDef[name .. "_count"]
+            local start = typeDef[name .. "Start"]
+            if count > 0 then
+                local defs = {}
+                for idx = 0, count - 1 do
+                    local f = func(Il2Cpp.Meta, start + idx)
+                    f.name = f:GetName()
+                    if f.returnType then 
+                        f.returnType = f:GetReturnType()
+                    else
+                        f.type = f:GetType()
+                    end
+                    defs[idx + 1] = f
+                end
+                typeDef[name .. "s"] = defs
+            end
+        end
+        return typeDef 
+    end
+    
+}
+
+    
+
+
+return MetaDefInfo
 end)
 __bundle_register("core.Version", function(require, _LOADED, __bundle_register, __bundle_modules)
 ---@class VersionEngine
@@ -1481,7 +1651,7 @@ local VersionEngine = {
     -- Attempts to detect the Unity version using multiple methods
     -- @return table|nil Table with major, minor, patch version numbers or nil if not found
     ReadUnityVersion = function()
-        local version = {2018, 2019, 2020, 2021, 2022, 2023, 2024}
+        local version = {2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024}
         local lm = gg.getRangesList('libmain.so')
         if #lm > 0 then
             local libMain = io.open(lm[1].name, "rb"):read("*a")
@@ -1556,8 +1726,8 @@ return {
    author = "LeThi9GG",
    
    build = {
-      input = "init",
-      output = "build/Il2CppGG.lua", -- nil then output = Name + build.lua
+      input = "Toolbox",
+      output = "build/Il2CppGG-Tool.lua", -- nil then output = Name + build.lua
    }
 }
 end)
@@ -1730,62 +1900,167 @@ function Meta:init(globalMetadataHeader, Version)
     -- Validate metadata file
     local sanity = Il2Cpp.gV(globalMetadataHeader, 4)
     if sanity ~= -89056337 then
-        Il2Cpp.log:warn("Metadata file supplied is not valid metadata file.")
+        Il2Cpp.log:warn("Metadata supplied is not valid metadata sanity: " .. sanity)
     end
 
     local version = Il2Cpp.gV(globalMetadataHeader + 4, 4)
-    if version < 0 or version > 1000 then
-        Il2Cpp.log:warn("Metadata file supplied is not valid metadata file.")
-    end
-    if version < 16 or version > 31 then
-        Il2Cpp.log:warn("Metadata file supplied is not a supported version[" .. version .. "].")
-    end
     self.Version = version
     
-    -- Obfuscator
-    if sanity ~= -89056337 and (version < 0 or version > 1000) then
-        self.Obf = true
-        self.Version = Version
-        Il2Cpp.log:warn("Metadata Obfuscator.")
-        Il2Cpp.log:warn("Metadata version[" .. Version .. "].")
+    if version < 16 or version > 31 then
+        Il2Cpp.log:warn("Metadata supplied is not a supported version: " .. version)
+        self.Version = Il2Cpp.Version
+        Il2Cpp.log:warn("The Metadata version is set according to the Il2Cpp version.: " .. Il2Cpp.Version)
     end
     
-    
     if os.rename(self.dataPath, self.dataPath) then
+        Il2Cpp.log:debug("Load data Metadata in path: " .. self.dataPath)
         local data = loadfile(self.dataPath)()
         for k, v in pairs(data) do
             self[k] = v
+            Il2Cpp.log:debug("Load Meta." .. k)
         end 
     end
     
-
+    
     -- Read header
-    self.Header = Il2Cpp.Il2CppGlobalMetadataHeader(globalMetadataHeader)
+    self.Header = self.Header or Il2Cpp.Il2CppGlobalMetadataHeader(globalMetadataHeader)
+    
+    -- Obfuscator
+    if not Il2Cpp.Utf8ToString(globalMetadataHeader + self.Header.stringOffset, 100):find(".dll") --[[and (version < 0 or version > 1000)]] then
+        self.Obf = true
+        Il2Cpp.log:warn("Metadata Obfuscator.")
+        --Il2Cpp.log:warn("Metadata version: " .. Version)
+    end
     
     -- Adjust metadata header offsets by adding the globalMetadataHeader address
     if not self.Obf then
+        Il2Cpp.log:debug("Meta.Header Load")
         for k, v in pairs(self.Header) do
             local _, __ = k:find("Offset")
             if __ == #k then
-                self.Header[k] = globalMetadataHeader + v
+                local name = k:sub(1, _ - 1)
+                local address = globalMetadataHeader + v
+                self.Header[name] = address
+                self.Header[k] = nil
+                Il2Cpp.log:debug("Header." .. name .. ": " .. Il2Cpp.ToHex(address))
             end
         end
     end
     
-    Il2Cpp.typeCount = Il2Cpp.pMetadataRegistration.typesCount
-    Il2Cpp.typeSize = Il2Cpp.Il2CppTypeDefinition:GetSize()
-    Il2Cpp.stringDef = self.Header.stringOffset
+    if Il2Cpp.gV(Il2Cpp.pMetadataRegistration.types) == 0 then
+        Il2Cpp.pMetadataRegistration.typesCount = Il2Cpp.gV(Il2Cpp.metaReg + ( 8 * Il2Cpp.pointSize), Il2Cpp.pointer)
+        Il2Cpp.pMetadataRegistration.types = Il2Cpp.gV(Il2Cpp.metaReg + ( 9 * Il2Cpp.pointSize), Il2Cpp.pointer)
+        Il2Cpp.log:warn("Il2Cpp.pMetadataRegistration.types Invalid has been auto changed to: 0x" .. Il2Cpp.ToHex(Il2Cpp.pMetadataRegistration.types))
+        Il2Cpp.log:warn("Il2Cpp.pMetadataRegistration.typesCount: " .. Il2Cpp.pMetadataRegistration.typesCount)
+    end
+    
+    --os.exit()
+    Il2Cpp.typesCount = Il2Cpp.pMetadataRegistration.typesCount
+    Il2Cpp.typeDefSize = Il2Cpp.Il2CppTypeDefinition:GetSize()
+    
+    Il2Cpp.typeDefCount = self.Header.typeDefinitionsSize / Il2Cpp.typeDefSize
+    
+    Il2Cpp.stringDef = self.Header.string
+    
+    Il2Cpp.log:debug("typeDefinitionsCount: " .. Il2Cpp.typeDefCount)
+    Il2Cpp.log:debug("typeDefinitionsSize: " .. Il2Cpp.typeDefSize)
+    Il2Cpp.log:debug("stringDef: " .. Il2Cpp.ToHex(Il2Cpp.stringDef))
+    
+    
+    
+    local i = 1
+    while true do 
+        local addrs = Il2Cpp.GetPtr(Il2Cpp.metaPtr + (i * Il2Cpp.pointSize))
+        if not Il2Cpp.imageCount and addrs < 1000 then 
+            Il2Cpp.imageCount = addrs 
+        end
+        
+        if not Il2Cpp.classPointer then 
+            local klass = Il2Cpp.GetPtr(addrs)
+            if isImage(Il2Cpp.GetPtr(klass)) then
+                Il2Cpp.classPointer = addrs
+                Il2Cpp.log:debug("Il2Cpp.classPointer: " .. Il2Cpp.ToHex(Il2Cpp.classPointer))
+            else
+                local kls = {}
+                for key = 0, 10 do
+                   local klass = Il2Cpp.GetPtr(addrs + (key * Il2Cpp.pointSize))
+                   if isImage(Il2Cpp.GetPtr(klass)) then
+                       kls[#kls+1] = {address = klass, flags = Il2Cpp.MainType}
+                   end
+                end
+                if #kls >= 5 then
+                    Il2Cpp.classPointer = addrs
+                    Il2Cpp.log:debug("Il2Cpp.classPointer: " .. Il2Cpp.ToHex(Il2Cpp.classPointer))
+                    local imageAddrs = Il2Cpp.GetPtr(kls[1].address)
+                    if isImage(imageAddrs) then
+                        Il2Cpp.imageDef = imageAddrs
+                        Il2Cpp.log:debug("Il2Cpp.imageDef: " .. Il2Cpp.ToHex(Il2Cpp.imageDef))
+                    end
+                end
+            end
+        end 
+        if Il2Cpp.classPointer then
+            local klass = Il2Cpp.GetPtr(Il2Cpp.classPointer)
+            if self.Obf then
+                local klass1 = Il2Cpp.Class(klass)
+                local klass2 = Il2Cpp.Class(Il2Cpp.GetPtr(Il2Cpp.classPointer + Il2Cpp.pointSize))
+                local klassEnd = Il2Cpp.Class(Il2Cpp.GetPtr(Il2Cpp.classPointer + ((Il2Cpp.pMetadataRegistration.fieldOffsetsCount - 1) * Il2Cpp.pointSize)))
+                
+                --Il2Cpp.typeSize = klass2:GetTypeDef() - klass1:GetTypeDef()
+                self.Header.typeDefinitions = klass1:GetTypeDefinition()
+                self.Header.typeDefinitionsSize = (klassEnd:GetTypeDefinition() + Il2Cpp.typeSize) - self.Header.typeDefinitions
+				Il2Cpp.log:warn("typeDefinitions: " .. Il2Cpp.ToHex(self.Header.typeDefinitions))
+				Il2Cpp.log:warn("typeDefinitionsSize: " .. self.Header.typeDefinitionsSize)
+             end
+            if not Il2Cpp.imageDef then
+                local imageAddrs = Il2Cpp.GetPtr(Il2Cpp.GetPtr(Il2Cpp.classPointer))
+                if isImage(imageAddrs) then
+                    Il2Cpp.imageDef = imageAddrs
+                    Il2Cpp.log:debug("Il2Cpp.imageDef: " .. Il2Cpp.ToHex(Il2Cpp.imageDef))
+                end
+            end
+            self.regionClass = self.ranges[gg.getValuesRange({{address = klass}})[1]]
+        end 
+        if Il2Cpp.imageDef and not Il2Cpp.imageSize then
+            local addr = Il2Cpp.imageDef + (i * Il2Cpp.pointSize)
+            if isImage(addr) then
+                Il2Cpp.imageSize = addr - Il2Cpp.imageDef
+                Il2Cpp.log:debug("Il2Cpp.imageSize: " .. Il2Cpp.imageSize)
+            end
+        end
+        if Il2Cpp.imageDef and Il2Cpp.imageCount and Il2Cpp.imageSize and Il2Cpp.classPointer then
+            if not Il2Cpp.Utf8ToString(Il2Cpp.stringDef, 100):find(".dll") then
+                local stringDef = Il2Cpp.GetPtr(Il2Cpp.imageDef)
+                if Il2Cpp.Utf8ToString(stringDef, 100):find(".dll") then
+                    local stringDef = Il2Cpp.GetPtr(Il2Cpp.GetPtr(Il2Cpp.imageDef + (Il2Cpp.Info.platform and 0x10 or 0x8)) + (Il2Cpp.Info.platform and 0x18 or 0x10))
+                    Il2Cpp.stringDef = stringDef
+                    Il2Cpp.log:warn("Il2Cpp.stringDef changed: " .. Il2Cpp.ToHex(Il2Cpp.stringDef))
+                else 
+                    Il2Cpp.log:error("stringDef not found: ", stringDef, self.Header)
+                end
+            end
+            break
+        elseif i > 100 then 
+            Il2Cpp.log:error(tostring{
+                imageDef = Il2Cpp.imageDef,
+                imageCount = Il2Cpp.imageCount,
+                imageSize = Il2Cpp.imageSize,
+                classPointer = Il2Cpp.classPointer
+            })
+        end
+        i = i + 1
+    end
     
     if self.Obf then
-        local param = Il2Cpp.Il2CppParameterDefinition(self.Header.parametersOffset)
+        local param = Il2Cpp.Il2CppParameterDefinition(self.Header.parameters)
         if param.token ~= 134217729 then
             gg.clearResults();
 	        gg.setRanges(-1);
 	        gg.searchNumber(134217729, 4, nil, nil, globalMetadataHeader, -1, 1);
 	        local r = gg.getResults(1)
 	        gg.clearResults();
-	        self.Header.parametersOffset = r[1].address - 4 
-			Il2Cpp.log:warn("Il2Cpp.Meta.Header.parametersOffset: " .. Il2Cpp.ToHex(self.Header.parametersOffset))
+	        self.Header.parameters = r[1].address - 4 
+			Il2Cpp.log:warn("parameters: " .. Il2Cpp.ToHex(self.Header.parameters))
 	    end
 	    for i = 0, Il2Cpp.pMetadataRegistration.typeDefinitionsSizesCount - 1 do 
             local klass = Il2Cpp.Class(i)
@@ -1796,88 +2071,18 @@ function Meta:init(globalMetadataHeader, Version)
                 break
             end
         end
-        self.Header.genericContainersOffset = self.Header.genericContainers or self.Header.genericContainersOffset
-        self.Header.genericParametersOffset = self.Header.genericParameters or self.Header.genericParametersOffset
-        Il2Cpp.log:warn("Il2Cpp.Meta.Header.genericContainersOffset: " .. Il2Cpp.ToHex(self.Header.genericContainersOffset))
-        Il2Cpp.log:warn("Il2Cpp.Meta.Header.genericParametersOffset: " .. Il2Cpp.ToHex(self.Header.genericParametersOffset))
-    end
-    
-    local i = 1
-    while true do 
-        local addrs = Il2Cpp.GetPtr(Il2Cpp.metaPtr + (i * Il2Cpp.pointSize))
-        if not Il2Cpp.imageCount and addrs < 1000 then 
-            Il2Cpp.imageCount = addrs 
-        end
         
-        if not Il2Cpp.typeDef then 
-            local klass = Il2Cpp.GetPtr(addrs)
-            if isImage(Il2Cpp.GetPtr(klass)) then
-                Il2Cpp.typeDef = addrs
-            else
-                local kls = {}
-                for key = 0, 10 do
-                   local klass = Il2Cpp.GetPtr(addrs + (key * Il2Cpp.pointSize))
-                   if isImage(Il2Cpp.GetPtr(klass)) then
-                       kls[#kls+1] = {address = klass, flags = Il2Cpp.MainType}
-                   end
-                end
-                if #kls >= 5 then
-                    Il2Cpp.typeDef = addrs
-                    local imageAddrs = Il2Cpp.GetPtr(kls[1].address)
-                    if isImage(imageAddrs) then
-                        Il2Cpp.imageDef = imageAddrs
-                    end
-                end
-            end
-        end 
-        if Il2Cpp.typeDef then
-            local klass = Il2Cpp.GetPtr(Il2Cpp.typeDef)
-            if self.Obf then
-                local klass1 = Il2Cpp.Class(klass)
-                local klass2 = Il2Cpp.Class(Il2Cpp.GetPtr(Il2Cpp.typeDef + Il2Cpp.pointSize))
-                local klassEnd = Il2Cpp.Class(Il2Cpp.GetPtr(Il2Cpp.typeDef + ((Il2Cpp.pMetadataRegistration.fieldOffsetsCount - 1) * Il2Cpp.pointSize)))
-                
-                --Il2Cpp.typeSize = klass2:GetTypeDef() - klass1:GetTypeDef()
-                self.Header.typeDefinitionsOffset = klass1:GetTypeDef()
-                self.Header.typeDefinitionsSize = (klassEnd:GetTypeDef() + Il2Cpp.typeSize) - self.Header.typeDefinitionsOffset
-				Il2Cpp.log:warn("Il2Cpp.Meta.Header.typeDefinitionsOffset: " .. Il2Cpp.ToHex(self.Header.typeDefinitionsOffset))
-				Il2Cpp.log:warn("Il2Cpp.Meta.Header.typeDefinitionsSize: " .. self.Header.typeDefinitionsSize)
-             end
-            if not Il2Cpp.imageDef then
-                local imageAddrs = Il2Cpp.GetPtr(Il2Cpp.GetPtr(Il2Cpp.typeDef))
-                if isImage(imageAddrs) then
-                    Il2Cpp.imageDef = imageAddrs
-                end
-            end
-            self.regionClass = self.ranges[gg.getValuesRange({{address = klass}})[1]]
-        end 
-        if Il2Cpp.imageDef and not Il2Cpp.imageSize then
-            local addr = Il2Cpp.imageDef + (i * Il2Cpp.pointSize)
-            if isImage(addr) then
-                Il2Cpp.imageSize = addr - Il2Cpp.imageDef
-            end
-        end
-        if Il2Cpp.imageDef and Il2Cpp.imageCount and Il2Cpp.imageSize and Il2Cpp.typeDef then
-            if not Il2Cpp.Utf8ToString(Il2Cpp.stringDef, 100):find(".dll") then
-                local stringDef = Il2Cpp.GetPtr(Il2Cpp.imageDef)
-                if Il2Cpp.Utf8ToString(stringDef, 100):find(".dll") then
-                    local stringDef = Il2Cpp.GetPtr(Il2Cpp.GetPtr(Il2Cpp.imageDef + (Il2Cpp.Info.platform and 0x10 or 0x8)) + (Il2Cpp.Info.platform and 0x18 or 0x10))
-                    Il2Cpp.stringDef = stringDef
-                else 
-                    Il2Cpp.log:error("stringDef not found: ", stringDef, self.Header)
-                end
-            end
-            break
-        end
-        i = i + 1
+        Il2Cpp.log:warn("genericContainers: " .. Il2Cpp.ToHex(self.Header.genericContainers))
+        Il2Cpp.log:warn("genericParameters: " .. Il2Cpp.ToHex(self.Header.genericParameters))
     end
-    Il2Cpp.log:info("Il2Cpp.stringDef: " .. Il2Cpp.ToHex(Il2Cpp.stringDef))
-	Il2Cpp.log:info("Il2Cpp.typeDef: " .. Il2Cpp.ToHex(Il2Cpp.typeDef))
-	Il2Cpp.log:info("Il2Cpp.imageDef: " .. Il2Cpp.ToHex(Il2Cpp.imageDef))
+    
+    
+	
+	
 	
 	
     
-    -- Version-specific logic
+    --[[ Version-specific logic
     self.imageDefs = Il2Cpp.Image()--Il2Cpp.classArray(globalMetadataHeader + self.Header.imagesOffset, self.Header.imagesSize / Il2Cpp.Il2CppImageDefinition.size, Il2Cpp.Il2CppImageDefinition)
     if version == 24 then
         if self.Header.stringLiteralOffset == 264 then
@@ -1905,9 +2110,9 @@ function Meta:init(globalMetadataHeader, Version)
     if v241Plus then
         self.Version = 24.1
     end
-    
+    ]]
     if self.Version == 31 then
-        Il2Cpp.Il2CppMethodDefinition = Il2Cpp.classGG(Il2Cpp._Il2CppMethodDefinition, self.Version)
+        Il2Cpp.Il2CppMethodDefinition = Il2Cpp.classGG(Il2Cpp.Struct.Il2CppMethodDefinition, self.Version)
     end
     
     return self
@@ -2058,6 +2263,8 @@ function Meta:FindStringApi(Name)
 		local t = gg.getResults(gg.getResultsCount());
 		gg.clearResults();
 		for k, v in pairs(t) do
+		    chars[#chars + 1] = name;
+			result[#result + 1] = {address=v.address,flags=1,name=name};
     		local char = {address=(v.address + 1),flags=1};
 			while true do
 			    _value = gg.getValues({char})[1].value;
@@ -2071,19 +2278,20 @@ function Meta:FindStringApi(Name)
 			result[#result + 1] = {address=address,flags=1,name=name};
 		end
 	end
-	self.StringCacheApi[Name] = {chars,result};
-	return {
+	local val = {
 	    chars = chars,
 	    results = result
 	}
+	self.StringCacheApi[Name] = val
+	return val
 end
 
 Meta.PointerStringApiCache = {}
 function Meta:GetPointersToStringApi(name)
     local Result = self:FindStringApi(name)
     local Results = Result.results
-    if self.PointerStringApiCache[tostring(Results)] then
-	    return self.PointerStringApiCache[tostring(Results)]
+    if self.PointerStringApiCache[name] then
+	    return self.PointerStringApiCache[name]
 	end
 	local pointerString = pointerString or {}
 	local ResultsPointer = {}
@@ -2121,7 +2329,7 @@ function Meta:GetPointersToStringApi(name)
     gg.loadResults(ResultsPointer)
     local ResultsPointer = gg.getResults(gg.getResultsCount())
     gg.clearResults()
-    self.PointerStringApiCache[tostring(Results)] = ResultsPointer
+    self.PointerStringApiCache[name] = ResultsPointer
     return ResultsPointer, Result
 end
 
@@ -2137,10 +2345,6 @@ function Meta.GetPointersToString(name, ranges)
     gg.setRanges(-1)
     gg.searchNumber(string.format("Q 00 '%s' 00", name), gg.TYPE_BYTE, false, gg.SIGN_EQUAL,
         ranges.metaStart, ranges.metaEnd)
-    if gg.getResultsCount() == 0 then
-        gg.searchNumber(string.format("Q 00 '%s' ", name), gg.TYPE_BYTE, false, gg.SIGN_EQUAL,
-        ranges.metaStart, ranges.metaEnd)
-    end
     local results = gg.getResults(1, 1)
     if #results == 0 then
         error(string.format("Không tìm thấy lớp %s trong global-metadata", name))
@@ -2158,7 +2362,7 @@ end
 -- @param index number String index in metadata
 -- @return string Decoded UTF-8 string from metadata
 function Meta:GetStringFromIndex(index)
-    local stringDefinitions = Il2Cpp.stringDef --Meta.Header.stringOffset
+    local stringDefinitions = Il2Cpp.stringDef --Meta.Header.strings
     return Il2Cpp.Utf8ToString(stringDefinitions + index)
 end
 
@@ -2167,8 +2371,8 @@ end
 -- @return table Il2CppGenericContainer object
 function Meta:GetGenericContainer(index)
     local index = index
-    if self.Header.genericContainersOffset > index then
-        index = self.Header.genericContainersOffset + (index * Il2Cpp.Il2CppGenericContainer.size)
+    if self.Header.genericContainers > index then
+        index = self.Header.genericContainers + (index * Il2Cpp.Il2CppGenericContainer.size)
     end
     return Il2Cpp.Il2CppGenericContainer(index)
 end
@@ -2178,8 +2382,8 @@ end
 -- @return table Il2CppGenericParameter object
 function Meta:GetGenericParameter(index)
     local index = index
-    if self.Header.genericParametersOffset > index then
-        index = self.Header.genericParametersOffset + (index * Il2Cpp.Il2CppGenericParameter.size)
+    if self.Header.genericParameters > index then
+        index = self.Header.genericParameters + (index * Il2Cpp.Il2CppGenericParameter.size)
     end
     local genericParameter = Il2Cpp.Il2CppGenericParameter(index)
     return genericParameter
@@ -2201,24 +2405,41 @@ function Meta:GetGenericInsts(index)
     return Il2Cpp.Il2CppGenericInst(index)
 end
 
-function Meta:GetTypeDefinition(typeDef)
-    return Il2Cpp.Il2CppTypeDefinition(typeDef.typeDefinition or typeDef.typeMetadataHandle)
+function Meta:GetTypeDefinition(index)
+    local typeDefinition = self.Header.typeDefinitions + (index * Il2Cpp.Il2CppTypeDefinition.size)
+    return Il2Cpp.Il2CppTypeDefinition(typeDefinition)
 end
+
+function Meta:GetPropertyDefinition(index)
+    local addr = self.Header.properties + (index * Il2Cpp.Il2CppPropertyDefinition.size)
+    return Il2Cpp.Il2CppPropertyDefinition(addr)
+end
+
+function Meta:GetInterfaces(index)
+    local index = self.Header.interfaces + (index * 4)
+    return Il2Cpp.gV(index, 4)
+end
+
 
 ---Get method definition from metadata by index
 -- @param index number Method definition index
 -- @return table Il2CppMethodDefinition object
 function Meta:GetMethodDefinition(index)
-    local index = self.Header.methodsOffset + (index * Il2Cpp.Il2CppMethodDefinition.size)
+    local index = self.Header.methods + (index * Il2Cpp.Il2CppMethodDefinition.size)
     return Il2Cpp.Il2CppMethodDefinition(index)
+end
+
+function Meta:GetFieldDefinition(index)
+    local index = self.Header.fields + (index * Il2Cpp.Il2CppFieldDefinition.size)
+    return Il2Cpp.Il2CppFieldDefinition(index)
 end
 
 ---Get parameter definition from metadata by index
 -- @param index number Parameter definition index
 -- @return table Il2CppParameterDefinition object
-function Meta:GetParameterDefinition(index)
-    local index = self.Header.parametersOffset + (index * Il2Cpp.Il2CppParameterDefinition.size)
-    return Il2Cpp.Il2CppParameterDefinition(index)
+function Meta:GetParameterDefinition(index, addList)
+    local index = self.Header.parameters + (index * Il2Cpp.Il2CppParameterDefinition.size)
+    return Il2Cpp.Il2CppParameterDefinition(index, addList)
 end
 
 
@@ -2240,8 +2461,11 @@ end
 
 function Meta:GetFieldDefaultValueFromIndex(index)
     if not self.fieldDefaultValues then
+        local address = Il2Cpp.Meta.Header.fieldDefaultValues
+        local count = Il2Cpp.Meta.Header.fieldDefaultValuesSize / Il2Cpp.Il2CppFieldDefaultValue.size
+        Il2Cpp.log:info("Il2CppFieldDefaultValue[" .. count .. "] load from address: " .. Il2Cpp.ToHex(address))
         self.fieldDefaultValues = {}
-        for i, v in ipairs(Il2Cpp.classArray(Il2Cpp.Meta.Header.fieldDefaultValuesOffset, Il2Cpp.Meta.Header.fieldDefaultValuesSize / Il2Cpp.Il2CppFieldDefaultValue.size, Il2Cpp.Il2CppFieldDefaultValue)) do
+        for i, v in ipairs(Il2Cpp.classArray(address, count, Il2Cpp.Il2CppFieldDefaultValue)) do
             self.fieldDefaultValues[v.fieldIndex] = v
         end
         gg.saveVariable({parameterDefaultValues = self.parameterDefaultValues, fieldDefaultValues = self.fieldDefaultValues}, self.dataPath)
@@ -2251,8 +2475,11 @@ end
 
 function Meta:GetParameterDefaultValueFromIndex(index)
     if not self.parameterDefaultValues then
+        local address = Il2Cpp.Meta.Header.parameterDefaultValues
+        local count = Il2Cpp.Meta.Header.parameterDefaultValuesSize / Il2Cpp.Il2CppParameterDefaultValue.size
+        Il2Cpp.log:info("Il2CppParameterDefaultValue[" .. count .. "] load from address: " .. Il2Cpp.ToHex(address))
         self.parameterDefaultValues = {}
-        for i, v in ipairs(Il2Cpp.classArray(Il2Cpp.Meta.Header.parameterDefaultValuesOffset, Il2Cpp.Meta.Header.parameterDefaultValuesSize / Il2Cpp.Il2CppParameterDefaultValue.size, Il2Cpp.Il2CppParameterDefaultValue)) do
+        for i, v in ipairs(Il2Cpp.classArray(address, count, Il2Cpp.Il2CppParameterDefaultValue)) do
             self.parameterDefaultValues[v.parameterIndex] = v
         end
         gg.saveVariable({parameterDefaultValues = self.parameterDefaultValues, fieldDefaultValues = self.fieldDefaultValues}, self.dataPath)
@@ -2261,14 +2488,13 @@ function Meta:GetParameterDefaultValueFromIndex(index)
 end
 
 function Meta:GetDefaultValueFromIndex(index)
-    return self.Header.fieldAndParameterDefaultValueDataOffset + index
+    return self.Header.fieldAndParameterDefaultValueData + index
 end
 
-
+local DefaultValue = {}
 function Meta:TryGetDefaultValue(typeIndex, dataIndex)
     local pointer = self:GetDefaultValueFromIndex(dataIndex)
     local defaultValueType = Il2Cpp.Type(typeIndex)
-    
     local behavior = self.behaviorForTypes[defaultValueType.type] or "Not support type"
     if type(behavior) == "function" then
         local ok, res = pcall(behavior, pointer)
@@ -2285,10 +2511,428 @@ end
 
 
 
+
+
+
 return setmetatable({}, {
     __index = Meta,
     __call = Meta.init 
 })
+
+
+
+end)
+__bundle_register("core.Decompiler", function(require, _LOADED, __bundle_register, __bundle_modules)
+-- Decompiler.lua
+local Constants = Il2Cpp.Il2CppConstants
+local info = gg.getTargetInfo()
+
+local Decompiler = {}
+Decompiler.__index = Decompiler
+
+function Decompiler.new(config)
+    local config = config or {
+        Attribute = false,
+        Field = true,
+        Property = true,
+        Method = true,
+        FieldOffset = false,
+        MethodOffset = false,
+        TypeDefIndex = true
+    }
+    config.Path = config.Path or gg.EXT_STORAGE .. "/" .. info.packageName .. "-" .. info.versionCode .. "-" .. (info.x64 and "64" or "32") .. ".cs"
+    local self = setmetatable({}, Decompiler)
+    config.FieldOffset = false
+    config.MethodOffset = false
+    self.config = config
+    self.methodModifiers = {}
+    return self
+end
+
+function Decompiler:decompile()
+    local startTime = os.time();
+    Il2Cpp.log:info("Path: " .. self.config.Path)
+    local dump = io.open(self.config.path, "w")
+    local imageDefs = self.config.Image or Il2Cpp.Image()
+    
+    -- Dump images
+    for i, imageDef in ipairs(imageDefs) do
+        dump:write(string.format("// Image %d: %s - %d\n", i - 1, imageDef:GetName(), imageDef.typeStart))
+    end
+
+    -- Dump types
+    for _, imageDef in ipairs(imageDefs) do
+    
+        local imageName = imageDef:GetName()
+        local typeEnd = imageDef.typeStart + imageDef.typeCount
+        
+        for typeDefIndex = imageDef.typeStart + 1, typeEnd - 1 do
+            local typeDef = Il2Cpp.Meta:GetTypeDefinition(typeDefIndex)
+            dump:write(self:typeDefinition(typeDef, typeDefIndex))
+        end
+    end
+    dump:close()
+    gg.alert(string.format("Dumper Done in %.2f seconds", os.time() - startTime));
+    return true
+end
+
+function Decompiler:getCustomAttribute(imageDef, customAttributeIndex, token, padding)
+    padding = padding or ""
+    if self.il2Cpp.stream.version < 21 then
+        return ""
+    end
+    local attributeIndex = self.metadata:getCustomAttributeIndex(imageDef, customAttributeIndex, token)
+    if attributeIndex >= 0 then
+        if self.il2Cpp.stream.version < 29 then
+            local methodPointer = self.executor.customAttributeGenerators[attributeIndex + 1]
+            local fixedMethodPointer = self.il2Cpp:getRVA(methodPointer)
+            local attributeTypeRange = self.metadata.attributeTypeRanges[attributeIndex + 1]
+            local lines = {}
+            for i = 1, attributeTypeRange.count do
+                local typeIndex = self.metadata.attributeTypes[attributeTypeRange.start + i]
+                table.insert(lines, string.format("%s[%s] // RVA: 0x%x Offset: 0x%x VA: 0x%x",
+                    padding,
+                    self.executor:getTypeName(self.il2Cpp:GetIl2CppType(typeIndex + 1), false, false),
+                    fixedMethodPointer,
+                    fixedMethodPointer,
+                    methodPointer))
+            end
+            return table.concat(lines, "\n")
+        else
+            -- Placeholder for version >= 29 (CustomAttributeDataReader not provided)
+            return string.format("%s// Custom attributes for version >= 29 not supported", padding)
+        end
+    end
+    return ""
+end
+
+function Decompiler:typeDefinition(typeDef, typeDefIndex)
+    --local typeDef = Il2Cpp.Meta:GetTypeDefinition(typeDefIndex)
+    local typeDefIndex = typeDefIndex and typeDefIndex or (typeDef.address - Il2Cpp.Meta.Header.typeDefinitions) / Il2Cpp.Il2CppTypeDefinition.size
+    local extends = {}
+    local output = {}
+    
+    if typeDef.parentIndex >= 0 then
+        local parent = Il2Cpp.Type(typeDef.parentIndex + 0)
+        local parentName = parent:GetName(false)
+        if not typeDef:IsValueType() and not typeDef:IsEnum() and parentName ~= "object" then
+            table.insert(extends, parentName)
+        end
+    end
+    
+    if typeDef.interfaces_count > 0 then
+        for i = 0, typeDef.interfaces_count - 1 do
+            local interface = Il2Cpp.Type(Il2Cpp.Meta:GetInterfaces(typeDef.interfacesStart + i) + 0)
+            table.insert(extends, interface:GetName(false, false))
+        end
+    end
+    
+    table.insert(output, string.format("\n// Namespace: %s", Il2Cpp.Meta:GetStringFromIndex(typeDef.namespaceIndex)))
+    
+    if self.config.Attribute then
+        table.insert(output, self:getCustomAttribute(imageDef, typeDef.customAttributeIndex, typeDef.token))
+    end
+    if self.config.Attribute and bit32.band(typeDef.flags, Constants.TYPE_ATTRIBUTE_SERIALIZABLE) ~= 0 then
+        table.insert(output, "[Serializable]")
+    end
+    
+    local visibility = bit32.band(typeDef.flags, Constants.TYPE_ATTRIBUTE_VISIBILITY_MASK)
+    local visibilityStr = ""
+    if visibility == Constants.TYPE_ATTRIBUTE_PUBLIC or visibility == Constants.TYPE_ATTRIBUTE_NESTED_PUBLIC then
+        visibilityStr = "public "
+    elseif visibility == Constants.TYPE_ATTRIBUTE_NOT_PUBLIC or visibility == Constants.TYPE_ATTRIBUTE_NESTED_FAM_AND_ASSEM or visibility == Constants.TYPE_ATTRIBUTE_NESTED_ASSEMBLY then
+        visibilityStr = "internal "
+    elseif visibility == Constants.TYPE_ATTRIBUTE_NESTED_PRIVATE then
+        visibilityStr = "private "
+    elseif visibility == Constants.TYPE_ATTRIBUTE_NESTED_FAMILY then
+        visibilityStr = "protected "
+    elseif visibility == Constants.TYPE_ATTRIBUTE_NESTED_FAM_OR_ASSEM then
+        visibilityStr = "protected internal "
+    end
+    
+    if bit32.band(typeDef.flags, Constants.TYPE_ATTRIBUTE_ABSTRACT) ~= 0 and bit32.band(typeDef.flags, Constants.TYPE_ATTRIBUTE_SEALED) ~= 0 then
+        visibilityStr = visibilityStr .. "static "
+    elseif bit32.band(typeDef.flags, Constants.TYPE_ATTRIBUTE_INTERFACE) == 0 and bit32.band(typeDef.flags, Constants.TYPE_ATTRIBUTE_ABSTRACT) ~= 0 then
+        visibilityStr = visibilityStr .. "abstract "
+    elseif not typeDef:IsValueType() and not typeDef:IsEnum() and bit32.band(typeDef.flags, Constants.TYPE_ATTRIBUTE_SEALED) ~= 0 then
+        visibilityStr = visibilityStr .. "sealed "
+    end
+    
+    local typeKind = ""
+    if bit32.band(typeDef.flags, Constants.TYPE_ATTRIBUTE_INTERFACE) ~= 0 then
+        typeKind = "interface "
+    elseif typeDef:IsEnum() then
+        typeKind = "enum "
+    elseif typeDef:IsValueType() then
+        typeKind = "struct "
+    else
+        typeKind = "class "
+    end
+    
+    local typeName = typeDef:GetName(false, true)
+    local extendsStr = #extends > 0 and string.format(" : %s", table.concat(extends, ", ")) or ""
+    local typeDefIndexStr = self.config.TypeDefIndex and string.format(" // TypeDefIndex: %d", typeDefIndex - 0) or ""
+    table.insert(output, string.format("%s%s%s%s%s\n{", visibilityStr, typeKind, typeName, extendsStr, typeDefIndexStr))
+
+    -- Dump fields
+    if self.config.Field and typeDef.field_count > 0 then
+        table.insert(output, "\t// Fields")
+        local fieldEnd = typeDef.fieldStart + typeDef.field_count
+        for i = typeDef.fieldStart + 0, fieldEnd - 1 do
+            local fieldDef = Il2Cpp.Meta:GetFieldDefinition(i)
+            local fieldType = fieldDef:GetType()
+            local isStatic = false
+            local isConst = false
+            if self.config.Attribute then
+                table.insert(output, self:getCustomAttribute(imageDef, fieldDef.customAttributeIndex, fieldDef.token, "\t"))
+            end
+            local access = bit32.band(fieldType.attrs, Constants.FIELD_ATTRIBUTE_FIELD_ACCESS_MASK)
+            local accessStr = ""
+            if access == Constants.FIELD_ATTRIBUTE_PRIVATE then
+                accessStr = "private "
+            elseif access == Constants.FIELD_ATTRIBUTE_PUBLIC then
+                accessStr = "public "
+            elseif access == Constants.FIELD_ATTRIBUTE_FAMILY then
+                accessStr = "protected "
+            elseif access == Constants.FIELD_ATTRIBUTE_ASSEMBLY or access == Constants.FIELD_ATTRIBUTE_FAM_AND_ASSEM then
+                accessStr = "internal "
+            elseif access == Constants.FIELD_ATTRIBUTE_FAM_OR_ASSEM then
+                accessStr = "protected internal "
+            end
+            if bit32.band(fieldType.attrs, Constants.FIELD_ATTRIBUTE_LITERAL) ~= 0 then
+                isConst = true
+                accessStr = accessStr .. "const "
+            else
+                if bit32.band(fieldType.attrs, Constants.FIELD_ATTRIBUTE_STATIC) ~= 0 then
+                    isStatic = true
+                    accessStr = accessStr .. "static "
+                end
+                if bit32.band(fieldType.attrs, Constants.FIELD_ATTRIBUTE_INIT_ONLY) ~= 0 then
+                    accessStr = accessStr .. "readonly "
+                end
+            end
+            local fieldName = fieldDef:GetName()
+            local fieldTypeName = fieldType:GetName(false, false)
+            local defaultValueStr = ""
+            local fieldDefaultValue = Il2Cpp.Meta:GetFieldDefaultValueFromIndex(i)
+            if fieldDefaultValue and fieldDefaultValue.dataIndex ~= -1 then
+                local success, value = Il2Cpp.Meta:TryGetDefaultValue(fieldDefaultValue.typeIndex, fieldDefaultValue.dataIndex)
+                if success then
+                    defaultValueStr = " = "
+                    if type(value) == "string" then
+                        defaultValueStr = defaultValueStr .. string.format("\"%s\"", value:gsub("[\"\\]", "\\%0"))
+                    elseif type(value) == "number" and math.floor(value) == value then
+                        defaultValueStr = defaultValueStr .. value --string.format("'\\x%02x'", value)
+                    elseif value ~= nil then
+                        defaultValueStr = defaultValueStr .. tostring(value)
+                    else
+                        defaultValueStr = defaultValueStr .. "null"
+                    end
+                else
+                    defaultValueStr = string.format(" /*Metadata offset 0x%x*/", value)
+                end
+            end
+            local offsetStr = ""
+            if self.config.FieldOffset and not isConst then
+                offsetStr = string.format("; // 0x%x", self.il2Cpp:getFieldOffsetFromIndex(typeDefIndex - 1, i - typeDef.fieldStart - 1, i - 1, typeDef:IsValueType(), isStatic))
+            else
+                offsetStr = ";"
+            end
+            table.insert(output, string.format("\t%s%s %s%s%s", accessStr, fieldTypeName, fieldName, defaultValueStr, offsetStr))
+        end
+    end
+
+    -- Dump properties
+    if self.config.Property and typeDef.property_count > 0 then
+        table.insert(output, "\n\t// Properties")
+        local propertyEnd = typeDef.propertyStart + typeDef.property_count
+        for i = typeDef.propertyStart + 0, propertyEnd - 1 do
+            local propertyDef = Il2Cpp.Meta:GetPropertyDefinition(i)
+            if self.config.Attribute then
+                table.insert(output, self:getCustomAttribute(imageDef, propertyDef.customAttributeIndex, propertyDef.token, "\t"))
+            end
+            local propertyType, modifiers
+            if propertyDef.get >= 0 then
+                local methodDef = Il2Cpp.Meta:GetMethodDefinition(typeDef.methodStart + propertyDef.get + 0)
+                modifiers = self:getModifiers(methodDef)
+                propertyType = methodDef:GetReturnType()
+            elseif propertyDef.set >= 0 then
+                local methodDef = Il2Cpp.Meta:GetMethodDefinition(typeDef.methodStart + propertyDef.set + 0)
+                modifiers = self:getModifiers(methodDef)
+                local parameterDef = methodDef:GetParam()
+                propertyType = parameterDef[1]:GetType()
+            end
+            local propertyName = Il2Cpp.Meta:GetStringFromIndex(propertyDef.nameIndex)
+            local propertyTypeName = propertyType:GetName(false, false)
+            local accessors = {}
+            if propertyDef.get >= 0 then
+                table.insert(accessors, "get; ")
+            end
+            if propertyDef.set >= 0 then
+                table.insert(accessors, "set; ")
+            end
+            table.insert(output, string.format("\t%s%s %s { %s}", modifiers, propertyTypeName, propertyName, table.concat(accessors)))
+        end
+    end
+
+    -- Dump methods
+    if self.config.Method and typeDef.method_count > 0 then
+        table.insert(output, "\n\t// Methods")
+        local methodEnd = typeDef.methodStart + typeDef.method_count
+        for i = typeDef.methodStart + 0, methodEnd - 1 do
+            table.insert(output, "")
+            local methodDef = Il2Cpp.Meta:GetMethodDefinition(i)
+            local isAbstract = bit32.band(methodDef.flags, Constants.METHOD_ATTRIBUTE_ABSTRACT) ~= 0
+            if self.config.Attribute then
+                table.insert(output, self:getCustomAttribute(imageDef, methodDef.customAttributeIndex, methodDef.token, "\t"))
+            end
+            if self.config.MethodOffset then
+                local methodPointer = self.il2Cpp:getMethodPointer(imageName, methodDef)
+                if not isAbstract and methodPointer > 0 then
+                    local fixedMethodPointer = self.il2Cpp:getRVA(methodPointer)
+                    table.insert(output, string.format("\t// RVA: 0x%x Offset: 0x%x VA: 0x%x", fixedMethodPointer, fixedMethodPointer, methodPointer))
+                else
+                    table.insert(output, "\t// RVA: -1 Offset: -1")
+                end
+                if methodDef.slot ~= 0xffff then
+                    table.insert(output, string.format(" Slot: %d", methodDef.slot))
+                end
+            end
+            local modifiers = self:getModifiers(methodDef)
+            local methodReturnType = methodDef:GetReturnType()
+            local methodName = methodDef:GetName()
+            
+            
+            if methodDef.genericContainerIndex >= 0 then
+                local genericContainer = Il2Cpp.Meta:GetGenericContainer(methodDef.genericContainerIndex)
+                methodName = methodName .. Il2Cpp.Meta:GetGenericContainerParams(genericContainer)
+            end
+            
+
+            local returnPrefix = methodReturnType.byref == 1 and "ref " or ""
+            local parameterStrs = {}
+            for j = 0, methodDef.parameterCount - 1 do
+                local parameterDef = Il2Cpp.Param(methodDef.parameterStart + j)
+                local parameterName = parameterDef:GetName()
+                local parameterType = parameterDef:GetType()
+                local parameterTypeName = parameterType:GetName(false, false)
+                local paramPrefix = ""
+                if parameterType.byref == 1 then
+                    if bit32.band(parameterType.attrs, Constants.PARAM_ATTRIBUTE_OUT) ~= 0 and bit32.band(parameterType.attrs, Constants.PARAM_ATTRIBUTE_IN) == 0 then
+                        paramPrefix = "out "
+                    elseif bit32.band(parameterType.attrs, Constants.PARAM_ATTRIBUTE_OUT) == 0 and bit32.band(parameterType.attrs, Constants.PARAM_ATTRIBUTE_IN) ~= 0 then
+                        paramPrefix = "in "
+                    else
+                        paramPrefix = "ref "
+                    end
+                else
+                    if bit32.band(parameterType.attrs, Constants.PARAM_ATTRIBUTE_IN) ~= 0 then
+                        paramPrefix = paramPrefix .. "[In] "
+                    end
+                    if bit32.band(parameterType.attrs, Constants.PARAM_ATTRIBUTE_OUT) ~= 0 then
+                        paramPrefix = paramPrefix .. "[Out] "
+                    end
+                end
+                local paramStr = paramPrefix .. parameterTypeName .. " " .. parameterName
+                local paramDefault = Il2Cpp.Meta:GetParameterDefaultValueFromIndex(methodDef.parameterStart + j - 0)
+                if paramDefault and paramDefault.dataIndex ~= -1 then
+                    local success, value = Il2Cpp.Meta:TryGetDefaultValue(paramDefault.typeIndex, paramDefault.dataIndex)
+                    if success then
+                        paramStr = paramStr .. " = "
+                        if type(value) == "string" then
+                            paramStr = paramStr .. string.format("\"%s\"", value:gsub("[\"\\]", "\\%0"))
+                        elseif type(value) == "number" and math.floor(value) == value then
+                            paramStr = paramStr .. value --string.format("'\\x%02x'", value)
+                        elseif value ~= nil then
+                            paramStr = paramStr .. tostring(value)
+                        else
+                            paramStr = paramStr .. "null"
+                        end
+                    else
+                        paramStr = paramStr .. string.format(" /*Metadata offset 0x%x*/", value)
+                    end
+                end
+                table.insert(parameterStrs, paramStr)
+            end
+            local methodBody = isAbstract and ";" or " { }"
+            table.insert(output, string.format("\t%s%s%s %s(%s)%s", modifiers, returnPrefix, methodReturnType:GetName(false, false), methodName, table.concat(parameterStrs, ", "), methodBody))
+
+            -- Dump generic method specs
+            if Il2Cpp.methodDefinitionMethodSpecs[i] then
+                table.insert(output, "\t/* GenericInstMethod :")
+                local groups = {}
+                for _, methodSpec in ipairs(self.il2Cpp.methodDefinitionMethodSpecs[i - 1]) do
+                    local ptr = self.il2Cpp.methodSpecGenericMethodPointers[methodSpec.methodDefinitionIndex .. ":" .. methodSpec.classIndexIndex .. ":" .. methodSpec.methodIndexIndex] or 0
+                    if not groups[ptr] then
+                        groups[ptr] = {}
+                    end
+                    table.insert(groups[ptr], methodSpec)
+                end
+                for ptr, group in pairs(groups) do
+                    table.insert(output, "\t|")
+                    if ptr > 0 then
+                        local fixedPointer = self.il2Cpp:getRVA(ptr)
+                        table.insert(output, string.format("\t|-RVA: 0x%x Offset: 0x%x VA: 0x%x", fixedPointer, fixedPointer, ptr))
+                    else
+                        table.insert(output, "\t|-RVA: -1 Offset: -1")
+                    end
+                    for _, methodSpec in ipairs(group) do
+                        local typeName, methodName = self.executor:getMethodSpecName(methodSpec)
+                        table.insert(output, string.format("\t|-%s.%s", typeName, methodName))
+                    end
+                end
+                table.insert(output, "\t*/")
+            end
+        end
+    end
+    table.insert(output, "}")
+    return table.concat(output, "\n")
+end
+
+function Decompiler:getModifiers(methodDef)
+    if self.methodModifiers[methodDef] then
+        return self.methodModifiers[methodDef]
+    end
+    local str = ""
+    local access = bit32.band(methodDef.flags, Constants.METHOD_ATTRIBUTE_MEMBER_ACCESS_MASK)
+    if access == Constants.METHOD_ATTRIBUTE_PRIVATE then
+        str = str .. "private "
+    elseif access == Constants.METHOD_ATTRIBUTE_PUBLIC then
+        str = str .. "public "
+    elseif access == Constants.METHOD_ATTRIBUTE_FAMILY then
+        str = str .. "protected "
+    elseif access == Constants.METHOD_ATTRIBUTE_ASSEM or access == Constants.METHOD_ATTRIBUTE_FAM_AND_ASSEM then
+        str = str .. "internal "
+    elseif access == Constants.METHOD_ATTRIBUTE_FAM_OR_ASSEM then
+        str = str .. "protected internal "
+    end
+    if bit32.band(methodDef.flags, Constants.METHOD_ATTRIBUTE_STATIC) ~= 0 then
+        str = str .. "static "
+    end
+    if bit32.band(methodDef.flags, Constants.METHOD_ATTRIBUTE_ABSTRACT) ~= 0 then
+        str = str .. "abstract "
+        if bit32.band(methodDef.flags, Constants.METHOD_ATTRIBUTE_VTABLE_LAYOUT_MASK) == Constants.METHOD_ATTRIBUTE_REUSE_SLOT then
+            str = str .. "override "
+        end
+    elseif bit32.band(methodDef.flags, Constants.METHOD_ATTRIBUTE_FINAL) ~= 0 then
+        if bit32.band(methodDef.flags, Constants.METHOD_ATTRIBUTE_VTABLE_LAYOUT_MASK) == Constants.METHOD_ATTRIBUTE_REUSE_SLOT then
+            str = str .. "sealed override "
+        end
+    elseif bit32.band(methodDef.flags, Constants.METHOD_ATTRIBUTE_VIRTUAL) ~= 0 then
+        if bit32.band(methodDef.flags, Constants.METHOD_ATTRIBUTE_VTABLE_LAYOUT_MASK) == Constants.METHOD_ATTRIBUTE_NEW_SLOT then
+            str = str .. "virtual "
+        else
+            str = str .. "override "
+        end
+    end
+    if bit32.band(methodDef.flags, Constants.METHOD_ATTRIBUTE_PINVOKE_IMPL) ~= 0 then
+        str = str .. "extern "
+    end
+    self.methodModifiers[methodDef] = str
+    return str
+end
+
+return Decompiler
 end)
 __bundle_register("core.Universalsearcher", function(require, _LOADED, __bundle_register, __bundle_modules)
 ---@class Searcher
@@ -2399,7 +3043,7 @@ local Searcher = {
         if #il2cpp == 0 then
             il2cpp = gg.getRangesList('split_config.')
             local _il2cpp = {}
-            gg.setRanges(gg.REGION_CODE_APP)
+            gg.setRanges(gg.REGION_C_DATA | gg.REGION_CODE_APP);
             for k, v in ipairs(il2cpp) do
                 if (v.state == 'Xa') then
                     gg.searchNumber(':il2cpp', gg.TYPE_BYTE, false, gg.SIGN_EQUAL, v.start, v['end'])
@@ -2452,7 +3096,7 @@ local Searcher = {
         
         
         -- Set pointer sizes based on version and platform
-        Il2Cpp.classPointer = Il2Cpp.Version < 27 and (Il2Cpp.Info.platform and 24 or 12) or (Il2Cpp.Info.platform and 40 or 20);
+        --Il2Cpp.classPointer = Il2Cpp.Version < 27 and (Il2Cpp.Info.platform and 24 or 12) or (Il2Cpp.Info.platform and 40 or 20);
         --Il2Cpp.imagePointer = Il2Cpp.Version < 27 and (Il2Cpp.Info.platform and 72 or 36) or (Il2Cpp.Info.platform and 24 or 12);
         
         -- Get global metadata range
@@ -2485,23 +3129,38 @@ local Searcher = {
 	        end
 	    end
 	    
+	
 	    Il2Cpp.metaPtr = t[1].address
 		Il2Cpp.log:info("Il2Cpp.metaPtr: " .. Il2Cpp.ToHex(Il2Cpp.metaPtr))
-	    
+		local metaHeaderObf = Il2Cpp.FixValue(Il2Cpp.gV(Il2Cpp.metaPtr + Il2Cpp.pointSize))
+		if Il2Cpp.gV(Il2Cpp.metaPtr) ~= metaHeaderObf then
+		    Il2Cpp.log:warn("globalMetadataHeader bị mã hoá globalMetadataHeader mới được phát hiện: " .. Il2Cpp.ToHex(metaHeaderObf))
+		    Il2Cpp.Meta.Header = Il2Cpp.Il2CppGlobalMetadataHeader(metaHeaderObf)
+		    --print(Il2Cpp.Il2CppGlobalMetadataHeader(globalMetadataHeader), Il2Cpp.Il2CppGlobalMetadataHeader(metaHeaderObf))
+		    --os.exit()
+		end
+		
+		local limit = 0x50000
 	    local i = 1
 	    while true do 
 	        local addr = Il2Cpp.metaPtr - (i * Il2Cpp.pointSize)
-	        local pMetaReg = Il2Cpp.Il2CppMetadataRegistration(Il2Cpp.GetPtr(addr))
-	        local Range = gg.getValuesRange({{address = Il2Cpp.GetPtr(addr)}})[1]
-            if (Range == "Cd" or Range == "O" or Range == "A") and pMetaReg.typeDefinitionsSizesCount == pMetaReg.fieldOffsetsCount then
-                Il2Cpp.metaReg = Il2Cpp.GetPtr(addr)
-                Il2Cpp.il2cppReg = Il2Cpp.GetPtr(addr + Il2Cpp.pointSize)
-                break
+	        local ptr = Il2Cpp.GetPtr(addr)
+	        local Range = gg.getValuesRange({{address = ptr}})[1]
+            if (Range == "Cd" or Range == "O" or Range == "A") then
+                local pReg = Il2Cpp.Il2CppMetadataRegistration(ptr)
+                if  pReg.typesCount < limit then
+                    Il2Cpp.metaReg = ptr
+                    Il2Cpp.il2cppReg = Il2Cpp.GetPtr(addr - Il2Cpp.pointSize)
+                    break
+                end
+            elseif i > 10 then
+                Il2Cpp.log:error("not find Il2CppMetadataRegistration in MetaStart: " .. Il2Cpp.ToHex(addrs))
             end 
             i = i + 1
         end
 		Il2Cpp.log:info("Il2Cpp.metaReg: " .. Il2Cpp.ToHex(Il2Cpp.metaReg))
 		Il2Cpp.log:info("Il2Cpp.il2cppReg: " .. Il2Cpp.ToHex(Il2Cpp.il2cppReg))
+		
         --Il2Cpp.Il2CppMetadataRegistration(Il2Cpp.metaReg):AddList()
         --Il2Cpp.Il2CppCodeRegistration(Il2Cpp.il2cppReg):AddList()
         --[[os.exit()
@@ -2706,7 +3365,6 @@ function Class.GetField(klass, name)
             return field, _ - 1
         end
     end
-    return nil
 end
 
 ---Get all methods of a class
@@ -2739,7 +3397,6 @@ function Class.GetMethod(klass, name, paramCount)
             return method
         end
     end
-    return nil
 end
 
 ---Check if a class is generic
@@ -2815,9 +3472,9 @@ end
 -- @return number|nil The type definition index if found, nil otherwise
 function Class.GetIndex(klass)
     local index = klass.byval_arg.data
-    if Il2Cpp.Meta.Header.typeDefinitionsOffset <= index and (Il2Cpp.Meta.Header.typeDefinitionsOffset + Il2Cpp.Meta.Header.typeDefinitionsSize) >= index then
-        return (index - Il2Cpp.Meta.Header.typeDefinitionsOffset) / Il2Cpp.typeSize
-    elseif index <= Il2Cpp.typeCount then
+    if Il2Cpp.Meta.Header.typeDefinitions <= index and (Il2Cpp.Meta.Header.typeDefinitions + Il2Cpp.Meta.Header.typeDefinitionsSize) >= index then
+        return (index - Il2Cpp.Meta.Header.typeDefinitions) / Il2Cpp.typeDefSize
+    elseif index <= Il2Cpp.typesCount then
         return index
     end
 end
@@ -2827,12 +3484,12 @@ end
 -- @return number|nil The class pointer if found, nil otherwise
 function Class.GetPointersToIndex(index)
     --local typeDefOffset, typeDefSizes = Il2Cpp.typeDefOffset, Il2Cpp.typeDefSizes
-    if Il2Cpp.Meta.Header.typeDefinitionsOffset <= index and (Il2Cpp.Meta.Header.typeDefinitionsOffset + Il2Cpp.Meta.Header.typeDefinitionsSize) >= index then
-        index = (index - Il2Cpp.Meta.Header.typeDefinitionsOffset) / Il2Cpp.typeSize
-    elseif index > Il2Cpp.typeCount then
+    if index > Il2Cpp.typesCount then
         return index
+    elseif Il2Cpp.Meta.Header.typeDefinitions <= index and (Il2Cpp.Meta.Header.typeDefinitions + Il2Cpp.Meta.Header.typeDefinitionsSize) >= index then
+        index = (index - Il2Cpp.Meta.Header.typeDefinitions) / Il2Cpp.typeDefSize
     end
-    return Il2Cpp.GetPtr(Il2Cpp.typeDef + (index * Il2Cpp.pointSize))
+    return Il2Cpp.GetPtr(Il2Cpp.classPointer + (index * Il2Cpp.pointSize))
 end
 
 
@@ -2864,8 +3521,12 @@ function Class.IsClassInfo(Address)
     return Class.IsClassCache[Address]
 end
 
-function Class:GetTypeDef()
-    return self.typeDefinition or self.typeMetadataHandle
+function Class:GetTypeDefinition(isDumped)
+    local typeDef = self.typeDefinition or self.typeMetadataHandle
+    if not isDumped then return typeDef end 
+    local klass = Il2Cpp.Il2CppTypeDefinition(typeDef)
+    klass.address = typeDef
+    return klass
 end 
 
 
@@ -2876,33 +3537,38 @@ end
 function Class:From(searchParams, addList)
     --Il2Cpp.log:debug("Class:", searchParams)
     if Il2Cpp.__cache.Class[searchParams] then return Il2Cpp.__cache.Class[searchParams] end
-    
     local klass = {}
     if type(searchParams) == "string" or type(searchParams) == "table" then
         local res = type(searchParams) == "table" and searchParams or Il2Cpp.Meta.GetPointersToString(searchParams)
         for i, v in ipairs(res) do
             local addr = v.address - Class.NameOffset
-            local imageName = Class.IsClassInfo(addr)
+            klass[#klass+1] = Class.IsClassInfo(addr) and Class(addr, addList)
+            --[[
             if imageName then
                 local kls = Il2Cpp.Il2CppClass(addr, addList)
                 kls.address = addr
-                kls.class_index = Class.GetIndex(kls)
+                --kls.byval_arg:Init()
+                --kls.class_index = Class.GetIndex(kls)
                 local res = setmetatable(kls, {
                     __index = Class,
                     __name = (kls.namespaze ~= "" and kls.namespaze .. "." or "") .. kls.name
                 })
                 klass[#klass+1] = res
             end
+            ]]
         end
     else
         local addr = Class.GetPointersToIndex(searchParams)
         local kls = Il2Cpp.Il2CppClass(addr, addList)
         kls.address = addr
-        kls.class_index = Class.GetIndex(kls)
+        --kls.class_index = Class.GetIndex(kls)
+        --kls.byval_arg:Init()
+        
         klass = setmetatable(kls, {
             __index = Class,
             __name = (kls.namespaze ~= "" and kls.namespaze .. "." or "") .. kls.name
         })
+        --klass[#klass+1] = klass
     end
     --self.__cache[searchParams] = #klass == 1 and klass[1] or klass
     Il2Cpp.__cache.Class[searchParams] = klass
@@ -2925,28 +3591,29 @@ __bundle_register("utils.Dump", function(require, _LOADED, __bundle_register, __
 function Dump(typeDef, config)
     local Il2CppConstants = Il2Cpp.Il2CppConstants
     local config = config or {
-        DumpAttribute = false,
-        DumpField = true,
-        DumpProperty = true,
-        DumpMethod = true,
-        DumpFieldOffset = true,
-        DumpMethodOffset = true,
-        DumpTypeDefIndex = false,
+        Attribute = false,
+        Field = true,
+        Property = true,
+        Method = true,
+        FieldOffset = true,
+        MethodOffset = true,
+        TypeDefIndex = false,
     }
     local output = {}
     local extends = {}
     
     local typeDefs = Il2Cpp.Il2CppTypeDefinition(typeDef.typeMetadataHandle or typeDef.typeDefinition)
-    local typeDefIndex = config.DumpTypeDefIndex and typeDef:GetIndex()
+    local typeDefIndex = config.TypeDefIndex and typeDef:GetIndex()
+    local isValueType = typeDefs:IsValueType()
     
     if typeDef.parent >= 0 then
         local parent = typeDef:GetParent()
         local parentName = parent:GetName()
-        if not typeDef:IsValueType() and not typeDef:IsEnum() and parentName ~= "object" then
+        if not isValueType and not typeDefs:IsEnum() and parentName ~= "Object" then
             table.insert(extends, parentName)
         end
     end
-    if typeDef.interfaces_count > 0 then
+    if typeDef.interfaces_count == typeDefs.interfaces_count then
         for i, interface in ipairs(typeDef:GetInterfaces()) do
             table.insert(extends, interface:GetName())
         end
@@ -2972,43 +3639,47 @@ function Dump(typeDef, config)
         visibilityStr = visibilityStr .. "static "
     elseif bit32.band(typeDefs.flags, Il2CppConstants.TYPE_ATTRIBUTE_INTERFACE) == 0 and bit32.band(typeDefs.flags, Il2CppConstants.TYPE_ATTRIBUTE_ABSTRACT) ~= 0 then
         visibilityStr = visibilityStr .. "abstract "
-    elseif not typeDef:IsValueType() and not typeDef:IsEnum() and bit32.band(typeDefs.flags, Il2CppConstants.TYPE_ATTRIBUTE_SEALED) ~= 0 then
+    elseif not typeDefs:IsValueType() and not typeDefs:IsEnum() and bit32.band(typeDefs.flags, Il2CppConstants.TYPE_ATTRIBUTE_SEALED) ~= 0 then
         visibilityStr = visibilityStr .. "sealed "
     end
     local typeKind = ""
     if bit32.band(typeDefs.flags, Il2CppConstants.TYPE_ATTRIBUTE_INTERFACE) ~= 0 then
         typeKind = "interface "
-    elseif typeDef:IsEnum() then
+    elseif typeDefs:IsEnum() then
         typeKind = "enum "
-    elseif typeDef:IsValueType() then
+    elseif isValueType then
         typeKind = "struct "
     else
         typeKind = "class "
     end
     local typeName = typeDef:GetName()
     local extendsStr = #extends > 0 and string.format(" : %s", table.concat(extends, ", ")) or ""
-    local typeDefIndexStr = config.DumpTypeDefIndex and string.format(" // TypeDefIndex: %d", typeDefIndex) or ""
+    local typeDefIndexStr = config.TypeDefIndex and string.format(" // TypeDefIndex: %d", typeDefIndex) or ""
     table.insert(output, string.format("%s%s%s%s%s\n{", visibilityStr, typeKind, typeName, extendsStr, typeDefIndexStr))
     
     
     -- Dump fields
-    if config.DumpField and typeDef.field_count > 0 then
+    if config.Field and typeDef.field_count > 0 then
         table.insert(output, "\t// Fields")
         for i = 0, typeDef.field_count - 1 do
             local fieldDef = type(typeDef.fields) == "number" and Il2Cpp.Field(typeDef.fields + i * Il2Cpp.FieldInfo.size) or typeDef.fields[i+1]
-            table.insert(output, fieldDef:ToString(i))
+            table.insert(output, fieldDef:ToString(typeDefs.fieldStart + i, isValueType))
         end
     end
 
     -- Dump properties
-    if config.DumpProperty and typeDef.property_count > 0 then
+    if config.Property and typeDef.property_count > 0 then
         table.insert(output, "\n\t// Properties")
         for i = 0, typeDef.property_count - 1 do
+            if typeDef.properties == 0 then 
+                table.insert(output, "\t// propertyInfo: 0x0")
+                break 
+            end
             local propertyDef = Il2Cpp.PropertyInfo(typeDef.properties + i * Il2Cpp.PropertyInfo.size)
-            if config.DumpAttribute then
+            if config.Attribute then
                 table.insert(output, self:getCustomAttribute(imageDef, propertyDef.customAttributeIndex, propertyDef.token, "\t"))
             end
-            local propertyType, modifiers
+            local propertyType, modifiers = "", ""
             if propertyDef.get ~= 0 then
                 local methodDef = Il2Cpp.Method(propertyDef.get)
                 modifiers = Il2Cpp:GetModifiers(methodDef)
@@ -3022,10 +3693,10 @@ function Dump(typeDef, config)
             local propertyName = propertyDef.name
             local propertyTypeName = tostring(propertyType)
             local accessors = {}
-            if propertyDef.get >= 0 then
+            if propertyDef.get ~= 0 then
                 table.insert(accessors, "get; ")
             end
-            if propertyDef.set >= 0 then
+            if propertyDef.set ~= 0 then
                 table.insert(accessors, "set; ")
             end
             table.insert(output, string.format("\t%s%s %s { %s}", modifiers, propertyTypeName, propertyName, table.concat(accessors)))
@@ -3033,16 +3704,17 @@ function Dump(typeDef, config)
     end
 
     -- Dump methods
-    if config.DumpMethod and typeDef.method_count > 0 then
+    if config.Method and typeDef.method_count > 0 then
         table.insert(output, "\n\t// Methods")
-        for i = 0, typeDef.method_count - 1 do
+        for i = 0, typeDefs.method_count - 1 do
             local methodDef = type(typeDef.methods) == "number" and Il2Cpp.Method(Il2Cpp.GetPtr(typeDef.methods + i * Il2Cpp.pointSize)) or typeDef.methods[i+1]
+            --local methodDef = Il2Cpp.Meta:GetMethodDefinition(typeDefs.methodStart + i)
             table.insert(output, "")
             table.insert(output, methodDef:ToString())
             
             -- Dump generic method specs
             -- tạm thời bỏ qua vì tốn nhiều thời gian 
-            local methodIndex = methodDef:GetIndex()
+            local methodIndex = 0--methodDef:GetIndex()
             if Il2Cpp.methodDefinitionMethodSpecs[methodIndex] then
                 table.insert(output, "\t/* GenericInstMethod :")
                 local groups = {}
@@ -3106,8 +3778,8 @@ end
 ---Get the offset of a field
 -- @param field table The field object
 -- @return number Field offset
-function Field.GetOffset(field)
-    return field.offset
+function Field.GetOffset(field, isValueType, isStatic)
+    return (isValueType and not isStatic and field.offset >= Il2Cpp.type.Object.size) and field.offset - Il2Cpp.type.Object.size or field.offset
 end
 
 ---Get the type of a field
@@ -3156,8 +3828,12 @@ function Field.GetValue(field, obj)
     end
     local tInfo = Il2Cpp.type[tostring(field:GetType())]
     local results = {}
-    for i, v in ipairs(obj) do
-        results[#results+1] = {address = v.address + field.offset, flags = tInfo and tInfo.flags or Il2Cpp.MainType, name = field.name}
+    if type(obj) == "table" then
+        for i, v in ipairs(obj) do
+            results[#results+1] = {address = v.address + field.offset, flags = tInfo and tInfo.flags or Il2Cpp.MainType, name = field.name}
+        end
+    else 
+        results[#results+1] = {address = obj + field.offset, flags = tInfo and tInfo.flags or Il2Cpp.MainType, name = field.name}
     end
     return gg.getValues(results), results
 end
@@ -3173,8 +3849,12 @@ function Field.SetValue(field, obj, value)
     end
     local tInfo = Il2Cpp.type[tostring(field:GetType())]
     local results = {}
-    for i, v in ipairs(obj) do
-        results[#results+1] = {address = v.address + field.offset, flags = tInfo and tInfo.flags or Il2Cpp.MainType, value = value}
+    if type(obj) == "table" then
+        for i, v in ipairs(obj) do
+            results[#results+1] = {address = v.address + field.offset, flags = tInfo and tInfo.flags or Il2Cpp.MainType, value = value}
+        end
+    else 
+        results[#results+1] = {address = obj + field.offset, flags = tInfo and tInfo.flags or Il2Cpp.MainType, value = value}
     end
     gg.setValues(results)
     return results
@@ -3211,7 +3891,7 @@ end
 function Field.GetIndex(field, typeDefs)
     local typeDef = field:GetParent()
     local _, i = typeDef:GetField(field:GetName())
-    local typeDefs = typeDefs or Il2Cpp.Il2CppTypeDefinition(typeDef:GetTypeDef())
+    local typeDefs = typeDefs or typeDef:GetTypeDefinition(true)
     return typeDefs.fieldStart + i
 end
 
@@ -3220,7 +3900,7 @@ function Field.AddList(field)
 end
 
 
-function Field.ToString(field, fieldIndex)
+function Field.ToString(field, fieldIndex, isValueType)
     local output = {}
     local fieldDef = field
     local fieldType = fieldDef:GetType()
@@ -3257,8 +3937,8 @@ function Field.ToString(field, fieldIndex)
     
     if Il2Cpp.Field.DumpFieldValues and isConst then
         if not fieldIndex then
-            local typeDefs = Il2Cpp.Il2CppTypeDefinition(fieldDef:GetParent():GetTypeDef())
-            fieldIndex = fieldDef:GetIndex(typeDefs)
+            typeDef = Il2Cpp.Il2CppTypeDefinition(fieldDef:GetParent():GetTypeDefinition())
+            fieldIndex = fieldDef:GetIndex(typeDef)
         end
         local fieldDefaultValue = Il2Cpp.Meta:GetFieldDefaultValueFromIndex(fieldIndex)
         if fieldDefaultValue and fieldDefaultValue.dataIndex ~= -1 then
@@ -3268,7 +3948,7 @@ function Field.ToString(field, fieldIndex)
                 if type(value) == "string" then
                     defaultValueStr = defaultValueStr .. string.format("\"%s\"", value:gsub("[\"\\]", "\\%0"))
                 elseif type(value) == "number" and math.floor(value) == value then
-                    defaultValueStr = defaultValueStr .. value--string.format("\\x%x", value)
+                    defaultValueStr = defaultValueStr .. value
                 elseif value ~= nil then
                     defaultValueStr = defaultValueStr .. tostring(value)
                 else
@@ -3281,7 +3961,7 @@ function Field.ToString(field, fieldIndex)
     end
     local offsetStr = ""
     if not isConst then
-        offsetStr = string.format("; // 0x%x", fieldDef:GetOffset())
+        offsetStr = string.format("; // 0x%x", fieldDef:GetOffset(isValueType, isStatic))
     else
         offsetStr = ";"
     end
@@ -3301,19 +3981,21 @@ function Field:From(searchParams)
         local res = typeSearchParams == "table" and searchParams or Il2Cpp.Meta.GetPointersToString(searchParams)
         for i, v in ipairs(res) do
             local addr = Il2Cpp.GetPtr(v.address + (Il2Cpp.pointSize * 2))
-            local imageName = Il2Cpp.Class.IsClassInfo(addr)
-            if imageName then
+            field[#field+1] = Il2Cpp.Class.IsClassInfo(addr) and Il2Cpp.Class(addr):GetField(Il2Cpp.Utf8ToString(Il2Cpp.FixValue(v.value)))
+            --[[
+            if f then
                 local kls = Il2Cpp.FieldInfo(v.address)
                 kls.address = v.address
                 local res = setmetatable(kls, {
                     __index = Field,
                     __name = kls.name
                 })
-                field[#field+1] = res
+                field[#field+1] = f
             end
+            ]]
         end
     elseif typeSearchParams == "number" then
-        field = Il2Cpp.FieldInfo(searchParams)
+        local field = Il2Cpp.FieldInfo(searchParams)
         field.address = searchParams
         return setmetatable(field, {
             __index = Field,
@@ -3389,7 +4071,7 @@ function Method.GetParam(method, dump)
         return method.parameters
     end
     --local methodDef = method.methodMetadataHandle or method.methodDefinition
-    --local paramStart = Il2Cpp.Meta.Header.parametersOffset + Il2Cpp.gV(methodDef + Method.parameterStart, 4) * Method.parameterSize
+    --local paramStart = Il2Cpp.Meta.Header.parameters + Il2Cpp.gV(methodDef + Method.parameterStart, 4) * Method.parameterSize
     local methodDef = Il2Cpp.Il2CppMethodDefinition(method.methodMetadataHandle or method.methodDefinition)
     --[[
     local param = Il2Cpp.classArray(method.parameters, Method.GetParamCount(method), Il2Cpp.Version > 27 and "Pointer" or Il2Cpp.ParameterInfo)
@@ -3398,7 +4080,7 @@ function Method.GetParam(method, dump)
         if Il2Cpp.Version > 27 then
             il2cppType = v--Il2Cpp.Type(v)
             local param = Il2Cpp.Meta:GetParameterDefinition(methodDef.parameterStart + (i - 0))  
-            --local addr = Il2Cpp.Meta.Header.parametersOffset + (methodDef.parameterStart + i - 1)
+            --local addr = Il2Cpp.Meta.Header.parameters + (methodDef.parameterStart + i - 1)
             name = Il2Cpp.Meta:GetStringFromIndex(param.nameIndex)--Il2Cpp.gV(addr, 4))
             token = param.token--Il2Cpp.gV(addr + 4, 4)
         else 
@@ -3480,7 +4162,7 @@ function Method.IsGenericInstance(method)
 end
 
 function Method.GetIndex(method)  
-    return ((method.methodMetadataHandle or method.methodDefinition) - Il2Cpp.Meta.Header.methodsOffset) / Il2Cpp.Il2CppMethodDefinition.size
+    return ((method.methodMetadataHandle or method.methodDefinition) - Il2Cpp.Meta.Header.methods) / Il2Cpp.Il2CppMethodDefinition.size
 end  
 
 function Method.GetClass(method)
@@ -3491,6 +4173,7 @@ function Method.GetClass(method)
 end
 
 function Method.ToString(method)
+    if method.address == 0 then return "\t// methodInfo: 0x0" end
     local output = {}
     local methodDef = method
     
@@ -3551,7 +4234,7 @@ function Method.ToString(method)
                     if type(value) == "string" then
                         paramStr = paramStr .. string.format("\"%s\"", value:gsub("[\"\\]", "\\%0"))
                     elseif type(value) == "number" and math.floor(value) == value then
-                        paramStr = paramStr .. string.format("\\x%x", value)
+                        paramStr = paramStr .. value --string.format("\\x%x", value)
                     elseif value ~= nil then
                         paramStr = paramStr .. tostring(value)
                     else
@@ -3570,9 +4253,16 @@ function Method.ToString(method)
 end 
 
 
+
+
+
 function Method:AddList()
     Il2Cpp.aL(self.address, self:ToString())
 end
+
+
+
+
 
 ---Create a Method object from address or name
 -- @param searchParams number|string|table Address of the method info or name or table address name
@@ -3586,17 +4276,19 @@ function Method:From(searchParams, addList)
         for i, v in ipairs(res) do
             local addr = Il2Cpp.GetPtr(v.address + (Il2Cpp.pointSize * 1))
             local IsClass = Il2Cpp.Class.IsClassInfo(addr)
-            local addr = Il2Cpp.GetPtr(v.address + (Il2Cpp.pointSize * 2))
-            local IsType = Il2Cpp.Type(addr)
-            if IsClass and IsType then
+            --local addr = Il2Cpp.GetPtr(v.address + (Il2Cpp.pointSize * 2))
+            --local IsType = Il2Cpp.Type(addr)
+            if IsClass then
                 v.address = v.address - (Il2Cpp.Version < 29 and Il2Cpp.pointSize * 2 or Il2Cpp.pointSize * 3)
+                --[[
                 local kls = Il2Cpp.MethodInfo(v.address, addList)
                 kls.address = v.address
                 local res = setmetatable(kls, {
                     __index = Method,
                     __name = kls.name
                 })
-                method[#method+1] = res
+                ]]
+                method[#method+1] = Method(v.address, addList)
             end
         end
     else
@@ -4079,7 +4771,7 @@ local ObjectApi = {
 
     ---@field regionObject number Memory region to search for objects (default: gg.REGION_ANONYMOUS)
     regionObject = gg.REGION_ANONYMOUS,
-
+    
     ---Filter objects to remove invalid references and handle 64-bit Android SDK 30+ special cases
     -- @param self ObjectApi The ObjectApi instance
     -- @param Objects table Table of objects to filter
@@ -4118,6 +4810,18 @@ local ObjectApi = {
         gg.loadResults(FilterObjects)
         local _FilterObjects = gg.getResults(gg.getResultsCount())
         gg.clearResults()
+        for i, v in ipairs(_FilterObjects) do 
+            local class = Il2Cpp.Class(Il2Cpp.FixValue(v.value))
+            _FilterObjects[i] = setmetatable({}, {
+                __name = class.name,
+                __index = function(self, key)
+                    return class:GetField(key):GetValue(v.address)[1].value
+                end,
+                __newindex = function(self, key, val)
+                    class:GetField(key):SetValue(v.address, val)
+                end
+            })
+        end
         return _FilterObjects
     end,
 
@@ -4146,7 +4850,7 @@ local ObjectApi = {
                 t[#t+1]=v
             end
         end
-        return self:FilterObjects(t);--self:FilterObjects(FindsResult)
+        return self:FilterObjects(t);
     end,
 
     ---Find objects from multiple class information structures
@@ -4526,8 +5230,8 @@ local Type = {}
 -- @return table Type object with metadata
 function Type:From(searchParams)
     local searchParams = Il2Cpp.FixValue(searchParams)
-    if Type.typeCount >= searchParams then -- if it's an index
-        searchParams = Il2Cpp.gV(Type.type + (searchParams * Il2Cpp.pointSize), Il2Cpp.pointer)
+    if Il2Cpp.pMetadataRegistration.typesCount >= searchParams then -- if it's an index
+        searchParams = Il2Cpp.gV(Il2Cpp.pMetadataRegistration.types + (searchParams * Il2Cpp.pointSize), Il2Cpp.pointer)
     end
     if Il2Cpp.__cache.Type[searchParams] then return Il2Cpp.__cache.Type[searchParams] end
     local typeStruct = Il2Cpp.Il2CppType(searchParams)
@@ -4543,7 +5247,7 @@ function Type:From(searchParams)
         __tostring = Type.ToString,
         __name = "Type"
     })
-    Il2Cpp.__cache.Class[searchParams] = types
+    Il2Cpp.__cache.Type[searchParams] = types
     return types
 end
 
@@ -4637,7 +5341,7 @@ end
 
 function Type.GetTypeDefinitionFromIl2CppType(il2CppType)
     if Il2Cpp.Version <= 27 then
-        local index = Il2Cpp.Meta.Header.typeDefinitionsOffset + (il2CppType.data * Il2Cpp.Il2CppTypeDefinition:GetSize())
+        local index = Il2Cpp.Meta.Header.typeDefinitions + (il2CppType.data * Il2Cpp.Il2CppTypeDefinition:GetSize())
         return Il2Cpp.Il2CppTypeDefinition(index)
     else
         return Il2Cpp.Il2CppTypeDefinition(il2CppType.data)
@@ -4759,14 +5463,14 @@ function Type.GetName(typeStruct, addNamespaze)
             return baseName
         end
     end
-    --error(typeStruct)
+    --error(typeStruct, true)
     return "Unknown"
 end
 
 function Type:GetTypeDefName(typeDef, addNamespace, genericParameter)
     local prefix = ""
     if typeDef.declaringTypeIndex ~= -1 then
-        prefix = self:From(typeDef.declaringTypeIndex + 1):GetName(addNamespace, true) .. "."
+        prefix = Il2Cpp.Type(typeDef.declaringTypeIndex):GetName(addNamespace, true) .. "."
     elseif addNamespace then
         local namespace = Il2Cpp.Meta:GetStringFromIndex(typeDef.namespaceIndex)
         if namespace ~= "" then
@@ -4964,6 +5668,922 @@ return setmetatable(Type, {
     -- @return table Type object
     __call = Type.From
 })
+end)
+__bundle_register("toolbox.main", function(require, _LOADED, __bundle_register, __bundle_modules)
+-- main.lua
+gg.setVisible(false)
+
+-- 1. Load các modules cơ bản
+local Config = require("toolbox.config")
+local cfg, cfgFile = Config.load()
+local resultsTabSearch = gg.getResults(gg.getResultsCount());
+
+
+-- 2. Setup Il2Cpp Config
+Il2Cpp({
+    log = {[cfg.Settings and cfg.Settings[1] or "INFO"] = true}
+})
+Il2Cpp.Method.DumpParamValues = cfg.Settings and cfg.Settings[2] or false
+Il2Cpp.Field.DumpFieldValues = cfg.Settings and cfg.Settings[4] or false
+Il2Cpp.Meta.Obf = cfg.Settings and cfg.Settings[5] or Il2Cpp.Meta.Obf
+
+
+-- 3. Khởi tạo Global variables cho các module
+-- Việc này giúp giải quyết vấn đề gọi chéo (circular dependency)
+_G.cli = require("toolbox.ui")
+_G.cli.script_title = _G.cli.script_title .. "\nIl2cpp Version: " .. Il2Cpp.Version 
+
+_G.utils = require("toolbox.utils")
+
+-- Load các module chính vào _G để chúng có thể gọi lẫn nhau
+_G.toolsLT9 = require("toolbox.toolbox")
+_G.editsLT9 = require("toolbox.search")
+_G.scriptCreator = require("toolbox.creator")
+local logMessage = table.concat(Il2Cpp.log.results, "\n")
+_G.cli.Alert("Log", logMessage:gsub("Il2CppGG: ", ""), nil, '')
+
+
+-- 4. Inject dữ liệu cấu hình vào toolsLT9
+_G.toolsLT9.data = cfg
+_G.toolsLT9.dataFile = cfgFile
+_G.toolsLT9.AddListItems = _G.toolsLT9.data.Settings and _G.toolsLT9.data.Settings[3] or false
+
+-- 5. Khởi chạy
+gg.loadResults(resultsTabSearch)
+gg.showUiButton()
+_G.toolsLT9.home()
+
+while true do
+    if gg.isClickedUiButton() then
+        _G.toolsLT9.home()
+    end
+    gg.sleep(100)
+end
+end)
+__bundle_register("toolbox.config", function(require, _LOADED, __bundle_register, __bundle_modules)
+local M = {}
+
+function M.load()
+    local infoGame = gg.getTargetInfo()
+    local nameFile = infoGame.packageName .. "-" .. infoGame.versionCode .. "-" .. (infoGame.x64 and "64" or "32")
+    local fileGame = gg.EXT_CACHE_DIR..'/' .. nameFile .. '-Il2CppGG-cli.cfg'
+    -- Ưu tiên file theo package, nếu không có thì dùng file mặc định cũ nếu muốn
+    local cfg_file = fileGame 
+    
+    local chunk = loadfile(cfg_file)
+    local cfg = nil
+    if chunk ~= nil then
+        cfg = chunk()
+    end
+    if not cfg then
+        cfg = {Settings = nil}
+    end
+
+    return cfg, cfg_file
+end
+
+return M
+end)
+__bundle_register("toolbox.ui", function(require, _LOADED, __bundle_register, __bundle_modules)
+local config = require"config"
+local M = {}
+-- Chúng ta sẽ set script_title từ main sau khi load xong Il2Cpp
+M.script_title = "Tools " .. config.name .. " v" .. config.version.. " By " .. config.author
+
+M.Toast = function(toast_string, emoji)
+    local _ = utf8.char(9552)
+    gg.toast(M.script_title .. "\n\n" .. emoji .. _ .. _ .. _ .. _ .. _ .. _ .. _ .. _ .. _ .. _
+                 .. _ .. _ .. _ .. emoji .. "\n\n" .. toast_string .. "\n\n" .. emoji .. _ .. _
+                 .. _ .. _ .. _ .. _ .. _ .. _ .. _ .. _ .. _ .. _ .. _ .. emoji)
+end
+
+M.Alert = function(headerString, bodyString, emoji, ...)
+    local emoji = emoji or "•"
+    if #bodyString > 0 then
+        return gg.alert(M.script_title .. "\n\n" .. emoji .. " " .. headerString .. " " .. emoji .. "\n\n" .. bodyString, ...)
+    else
+        return gg.alert(M.script_title .. "\n\n" .. emoji .. " " .. headerString .. " " .. emoji, ...)
+    end
+end
+
+M.Choice = function(headerString, bodyString, emoji)
+    if #bodyString > 0 then
+        return M.script_title .. "\n\n" .. emoji .. " " .. headerString .. " " .. emoji .. "\n\n" .. bodyString
+    else
+        return M.script_title .. "\n\n" .. emoji .. " " .. headerString .. " " .. emoji
+    end
+end
+
+M.Prompt = function(headerString, emoji)
+    return M.script_title .. "\n\n" .. emoji .. " " .. headerString .. " " .. emoji
+end
+
+return M
+end)
+__bundle_register("toolbox.utils", function(require, _LOADED, __bundle_register, __bundle_modules)
+local M = {}
+
+M.arch = gg.getTargetInfo()
+M.armType = M.arch.x64 and 6 or 4
+
+function M.getSelectedItems()
+  local items = {}
+  local tab = gg.getActiveTab()
+  local _tab = ""
+  if tab == gg.TAB_SEARCH then
+    items = gg.getSelectedResults()
+    _tab = "search" -- TAB_SEARCH
+  elseif tab == gg.TAB_SAVED_LIST then
+    items = gg.getSelectedListItems()
+    _tab = "list" --TAB_SAVED_LIST
+  elseif tab == gg.TAB_MEMORY_EDITOR then
+    for index, addr in ipairs(gg.getSelectedElements()) do
+      items[index] = {address = addr}
+    end
+    _tab = "memory" -- TAB_MEMORY_EDITOR
+  end
+  return items, _tab
+end
+
+function M.mySplit(inputstr, sep)
+    sep = sep or "%s"
+    local t = {}
+    for field, s in string.gmatch(inputstr, "([^" .. sep .. "]*)(" .. sep .. "?)") do
+        table.insert(t, field)
+        if s == "" then
+        end
+    end
+    return t
+end
+
+return M
+end)
+__bundle_register("toolbox.toolbox", function(require, _LOADED, __bundle_register, __bundle_modules)
+local toolsLT9 = {
+    Results_Size = 0,
+    cache = {scriptCreator = {method = {}, hook = {}, field = {}}, methods = {results = {}}, fields = {results = {}}, class = {results = {}}, head = {results = {}}},
+    restoreTable = {hook = {}},
+
+    home = function(dumper)
+        toolsLT9.isDumper = dumper and true or false
+        if not toolsLT9.data.Settings then
+            toolsLT9.Setting()
+        end
+        if Il2Cpp.Field.DumpFieldValues and Il2Cpp.Meta.Header.fieldDefaultValuesSize == 0 then
+            cli.Alert("Warning", "Protected games may cause errors\n\n", "❗")
+            toolsLT9.data.Settings[4] = false
+            Il2Cpp.Field.DumpFieldValues = false
+            Il2Cpp.Method.DumpParamValues = false
+            gg.saveVariable(toolsLT9.data, toolsLT9.dataFile)
+        end
+        if toolsLT9.data.Settings[4] and Il2Cpp.Field.DumpFieldValues and not Il2Cpp.Meta.fieldDefaultValues then
+            cli.Alert("Il2CppFieldDefaultValue Load ", Il2Cpp.Meta.Header.fieldDefaultValuesSize / Il2Cpp.Il2CppFieldDefaultValue.size .. " Count", "•")
+            Il2Cpp.Meta:GetFieldDefaultValueFromIndex(1)
+            
+            cli.Alert("Il2CppParameterDefaultValue Load ", Il2Cpp.Meta.Header.parameterDefaultValuesSize / Il2Cpp.Il2CppParameterDefaultValue.size .. " Count", "•")
+            Il2Cpp.Meta:GetParameterDefaultValueFromIndex(1)
+            
+            gg.saveVariable(toolsLT9.data, toolsLT9.dataFile)
+        end
+        local checkSaveList, TAB = utils.getSelectedItems()
+        if #checkSaveList > 0 and TAB == "list" then
+            toolsLT9.handleClick()
+        else
+            toolsLT9:getSize()
+            local options = {
+                "Search",
+                "FindHead",
+                "Dumper", 
+                "ScriptCreator",
+                "Results",
+                "Setting",
+                "Developer",
+            }
+            local optionsMenu = {
+                " Search Name",
+                " FindHead",
+                " Dumper" .. (dumper or ""), 
+                " Script Creator",
+                " Results[" .. toolsLT9.Results_Size .."]",
+                " Setting",
+                " Developer",
+                " Exit"
+            }
+            menu = gg.choice(
+                optionsMenu, 
+                _menu,
+                cli.Choice("Main Menu", "Select a function:", "•")
+            )
+            if menu ~= nil then
+                _menu = menu
+                if menu == #optionsMenu then
+                    os.exit()
+                end
+                return toolsLT9[options[menu]]()
+            end
+        end
+    end,
+
+    Developer = function()
+        DeveloperItems = {
+            globalMetadataStart = Il2Cpp.Meta.metaStart,
+            il2cppStart = Il2Cpp.il2cppStart,
+            stringDefinitions = Il2Cpp.stringDef,
+            metadataRegistration = Il2Cpp.metaReg,
+            il2cppRegistration = Il2Cpp.il2cppReg,
+            typesCount = Il2Cpp.typesCount,
+            types = Il2Cpp.pMetadataRegistration.types,
+            fieldDefaultValues = Il2Cpp.Meta.Header.fieldDefaultValuesOffset,
+            parametersDef = Il2Cpp.Meta.Header.parametersOffset,
+            imageDef = Il2Cpp.imageDef,
+            imageCount = Il2Cpp.imageCount,
+            classPointer = Il2Cpp.classPointer,
+            classCount = Il2Cpp.typeDefCount,
+            metaPtr = Il2Cpp.metaPtr
+        }
+        
+        local _DeveloperItems = {name = {}, values = {}, type = {}}
+        for k, v in pairs(DeveloperItems) do
+            _DeveloperItems.name[#_DeveloperItems.name+1] = k
+            _DeveloperItems.values[#_DeveloperItems.values+1] = v
+            _DeveloperItems.type[#_DeveloperItems.type+1] = "text"
+        end
+        _DeveloperItems.type[#_DeveloperItems.type+1] = "checkbox"
+        _DeveloperItems.values[#_DeveloperItems.values+1] = true
+        
+        local opt = _DeveloperItems.name
+        opt[1] = cli.Prompt("Developer Menu", "•") .. "\nFor developers only\n\n" .. opt[1]
+        opt[#opt+1] = "Add List"
+        local menu = gg.prompt(opt, _DeveloperItems.values , _DeveloperItems.type)
+        
+        if not menu then return end
+        if menu[#menu] then
+            local t = {}
+            for i, v in pairs(_DeveloperItems.values) do
+                if type(v) == "number" then
+                    t[#t+1] = {address = v, flags = Il2Cpp.MainType, name = i == 1 and "il2cppStart" or _DeveloperItems.name[i]}
+                end
+            end
+            gg.addListItems(t)
+        end
+    end,
+
+    Search = function()
+        -- Gọi sang module search
+        editsLT9.searchName()
+    end,
+
+    ScriptCreator = function()
+        -- Gọi sang module creator
+        scriptCreator.scriptMenu()
+    end,
+
+    Setting = function()
+        local optMain = {
+            cli.Prompt("Main Setting", "•") .. "\nLogger(INFO - DEBUG)",
+            "Dump Param Values",
+            "Add List Items",
+            "Dump Field Values",
+            "Metadata Obfuscate"
+        }
+        local menu = gg.prompt(optMain, toolsLT9.data.Settings or {"INFO", true, true, true, false}, {
+            "text", "checkbox", "checkbox", "checkbox", "checkbox"
+        })
+        if menu ~= nil then
+              toolsLT9.data.Settings = menu
+              gg.saveVariable(toolsLT9.data, toolsLT9.dataFile)
+              Il2Cpp.log.level = {[menu[1]] = true}
+              Il2Cpp.Method.DumpParamValues = menu[2]
+              toolsLT9.AddListItems = menu[3]
+              Il2Cpp.Field.DumpFieldValues = menu[4]
+              Il2Cpp.Meta.Obf = menu[5]
+        end
+    end,
+
+    imageMenu = function(All)
+        local imageDefs, imageDef = Il2Cpp.Image(), {}
+        local imageName, imageItems = {"Select All"}, {not All}
+        for i, v in ipairs(imageDefs) do 
+            local name = v:GetName():gsub(".dll", "")
+            table.insert(imageName, name .. "[" .. v.typeCount .. "]" )
+            table.insert(imageItems, All)
+        end
+        local menu = gg.multiChoice(
+            imageName,
+            imageItems,
+            cli.Choice("Select Image", "", "•")
+        )
+        if not menu then return end
+        if menu[1] then return toolsLT9.imageMenu(true) end
+        for i, v in pairs(menu) do 
+            if i > 1 then 
+                table.insert(imageDef, imageDefs[i-1])
+            end 
+        end
+        return imageDef
+    end,
+
+    Dumper = function()
+        if toolsLT9.isDumper then return true end
+        local Runtime = false
+        if gg.alert("Dump by?\n Only use metadata when runtime fails.", "Runtime", "Metadata") == 1 then
+            Runtime = true 
+        end
+        
+        local imageDef = toolsLT9.imageMenu()
+        if not imageDef then return end
+        
+        local config = {
+            Attribute = false,
+            Field = true,
+            Property = true,
+            Method = true,
+            FieldOffset = Runtime,
+            MethodOffset = Runtime,
+            TypeDefIndex = true,
+        }
+        local Name, Items, types = {cli.Prompt("Config Dump", "•") .. "\nSelect Folder Output:"}, {gg.EXT_STORAGE}, {"path"}
+        for k, v in pairs(config) do 
+            table.insert(Name, k)
+            table.insert(Items, v)
+            table.insert(types, "checkbox")
+        end
+        local menu = gg.prompt(Name, Items, types)
+        
+        if not menu then return end
+        
+        local config = {}
+        for i, v in ipairs(menu) do 
+            if i ~= 1 then
+                config[Name[i]] = v
+            end
+        end 
+        local path = menu[1] .. "/" .. Il2Cpp.Info.pkg .. ".cs"
+        
+        Il2Cpp:Dumper(config, {
+            image = imageDef,
+            path = path,
+            runtime = Runtime
+        }, toolsLT9.home);
+        
+    end,
+
+    FindHead = function()  
+        local ResultsTabSearch = gg.getResults(gg.getResultsCount())
+        if #ResultsTabSearch == 0 then
+            cli.Alert("Results Error ", "Results Tab Search :" .. #ResultsTabSearch, "•")
+            return
+        end
+
+        local results = {}
+        local class = {}
+        for i, v in pairs(ResultsTabSearch) do
+            local head = Il2Cpp.Object.FindHead(v.address)
+            if head then
+                local offset = v.address - head.address
+                local classAddress = Il2Cpp.FixValue(head.value)
+                if class[classAddress] then
+                    class[classAddress]["head"][#class[classAddress]["head"]+1] = {address = v.address, offset = offset, index = i}
+                else
+                    class[classAddress] = {head = {}}
+                    class[classAddress]["head"][1] = {address = v.address, offset = offset, index = i}
+                end
+            end
+        end
+        for i, v in pairs(class) do
+            local classAddress = i
+            local clazz = Il2Cpp.Class(classAddress)
+            local HeadInfo = ""
+            for ii, vv in pairs(v.head) do
+                for i, field in ipairs(clazz:GetFields()) do 
+                    if field.offset == vv.offset then
+                        HeadInfo = HeadInfo .. string.format("[%d]: %X %s // 0x%X", vv.index, vv.address, field:GetName(), vv.offset) .. "\n"
+                    end
+                end
+            end
+            
+            if not toolsLT9.cache.class[clazz.address] then
+                toolsLT9.cache.class[clazz.address] = clazz
+                toolsLT9.cache.class.results[#toolsLT9.cache.class.results+1] = clazz
+            end
+            results[#results+1] = {address = classAddress, flags = Il2Cpp.MainType, name = HeadInfo .. "\n" .. clazz:Dump()}
+        end
+        toolsLT9:getSize()
+        gg.loadResults(ResultsTabSearch)
+        gg.getResults(gg.getResultsCount())
+        gg.addListItems(results)
+        cli.Alert("Head Added ", #results .. " Head added to the Save List:", "•")
+    end,
+
+    FindObject = function()
+        local menu = gg.prompt({
+            cli.Prompt("FindObject Menu", "•") .. "\nEnter Class names or addresses seperated by commas. (ClassName1,0xFFFFFFFF)"
+        }, { "" }, { "text" })
+        if menu ~= nil then
+            local classesTable = utils.mySplit(menu[1], ",")
+            local classesTableStatic = utils.mySplit(menu[1], ",")
+            for i, v in pairs(classesTable) do
+                if v:find("^0x") then
+                    classesTable[i] = tonumber(classesTable[i])
+                end
+            end
+            local result = Il2Cpp.FindObject(classesTable)
+            local tempTable = {}
+            for index, value in pairs(result) do
+                for i, v in pairs(value) do
+                    tempTable[i] = {
+                        address = v.address,
+                        flags = gg.TYPE_DWORD,
+                        name = "Class Instance: " .. classesTableStatic[index]
+                    }
+                end
+            end
+            gg.addListItems(tempTable)
+            cli.Alert("Instances Added ", #tempTable .. " Class instances added to Save List:", "•")
+        end
+    end,
+
+    PatchesAddress = function(methodInfo)
+        local value, flags = editsLT9.createEditApi(methodInfo);
+        table.insert(toolsLT9.cache.scriptCreator.method, {method = methodInfo, edit = {value = value, flags = flags}})
+        local editTable, tempTable = Il2Cpp.Patch(methodInfo.methodPointer, value, nil, flags)
+        toolsLT9.createRestore(methodInfo.methodPointer, tempTable)
+        gg.setValues(editTable)
+    end,
+
+    restoreValues = function(address)
+        gg.setValues(toolsLT9.restoreTable[address])
+        toolsLT9.restoreTable[address] = nil
+    end,
+
+    createRestore = function(address, tempTable)
+        ::create::
+        if not toolsLT9.restoreTable[address] or toolsLT9.restoreTable[address] == nil then
+            toolsLT9.restoreTable[address] = tempTable
+        elseif #toolsLT9.restoreTable[address] < #tempTable then
+            toolsLT9.restoreValues(address)
+            goto create
+        end
+    end,
+
+    handleClick = function()
+        local saveList = gg.getSelectedListItems()
+        local classes = {}
+        local classInstances = {}
+        local fields = {}
+        local methods = {}
+        local instanceFields = {}
+        
+        for i, v in pairs(saveList) do
+            if toolsLT9:isClass(v.address) then table.insert(classes, v) end
+            if v.name:find("Class Instance:") then table.insert(classInstances, v) end
+            if toolsLT9:isMethods(v.address) then table.insert(methods, v) end
+            if toolsLT9:isFields(v.address) then table.insert(fields, v) end
+            if v.name:find("Instance Header:") then table.insert(instanceFields, v) end
+        end
+        local menu = gg.choice({
+            " Classes (" .. toolsLT9.menuCount(classes) .. ")",
+            " Class Instances (" .. toolsLT9.menuCount(classInstances) .. ")",
+            " Methods (" .. toolsLT9.menuCount(methods) .. ")",
+            " Fields (" .. toolsLT9.menuCount(fields) .. ")",
+            " Instance Fields (" .. toolsLT9.menuCount(instanceFields) .. ")"
+        }, 
+            nil,
+            cli.Choice("Save List Menu", "Select type of value to handle:", "•")
+        )
+        if menu ~= nil then
+            if menu == 1 then toolsLT9.classMenu(classes) end
+            if menu == 2 then toolsLT9.classInstanceMenu(classInstances) end
+            if menu == 3 then toolsLT9.methodMenu(methods) end
+            if menu == 4 then toolsLT9.fieldMenu(fields) end
+            if menu == 5 then toolsLT9.instanceFieldMenu(instanceFields) end
+        end
+    end,
+
+    getCacheMethods = function(self, v)
+        if not self.cache.methods[v.address] then
+            self.cache.methods[v.address] = v
+            self.cache.methods.results[#self.cache.methods.results+1] = v
+        end
+        return self.cache.methods[v.address]
+    end,
+    getCacheFields = function(self, v)
+        if not self.cache.fields[v.address] then
+            self.cache.fields[v.address] = v
+            self.cache.fields.results[#self.cache.fields.results+1] = v
+        end
+        return self.cache.fields[v.address]
+    end,
+    isClass = function(self, address) return self.cache.class[address] end,
+    isMethods = function(self, address) return self.cache.methods[address] end,
+    isFields = function(self, address) return self.cache.fields[address] end,
+    getSize = function(self)
+        self.Results_Size = #self.cache.class.results + #self.cache.methods.results + #self.cache.fields.results
+    end,
+
+    Results = function()
+        local classes = toolsLT9.cache.class.results
+        local fields = toolsLT9.cache.fields.results
+        local methods = toolsLT9.cache.methods.results
+        
+        local menu = gg.choice({
+            " Classes [" .. #classes .. "]",
+            " Methods [" .. #methods .. "]",
+            " Fields [" .. #fields .. "]",
+        }, 
+            nil,
+            cli.Choice("Results Selection Menu", "Select a Results:", "•")
+        )        
+        if not menu then return end
+        if menu == 1 then toolsLT9.classMenu(classes) end
+        if menu == 2 then toolsLT9.methodMenu(methods) end
+        if menu == 3 then toolsLT9.fieldMenu(fields) end
+    end,
+
+    menuCount = function(countTable)
+        if countTable ~= nil and #countTable > 0 then return #countTable else return "❌" end
+    end,
+
+    instanceFieldMenu = function(instanceTable)
+        local menu = gg.choice({ " Yes", " No" }, _instanceFieldMenu, cli.Choice("Remove Instances", "Remove fields for these instances from Save List?", "•"))
+        if menu ~= nil and menu == 1 then
+            _instanceFieldMenu = menu
+            local saveList = gg.getListItems()
+            for i, v in pairs(instanceTable) do
+                local address = v.name:gsub(".+(Instance Header: .+)", "%1")
+                for index, value in pairs(saveList) do
+                    if value.name:find(address) then
+                        saveList[index] = nil
+                    end
+                end
+            end
+            gg.clearList()
+            gg.addListItems(saveList)
+        end
+    end,
+
+    headMenu = function(headTable)
+        local menuItems = {}
+        local classesTable = {}
+        for i, v in pairs(headTable) do
+            classesTable[i] = toolsLT9.cache.head[v.address];
+            menuItems[i] = v.name
+        end
+        local menu = gg.choice(menuItems, nil, cli.Choice("Head Selection Menu", "Select a Head:", "•"))
+        if menu ~= nil then
+            local classOptions = gg.choice({" Dump Methods", " Dump Fields"}, nil, cli.Choice("Class Menu", "Select an option:", "•"))
+            if classOptions ~= nil then
+                if classOptions == 1 then gg.copyText(classTable[menu].name, false) end
+                if classOptions == 2 then toolsLT9.methodMenu(classesTable[menu]) end
+            end
+        end
+    end,
+
+    classMenu = function(classTable)
+        local menuItems = {}
+        local classesTable = {}
+        for i, v in pairs(classTable) do
+            classesTable[i] = toolsLT9.cache.class[v.address];
+            menuItems[i] = (classesTable[i]:GetNamespace() ~= "" and classesTable[i]:GetNamespace()  .. "." or "") .. classesTable[i]:GetName()
+        end
+        local menu = gg.choice(menuItems, nil, cli.Choice("Class Selection Menu", "Select a Class:", "•"))
+        if menu ~= nil then
+            local classOptions = gg.choice({
+                " Copy Data",
+                " Methods [" .. toolsLT9.menuCount(classesTable[menu]:GetMethods()) .. "]",
+                " Fields [" .. toolsLT9.menuCount(classesTable[menu]:GetFields()) .. "]",
+                " Create Script Edit/Function"
+            }, nil, cli.Choice("Class Menu", "Select an option:", "•"))
+            if classOptions ~= nil then
+                if classOptions == 1 then gg.copyText(classTable[menu]:Dump(), false) end
+                if classOptions == 2 then toolsLT9.methodMenu(classesTable[menu]) end
+                if classOptions == 3 then toolsLT9.fieldMenu(classesTable[menu]) end
+                if classOptions == 4 then scriptCreator.handleClass(classesTable[menu]) end
+            end
+        end
+    end,
+
+    classInstanceMenu = function(classInstanceTable)
+        local menu = gg.choice({ " Load instance fields"}, nil, cli.Choice("Class Instance Menu", "", "•"))
+        if menu ~= nil then
+            local classes = {}
+            local headers = {}
+            for i, v in pairs(classInstanceTable) do
+                headers[i] = v.address
+                classes[v.name:gsub("Class Instance: (.+)", "%1")] = v.address
+            end
+            local fixedClasses = {}
+            for k, v in pairs(classes) do
+                table.insert(fixedClasses, k)
+            end
+            local tempTable = {}
+            for i, v in pairs(fixedClasses) do
+                tempTable[i] = {
+                    Class = v,
+                    MethodsDump = false,
+                    FieldsDump = true
+                }
+            end
+            local result = Il2Cpp.FindClass(tempTable)
+            local tempTable = {}
+            for index, value in pairs(result) do
+                for i, v in pairs(value[1].Fields) do
+                    for ind, val in pairs(headers) do
+                        table.insert(tempTable, {
+                            address = val + tonumber(v.Offset, 16),
+                            flags = gg.TYPE_DWORD,
+                            name = "Field Name: " .. v.FieldName .. "\nOffset: " .. v.Offset .. "\nInstance Header: " .. val
+                        })
+                    end
+                end
+            end
+            gg.addListItems(tempTable)
+            cli.Alert("Field Values Added ", #tempTable .. " Field values added to Save List:", "•")
+        end
+    end,
+    
+    hookMenu = function(method)
+        if toolsLT9.restoreTable.hook[method.address] then
+            toolsLT9.restoreTable.hook[method.address]:off()
+            toolsLT9.restoreTable.hook[method.address] = nil
+            return
+        end
+        local selected, message = nil, cli.Choice("Hook Selection Menu", "Select a Hook:", "•")
+        local items = {
+            "Param",
+            "Call",
+            "Field"
+        }
+        local menu = gg.choice(items, selected, message)
+        if not menu then return end 
+        return toolsLT9["hook" .. items[menu] .. "Menu"](method)
+    end,
+    
+    hookParamMenu = function(method, handle)
+        local items = {}
+        local types = {}
+        local params = method:GetParam()
+        for i, v in ipairs(params) do
+            table.insert(items, v:ToString())
+            table.insert(types, "number")
+        end
+        local menu = gg.prompt(items, selection, types)
+        if not menu then return end
+        local paramEdits = {}
+        for i, v in ipairs(params) do
+            if tonumber(menu[i]) then
+                paramEdits[#paramEdits+1] = {param = i, flags = tostring(v:GetType()), value = menu[i]}
+            end
+        end
+        table.insert(toolsLT9.cache.scriptCreator.hook, {method = method, hook = {param = paramEdits}})
+        
+        if handle then
+            return toolsLT9.cache.scriptCreator.hook[#toolsLT9.cache.scriptCreator.hook]
+        end 
+        
+        local methodHook = method:method()
+        methodHook:param(paramEdits)
+        toolsLT9.restoreTable.hook[method.address] = methodHook
+        return methodHook
+    end,
+    
+    hookFieldMenu = function(method, handle)
+        local items = {}
+        local types = {}
+        local fields = method:GetClass():GetFields()
+        for i, v in ipairs(fields) do
+            table.insert(items, v:GetType():GetName() .. " " .. v:GetName())
+            table.insert(types, "checkbox")
+        end
+        local menu = gg.prompt(items, selection, types)
+        if not menu then return end
+        local fieldEdits = {}
+        local fieldItems = {}
+        local fieldTypes = {}
+        for i, v in ipairs(fields) do
+            if menu[i] then
+                fieldEdits[#fieldEdits+1] = v
+                table.insert(fieldItems, items[i])
+                table.insert(fieldTypes, "number")
+            end
+        end
+        local menu = gg.prompt(fieldItems, selection, fieldTypes)
+        if not menu then return end
+        local fieldValues = {}
+        for i, v in ipairs(fieldEdits) do
+            if tonumber(menu[i]) then
+                fieldValues[#fieldValues+1] = {offset = v.offset, flags = tostring(v:GetType()), value = menu[i]}
+            end
+        end
+        table.insert(toolsLT9.cache.scriptCreator.hook, {method = method, hook = {field = fieldValues}})
+        
+        if handle then
+            return toolsLT9.cache.scriptCreator.hook[#toolsLT9.cache.scriptCreator.hook]
+        end 
+        
+        local methodHook = method:field()
+        methodHook:setValues(fieldValues)
+        toolsLT9.restoreTable.hook[method.address] = methodHook
+        return methodHook
+    end,
+    
+    hookCallMenu = function(method, handle)
+        local items = {}
+        local methods = method:GetClass():GetMethods()
+        for i, v in ipairs(methods) do
+            table.insert(items, v:GetReturnType():GetName() .. " " .. v:GetName())
+        end
+        local menu = gg.choice(items)
+        if not menu then return end
+        local methodCall = methods[menu]
+        local types = {}
+        local items = {}
+        local params = methodCall:GetParam()
+        for i, v in ipairs(params) do
+            table.insert(items, v:ToString())
+            table.insert(types, "number")
+        end
+        local menu = gg.prompt(items, selection, types)
+        if not menu then return end
+        local paramEdits = {}
+        for i, v in ipairs(params) do
+            if tonumber(menu[i]) then
+                paramEdits[#paramEdits+1] = {param = i, flags = tostring(v:GetType()), value = menu[i]}
+            end
+        end
+        
+        table.insert(toolsLT9.cache.scriptCreator.hook, {method = method, hook = {call = methodCall, param = paramEdits}})
+        
+        if handle then
+            return toolsLT9.cache.scriptCreator.hook[#toolsLT9.cache.scriptCreator.hook]
+        end 
+        
+        local methodHook = method:call()(methodCall)
+        methodHook:setValues(paramEdits)
+        toolsLT9.restoreTable.hook[method.address] = methodHook
+        return methodHook
+    end,
+        
+
+    methodMenu = function(methodTable)
+        local menuItems = {}
+        local methodsInfo = {}
+        local methodsTable = {}
+        local isClass = methodTable.methods and true or false
+        local methodTable = isClass and methodTable:GetMethods() or methodTable
+        menuItems[1] = isClass and "Add List Items: [" .. #methodTable .. "] Methods" or nil
+        for i, v in pairs(methodTable) do
+            local AddressInMemory = v.address
+            methodsTable[i] = v.address and toolsLT9.cache.methods[AddressInMemory] or v
+            menuItems[#menuItems+1] = (isClass and tostring(methodsTable[i]:GetReturnType()) .. " " or methodsTable[i]:GetClass():GetName() .. ".") .. methodsTable[i]:GetName()
+            methodsInfo[i] = methodsTable[i]:ToString()
+        end
+        
+        local mainMenu = gg.choice(menuItems, _methodMenu, cli.Choice("Method Selection Menu", "Select a Method:", "•"))
+        if mainMenu ~= nil then
+            _methodMenu = mainMenu
+            if mainMenu == 1 and isClass then
+                local result = {}
+                for i, v in ipairs(methodTable) do
+                    if isClass then toolsLT9:getCacheMethods(v) end
+                    local className = "class: " .. v:GetClass():GetName()
+                    result[i] = {address = v.address, flags = Il2Cpp.MainType, name = className .. "\n" .. v:ToString()}
+                end
+                gg.addListItems(result)
+                return
+            end
+            local indexMenuMethods = isClass and _methodMenu -1 or _methodMenu
+            local method = methodsTable[indexMenuMethods]
+            local mainMenuItems = {
+                " Copy Data",
+                " Edit Method",
+                " Create Script Edit/Function",
+                " Add List Items",
+                " Hook"
+            }
+            if toolsLT9.restoreTable.hook[method.address] then
+                mainMenuItems[5] = " Restore Original Hook"
+            end
+            if toolsLT9.restoreTable[method.methodPointer] then
+                mainMenuItems[6] = " Restore Original Values"
+            end
+            
+            local menu = gg.choice(mainMenuItems, nil, cli.Choice("Method Menu", "Select an option:", "•"))
+            if menu ~= nil then
+                toolsLT9:getCacheMethods(method)
+                if menu == 1 and gg.alert(methodsInfo[indexMenuMethods], "Ok", "Copy") == 2 then
+                    gg.copyText(methodsInfo[indexMenuMethods], false)
+                    toolsLT9.methodMenu(methodTable)
+                end
+                if menu == 2 then
+                    toolsLT9.PatchesAddress(method)
+                end
+                if menu == 3 then
+                    local tempTable = {}
+                    local addToTable
+                    if gg.alert('', "Hook Method", '', "Edit Method") == 3 then
+                        addToTable = scriptCreator.handleMethods({method})
+                    else 
+                        addToTable = scriptCreator.handleHooks({method})
+                    end
+                    if addToTable then
+                        table.insert(tempTable, addToTable)
+                        scriptCreator.createFunction(tempTable)
+                    end
+                end
+                if menu == 4 then
+                    method:AddList()
+                end
+                if menu == 5 then
+                    toolsLT9.hookMenu(method)
+                end
+                if menu == 6 then
+                    toolsLT9.restoreValues(method.methodPointer)
+                    cli.Alert("Values Restored", "Original values restored:", "•")
+                end
+            else
+                toolsLT9.methodMenu(methodTable)
+            end
+        end
+    end,
+
+    fieldMenu = function(fieldTable)
+        local menuItems = {}
+        local fieldsTable = {}
+        local fieldsInfo = {}
+        local isClass = fieldTable.fields and true or false
+        local fieldTable = isClass and fieldTable.fields or fieldTable
+        menuItems[1] = isClass and "Add List Items: [" .. #fieldTable .. "] Fields" or nil
+        for i, v in pairs(fieldTable) do
+           local FieldInfoAddress = v.address 
+            fieldsTable[i] = v.address and toolsLT9.cache.fields[FieldInfoAddress] or v
+            menuItems[#menuItems+1] = (isClass and tostring(fieldsTable[i]:GetType()) .. " " or fieldsTable[i]:GetParent():GetName() .. ".") .. fieldsTable[i]:GetName()
+            fieldsInfo[i] = fieldsTable[i]:ToString()
+        end
+        local mainMenu = gg.choice(menuItems, _fieldMenu, cli.Choice("Field Selection Menu", "Select a Field:", "•"))
+        if mainMenu ~= nil then
+            _fieldMenu = mainMenu
+            if mainMenu == 1 and isClass then
+                local result = {}
+                for i, v in ipairs(fieldTable) do
+                    if isClass then toolsLT9:getCacheFields(v) end
+                    local className = "class: " .. v:GetParent():GetName()
+                    table.insert(result, {address = v.address, flags = Il2Cpp.MainType, name = className .. "\n" .. v:ToString()})
+                end
+                gg.addListItems(result)
+                return
+            end
+            local indexMenuFields = isClass and _fieldMenu -1 or _fieldMenu
+            local field = fieldsTable[indexMenuFields]
+            local menu = gg.choice({
+                " Copy Data",
+                " Get Field " .. (field:IsInstance() and "Instances" or (field:IsNormalStatic() and "Static")),
+                " Create Script Edit/Function",
+                " Edit Field"
+            }, nil, cli.Choice("Field Menu", "Select an option:", "•"))
+            if menu ~= nil then
+                toolsLT9:getCacheFields(field)
+                if menu == 1 and gg.alert(fieldsInfo[indexMenuFields], "Ok", "Copy") == 2 then
+                    gg.copyText(fieldsInfo[indexMenuFields], false)
+                    toolsLT9.fieldMenu(fieldTable)
+                end
+                if menu == 2 then
+                    if field:IsInstance() then
+                        local obj = field:GetParent():GetInstance()
+                        local result = field:GetValue(obj)
+                        gg.loadResults(result)
+                        gg.getResults(#result)
+                        cli.Alert("Field Instances Added ", #result .. " Field instance added to Search Tab:", "•")
+                    elseif field:IsNormalStatic() then 
+                        local result = field:StaticGetValue()
+                        gg.loadResults(result)
+                        gg.getResults(#result)
+                        cli.Alert("Field Static Added ", #result .. " Field static added to Search Tab:", "•")
+                    end
+                end
+                if menu == 3 then
+                    local tempTable = {}
+                    local addToTable = scriptCreator.handleFields({field})
+                    if addToTable then
+                        table.insert(tempTable, addToTable)
+                        scriptCreator.createFunction(tempTable)
+                    end
+                end
+                if menu == 4 then
+                    local obj = field:GetParent():GetInstance()
+                    local edits = gg.prompt({"Field Value:"}, nil, {"number"})
+                    if not edits then return end 
+                    table.insert(toolsLT9.cache.scriptCreator.field, {field = field, edit = edits[1]})
+                    field:SetValue(obj, edits[1])
+                end
+            else
+                toolsLT9.fieldMenu(fieldTable)
+            end
+        end
+    end
+}
+
+return toolsLT9
 end)
 
 return __bundle_require("Il2CppGG")
