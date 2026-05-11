@@ -5669,4 +5669,32 @@ return setmetatable(Type, {
 })
 end)
 
+__bundle_register("toolbox.main", function(require, _LOADED, __bundle_register, __bundle_modules)
+
+end)
+__bundle_register("toolbox.config", function(require, _LOADED, __bundle_register, __bundle_modules)
+
+end)
+__bundle_register("toolbox.ui", function(require, _LOADED, __bundle_register, __bundle_modules)
+
+end)
+__bundle_register("toolbox.utils", function(require, _LOADED, __bundle_register, __bundle_modules)
+
+end)
+
+__bundle_register("toolbox.toolbox", function(require, _LOADED, __bundle_register, __bundle_modules)
+
+return 
+end)
+__bundle_register("toolbox.search", function(require, _LOADED, __bundle_register, __bundle_modules)
+
+return 
+end)
+__bundle_register("toolbox.creator", function(require, _LOADED, __bundle_register, __bundle_modules)
+return
+end)
+__bundle_register("toolbox.generateScript", function(require, _LOADED, __bundle_register, __bundle_modules)
+return
+end)
+
 return __bundle_require("Il2CppGG")
