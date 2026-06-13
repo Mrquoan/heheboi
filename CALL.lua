@@ -1,6 +1,8 @@
 API = gg.makeRequest('https://raw.githubusercontent.com/Mrquoan/heheboi/refs/heads/main/APITEST.lua').content
 pcall(load(API))
 Il2Cpp()
+API2 = gg.makeRequest('https://raw.githubusercontent.com/Mrquoan/heheboi/refs/heads/main/API2.lua').content
+pcall(load(API2))
 
 
 function MVQFind(className, methodName)
