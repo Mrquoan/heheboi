@@ -1,2 +1,5672 @@
-return(function(...)local A={"wqpCvagB+NTIbG==","FNJc02gB+NTIbz8=";"FsT4FsTc0qdCw4t5fHFe+UQJiR==";"fH0sVTu/Fre0XSOxfG==";"0zw1/Uec+Jph/NhM","VUT4wUFebS2RiKT1iShC0U/R+q8RfNg4Dz0efSJaDSMJbSuawqFeDztefNJ4YVoR","bNu3bUX=","VHb/wrbMYH2rwN/MYqw=";"VUT4wUFebS2RVsdNbqtIwqF5iBO=";"Xs4MtUMIXrdP8SMV";"wLO6";"qMgz0UQJiNu40U/=","0NJJfSFpfNF/wqdefUT40qd20U0ebUh4TNu3bUT2wqFeVs0NisT4","FUQa";"+UQsfsZJiJgZ0qFofs/=";"lPeQfsdcjTFljUixbID=";"/sgciKFV0UMU0qD=";"iStefS1=","FueSiTwsiVTItNFz","0sTc0qdCw4t5fHFe+UQJiaeefNF30/==";"XudmTuguU2TP";"XNTrbSgx0T0efzTJ";"bUhs8sQ3wKGK0sCJ","jqt/fsJcbSTx";"wsgciKFxwUJcbztPfKTcbG==","jVTCF2C6/TTLTM2hb1==";"qstowqD=";"jqtuYzp5iHFJ0G==","jqtVYqt40UMXYqpJ";"FsT4FNJJfSF20U0ebUh4TNu3bUTSiNgZjUQa0qR=","fHTZwNTx","0sTc0qdCw4t3wqtr0q8=","wsheiKtpiHdeY/==","+UeZjUtqfqp7+rd8bUa=","wsga0XbJfaM50zT30q8=","kLOZkTE=","isus0T0eiNJewNhJ";"/shJwqdPwUto0UFj0qt5bqdI0XFebS2=";"0sT4TNu3bUTrXNuc0sX=";"fUu4wsR=";"lxG5vxG1YLTO","TuJ/FTgLUTFu";"0qdr+Ugc","mxQ3bU2n";"0UhJfUTcbuFQiSTdfNFJYG==";"FTeXq4tp/4euq4FdXR==";"8IGx8uEhqr2h","/IuhTzeawJaxiNCe","VUT4+Sga";"XaTzjXglq4tW/Xh8V48=";"wqtr0UMBfSJJi4gN0HtJbG==","FHd5f/==","fUT4+SgaXSgCfHFJiR==","TuJ/FTgpTuFjjXdTT2TWTaJVjXddV2JXUTgt/Ttv";"bUQx0qt5fz0J0u0CiHFMwUhPwUh3XSuxwUMJbSTxXNuc0sTrVs0NisT4";"jX1x/Mp/qMF0X2TWFXQTV/==","vXJ38at1i2bzvNhMw/==";"wNJ40Nhe0K8=","bqp10qD=","wHJswUhWwqdH";"/rdx82urFTdcYqtO","TuJ/FTgpTuFjjXdTT2TWVaTVT2T2q40pVTgmXJgpXMtuV/==","+PXh8PG18PXO8IG18IuSFPw=";"TzJ10XFJ0aJc0STO";"bUb6bzThUXt3F2uP";"TuJ/FTg2VMTLV2X=","0sT4FNJ30/==";"jqtj0U0JiNTcwsX=";"0sJIFIboFUQa8VbQiR==";"0sT4lxG=","FubvisJh84u+/Uw4U/==";"XKFeiH/=","FsT4XSuxwU4=","bqtofKd4","Lq1Zdq8cdq8=";"/sucfNg4DSFJbSTxfUJc0jpTfNJ4Yjps0qdr+Ugc";"jSTe0STxvR==","iNTZfK0J","FaJuV2FW/TFXXaJLTTFuq4tmVTpdV2Tjq4tmVJFjV4h8FX/=","bKdCbSX=";"TuJ/FTg2T4gjFG==","lRo=";"wqtr0UMBfza=";"XKFxbUt4","vLpBbq/RfNERiKTI+LpZfsFMfSXR+SurDSdJ0UORiNTH+qt40qdJ0G==","fUT4+SgaXSgCfHFJiH8=";"t4Or0Ve0iTiMtVd3fJ8=";"XVttXrJoba/4iIbe";"0Ve4XUorXK0K0rp6VG==","isTeiNtoVHTZwNTx";"+U1xwKp1qsJZwUbJqsbJbugJfHFxYTg1fsJcbG==","jU1x/Kp1XSuxwUMJbSTxFSTN+UQCbSJ5fR==","0UQMfjG=";"isT4XNuc0sTr";"8HF6iaJkFPt50rJLY2R=";"fUFtbJustSJQ0ruo0G==","0NJJfSFpfNF/wqdefUT40qd20U0ebUh4TNu3bUT2wqFeXsJ90/==";"0UQa/UFaiH8=";"FNJJfS/=","wNTowq0CfKD=","fKT4DG==";"TSgVbzdCfNi=","VJFLjabzXSOx+MtdTV8=";"TNu3bUTXYqpJ";"FsT4jUQNf1==";"0sT4TSux0sT4jUQNf1==","0sT4TNu3bUTr";"XJCIFPeTbTJ/+rdZFG==","FNJc02J38Nt1iLpcfK/R0NgMfN/RjU1x/Kp1VUT4wUFebSuj0UbCiKFxwqFCfsO9","0sTc0qdCw4JciKFr/sgMfH/=";"jTJMjXM+8Ku+isTa+Na=","VshPbNgH+ze4V4Zw0R==","isF7","i2MJbSuawqFeXNTH+qt4iNu4+Ugc";"FNJc02J38Nt1iG==","FaJuV2FW/TFXXaJLTTFuq4JljTFWV4Q8U/==","jqtz0UQJiNJIjUQrbSucwsX=";"+UQ40qdcwU1=";"0NJJfSFWwsgMfH/=","isTefSTaDSgs0qdx+UFJDG==";"TNE1VSJ+tad/+VTLf2o=";"izd5iSTxbzJVbSuxbG==","TMi4jXhcFuT4FsF/","ta81Tquv+XhDUJdXTNR=","bNu3bUT4YqpJ";"wsh5isX=";"jX1x/Kp1qMF0X2TW/JJjFXw=","bUQx0qt5fz0J0u0CiHFMwUhPwUh3XSgCfHFJiH8=";"DL4ADG==";"+U1xwKp1qKFQiSTW0sT4qsQefUTriSuI0TgefNFWfNuZ0/==";"VUT4wjQD0Uua0qDRVSge0G==";"jX1x/Mp/qMF0X2TWTVR=","TKFQw4QStrJl+K0OfG==";"bNJxbzTef2MJbSe50up5+UQ40qD=","fsO=","LjE6D2bJfNTx+UtdfHt4VUT4+SgaDPo=";"jqtZtst2XTTHtIpqw1==","fUJcfKD=","TXJcbup4iR==";"iNTs0qdr0TpdfH05+sTqiNu1iSTxi1==","Uup3YSJ8Tzu/8SZ6/R==","Vs0NisT4DSe5Of6KwxpNfSuHixp7+8l4fNiR+lSnoKGRflSneroR","wUdrbzdewK/R","+U1xwKp1XNTH","wqtr0UMBfSJJiMtCYNX=";"FsT4XSuxwUMJbSTxFSTIfSux+UQHVUT4+Sga","jqtPfSuri4Jc0NE=","fSgc01==";"bU8h/VJSwJpv8NFu";"iKFx+UQHFSTNDSQ5bLpNfKTc0PoR";"bUejwrJcXKpJV4tJV1==";"0Su4wXJc0STO";"X2uj/XMW/TFXXaJLTTFuq4g/T2JmVau8";"ish5bG==","fUT4wUFebS2=";"0UhJfUTcbugr+qCJ";"Wa2OD2MmTBpq8L1RTMCj","qMg4fKt4iNJc01==","wNTowq0CfKdSfKdXYqpJi1==","fUgs0/==","FsT4VUT4+SgaXKpJw4QefUX=","bST0jTTk0u/rwIbV","bqFCfz8cXSu4wsR=","DG==","XsJ90Tg4";"wNuc0G==","jU1x/Kp1vHpt0qFe0Su4wTdJ0sJrbzdebSJ5fBQ4YqpJixpdfH0efSJaDSeeixpB0UTcDSuMbSERwseefNbJ0Lp4froR8zR=","+UQsfsZJiJp5+UQ40qdr/sgMfH/=","iKFx0UuZ","VShc/NTc+2d8b2eu","0ST30UbebSTqiNu1iSTxi40xfsMlwqFCbNTXf4MefNuH0U/=";"8IGx8uExqr/=","jsIPZSQHDzVP7S4RbSIec6TQDSt5fBp4icSnIxpc19p5DzVec6uCD8jFOfcvwjpI+lSnBVoR","+UQNf1==","fSJBfUuCfBQrf1==","jX1x/Mp/qMF0X2TW/agmV2TpVR==","jU1x/Kp1vNMJbSu/bzD9DG==","FsT4TzJ10XFJ0NJc+qFCfsO=","wUFaVSJrb2J40UMr","jU1x/Kp1FsTc0qdCw4MJbSe5020MfNt4+Ugci4FJ0NJc+qFCfsQr";"jU1x/Kp1TzJ10/==","izdCbNu40/==";"iSuxwUMJbSTx/sgMfH/=";"wst4fKdWbSex0Uua";"+UQ40qdNwUtJVs0NisT4iMtCYNX=";"wqpCvaFJ0NJc+qFCfsO=","wsgcwsu4";"XSu4wsR=";"kLO6UxEJqu4C","jU1x/Kp1vNt3wqtrXSgCfHFJiIoR";"iSZH","TuJ/FTgpTuFjjXdTT2TWVaTVT2T2qMpjjT0pT2X=","0KTC02t5bUQ4","q/==";"fqTTtzbIfJFtVUMkY/==","tNupFXDrjaCMUJd8bG==","qMgc0qbCfNFJYG==","XND4/stOXHa1/aJa","0ST30UbebSTqiNu1iSTxFHd5fXMefNuH0UFXf4QebSJs0XJc0STO";"FaJuV2FW/TFXXaJLTTFuq40pVTgmXJgpXMtuV/==","wUFaVSJrbG==";"THFtjzpI+U0tUJbs","i4uz8z/sjIJwTaCc0TG=";"qMgIwUh3";"0qCowIDh8STl/UiOiMG=","TuJ/FTgpTuFjjXdTT2TW/XdVTudp/M/=";"YqpOl2CkfupLlXZIUX4=","iSuxwU4=","izdCfH/=";"FsT4/qtr0UMBfza=";"fUuxiseefSJc040MfNt4+Ugci4t5bUQ4","jU1x/Kp1XsTeiNtoXSgCfHFJiR==","jX1x/Mp/qMF0X2TWFXQ2";"vLpfX283D1==";"8KJLjaFH+uu3wJTS","TItQYuX4iqdC+IT6fSX=","/cS9osQHDzFowU4RiASnajpxOfcqfNi=";"wG==","wsgx0jQU0qdr+Ugc";"wsgciK/R";"+UQ40qdNwUtJi1==";"Yabx8P81i4tzi2ge","kN2=";"wsgx0jQ20Ut5fqpCfSTx";"iMeljaQSYSZcb4b80MG=","qMg30UO=";"jU1x/Kp1Vsd60Ut4";"wqF4iNJBbqFJTzJ10qtm0N0r0q/=","jU1x/Kp1FNJJfSF20U0ebUh4TNu3bUTf";"XsJ90/==";"FqdxfKD=","+UE=","bsuxfR==";"bSgcbUMB0qD=","fSgBfKTc0z8=","VXTXj2g2q4uXTudd/JTXFTg/TXd8jX8=";"XaTX";"0ST30UbebSTqiNu1iSTxi40xfsMtwUQe0sTaTSglwqFCbNTPfKTcbG==";"TNTxisJ5fR==","wsheiK89DG==","TsQOfUbrXqCHVUb0";"FqeCbG==","jX1x/Mp/qMF0X2TWX2JlVaT2";"LjE5DzpxfKpJiHFQjUQNfroR8zR1";"FsT4TzJ10q8=";"qK0efzTJ";"/sZo8Uhmj4Dh8qdH","Dut3fK/9DLTa","TaTJtIpPXT0m+2hUYG==";"FNh5wq/=","VXTXj2g2q4uXTudd/JTXFTglFTbWX4hmTG==";"+U1xwKp1qst30UuxqstewseJ0ugx0qt5bqdI0TgawqFe","fs0N","iNT4bqdcqKFQiSX=";"T40/0zTmVz8hXXMHX/==";"fUu4+G==","iNThbUJx0/==","/s0ITVeLTPDQiJih","8IGhlTE4qr2M","8Sb8UXahi40zTXQl";"XSgCfHFJiJt4iNJc04u1+XtewseJ","","FsT4TzJ10TF5FNhe0K8=","8IGx8JErqr/h","XNTe0uTc+qFQTNTxisJ5fR==","Wa2R/JRdD2hj","0qpB04TXb2dC0SZr/1==","FsT4FqeJwKT4+UQHjUMe0sX=";"jU1x/Kp1/sheiK8=","FNJJfSFm0N0r0q/=";"DBTrDR==","FaJuV2FW/TFXXaJLTTFuqMpjjT0pT2X=";"0sT4";"lBG=","izd5iSTxbzJWwsgMfH/=";"FsT4XSuxwUMJbSTxFSTN+UQCbSJ5fR==","+UQ1bq/=","FsT4TNu3bUX=","bzJ10/==","izd5bSTIbSTaDSJcbSTxfNu3";"jU1x/Kp1FsTc0qdCw4JciK/=","w4tJTrpM+q0UluTFFz/=";"fUT4wTdJ01==";"0Su4w/==","V2hP+IFXb2CMVItCtUO=","TMdIUVtMwIbXU2MoYG==","+U1xwKp1qsbJbugIwUto0UFWiNTrfKTxwsTW0Su4w/==","tXZ9buuz8uTBF2Z3jUD=";"U2Rx/MJ1YNCaiaeNbsE=","XX3KF4FlTs0mbrpa","lXhF0PJB+48xUUez8R==";"+UMe0sTrXsJ90/==","FXJvluJDFPpltPpM0G==";"iNTZfK0JVSJrb2J40UMr";"TXJcbP8x";"wst4fKdWiKFeiHFJ0G==";"bNTxisJ5fR==";"wsgx0jQVbzdMwK/=","FNJ3bSTxVsd60Ut4i1==","jX1x/Mp/qMF0X2TWV4dkFXtX";"tVpB04O1/Kuo+4MT01==";"FzTZiSTxD2F5fNXR+UORdjOx0Bpr0Ut5fNFr","TuJ/FTgpTuFjjXdTT2TWVaTVT2T2q40pVTgpVaFW/TtVFX4=";"fHTZfSgBfKTc0z8=","wNJ40Nhe0K8x","VSge0LpawqFeD2MJbSuawqFeDSJcDzpebSR9DG==";"fNg4DS0CfN/RjU1x/Kp1VUT4wUFebSuj0UbCiKFxwqFCfsOR+UORVUT4wTt4wqd4lBG=","ia1QYut+i2CVUze6YXi=";"FsT4XSgCfHFJiHtXfMt4iNJc04u1+/==";"0Nh5fKD=","wstKVUuxiseefSJc040MfNt4+Ugci4t5bUQ4","0sh5wNu3vUMJbSuawqFevNFebG==","0sTc0qdCwMgIfSuri1==";"+UM1fSTZ0UQ40UFdfHFJiN0ewsTr","+U1xwKp1qKt4wUt7qs0xwUMJi1==";"+24MtUgu8XRQbzT4";"jU1x/Kp1FsTc0qdCw4t3wqtr","iSux0UQ4";"0NgxfUu4";"VXTXj2g2q4uXTudd/JTXFTgVT2uXjX8=","dq8RkLTrk/==";"0sTc0qdCwMpeiNuZ0qFJiHtm0N0r0q/=","0q0JfHFWwsgMfH/=","FsT4jU1x/Kp1TzJ10/==";"DP4R";"wqT4+Sgx","fSgK0qdWwNgMfN/=","wsheiKtW+UQrbG==","bzJ10XFJ0NJc+qFCfsQrXsJ90/==";"+UQa+UtJi1==";"LjE5DudU/VoR8zRJYLpm0N0r0q/9DPpOdqRRTa29DPpOdqR=";"bzJ10XFJ0at5bUQ4";"+aF0TMut+JdIjJGQ","w4JVYHu5bKiKtNOrXG==","bKXObXQvTSQwfNT9V1==";"isTeiNtoXzFx";"/TpxXMe7bIahF40s0JX=";"DS0e+U1=";"TG==";"iSgCfHFV+qCJ","+U1xwKp1qsbJbugIfKd3+UD=","+UC1lqteiN2O02OQ+G==","tK2x/MdQVNeawKDKbND=","/TeCXuDKwUu6Yqpsw/==","/seefNbJD2J38at1iLpVbSuxbLpp0SFx0qtrDzF5lBG=","fzto+U04";"XSt50N/rXHtNfNdU+XO=";"0qe40qdcDG==","UXdots0HVKeFlUe5XG==","F2T8FaJp8MtDYJuQ+/==","+ruwwUCJw4FaUubDts2=";"jU1x/Kp1/qdxwqJXYqpJ";"F2tZTzi4jzd2lzFM+1==","baFz+NgB/JdOtsJo";"UXbujH0u+HpUiXeNFG==";"VsQ50aeh82d1VJC7wJR=","bSex0UuaqKt4wqFCwMgN+UT30ztWisJ90/==","DL4R","fqCV/XT4/JF2XKtX";"bSux0sT4XsF7TNTxisJ5fR==","t2eTwauMTzbVtHahV/==","iUdj0KpK8SbS/qeN+1==";"Xshatq0pbM8MfItL";"YS03/IT4j4tsjaEKTPG=","TuJ/FTgpTuFjjXdTT2TWVaTVT2T2qMpT/ahd/1==";"XHFdjJJlYP8sX4/4YG==";"wNgx";"0NJJfSFpfNF/wqdefUT40qd20U0ebUh4TNu3bUT2wqFe","iSuxwUMJbSTxFSTNwqT3bu0efzTJi1==";"+qpe+qdr";"bzwQ+sbUTPF1XTuQf/==";"8UJKiTpcVStkwaTkXR==";"bzJ10XFJ0NJc+qFCfsQr/sgMfH/9DG==";"fUT4+SgaXKFeiH/=","jU1x/Kp1vNJ38Nt1iudJ0roR","0q0JfHFr";"Wa2RV2FjDG==";"TXQcFzF88UQDfqu8","+V0e+Hp/U2TTbsFSUG==";"FSTIfsM1+UhJiR==","wTbwUTbB0uuUYauDYG==","bUQx0qt5fz0J0u0CiHFMwUhPwUh3/sgMfH/=","XaTzjXglq4ulV4Q0VXgTX1==","0sTc0qdCw4MJbSe502Jc0STO","XaTzjXglq4tW/JtV","l1==";"wUh3fs8=","0NJJfSFr","f4d6isT8UVe50zpl";"iSgCfHFJiJt4iNJc01==","Wa2OD2h2XBG=","TUQ7fNgKfR==","fNTrbSTaTzJ10qtV+qCJ";"bJCX8KbzYXJzFqeab/==";"XKJrbSTZvJdJ0NhJwKFCfsO=","U2EK+2eSYHtdf43x";"wqF4iNJBbqFJTzJ10TdefNbJi1==","izd5iSTxbSJJi4gN0HtJbG==","FsT4FsTc0qdCwMpeiNuZ0qFJiaeefNF30/==";"+UQr0qd4","bqFCfz8c/UQaiNgC0SJc0NE=";"TuJ/FTgpTuFjjXdTT2TWjXQXFTdS/Xtu";"iNTH+UgcVsd60Ut4","XSuxwUMf","fHTZ","+qtW+UQNfSu40U/=","VSge0Lpt0qFevR==","wKTrbSgZ/qF4iNJBbqFJFsTc0qdebSgxi1==","YTeLFUo1i48MjXtmfM8=";"bqJC/TTPjItUXXMB","XjG18LGHdq8HDPG1","FsT4/suI+STaXNTrfKTxwsT2wqFe";"FNJc0ut4iNJc04u1+/==";"fK8=";"iKFeiHFp0SFxi1==","8L1RUMpPvL81YPeb";"wX1=";"iNbIbzeW0Su4w/==";"lBpfdqtbDG==";"VUuCfJFQiSX=","jU1x/Kp1VUT4+SgaXKpJw1==";"bUQx0qt5fz0J02JciKFefNtJ/su3fup5+UQ40qdr","fHXO8TC4UNJC8N0stR==","TzJ10/==";"iSuI+suH0/==";"jX1x/Mp/qMF0X2TWXI/=";"FsT4FUQ4iHJ/fsJcbG==";"UT07U2QK0UMwiPJCf2X=";"VXTXj2g2q4uXTudd/JTXFTgS/XMWVMdW/TtVFX4=";"wK0+t4JwiNZKbUTjT/==","0sTc0qdCw4MJbSe50up5+UQ40qdr/sgMfH/=";"0sT4FNh5wq/=","tI/=";"/qtr0UMBfza=";"FsT4Vs0NisT4","YXhz+P0Z02to04Twtaw=","0ST30UbebSTqiNu1iSTxi40xfsMlwqFCbNTXf4MefNuH0UFPfKTcbG==";"wseOVXF4jI0XYSgPtG==","0ITh84etFupuTHJ9YUw=","isTeiNtoTsgx0G==";"+UQ4";"+sheiK8=","+q2hjSF9bKeVlX24Fz8=","VUT4+SgaVs0NisT4";"/UFaVSJrbG==";"iHto+U04","TuJ/FTgpTuFjjXdTT2TWXuTLV2JP","TuJ/FTgpTuFjjXdTT2TWX4TpV2T2";"0Su4wTpebSR=";"iSuxwUMJbSTxi4gN0HtJbG==";"wqF4iNJBbqFJFSu4wXgN0HtJbG==";"jX1x/Mp/qMF0X2TWjXQXFTdl/X1=";"wqpCvat3wqtr","Lq1=","F2eel2JVwrbSb2FziR==","F201UJeSlUo1fzFaFR==","F2TLTXi=","+UQ40qdNwUtJiMt4wqd4";"j2TOFSh8TJdvbKC5+u8=";"XudmTugqXaJXF/==","fUFuFXQH/UJs+Ib3";"Dz3RW/==";"l2epXHeh8zbqiMe1","bsJc0SgKiMdMfHFCfUTSwUt4fKdQTSuBfSX=","jU1x/Kp1XSuxwUMJbSTxFSTNwqT3bu0efzTJ";"fNTrbSTaTzJ10qtVbSuxbG==";"jK0TfJF3lT84lz2r81==","wHTCfS/=";"/KFv+JDKFX0CXTFF","0HTcwKFCfsO=","FSo1FTb78SJpiIT7jG==";"bzJ10TgeiNbs","TadQVM0LfVJhjMu3Fzo=";"+UQCbSJefSJ9wqFCfsQuYStJizFCfsQz/4eefNF30/==","+UQ40qdNwUtJiMgIfKTcbG==";"iqiMTr8rYS2hlzTrwHG=";"jU1x/Kp1FNhe0K8=";"qMgHw1==","tKbxTuttXTJswJuxYV8=";"fUT4+Sgai1==","0SJrwqtZ","tuJe+Ue/bVJJtauebG==";"F4huUIe+lXJB0z0e","fSge0udJiKT3bz8=","+UQsfsZJiJp5+UQ40qdr","bUQx0qt5fz0J0u0CiHFMwUhPwUh3XSuxwUMJbSTxXNuc0sTrXsJ90/==";"8XCFfz06Fr0LFuRx","/T81+XTZfqCCisX1f/==";"0u00UUhlFMFZ8sQq//==","US2=";"dq8JixTrdq8Ji1Cn","T4ujVR==","/40wiqbHF4uPT4gv+HR=","D1==","fUT4+SgaXSgCfHFJiHtPfKTcbG==";"FsT4/qdxwqJdfN05","TVFMYXQaVqu++rb0","k/==";"fKbc0qddfNFJYG==";"+U1x/Kp1","DLE6VUT4wUFebS2Rfs0NisT4DPpOdqR6v1==","XSgCfHFJiR==","XqT0XUCsi2gO+4dt";"tSZqiaZ3wMtTtXtN","fKb7XNuCjqFhUVJj0G==";"fUTcbTgCbSTZ","FNJc02eJwU/=","+qtW0sTc0qdCw1==";"0MeFUVDOY2ujlUhT","wshJwqdj0qtMfzFr";"0NZrtMdSXSteiseSXr8=";"/sheiK8=";"fSTs0U1=";"izd5bSTIbSTaDG==";"0qFQiSX=";"XNTe02QMfUdJiat5fHt4","+UQ40qdNwUtJVs0NisT4iMt4wqd4","XSuxwU4=","iNuc0sTr","jqtz0UQJiNJI","0NJJfSFVbSuxbG==","wqF4iNJBbqFJFSu4wTdefNbJVs0NisT4";"fNuZ0XJc0STO","fSTc0KFo";"T1==","VXTXj2g2q4uXTudd/JTXFTgS/XMdVua=";"jNeaTr8hlqp1TuJFt/==";"fUT4+SgaXKpJw4bJfNTx+Utt0qFofsF/fsJcbSTxi1==";"bsJc0SgKiMdMfHFCfUTXYqpJVNuZ0qtm0N0r0q/=","FsT4FsTc0qdCwMpeiNuZ0qFJia0xfsMXYqpJ";"wUh3";"bzJ10Xt5bUQ4","wUFaiNTri1==";"0MuP8XM1jSu9+PJPfao=";"wUh3fstebST/wUbJ";"+K0XFsDKtrdUwNZdtG==","fHbD+qJm+ub6XXt9lVi=","TzJ10X03wUi=";"0sTc0qdebSTVTuD=","bsJc0SgKiMdMfHFCfUTXYqpJVNuZ0qtV+qCJ";"XuuMjKuU+Xhx/40sXG==","0sTc0qdCw4MJbSe50uFewNhJ/sgMfH/=";"jUQ4lG==","0sTc0qdCw4MJbSe50up5+UQ40qdr","XHeKXuCKlU010Si1faX=";"VXTXj2g2q4uXTudd/JTXFTgPV4M/jXhuXJgPV4QXXag8V2T2";"iKFebSX=";"82CDiaJLfuCX+TFTjN3=","bVFXXaJvXaiQlSu2";"LjE5DSMJbSe502Jc0NE9DPpO8G==";"VXTXj2g2q4uXTudd/JTXFTgUjTdXTXu8","X2uj/XMW/TFXXaJLTTFuq4Jl","0NJJfSFtwqdr+Su30UFV+qCJiMtCYNX=","bUJcbG==";"fUT4+SgaFSTN+UQCbSJ5faMJbSe50ut10Utr","TUQrbqp1fKd40U/R0Nhe0K8RbzJ10jpCfBpHTR==","VNg4DztMizp5iH/RbzJ10/==","YU0tlzJCiaJ0jzFNX/==","TuJ/FTgFT4gjFG==","0NJJfSF20U0ebUh4TNu3bUTr","jU1x/Kp1TzJ10XTcbU4=","l2tKl2Z+i2TMfSh9","bzJ10XFJ0NJc+qFCfsQrXsJ90q8=","fUuO";"wHJswUhXYqpJjUQa0qR=";"XaTzjXglq4tmF2TW/Tp/";"0sT4XNTrbUh4i1==","FNOKfURxtNMwjMGO","/JwQ0S0zbVtK8aQ9bR==";"vBo=","0sTc0qdCw4t5fHFe+UQJiH8=";"wNJ4i1==";"FsT4XSuxwUMPfKTcbG==";"jX1x/Mp/qMF0X2TWXMFjjXQz";"b2wQf20MfVJQUHtjTaE=";"bUQ1wUt7";"iKFewsZWish5bugr+qCJ","jX1x/Mp/qMF0X2TWjVR=";"TSg+bUCjT4bstXtq","/UtI0qtr","iPJ3bH0OTqd6Xshe";"+UQ40qdNwUtJVs0NisT4i1==","fUT4+Sga","bUQCfsO=";"/I/18PG18Ppo","wUF6bqt4fKdX+zTc+1==","UqTUjNuL0KC+wIXrbJR=";"FsT4TzJ10/==","fUT4+Sgai4gN0HtJbG==";"LRa5vxp/iNg10qd4+UTr","Wa2ODuduTG==","isTefSTaDG==";"jX1x/Mp/qMF0X2TWXMCpXJdpU/==";"FqJTisb4jXgw8PTpbR==";"wsheiKtdfNFJY2Jc0STO";"fUT4wTt4wqd4";"0UuPtU410HJqbKue";"wsgx0jQTfNJs0qdrwUhr0UuxwseJiR==","fNTrbSTaTzJ10qtm0N0r0q/=","hdPecOZeDStoOfcdDzvecQbc01==","jU1x/Kp1VUT4wUFebSuj0UbCiKFxwqFCfsO=","T2QUwMCz8Uu3FMda";"DLE5DuFQiST20U0dfNFJYPoRdU/=","8JpDbawKTUM8XIpF";"fUT4+SgajUQNf1==";"fsdQjU/rbzFHYuu+w1==";"VJbqi2eZtrTVj2Fci/==";"FsT4jUMe0sX=","fs06+Vu5+rJ6VJoKVG==","bzJ10q8=","0HdJYzG=","bI0LiaFhbMR1f2Q6";"8HbrlPbvXPeKf40Z","wHd5fSeBfKpMf4ZP+2X=","fVRr0qbxV28OXqpHwaE=","+PG4FIGhFaXM","/riQTqD1VTu+8NZhXUw=","FsT4VNuZ0/==","0sTc0qdCwMpeiNuZ0qFJiH8=";"0Nh9Uua4wIuFUP/1X1==";"bSgrbzdCfNi=";"qLX1","isTeiNtoVNuZ0/==";"XPRQXsJCiK2hXst/FR==","jSTe0STx";"laTciKTx0XteiSuI+qFQ","irFViIeVVNRhlTwO";"/sT8XUoK0ItTTN0J","jX1x/Mp/qMF0X2TWTuJ/FXFLUTduFR==","iNbIbzeufHFx+UTr/sgMfH/=";"T2JZUNQ+TqtLiaZ5iG==";"v/==","Wa2OD2MmTBpq8L1RD1==";"fUT4+SgaXNTN0qdJfNtJi4t5bUQ4","jU1x/Kp1vHt4iNJc04FJ0BpI+Suc0sTalBG=";"0STIfSux+UQHqKFQiSX=";"UXE184aM8KT98Hah+R==";"T2gIwJFMfq0BlSgv/s4=";"FJTZ/VT2bXtxiJtQfG==","LjE5DudU/VoRvV2RVs0NisT4lBGZ8/==";"FHd5fTFQiSTlwUMJXSuxisTdfN05","XKFx+UQH/suI+STpiSa=","wqF4iNJBbqFJTzJ10qtPfKTcbG==";"Uxdiq/==";"wKtZXVFB0TXhFIt7";"X4dQbSX=";"fKpJfR==";"0sTc0qdCwMpeiNuZ0qFJiHtV+qCJ","jqtVbSu4+U8=","0NJJfSFm0N0r0qFr","fH8=","+qtPfSJI+sTaTUJLbqF4fsO=","fUT4+SgajUQa0qedfNFJYG==","TsuxfR==","wNJ40NJJfS/=","TSeJD2MJbSuawqFeDz0JiHtCfsOR+q8RisT4DSuIwsgx0SJc0xp4fxp4+SXRjU1x/Kp1Dz0JiHtCfsOclBG=","UTpMlqtzfI04js0pUSE=","j4FjTsFdFNX4FrX1//==";"0sTc0qdCwMdJwKTxisJ5faFJizFo","+UQ40qd5i2FebSuPfKTcbG==";"fNuZ0qt1wUtJjUQa0qR=","+UMe0sTlwUMJ";"lSosFaJKwVJNU234T4X=","fHTZqsM50z8=","UxT9dqtb","FsT4FsTc0qdCw4JciKFr","jX1x/Mp/qMF0X2TWjX1x/Mp/qMF0X2TWjXQ2FTR=","FNJJfS/RfqTrbLpB0jpefBpCfHt4wUQI0jpN+UT30G==","Y2hH8aTm+Hb4buCDt/==","fUT4+SgaXKpJwK8=";"bSg2+Ut4+UgcwqdQ","i1==","0Ho4/TTJXabw0qCC";"iabQbKJttTu1i2CS";"iKFxbUt4DG==","0UQa","iNTrbUh4i1==";"0sTc0qdCw4t5fHFe+UQJiaJc0STO","FzTZi20C0UhaTNu3bUTr";"iNTN+UQJVHTZwNTx";"FsT4FSTNwqT3bu0efzTJFHd5fXJc0STO","bSux0sT4jUQNf1==";"fUu6fKD=";"jqtlfKdZwUhVbSu4+U8=";"FG==";"fUT4wXTc0G==","+UQrbSucwsTWisJ90/==","fNuZ0TF5/sheiKtDwqtoTSuBfSX=","wqF4iNJBbqFJFSu4wTtCYNX=";"bSg5fSd5YLQZwUJc";"+UQa0qR=","0sTc0qdCwMpeiNuZ0qFJiH89DG==";"wstKFHTcwKFCfsQdfNFJYG==","TzdC0U/RbSERiNThbUJx0jG=","izTBfSJI","jqtUwUhC02FebS2=","0sT4XNuc0sTrVSJrbG==";"bSgeiK/=","+U1xwKp1qKFQiSTW+qtWfNTrbSTa";"wNJ48rD=";"0STIfSux+UQHTzJ10/==","VNMP/q0aYN1sYUtuFs4=";"babZUHeJfSglVJCj/R==","bru3wKeHbNJVbSTCbMX=","tTG4fJCH/UorTXejtq2=";"VsdN","/qF4iNJBbqFJ","0sTc0qdCwMpeiNuZ0qFJiat5fHt4iNuCfHFrXsJ90/==";"FsT4FsTc0qdCw4MJbSe50uFewNhJ","izd5bSTIbSTa","fUT4+SgaVUT4wUFebSuDwUQafSX=","0sT4TSux0sT4XSuI+suH0/==";"/Iu8fT8hirFFTTTe";"XN/rtHpC/Vt0/H0T";"bqFCfz8cjSg5+1==","iSuxwUMJbSTxjUQa0qR=","iKFeiH/=";"bqbsFJC4fTaKFIpTFG==";"bX00UTJqYTJp8JTrtSE=";"lSMN0SuUVSF3i4Mm","XaTzjXglq4CpTauWj2TpXG==";"8IGhluEr","iSuxwUMJbSTxiMtCYNX=","XXbD8zu4FXiQXsCXtR==";"XudmTugjFXu2";"8sg+TU0p82arXKeq";"jUQCbSJefSJ9+UQHDSMJbSuawqFevBOc";"XIbtYPtVTXiO0KdO";"iK2xVud8TK/18SMkTuX=","XKFebSJIXsT4TNu3bUX=";"wqpCva0C0Uha","bzJ10Tt4wqd4","FsT4XSgCfHFJiHtXf4Jc0STO","0STIfsM1+UhJ";"fzwxwabmbUa1jUd6";"hdzecOZeDStoOfcdDG==";"wXZUwr8rV4hkTJFqYG==";"iUQmfsek/TuDYSem//==","VNuZ0XgN0HtJbG==";"+U1xwKp1qsurisTZwNhQqsbJbug4YqpJqseefNF30/==";"+UQsfsZJiaJc0STO","XKFebSJIFsT4TNu3bUX=";"bIJJVHpzUu0U/NFZ8R==";"jX1x/Mp/qMF0X2TW/4MmFugmXu/=";"fNTK";"/ITDfNoxXUCxfNM8bV8=","bHFewNhJVUT4+SgaiMtCYNX=";"FaJuV2FW/TFXXaJLTTFuq4uVX4Tt/ah0";"8K/riNCwTJCNjUJNlXo=","/4R18XFT0XbewUd3","vLpfXIG3D1==","vNtr","iNTs0qdr0TpdfH05+sTqiNu1iSTx/sgMfH/=","FKe/0sghVJbSUTC3lG==";"8jO1vI/=";"0si=";"jJbqjqGsbSFH+uFvbaw=";"VXgvtMbU/Hp/fzJ+tIa=";"XSu4+G==";"fUT4wUFebSuTisuH0XhCiKFrVs0NisT4";"TNJdbJuDTXC2X4Or0KG=";"TPuutudP+TbwVHtq","bzdlUqJXfSMXb2MdFI8=";"U4gMbu4R";"FsT4XSgCfHFJiHtXfMt4iNJc01==";"fUC0+2TkbMbzYVpHlUR=","0NJJfSFm0N0r0qFr/sgMfH/=";"isJJfqF0wIdNXTJ2fzX=","fNTrbSTaTzJ10q8=";"jqtz0UQJiNJIXSuxwUMJbSTx";"jX1x/Mp/qMF0X2TWjV2=","+UQ40qdNwUtJqsgN0HtJbztWwsgMfH/=","iKFx+UQHVSJ40qdefutCYNX=","+zTH0/==";"jU1x/Kp1TzJ10XFJ0NJc+qFCfsO=";"bNgC0G==";"dq85vxpPbqt4fs4RwqF4iNJBbqFJixpNfKDRbNTxisJ5fBGAmjGxljpcfK/RiKT1iSgxbSTa";"/se5fKtJTNTxisJ5fR==","iSuxwUMJbSTxXKFeiH/=","0NJJfSFj0U0rVs0NisT4","isT4","Lq1ZXJ0plBGZ8jpm0N0r0q/9DL4h","UHdMUqCSYPF4XPtCf/==","/TdhfSCJXVGhTzCktrD=";"0Vbr8K0+0sCljs09fG==","+U1xwKp1FUQa";"0UhJfUTcbuFQiSX=";"iSgCfHFJiR==";"iK0BjUTzTUE1iubV","XsTeiNto0qD=","XsT4TNu3bUX=","0sT4FNJJfSFm0N0r0qFSiNgZjUQa0qR=","V1==";"8Pb6jau2YSEQTTJkT1==","wKTrbSgZ/qF4iNJBbqFJjUQa0qR=";"fSge0S0CfSX=";"iKFx+UQHVSJ40qdef2FebSum0N0r0q/=";"b4eK0Jt6iTFFYXZUXR==","0HdJ0qCJ","qMgcwUMJ";"FaFsFqT8TqtUFNwK";"jqtpiHdeY/==","TSe302gp+Hd50Ku/FR==","Wa2OD2h2XRaR","fK0JiHdC0SXR";"bzJ10XMJbSuawqFejSuc0ShJ";"tVbs0ruvtsM6XXdOVR==","jU1x/Kp1XSuxwUMJbSTxFSTNwqT3bu0efzTJU1==";"bHFewNhJVUT4+Sgai4gN0HtJbG==";"XR==","wUhJiH/=";"iuedUToK+Iu++qu2VSo=";"iKp3+qFWwsgc0NJHvR==","X1==","b4TVTrJ8TupZ8sMDj1==";"dTR=","wsgc0NJH","izd5bSTIbSTaDSJcbSTxfNu3DG==","VXTXj2g2q4uXTudd/JTXFTgS/XMW/XQ2q4uVX4Tt","Wa2RXMFjDG==","jqtpwHt4iNuIbG==","fNuZ0qt1wqCJ","0q0JfHFrVs0NisT4";"vG==";"TXJcbPw4";"VXTXj2g2q4uXTudd/JTXFTgtFXMLFTdW/XtPFTtVq4MpX43=","jU1x/Kp1Fsh5wNu3VUT4wUFebSuD0Uua0qD=","lUOKtNR4tutZwHd7jVX=";"wsgx0jQt0qFe","trTCtTp1tMbQFaDhiG==","w4t9bUttlVTq+SQelG==";"XaTzjXglq4tWF2uX//==","tKtKVVdXtX0t0ztlF/==";"vR==";"/reKUTCSFah2+NM6";"iKFx+UQHXsJ90/==","+Hd5fJ0JYzCF+abp";"jUQCb2QefUTXf4t3wqtrjSur+uFewNhJ","bzes8K8OVSdZTSgZXI/=","fNu4bqdef2u3+UbZ0UQ4";"FaJuV2FW/TFXXaJLTTFuqMpT/ahd/1==";"8sDKj4hajzpal20HfzD=";"FsT4VNuZ0qt1wUtJ","FsT4VNTrbSTaTzJ10q8=";"bsJc0SgKiMdMfHFCfUTVbzdCfNbrXsJ90/==";"FsT4FsTc0qdCw4t5fHFe+UQJiJpeiNuZi1==";"iSux0UQ4jUQa0qR=";"fUT4wUFebSuTisuH0XhCiKFr/sgMfH/=";"wUhC0sO=","8IGx8uEx","Wa2RV2FjLjpj8L1RUMpPq/==";"Vs3=","jqtUwUhM0TFQiSX=","8zRJUG==";"TuJ/FTgpTuFjjXdTT2TWVagXqMpT/ahd/1==";"W/==";"/sgMfH/=";"jX1x/Mp/qMF0X2TWXIR=","0HJ002ZMjXMjUzCz","lUTqFH0rVMJotPdhX/==";"XuJXjNXMUTTcTSt1+N1=";"wTTFTStK84eL8HdN";"XNTH";"iSuI+suH0XQefUX=";"iHTcbSJZ0/==";"jX1x/Mp/qMF0X2TWTV/=","wJTFbToKfrG4t4Fe";"+UMe0sT20Uw=";"XuT7iaMc/KdQVsgVFrw=","0sTc0qdCw4t5fHFe+UQJiHtV+qCJ","isuc+qFQ","/M/10Md+iJezfJuJbaa=";"FsT4/su3fSJc04JZwUbJ";"FzTZiG==";"/Ng5fSTefR==","+MpF+T8O+MJDV4ux","VXTXj2g2q4uXTudd/JTXFTgpXMtuV/==";"UabLfrev+rFktrJj","LR==","bzJ10XJc0STO","jU1x/Kp1Du0JiHtCfsO9DG==","bzJ10XFJ0NJc+qFCfsQrXsJ90VoR","FuJLtruStKeZU231+1==";"0sTc0qdCw4MJbSe50uFewNhJ","jsIPZSQHDzVP7S4RbSIec6TQDSt5fBp4icSnIxp4Of6e+jP2aYSnBs2RwsIecOa9DPpOdTR=";"/sD=","bzJ10XFJ0NJc+qFCfsQrlBG=";"/M2sFTp+FXTeV4dhiG==","jX1x/Mp/qMF0X2TWVXg2jX0dFTD=";"jU1x/Kp1/qdxwqJLfKTc0z8=","tHtOTITXjzdL+U21wNi=","jX1x/Mp/qMF0X2TWF4TlFTdd/4JlXM/=";"iNTH+Ugc/sheiK8=","8Ppolr8x+P3r8SRn8zQA8P31WHO1lrdu+P31WHO1lrdu+Po9l/==";"iNbIbzeVbSuxb2Jc0STO","VMe3Xq0MT4tV+4exw1==","iKTB";"izdCbNu40jG=";"fUuxiseefSJc040MfNt4+Ugci4Jc0STO";"+UQ40qdNwUtJDG==";"jUMe0sX=";"iNbIbzeufHFx+UTrVs0NisT4";"/shv+XJm/TTPVaJVXsE=";"0q0JfHFrXsJ90/==";"fUT4wUFebSuTisuH0qtPfKTcbG==";"wHJ40/==";"bSuBfSX=","82TpTTas8suj04QLi/==","LjTrdq8Rdq8RYxGJiK4=";"UMtJiNJefSJ9wUd30T4=";"bSE=";"wUFaTSgj0qtMfzFr","jU1x/Kp1XsTeiNtoXSgCfHFJiIo=","bUQCbzJWbqtJiJgawqFe";"fUJc","wqdZTzJ10/==","XSQhUz0mFPbJUVeFwR==";"8Sh10agq0TTDiKT6","fUT4wUFebSuTisuH0q8=";"bzJ10XFJ0NJc+qFCfsQrVs0NisT4";"FNJc02b3fsdef2MJbSu2wqFe","iSuxwUMJbSTxFSTNwqT3bu0efzTJiMtCYNX=";"fUT4+SgaXNTN0qdJfNtJi1==";"fUT4+Sgaqst5bUQ4","FaJuV2FW/TFXXaJLTTFuq40pVXJ8U/==";"wsurb2t3wqtr","ts0NTaFNVSw4VM0N","YN0IVV0wTsejFaMj";"wT0ZF4QUjNQHFSgBt1==","tsbjV2COlXE1l2QxfUR=","VaihUzpa8VdMfPb/";"fKpWiNT4bqdc","TSg5fSd5YG==","+rRrU2Co8N11+abhTPw=","qMgCfNFJYG==";"+UMe0sTrVs0NisT4","lUQaU2oKTH0oTz03fR==";"kG==","jX1x/Mp/qMF0X2TWT/==","0NJJfSFrXsJ90/==","isdQbSX=";"FId4XzGxbKFUFaZH844=";"TzJ10UFj0U0JiNTcwsX=";"wstKVUuxiseefSJc040MfNt4+Ugci1==","iND=","jX1x/Mp/qMF0X2TWj/==";"0X1hUudptMuVlTdJ0/==","8VpH/JJK0V0vF4FDwR==","isTeiNtoXSgCfHFJiR==";"fs0NisT4";"jqtl0qt40U/=";"0qe1fKd40UFXYqpJFSTN+UQCbSJ5fHtV+qCJ","isJ90q8=";"isJ90/==","Xzd5iSTxbza=";"0sT4TNu3bUX=","jqtdfN03wqFJ0G==","0sTc0qdCw4t5fHFe+UQJiHtm0N0r0q/=";"XSZ0T4Ju+Ugx82Z8bG==","bqFCfz8cFzTZiG==";"m2M50zT30VO=","0S3KjrtkFXeqTXaMl/==";"fUT4+SgaXKpJwKtPfKTcbG==";"kR==";"jU1x/Kp1FsTc0qdCw4t5fHFJYz/=","0sh5wNu3VUT4wUFebSuD0Uua0qDRwcSnBxpZ198R+SyPojpHfSgBwUht0qFe0Su4wXeJwUFJiBpZOfcf+jP2ai+1OfcIwxp1+8lebLpo+YSnesO9DG==","0sTc0qdCw4ua+HTrbSgxTSeMfNZr";"fsglt2gVjrppXqJT04O=";"0STNwqT3bu0efzTJTzJ10/==","FsT/04Fef4ws8sZxjG==","+qtWfUT4+Sga","84gB8TFI/V8Qbzis";"UVtVwJiQtNCZF4JPF/==";"fNTObG==","fUT4+SgaXzFx","baZHiaTufSMa+SJV","+XuKisFcTsZhjKXhUG==","bHFewNhJqst5bUQ4","XaTzjXglq4gXj2Tj","+U1xwKp1qsbJbugc0qt40UFWbzJ10q8=","U1==";"wNCL/VpawItP/XJlfIR=","+UOR","FsT4/UtI0qtr";"bNJxbzTefLG=","FsT4FsTc0qdCwMFQiST20U0CfNJ4+Ugc";"wsga0XbJfaM50zT30qtPfKTcbG==";"jqtVYqt40UMj0U030Ut4+Ugc/qtr0UMBfza=","FsT4/sgxfSJB";"mR==","/JRdD2hj";"LjTrdq8Rdq8JixTr","jX1x/Mp/qMF0X2TWTV2=";"FrtDtX/1VNbPjVJCXa/=";"0sT4VUT4+SgaXSgCfHFJiR==";"jNho0KeZlUTO/qp+";"fPTutUZ6/TCajK0BXri=","jX1x/Mp/qMF0X2TWFaQ/TuD=";"0KTC0z8=";"0UQaXNTrbUh4i1==","jX1x/Mp/qMF0X2TWTVD=","fsd60Ut4";"fNu4+q0JqKtCYNX=";"X4JzVJguXTTpVG==";"lSJMXHb9TT0KbNOQ0s/=","wsheiKt/fsJcbSTx","jU1x/Kp1F4i=";"0uTH/JC+bzwO+20wi/==","fUuxiseefSJc040MfNt4+Ugci1==";"fUT4wTp4iR==";"jUQ4XzFx";"jX1x/Mp/qMF0X2TWX4TlT2JlFX1=","+UMe0sX=";"FNJJfS/RfqTrbLpB0jpeDSQ5iNMefLprbSu4+U8R0NJJfS/=";"iKFx+UQHVSJ40qdef2gN0HtJbG==","bzJ10XFJ0NJc+qFCfsQr";"/UQa";"jUQCbG==";"TMb2Uu21UqtDTaFN";"i2t50STj0UbCiKFxwqFCfsO=";"bSF1U2gkbMuvb4eD","+UQ40qdNwUtJVs0NisT4i4gN0HtJbG==";"8rpX0aCx8UCcw4J/";"jX1x/Mp/qMF0X2TWTagdFG==";"0Nhe0K8=","0KCqVP8xbrpD0K21UR==","XqTDfsZmwKiM8zbHjG==";"fUT4+SgaFSTN+UQCbSJ5faJc0STO","wqpCvJpeiNuZ","8zuHtNt5t4wMYVtw/ai=";"FNJJfSFdfN05";"wsuI+STaqst3wqtr";"02T+YIeUXV0ZU2dQX/==","/HJ40/==";"bzJ10TtCYNX=";"FzTZiSTx";"0sTc0qdCw4JciKFr";"F2CHUTC70NFDTatNFP/=","iNTN0qdJfNtJ02urisTZwNhC0qtm0N0r0q/=";"FsT4VUga+U0C0qdr";"jXQSV1==";"/MC7VquTfPbJTNur","0sTc0qdCwMpeiNuZ0qFJiJt4wqd4";"iKFx+UQHFSTNlBG=","isT4TNu3bUTr";"FsT4jUQa0qR=","FNJOTNu3bUX=","wsu3fG==";"DPoRdq8=";"iSJcfNTa","jX1x/Mp/qMF0X2TWTau8TXTXUTpu";"Vsd60Ut4";"FSTs0Uh5iSTx","TuJ/FTgqVMd2","FsT4FNJ30XQefUX=","TuJ/FTgSV2gpTG==","0Mw=","iKFebSJIqs0C0UhaiMgr+qCJ","iSF4fu81YuuMi4tLX4O=";"iNT1","FsT4TzJ10XFJ0NJc+qFCfsQSiNgZjU1x/Kp1TzJ10/==","fUT4+SgaVUga+U0C0qdr";"82QFYSwx0TTIFIup","iNTcwUMJ";"fUT4+SgaiMtCYNX=","8NCNTaZ/XSZMbX2rl/==";"VPpPbVdCfTos8uCjtHR=";"Xzd5iSTxbzJdfN05";"iNTe0SgcfzaR","FsT4FSTIfSux+UQHVUT4+Sga";"FSgMwNhJ","UM4=","0ST30UbebSTqiNu1iSTxi40xfsMtwUQe0sTaTSglwqFCbNX=";"wqpCvJFQiSX=";"wsheiKtzF1==";"Fzuz+4haYXQjYUQv";"bXg9FHtMXX2stuCBw/==";"fTd9tUZJVNEs0NZr8u2=";"jUQNf1==";"wsgcbSTObG==";"fI2riU0jwXtI/q0hV/==";"0NJJfSFtwqdr+Su30UFV+qCJi4gN0HtJbG==","/NZ/T4ZC+aaQjahI8/==";"TI/stPJMlTJM/UMF0ai=","jUQ4tI/=";"jX1x/Mp/qMF0X2TWTauj";"jU1x/Kp1va0C0UhakztJwqdI+upeiNuZixa9DzpeiNuZDztJwqdI+upeiNuZixprbzdCfNbEfHTZwNTxWzFewNhJD20C0UhaDSQefUXRfKDRwUFaiNTrixp5iBp4wUd30jpe0SFx0qtr";"fUT4+SgajUQa0qR=";"LjE5D20C0Uhai1==";"0zJ6TagIUutLwIarlP/=","tsQ/TUFsjSMJFuFQ0R==","isT30Ut4","wHTCfS/5jU1x/Kp1F4iZTSg5fLQ3bU2=","fUT4wUFebSuTisuH0Tpe+qdrVs0NisT4","fSgK0qD=";"LRa5vxpt0qFofsFr","fSFJYzG=","DR==","VMJzf4Zrt4F+iTCCjPX=","VUT4+Sgai1==";"0KTC02Jc0STO";"FI8rXVF+bKedFVJ+8Hi=";"FSTBbUi=","0sTc0qdCw4t5fHFe+UQJiR==";"iNT4bqdcTzJ10/==","VTbu04FmiHbl+Sta0/==","bzJ10XFJ0JtCYNX=";"0Nh5wq/=";"XKJrbSTZ";"TXJcbP2s","X2uj/XMW/TFXXaJLTTFuq4gTTG==";"FzTZiupeiNuZTNu3bUTr";"0sT4jUQ4";"+UQ40qdNwUtJiMtCYNX=","LBE5D2QefUTriSuI0VoRdq8=";"TSgD0qR=";"lVuz8TpOYup8tMpL","LjTrdq8JixGJixRJixaJi1==","jPe1fzJXFaCMXudJUG==";"0sT4VUga+U0C0qdr","VXe3fHwxYIXQjNdd";"+U03wUbr";"Yzt+Yq0J8zT3jPbjizG=","FsT4FNJJfSFr";"FzTZiSTxD2JcbSTxiHT1bSTalRokvjp2fsQJlBG=","iKFx+UQHVs0NisT4","iShebS05iN4=","bSex0UuaqKt4wqFCwMgN+UT30ztWfs0NisT4";"FsT4XSux0UQ4","XzFx","TSQNtUdMVNQOjqdzi/==","jUQ48rD=";"lubMlu/sXX2xiU0B";"bzJ10XFJ0NJc+qFCfsO=","fUJc+UMMfXu3+UbcfUTcbG==";"FsT4FsTc0qdCwMpeiNuZ0qFJiaJc0NE=","tH0Jt2E4iH810rto","t4g5w4gLtNTxfUdvFG==";"kLTakxaJiLRJ0L3CdqGodU/7k/==";"UNah02g2bsdcTKdp";"/s/=","/qpC";"wKTrbSgZ/qF4iNJBbqFJ/sgMfH/=","bUQx0qt5fz0J0u0CiHFMwUhPwUh3XSuxwUMJbSTxTzJ10qtm0N0r0q/=";"TX0Pt4tLUXQcjabp";"0a0TTaFubPdH+reaf2D=";"FUQrbqdJ/su1wUtCbza=";"0SgMwNhJ";"/MeQbJel8PixjHpaX41=","VUT4wUFebS2RiKT1iShC0U/R+q8RfNg4DS2RiKT1iSgxbSTaDz0JiHtCfsO9DG==","FsT4FNhe0K8=","8UbjVr/MjMFOF20h";"iNbIbzePfKTcbG==";"+stSX4tdXX/1f4dQ/TX=";"0sT4TzJ10XQefUX=","jUQ48Vw=";"TuJ/FTgpTuFjjXdTT2TWVaTVT2T2q4uVX4Tt/ah0","lTwsX2tJtMFr/JTl";"0sTc0qdCwMpeiNuZ0qFJiat5fHt4iNuCfHFrVs0NisT4";"FsT4XsJZiShJVNuZ0/==";"+U1xwKp1XKFeiH/=","FSTN","0NJJfSF20U0ebUh4TNu3bUTrXsJ90/==";"VUT4+SgajUQNf1==";"bUQx0qt5fz0J0u0CiHFMwUhPwUh3XSuxwUMJbSTxTzJ10qtV+qCJ";"lR==";"jU1x/Kp1vHpt0qFe0Su4wTdJ0sJrbzdebSJ5fBQ4YqpJi4t5bUQ4lBG=","0qe1fKd40UFXYqpJFSTN+UQCbSJ5fHtm0N0r0q/=","dqtfdqtbDLE5DudU/VoR8zRJYLpm0N0r0q/9DPpOdqRRTa29DPpOdqR=";"0UhJfUTcbugIfSuri1==","i4MO+Ut88Je08ITDUHw=","vxERjUMe0sXRdU/9DLTrDL4RdU/k","bJbPFNZS/VpatKwQtI/=","wqF4iNJBbqFJi4Jc0NgPfKTcbG==";"iNwMtuCeiUR1iqJr0aa=";"wqF4iNJBbqFJTzJ10q8=";"wsgx0jQdfPdPizG=","hdzecOZeDStoOfcdDzvecQbc0xp319GRisu5m1==";"VUT4wUFebS2RTNTxisJ5fIoR","tKCuTUTLXNhDFPeIj/==","wqpCvaMJbSe50G==";"jqtVbzdMwK/=";"isT4fUT4wqFewNhJ","0sT4/KTrbSgZ/qF4iNJBbqFJjUQa0qR=","wqpCvaJZwUbJ","iMDswMuFXPdM/4Td+42=";"bzJ10TgeiNbI";"fUgc+qF5iR==";"fzCXXu81XretFse7+Kw=","isT4lxG=","0sTc0qdCw4t5fHFe+UQJiH89DG==","iSu4+G==","iKFebSJIqs0C0Uhai1==","/sR=";"FNQ6bMpNwqirFuu/wr2=","jsIPZSQHDzVP7S4RbSIec6TQDSt5fBp4icSnIxpI+SERflSnNKGRdq8RdU/=";"8IGhlTE4qrDh";"jU1x/Kp1FNJJfSF20U0CfNJ4+Ugc";"jU1x/Kp1vNMJbSuj0Ui9DG==","+4F7TX04wVtC+VtmfG==","bzJ10qtPfKTcbG==","8uF8taQoYTX4bqe/XG==","0qdxfKD=";"Lq1ZXJ0plBG1YLTOD2gN0HtJbPoR8zRJYLpU/VoR8zRJYG==","8IGx8TEx";"0sT4/KTrbSgZ/qF4iNJBbqFJ","0NJJfSFdfNFJYG==","VXTXj2g2q4uXTudd/JTXFTgp/JtXXauPTG==";"fU3QwXErtuaQFMdt";"0ST30UbebSTqiNu1iSTxjUQa0qR=","iSuxwUMJbSTxiroR","iNTNDG==","0Nh5wqFXf4JcbG==";"iKFebSJIDG==","bzJ10XFJ0NJc+qFCfsQdfNFJYG==","FsT4FSTIfSux+UQHTzJ10/==","+UQ40qdNwUtJi4gN0HtJbG==","iKFx+UQHVSJ40qdef2FebSuV+qCJ";"TuJ/FTgpTuFjjXdTT2TWVaTVT2T2q40pVXJ8U/==";"+UMe0sTPfKTcbG==";"UNaKiVpTTHJlfsh9";"t4uBVrdrbKtT/Kbl8/==","wrFTj4g2fuuU0KbeiUw=";"FsT4XSuxwUMJbSTxFSTNwqT3bu0efzTJFHd5fXJc0STO","wseeiR==";"8XQLVMCJFruL8HTJTR==";"fHT3fG==","jUQCbSJefSJ9+UQHDSJ38Nt1iLGcvBO=","wUt4bUu3XsJ90/==";"jU1x/Kp1/sgciKFefHFr","bSeCiMgeiNi=";"0NJJfSFrVs0NisT4","wsheiK8R","bzJ10XFJ0R==","FaJuV2FW/TFXXaJLTTFuqMtX/TFd/1==","qMgIwUto0/==";"FsT4FNJJfS/=","fKpW+UQ4";"jT0V8NQSTXdBwXCZ";"TUbwiIF1UTF1V4dI","jMpxiU2QXUJ4FMGM0r2=","XjGHX4FvqMTc+qFQTNTxisJ5fBi=";"jU1x/Kp1";"8Uh/tIpDjXtDbPpmtMi=","jX1x/Mp/qMF0X2TW/4epXR==";"FUQMf/==","FNJJfSFr";"UG==";"wseeiH8=","+PXhtrGx+Kp6fShCFs3=";"0STIfSux+UQHTzJ10XJc0STO","jUQCb2QJiKFJ0uFQiSTr";"/UFaVNTrbSTaTzJ10qtXf4eeiseXwUd30/==","8aor8MbKFPihFTosTG==";"Xue5waDQ+uJS8Ud+baw=","//==","VUT4w/==";"FsT4Xzd5iSTxbzJr","bSg70UQ/wqdef/==";"wqDM/JbpVqdwiHul","iSuxwUMJbSTxi1==";"fUT4wUFebSuTisuH0Tpe+qdr/sgMfH/=";"fXC0XaZNUP0MYSeCFaX=","wsgMfHFDwqtoTSuBfSX=","jX1x/Mp/qMF0X2TWXuFj";"isD10XJwwITVjaM1","YXMStqddfSOQi2bh";"wJCqiUeZTueUTJFt","Wa2RVXgUTLpj8L1RD1==","fSJB+U1xwKp1vHt5","0NJJfSF20U0ebUh4TNu3bUTrVs0NisT4","FsT4VHTZTzJ10q8=","8PF3Tzdr8UJw+rGx";"wNJ40Nhe0K8h";"TJCCtsesb4eLXsJSYR==","isT4TqG=";"Wa2ODutXXBG=";"VXTXj2g2q4uXTudd/JTXFTg/XaJU/TFu";"FsT4/sheiK8=";"fSgH","TuJ/FTgpTuFjjXdTT2TWX4TjjXu8jTCp/ahu","jX1x/Mp/qMF0X2TWVT0pXR==","0sT4VUT4+SgaXKpJw4QefUX=","/sQu/I0a/MbB+I0L","0STsvKCJiNE=";"vLpfUPG3D1==";"0NJJfSFj0U0rXsJ90/==","+UQ40qdcwU1R","izd5iSTxbSJJiMtCYNX=";"FsT4XsJ90/==";"iSuxwUMJbSTxiMgIfKTcbG==";"izTBfSJIDG==";"0rDs8IbCfVRM8Iedw1==";"fI08YNFJfS0ZTsuo","FsT4FsTc0qdCwMpeiNuZ0qFJiR==";"VItaTTe50qG4jUX1iaa=";"iNTe0G==";"vB4JvNF3fG==","iMpMX4ut0VuZj4Ms";"UUTeiR==";"wX0dTuJ6fHTT+JdQfR==";"isT30R==";"0qeJwKT4fKD=";"jU1x/Kp1vNJZwUbJXsJ90VoR";"XSOMVMC7VPbKjqbk";"jU1x/Kp1FsTc0qdCw4MJbSe502Jc0SJI0q8=","THFjfupBUzbN8MGx","wXFk0SMvYXF0/TCSTzi=";"wNg5fG==";"wqF4iNJBbqFJFSu4wTdefNbJXsJ90/==";"0riQF4d7fsurwa03YR==","jsIPZSQHDzVP7S4RbSIec6TQDSrecQZ1DLTrDzFxfsQHDSb3fsdefLMZ0qFe0Su4w/==";"0sTc0qdebST8FuD=","VNg4DztMizp5iH/RbSeCixpCfPdIizGRbNTxisJ5fR==";"8PTXFXdFjVTOiXeCYa8=","wsT6YIppXN3M8VXK";"FsT4FNJJfSF20U0CfNJ4+Ugc","bNtTFMpm0zFh/UQptG==";"fuTIirJwVst0jzt/";"bSJZ0/==","FsT4Xzd5iSTxbzJ20U0CfNJ4+Ugc";"iNT4bqdcXSuxwUMJbSTxTSg70UO=","bNZNwHpaFPu8fXdh0/==";"+XRQiUFZT4JUT4FFTqw=","YIpLfVbD/KdF/4w4";"+U1xwKp1qsurisTZwNhQqsbJbugJYzp5iHFJ0ug4YqpJqseefNF30/==";"TTJFjUZzYudrjUtQ","0q0JfHFVbSuxbG==","mG==";"FsT4TSg70UO=";"TzdQFsT4FSTNwqT3bu0efzTJ";"FsT4VUT4+SgaXKpJw1==","jU1x/Kp1Xzd5iSTxbzJ20U0CfNJ4+Ugc","FsT4jUQ40qdNwUtJi1==";"iNbIbze2wqFeFzTZfqa=","VVJhjVJh0udz8HTqUaE=","jX1x/Mp/qMF0X2TW/Tdj/Ta=";"+UQ40qd5i2FebS2=","jU1x/Kp1Dut4wqd4D2ua0zdJiK89DG==";"bUh5fNi=","jX1x/Mp/qMF0X2TWjVD=";"VXTXj2g2q4uXTudd/JTXFTg/jXQUV4Zuq4JtX21=";"XSu4+PoR";"+UMe0sTV+qCJ","wst4fKdW0NJc+qto0U/=","bzJ10XeC0qdeiNtoY/==";"/KwQf2o4+XJ9jUJlTSw=";"0sMebSto","FsT4XNT4bqdcTzJ10/==","YUQ4+ItTF4iK+s0U8G==","FsT4VUT4+Sgai1==";"VJexVUg6b4Z0bNuz","i4up/sF18uF+bXe8jXX=";"v1==";"FsT4XSuxwUMJbSTxFSTIfSux+UQHTzJ10/==","jqtufHTZ","iKFx+UQHFSTN","jU1x/Kp1FsTc0qdCw4t5fHFe+UQJiR==";"fNTrbSTaqKFQiSTWwsgMfH/=";"lPDsVUu0bI0DVJJ1/R==";"T4dlTNw1YabOXzeP+so=";"wHJx0Uw=";"8IGx8JEx";"FsT4jUQrbSucwsTV+qCJ";"+qtVYauxiNuQ","iSuCiH8=";"0NJc0G==","vLG=","U4JcqjG=";"fXEhw4070q8xfJTk","/cS9osQHDSbC192RbzvecO3RicSnJsQH","bzJ10XeC0qdeiNtoYXFJizFo";"0qe1fKd40UFXYqpJ/sgMfH/=";"taF58SdTFSdctHFlFG==";"8UExiSFFtURhUNe4";"iNuc+1==";"FsJH+zeBt43O8Hp3+4O=","/VpD8MbTbSF7/Udl","iNTN0qdJfNtJ02urisTZwNhC0qtV+qCJ";"XNTe02t5fqpx0qtr0UFTjUQ48rD=";"0stW0STrw1==","TqFNluF5XKFx+UQH","0ubIVKuSjNTI0NC9";"Yu8OYNeFT2FafHCK","VSTX+SaQF4i=";"8IGhlTErqri=","bzJ10XFJ0NJc+qFCfsQrXsJ90qtPfKTcbG==","FVe8TaQMVMpUbUTjfua=";"TXJcbPR=","bsJc0SgKiMdMfHFCfUTSwUt4fKdQ/sgMfH/=";"i2hm0Het8NtVlPps8rR=","FsT4TzJ10XTcbU4=","qjp3fsuaDS0xfs4RwUFaiNTriroR";"bsJc0SgKiMdMfHFCfUTVbzdCfNbrVs0NisT4";"FsT4VUT4+Sga";"+4dCb2JrFUQMf/==","bNTxisJ5fat50SX=";"8KoOVsMvbVdUTUumF/==","lNJ38Nt1iG==";"TSd4+Jbq/Tbqjqe3/R==";"wHJx0U0XYqpJjUQa0qR=";"bSg70UO=";"TNJxbzTef2JcbNg70XFebS2=";"buX40I0xUNCTtIT+F/==","hdPecOZeDStoOfcdDG==";"FTeXqMtXVMdpF4X=";"D2t3wqtrvRoZD2t5fHFCfHTJm1o=","tI01+adpjqCzU2Ch01==","Vs0NisT4","0STBbUi=","Ljo5";"XjGHULMTfNJ4YjMU0qdr+UgclBi=";"fNTrbSTa","vNF3fG==";"jU1x/Kp1FsTc0qdCwMpeiNuZ0qFJiR==","jX1x/Mp/qMF0X2TW/4MmFugjFTu2","FaJuV2FW/TFXXaJLTTFuq40dFXh2q4uP/4TVXMgt/Ttv";"0sT4XJ0p";"ise5iH/=";"qst5bUQ4","jqtPfSuri4tewseJ";"/XhkfNb6V4hqVz/s";"XHJ0fKCeVSOxTXZD";"wqF4iH8=","b1==";"FsT4XKFx+UQHFHd5fXJc0STO","fUT4+SgaqsJciK/=","iKFx+UQH";"jX1x/Mp/qMF0X2TWjV/=";"FsT4jUQrbSucwsX=","/s2=","iSuI+sJc0MtCYNX=";"/qux8TpQfId8FqeHUG==","izDQVVbjTq0MlXhhwVR=";"VXTXj2g2q4uXTudd/JTXFTgUT2uLV2TWV2u0VMTXq4MpX43=","jU1x/Kp1VUT4+SgaFSTN+UQCbSJ5fR==","wqJ1XuCQfUgkVudOVSa=","V2Z7bHJ08JXrVsg88SR=";"bUQx0qt5fz0J0ut4wqFCw4tefSh/fsJcbSTxi1==","hdPecOZeDStoOfcdDSIPoS4RicSnJsQH";"izd5iSTxbSJJi1==";"+UQCbG==";"d/==","+UQ40qdNwUtJTzJ10/==";"/sbFUq038Hu/VNg8","0sT4XNTrbUh4i4t5bUQ4","XNTe02t5fqpx0qtr0UFdfH/r8R==","jU1x/Kp1/sga0TdJ0sJrbzdebSJ5fR==";"jqtdfHt4wUQI0/==";"/qdJFquMwU1=","mLO6","isT+X4Z8VKC0/aeNfR==","wqF4iNJBbqFJi4Jc0Ngm0N0r0q/=","fUT4+SgaFSTN+UQCbSJ5fR==";"jU1x/Kp1XHTcbSJZ0XJcbSTx0NuI0XgN0HtJbupe+qD=";"bHFewNhJXKFeiH/=","0NJJfS/=";"jU1x/Kp1XabPTue2wqFe","VSyec6uCDS03wUbrDSZo1nFc0xpoOfcIiLp3OfczlBG=";"FaJuV2FW/TFXXaJLTTFuq4hdT2Tj/X1=";"iSu4wsR=","iSuxwUMJbSTxFSTNwqT3bu0efzTJi4gN0HtJbG==";"fNuZ0/==","FaJuV2FW/TFXXaJLTTFuq40pVTgpVaFW/TtVFX4=";"fKT4izT4";"fs0MlP0C+Nuufuex","YPw4";"+SirX2TtFa4sVJuktao=","wsgMfH/=","0KtMwR==";"0sTc0qdCw4t3wqtr0qtPfKTcbG==","VXTXj2g2q4uXTudd/JTXFTgSjXQpVG==";"FsT4XzFx";"VUT4wUFebS2RXKFeiH/R/UFaiNTriroR","jU1x/Kp1FNJJfSF20U0ebUh4TNu3bUX=","V2ExYNMpjHTlUTJv";"L/==";"FsT4TzJ10XFJ0aQefUX=","wNeutXt/XMTa/saMTqi=";"/MJ08SMsYaua+KFu8aa=";"0PRhVzX4X41x04h4fR==","FsT4VUT4+SgaFSTN+UQCbSJ5fR==","fHTZisJ90q8=";"VXTXj2g2q4uXTudd/JTXFTgjFTTVFTgVV2gX";"FNuN+Ie5lTeh0uiOU/==","wsgciKFxwUJcbztVbSuxbG==";"jX1x/Mp/qMF0X2TW/4hpXM8=","YNFsjKp7fIpN+Ub9VR==","jU1x/Kp1vNJZwUbJFSTNlBG=";"8rD="}for Y,S in ipairs({{1,1490};{1;280},{280+1;1490}})do while S[1]<S[2]do A[S[1]],A[S[2]],S[1],S[2]=A[S[2]],A[S[1]],S[1]+1,S[2]-1 end end local function Y(Y)return A[Y+12873]end do local Y=A local S=math.floor local N={R=32;m=15,y=63;j=18,X=20,["8"]=12,["/"]=16,U=22;["9"]=58;A=62,L=2;["1"]=48,q=23;k=10,S=6;z=7,p=1;D=8;G=0;h=49;f=27,["2"]=4,C=41,s=54;["6"]=42;I=35;M=53;F=17;N=38,O=56,Q=57;H=39;u=5,["0"]=25;o=40,x=50;a=36;["3"]=44;g=61;V=19,["5"]=47,["7"]=43;E=60;B=34,J=37,T=21,l=14,["4"]=52;t=13,n=59;d=9;r=51,b=29;v=11;P=3,c=46;Y=30;K=55,e=33,i=28;w=24,Z=45;["+"]=26,W=31}local g=string.char local f=string.sub local c=type local F=table.concat local n=table.insert local B=string.len for A=1,#Y,1 do local h=Y[A]if c(h)=="string"then local c=B(h)local i={}local j=1 local U=0 local C=0 while j<=c do local A=f(h,j,j)local Y=N[A]if Y then U=U+Y*64^(3-C)C=C+1 if C==4 then C=0 local A=S(U/65536)local Y=S((U%65536)/256)local N=U%256 n(i,g(A,Y,N))U=0 end elseif A=="="then n(i,g(S(U/65536)))if j>=c or f(h,j+1,j+1)~="="then n(i,g(S((U%65536)/256)))end break end j=j+1 end Y[A]=F(i)end end end return(function(A,N,g,f,c,F,n,h,D,P,C,G,X,B,d,k,o,q,U,I,H,i,t,j,S)q,d,G,U,S,h,k,C,I,D,H,t,X,o,P,B,i,j=function(A,Y)local N=U(Y)local g=function(g,f,c,F,n,B,h,i)return S(A,{g,f;c,F,n,B;h;i},Y,N)end return g end,function(A,Y)local N=U(Y)local g=function(g,f)return S(A,{g;f},Y,N)end return g end,function(A,Y)local N=U(Y)local g=function(g,f,c,F,n,B,h)return S(A,{g;f;c,F,n;B,h},Y,N)end return g end,function(A)for Y=1,#A,1 do h[A[Y]]=1+h[A[Y]]end if g then local S=g(true)local N=c(S)N[Y(-11658)],N[Y(-12115)],N[Y(-12367)]=A,C,function()return 437941 end return S else return f({},{[Y(-12115)]=C;[Y(-11658)]=A,[Y(-12367)]=function()return 437941 end})end end,function(S,g,f,c)local tg={}local Ag,L,y3,T,x,S3,D3,m,e3,W,W3,Ug,Xg,Fg,Y3,p,h,jg,C,Cg,gg,hg,K3,V,o3,Bg,h3,E3,b3,n3,E,X3,d3,z,y,z3,s3,U3,L3,R3,v3,r3,u3,s,Z3,Q,J3,t3,M3,T3,B3,Z,Sg,w,x3,p3,q3,ig,V3,F3,l,ng,K,r,j,f3,u,a,n,N3,b,Q3,m3,U,H3,O3,c3,g3,C3,I3,j3,v,R,A3,k3,G3,l3,w3,fg,J,e,Ng,P3,cg,Ig,a3,i3,O,M,Yg while S do if S<8259032 then if S<4174039 then if S<2059742 then if S<946379 then if S<452849 then if S<216701 then if S<94475 then if S<42091 then if S<23397 then if S<17512 then if S<13668 then u=Y(-11893)Q=A[u]V=Y(-12840)b=Y(-11568)u=Y(-12427)E=Q[u]u=j[b]m=A[V]V=Y(-12853)O=m[V]m=Y(-12042)b=O[m]Q=E(u,b)E=0 l=Q~=E S=l and 12637010 or 10730845 else Q=true J=Q b=Y(-12373)S=2351328 u=z .. b z=u end else if S<17854 then S=9183376 else j=Y(-12476)n=B[f[1]]h=g[1]S=n[j]n=S(h)S=n and 15627423 or 16347896 end end else if S<38069 then if S<29924 then k3=Y(-12331)D3=S J3=Y(-11776)r3=h[J3]J3=Y(-12323)v3=r3[J3]S=v3 and 16214503 or 12827332 q3=v3 else Q=Y(-11568)E=C[Q]S=5364650 w=E end else if S<39463 then S=14299018 R=Y(-12500)V=R else S=j and 16081078 or 16018238 end end end else if S<64652 then if S<46792 then if S<43982 then x=x+T Z=~x A3=not e Z=x<=h3 Z=A3 and Z A3=x>=h3 A3=e and A3 Z=A3 or Z A3=11843379 S=Z and A3 Z=13271607 S=S or Z else Q=Y(-11893)E=A[Q]u=Y(-11568)Q=Y(-12427)l=E[Q]Q=j[u]b=B[f[1]]O=Y(-12648)u=b[O]E=l(Q,u)Q=B[f[1]]u=Y(-12599)l=Q[u]w=E==l S=w and 3833813 or 15971184 end else if S<60689 then U=Y(-11823)j=B[f[1]]h=g[1]n=j[U]j=n(h)S=not j S=S and 6151881 or 6555704 else V=S L=Y(-12655)W=Y(-12655)y=A[W]W=Y(-11498)R=y[W]y=R(E)W=A[L]L=Y(-11498)R=W[L]W=R(C)a=y==W S=a and 14344960 or 3622872 m=a end end else if S<80253 then if S<68763 then l=Y(-12438)z=Y(-12780)p=h[z]z=Y(-12185)J=p[z]z=1 p=r+z v=J[p]p=Y(-12093)J=h[p]p=Y(-12665)p=J[p]p=p(J,v)w=h[l]l=Y(-12196)z=w[l]l=1 w=r+l J=z[w]w=1 z={}S=11707082 E=Y(-12614)l=J[E]E=l l=1 Q=l l=0 u=Q<l l=w-Q else n={j}S=A[Y(-11875)]end else if S<84814 then r=M z=Y(-12804)w=Y(-11975)p=Y(-12353)u=Y(-12840)O=Y(-11714)l=Y(-12060)z=J[z]z=z(J)w=z[w]w=w(z)z=Y(-12060)S=p .. w w=J[l]p=S Q=A[u]u=Y(-12173)E=Q[u]m=Y(-12491)l=Y(-11568)Q=Y(-12620)m=J[m]m=m(J)b=O .. m u=p .. b J=nil S={[z]=w,[l]=E;[Q]=u}U[r]=S S=11297344 p=nil r=nil else if S<94249 then J=Y(-11773)w=Y(-11842)S=8429876 E=Y(-12399)l=j .. E z=w .. l p=M .. z r=J .. p n=r else M=Y(-11837)n=A[M]J=Y(-12840)M=Y(-12499)S=n[M]r=A[J]J=Y(-12826)v=r[J]r=Y(-11700)M=v[r]n=S(M)J=Y(-12840)M=Y(-12840)n=A[M]M=Y(-12257)r=1 S=n[M]v=C[r]r=Y(-12060)M=v[r]r=A[J]J=Y(-12173)v=r[J]n=S(M,v)M=n v=Y(-11837)n=A[v]v=Y(-12083)S=n[v]v=0 n=S()n=#M S=n==v S=S and 3483635 or 7589038 end end end end end else if S<156922 then if S<117181 then if S<105914 then if S<99611 then l3=not E3 J3=J3+z3 r3=~J3 r3=J3<=p3 r3=l3 and r3 l3=J3>=p3 l3=E3 and l3 r3=l3 or r3 l3=10981403 S=r3 and l3 r3=3450378 S=S or r3 else j=Y(-12721)h=g[1]n=h[j]j=1 S=n==j S=S and 3731316 or 7562743 end else if S<106700 then v=Y(-12717)S=4768346 z=Y(-12807)M=A[v]p=j[z]z={M(p)}J=z[3]v=z[1]r=z[2]else z=Y(-11837)S={}j=S C=Y(-12223)U=A[C]w=Y(-11837)p=A[z]l=Y(-11837)z=Y(-12543)J=p[z]z=A[w]w=Y(-12210)p=z[w]w=A[l]S=4502984 l=Y(-11614)z=w[l]r={J;p,z}J={U(r)}C=J[1]M=J[2]v=J[3]end end else if S<130659 then if S<119753 then z=Y(-12081)S=B[v]J=S n=Y(-12081)p=h[z]z=p(M)r=z S=z and 8857984 or 3563799 else n=Y(-12642)S=h[n]n={S}S=A[Y(-12249)]end else if S<151258 then C=1 n=-2147483647 S=n-C n={S}S=A[Y(-11843)]else U=g[3]M=Y(-11968)h=g[1]J=Y(-12840)j=g[2]C=h[M]M=Y(-12822)n=C[M]r=A[J]J=Y(-12501)v=r[J]r=Y(-11639)M=v[r]C=j*M M=Y(-12840)S=n+C n=A[M]C=S M=Y(-12501)S=n[M]n={S(C,U)}n={N(n)}S=A[Y(-11874)]end end end else if S<184272 then if S<171465 then if S<162590 then r=Y(-12840)J=Y(-12832)v=A[r]r=Y(-12169)n=v[r]r=j[J]v=n(r)n=Y(-11975)r=true n=v[n]n=n(v,U,r)v=Y(-11759)S=n .. v M=S S=15498014 else S=10312683 end else if S<171871 then S=h3 h3=Y(-12331)K=x or h3 h3=Y(-11686)x=A[h3]e=Y(-12655)h3=Y(-12193)Z=x[h3]T=A[e]e=Y(-12274)h3=T[e]e=Y(-12102)T={h3(e,w,V,L,s,K)}x=Z(M,N(T))x=S T=Y(-12494)h3=C[T]Z=h3 S=h3 and 15844258 or 15147946 else S=E S=l and 13751423 or 13633707 end end else if S<197874 then if S<193209 then S=8477195 J=nil z=nil p=nil else S=A[Y(-12472)]n={U}end else if S<206057 then M=Y(-11669)n=h[M]S=U<n S=S and 4825166 or 2484911 else if S<207432 then n={}C=i()h=i()B[h]=g[1]M=i()j=true S={[n]=j}U=i()j=i()v=i()B[j]=S S=nil B[U]=S S={}B[C]=S S=nil B[M]=S S={}n=k(3405785,{v;j,C;h,M;U})B[v]=S S=t(12420600,{C})B[U]=S B[M]=n r=B[M]J=B[v]p=B[U]z=B[C]S=A[Y(-11441)]n={r,J;p,z}else r=M p=Y(-12827)S=J==p S=S and 16739274 or 4854221 end end end end end end else if S<357178 then if S<266443 then if S<242963 then if S<236635 then if S<230039 then j=Y(-12655)n=A[j]h=g[1]j=Y(-12274)S=n[j]j=Y(-11777)n={S(j,h)}S=A[Y(-12431)]n={N(n)}else C=Y(-12840)U=A[C]C=Y(-12826)n=U[C]U=Y(-11457)S=n[U]n={S(j)}n={N(n)}S=A[Y(-11659)]end else if S<239517 then S=10088117 C=24.2 j=C else S=n and 15352912 or 10665756 end end else if S<257906 then if S<247626 then n={h}S=A[Y(-12391)]else h3=not x s=s+Z L=~s L=s<=K L=h3 and L h3=s>=K h3=x and h3 L=h3 or L h3=3724604 S=L and h3 L=8603572 S=S or L end else if S<264906 then U=24.1 S=10088117 j=U else C=Y(-11686)n=A[C]C=Y(-12193)S=n[C]C=Y(-11543)n=S(U,C)S=10491772 end end end else if S<315573 then if S<277026 then if S<271579 then C=5 M=Y(-12087)A[M]=C S=12250147 else w=Y(-12717)S=A[w]Q={S(z)}l=Q[2]S=5949444 E=Q[3]w=Q[1]end else if S<297835 then J=Y(-11547)J=h[J]J=J(h)S=5004219 n=J else J=nil w=nil S=15023104 p=nil z=nil end end else if S<335727 then if S<332585 then J=Y(-12223)S=r r=n n=A[J]w={n(r)}J=w[1]z=w[3]S=9418700 p=w[2]else T=nil C3=nil h3=nil k3=nil v3=nil r3=nil L=nil X3=nil S=8714353 e=nil end else if S<341530 then S=8761171 m=1 O=0xffffffff b=O-m j=b else if S<352589 then S=Y(-12201)n={S}S=A[Y(-12775)]else S=E S=n and 9009806 or 14459984 end end end end end else if S<404502 then if S<372063 then if S<362683 then if S<358864 then S=22 j=S S=10088117 else R=Y(-12387)m=Y(-11893)O=A[m]m=Y(-12427)b=O[m]V=Y(-11568)m=j[V]a=B[f[1]]V=a[R]O=b(m,V)b=0 S=2761425 u=O~=b E=u end else if S<365163 then S=true S=S and 11721312 or 15429108 else J=Y(-11643)r=h[J]l=Y(-12840)w=A[l]l=Y(-12314)z=w[l]w=Y(-11541)p=z[w]z=Y(-11639)J=p[z]S=15229311 v=r-J C=v end end else if S<389888 then if S<386990 then J=Y(-11837)r=A[J]J=Y(-12109)v=r[J]r=v(C)J=Y(-11837)r=A[J]J=Y(-12026)v=r[J]z=Y(-11837)p=A[z]z=Y(-12637)J=p[z]p={J()}r=v(N(p))p=Y(-11837)S=14539716 J=A[p]p=Y(-12083)v=J[p]J=v()J=Y(-12223)v=A[J]w={v(r)}p=w[2]J=w[1]z=w[3]else h=g[1]C=Y(-12840)U=A[C]x=Y(-12840)C=Y(-12032)j=U[C]U=Y(-11569)T=Y(-12840)n=j[U]v=Y(-12840)M=A[v]v=Y(-12032)J=Y(-12840)C=M[v]j=Y(-11817)l=Y(-12840)M=Y(-12417)U=C[M]b=Y(-12840)y=Y(-12840)C=Y(-12774)r=A[J]L=Y(-12840)m=Y(-12840)J=Y(-12032)z=Y(-12840)v=r[J]r=Y(-12838)M=v[r]v=Y(-12858)p=A[z]z=Y(-12032)J=p[z]p=Y(-11822)r=J[p]K=Y(-12840)w=A[l]a=Y(-12840)Q=Y(-12840)l=Y(-12032)J=Y(-11652)z=w[l]w=Y(-11600)p=z[w]z=Y(-11687)E=A[Q]Q=Y(-12032)l=E[Q]E=Y(-12742)w=l[E]l=Y(-12664)u=A[b]b=Y(-12032)Q=u[b]u=Y(-11592)E=Q[u]O=A[m]m=Y(-12032)Q=Y(-12519)b=O[m]O=Y(-12654)u=b[O]V=A[a]b=Y(-12152)A3=Y(-12840)a=Y(-12032)m=V[a]V=Y(-11727)O=m[V]R=A[y]y=Y(-12032)m=Y(-12039)a=R[y]R=Y(-12015)V=a[R]S3=25 a=Y(-12445)W=A[L]L=Y(-12032)y=W[L]W=Y(-12461)R=y[W]y=Y(-12743)s=A[K]K=Y(-12032)L=s[K]s=Y(-12167)W=L[s]L=Y(-11485)Z=A[x]x=Y(-12032)K=Z[x]Z=Y(-11735)s=K[Z]h3=A[T]T=Y(-12032)x=h3[T]h3=Y(-12019)N3=Y(-12454)f3=Y(-11591)Z=x[h3]g3=28 e=A[A3]x=Y(-12655)A3=Y(-12032)K=Y(-11445)T=e[A3]e=Y(-12293)h3=T[e]T=Y(-11591)S={[n]=j,[U]=C,[M]=v,[r]=J,[p]=z;[w]=l,[E]=Q,[u]=b,[O]=m;[V]=a;[R]=y,[W]=L;[s]=K;[Z]=x,[h3]=T}w=Y(-11687)Y3=Y(-11582)e=Y(-11650)u=Y(-12519)v=3 O=Y(-12152)Z=Y(-11445)z=5 L=12 h3=Y(-12655)p=Y(-11652)U=Y(-11817)W=Y(-12743)K=13 b=8 T=22 E=Y(-12664)a=10 l=6 A3=24 V=Y(-12039)y=11 x=14 j=S n=1 r=Y(-12858)m=9 R=Y(-12445)J=4 Q=7 C=2 M=Y(-12774)s=Y(-11485)S={[n]=U;[C]=M;[v]=r,[J]=p;[z]=w,[l]=E,[Q]=u;[b]=O;[m]=V,[a]=R,[y]=W;[L]=s;[K]=Z,[x]=h3;[T]=e;[A3]=Y3;[S3]=N3;[g3]=f3}v=Y(-12314)U=S M=h[v]C=U[M]M=Y(-12201)n=C or M n={n}S=A[Y(-12163)]end else if S<392434 then e=Y(-12655)T=A[e]N3=Y(-12613)e=Y(-12274)Y3=Y(-11949)N3=Z[N3]h3=T[e]S=4225707 e=Y(-12322)S3=Y(-11971)A3={N3(Z,Y3,S3)}T=h3(e,N(A3))x=a .. T a=x else if S<398929 then S=11107667 else S=16155856 end end end end else if S<415116 then if S<406099 then if S<405604 then b=S w=z a=Y(-12314)Q=Y(-12620)E=h[w]n=E[Q]Q=S V=h[w]m=V[a]V=Y(-12091)O=m==V u=O S=O and 1001186 or 6812058 else e=Y(-12318)T=h[e]e=0 S=16001186 h3=T>e Z=h3 end else if S<410595 then j=g[2]h=g[1]v=Y(-12840)U=j M=A[v]v=Y(-12479)C=M[v]M=Y(-12051)n=C[M]S=n>U S=S and 8472948 or 4816805 else F3=Y(-12655)c3=A[F3]S=8953286 F3=Y(-12274)f3=c3[F3]F3=Y(-12092)c3=f3(F3,e)g3=Z .. c3 Z=g3 end end else if S<424137 then if S<419813 then J=nil S=10214397 else S=A[Y(-12692)]n={U}end else if S<426263 then u=Y(-11837)Q=A[u]u=Y(-12499)R=0 m=S b=S l=Q[u]a=#M V=a~=R a=-1 O=V and a S=O and 9334979 or 5361820 u=O else if S<440779 then S=Y(-11887)r=true J=Y(-12840)h[S]=r r=A[J]J=Y(-12803)S=r[J]J=Y(-12584)r=Y(-12360)r=S[r]r=r(S,J)S=4067130 else y=U a=Y(-12620)m=O n=V[a]R=S a=n W=S S=U and 15804122 or 5103157 end end end end end end end else if S<707007 then if S<578276 then if S<515945 then if S<491790 then if S<488540 then if S<464387 then m=false w=Y(-12544)S=15846168 p=Y(-11638)Q=true J=true r=Y(-12494)O=Y(-12529)u=Y(-12149)v=false l=true b=true E=Y(-12323)z=true M=Y(-11886)C={[M]=v,[r]=J;[p]=z,[w]=l,[E]=Q,[u]=b;[O]=m}n=C else U=U+M r=not v n=~U n=U<=C n=r and n r=U>=C r=v and r n=r or n r=8893083 S=n and r n=15661823 S=S or n end else if S<490921 then M=Y(-11568)J=Y(-12840)S=Y(-12331)C=Y(-11893)n=A[C]U=S C=Y(-12427)S=n[C]C=j[M]r=A[J]J=Y(-12853)v=r[J]r=Y(-11767)M=v[r]r=Y(-12840)n=S(C,M)v=A[r]C=n r=Y(-12853)M=v[r]v=Y(-12805)n=M[v]S=C==n S=S and 8010706 or 13436013 else M=S h=g[1]j=g[2]U=g[3]S=U and 12771950 or 7863770 C=U end end else if S<504656 then if S<499305 then z,E=w(p,z)S=z and 6335634 or 14958071 else S=E n=l S=10094342 end else if S<513946 then z=Y(-11459)p=h[z]r=p S=13593791 else r=Y(-12840)S=11723152 v=A[r]r=Y(-12826)M=v[r]v=Y(-11997)C=M[v]n=C end end end else if S<541015 then if S<526897 then if S<519245 then S=true n={S}S=A[Y(-12700)]else h3=Y(-11686)x=A[h3]h3=Y(-12193)Z=x[h3]h3=Y(-11737)S=A[Y(-12352)]x=Z(M,h3)h3=Y(-11686)x=A[h3]h3=Y(-12406)Z=x[h3]h3=Y(-11714)x={Z(M,h3)}n={N(x)}end else if S<529111 then n=U S=C S=U and 15025006 or 3217330 else h=g[1]j=g[2]n=Y(-12385)C=Y(-12458)S=h[n]n=Y(-11548)n=S[n]n=n(S,j)U=n n=h[C]S=not n S=S and 13118332 or 13896459 end end else if S<557304 then if S<555514 then S=s y=L S=L and 940704 or 9613358 else C=B[f[1]]U=g[3]h=g[1]M=Y(-12634)n=C[M]C=n(h)j=g[2]S=not C S=S and 651217 or 14101746 end else if S<560571 then M=Y(-12642)v=j S=A[Y(-12823)]h[M]=v n={j}else if S<568150 then l=Y(-11568)w=Y(-11893)z=A[w]w=Y(-12427)p=z[w]w=j[l]Q=Y(-12273)E=B[f[1]]l=E[Q]z=p(w,l)p=0 J=z~=p S=J and 14229984 or 7543993 else S=p S=n and 13320252 or 13150102 end end end end end else if S<664511 then if S<629819 then if S<610753 then if S<583574 then Q=Y(-11893)E=A[Q]u=Y(-11568)Q=Y(-12427)O=Y(-12611)l=E[Q]Q=j[u]b=B[f[1]]u=b[O]E=l(Q,u)l=0 w=E~=l S=w and 45267 or 13400199 else l=Y(-12840)w=A[l]l=Y(-11725)z=w[l]S=z and 9815650 or 14684135 p=z end else if S<617276 then J3=Y(-11686)r3=A[J3]z3=Y(-12655)L=nil h3=nil e=nil S=4555328 G3=nil J3=Y(-12193)v3=r3[J3]A3=nil T=nil p3=A[z3]z3=Y(-12274)J3=p3[z3]z3=Y(-11601)p3={J3(z3,Y3,X3,C3,I3,k3)}S3=nil X3=nil r3=v3(v,N(p3))C3=nil I3=nil k3=nil Y3=nil else U=Y(-12840)n=A[U]U=Y(-12826)S=n[U]n=S()S=9929919 end end else if S<640897 then if S<635825 then j=g[2]h=g[1]U=Y(-11837)n=A[U]U=Y(-11896)S=n[U]U=Y(-12281)n=S(U)U=n v=U M=S r=S S=U and 7966228 or 3344791 else J=Y(-12840)r=A[J]J=Y(-12826)v=r[J]r=Y(-11828)M=v[r]v=M(j)S=3232035 n=v end else if S<649585 then h=g[1]j=Y(-12280)n=h[j]j=0 S=n~=j n={S}S=A[Y(-12338)]else if S<662462 then n=Y(-11390)S=A[n]C=Y(-11925)n=S(C)S=14101746 else v=C J=Y(-11975)J=r[J]J=J(r)S=J==j S=S and 1611386 or 13728962 end end end end else if S<676774 then if S<669997 then if S<666700 then z=Y(-12840)n=A[z]z=Y(-12312)S=n[z]n=S(p)z=n S=z and 6253889 or 2632459 else n=1 S=j[n]U=S C=Y(-11686)r=0xB400000000000000 n=A[C]C=Y(-12515)S=n[C]C=1 n=S(j,C)C=Y(-11837)M=Y(-11972)n=A[C]C=Y(-12503)S=n[C]C=A[M]v=U|r M=C(v)r=Y(-11686)v=A[r]r=Y(-12017)C=v[r]v={C(j)}U=nil n=S(M,N(v))S=5512360 end else if S<671517 then n=Y(-11548)C=Y(-11988)S=A[n]U=h[C]j={U}n=S(j)S=Y(-12458)n=false h[S]=n S=1892563 else r,p=M(v,r)S=r and 8802029 or 10816865 end end else if S<690096 then if S<685357 then M=23 U=S C=j==M n=C S=C and 1306492 or 977542 else v=Y(-12840)w=Y(-12314)n=A[v]v=Y(-12081)S=n[v]r=S z=M[w]J=z p=S S=z and 12637181 or 7855026 end else if S<699266 then a=l S=16337966 else if S<705318 then r,z=J(v,r)S=r and 3310512 or 3034070 else S=true n={S}S=A[Y(-11625)]end end end end end end else if S<771121 then if S<741328 then if S<723733 then if S<722935 then if S<712959 then Z=Y(-12550)K=O==Z S=14779154 L=K else j=g[2]h=g[1]S=0 n=0 U=S S=j<n S=S and 11225392 or 13954293 end else if S<723281 then E=B[f[3]]l=E S=13280039 else C=Y(-12033)U=h[C]S=U[j]n={S}S=A[Y(-11888)]end end else if S<729106 then if S<726597 then n={h}S=A[Y(-11656)]else P3=nil o3=q3~=P3 S=o3 and 14428328 or 10636977 end else if S<729676 then M=nil h=nil n={}S=A[Y(-11418)]U=nil j=nil C=nil else S=true n={S}S=A[Y(-12090)]end end end else if S<749495 then if S<746696 then if S<746379 then n=0 p=Y(-12118)J=j[p]p=1 r=J-p J=r r=1 p=r r=0 S=7670206 z=p<r r=n-p else S=C and 15420317 or 3630885 end else if S<748367 then u=Y(-12314)l=S Q=h[u]E=Q[C]S=E and 16023078 or 14700586 w=E else J=not r C=C+v n=~C n=C<=M n=J and n J=C>=M J=r and J n=J or n J=9900925 S=n and J n=9347855 S=S or n end end else if S<753913 then if S<752302 then z=Y(-11658)J=Y(-11410)u=Y(-12620)n=A[J]w=B[f[1]]Q=B[f[1]]S=A[Y(-12730)]E=Q[u]l=Y(-11793)p={[z]=w;[l]=E}J={n(r,p)}n={N(J)}else S=false n={S}S=A[Y(-12574)]end else if S<759051 then S=B[f[4]]n={S(h)}S=A[Y(-11954)]n={N(n)}else if S<763780 then J=nil S=8630772 r=nil else e3=Y(-12655)T3=A[e3]Yg=Y(-11949)e3=Y(-12274)x3=T3[e3]e3=Y(-12322)Ng=Y(-12613)Ng=K3[Ng]Sg=Y(-11971)Ag={Ng(K3,Yg,Sg)}T3=x3(e3,N(Ag))S=3987525 Z3=y3  .. T3 y3=Z3 end end end end end else if S<873049 then if S<830117 then if S<787251 then if S<784630 then s=Y(-11893)Z=Y(-12145)L=A[s]s=Y(-12427)W=L[s]K=Y(-11568)S=10541826 s=r[K]K=U[Z]L=W(s,K)W=0 y=L~=W a=y else z=nil p=nil S=1539303 l=nil w=nil end else if S<820695 then S=E S=l and 1311229 or 5913715 else B3=Y(-12620)F3=A3[B3]B3=Y(-11972)N3=F3 F3=A[B3]B3=F3(Y3)F3={}f3=F3 g3=B3 j3=Y(-12320)B3=A3[j3]j3=0 F3=B3~=j3 S=F3 and 5256830 or 10380922 end end else if S<850321 then if S<835228 then S=W S=n and 2742976 or 3460658 else l=Y(-12314)u=Y(-12840)b=Y(-12314)Q=A[u]u=Y(-11518)E=Q[u]u=w[b]Q=E(u,j)S=9708515 w[l]=Q end else if S<860818 then S=z z=n n=0 S=15293073 w=n l=Y(-12223)n=A[l]u={n(z)}Q=u[3]l=u[1]E=u[2]else if S<863856 then j=Y(-11837)n=A[j]j=Y(-11896)S=n[j]n=S()j=n n=Y(-12223)S=A[n]M={S(j)}C=M[3]U=M[2]S=5010500 n=M[1]M=n else Z=Y(-12655)T=Y(-11686)K=A[Z]Z=Y(-12274)s=K[Z]Z=Y(-11544)h3=A[T]T=Y(-12406)S=11439566 x=h3[T]T=Y(-12715)h3={x(M,T)}K=s(Z,N(h3))W=K end end end end else if S<901935 then if S<884758 then if S<880486 then S=2278899 p=nil else E=Y(-12840)l=A[E]E=Y(-11583)u=Y(-12840)w=l[E]Q=A[u]u=Y(-12253)E=Q[u]l=z*E S=w-l w=S E=Y(-12840)l=A[E]O=Y(-12060)E=Y(-12610)S=l[E]u=Y(-11837)l=S(w)Q=A[u]u=Y(-12554)b={[O]=l}E=Q[u]u={b}Q=E(u)b=Y(-11452)E=1 S=Q[E]E=S u=E==b Q=u S=u and 12183039 or 6737637 end else if S<899424 then v=Y(-11837)M=A[v]v=Y(-12486)S=M[v]M=S(C)S=A[Y(-11453)]n={M,C}else S=v r=Y(-12803)p=Y(-12740)v=n w=Y(-11401)n=h[r]z=M[w]r=Y(-12419)r=n[r]J=p .. z z=Y(-11728)r=r(n,J)r=S p=M[z]J=not p n=J S=J and 2050197 or 5439199 end end else if S<917686 then if S<903100 then S=p v=J S=11377199 else n=B[v]S=k(15437428,{v})r=Y(-12148)n[r]=S S=B[v]n={S}S=A[Y(-12056)]end else if S<935530 then U=Y(-11531)n=h[U]S=n[j]n={S}S=A[Y(-11487)]else if S<939854 then n=U S=C S=U and 8073814 or 13923771 else L=Y(-11837)O={[m]=j,[V]=a,[R]=y}V=Y(-12060)R=4 S=W a=j+R R=Y(-11568)W=A[L]L=Y(-12512)S=1318958 y=W[L]s=Y(-11661)L=h[s]W=Y(-12586)m={[V]=a;[R]=y,[W]=L}b={O;m}Q=b end end end end end end end end else if S<1467410 then if S<1195994 then if S<1028599 then if S<977238 then if S<957005 then if S<951608 then if S<951194 then U=g[3]v=Y(-12840)j=g[2]h=g[1]M=A[v]v=Y(-12847)C=M[v]M=Y(-12081)n=C[M]S=n[j]S=S and 14667827 or 12028217 else v=C p=Y(-12010)J=r[p]p=Y(-12151)S=J[p]J=S w=Y(-11580)z=J[w]S=z and 8327347 or 14648018 p=z end else if S<954928 then S=A[Y(-12808)]b=Y(-11837)u=A[b]b=Y(-12486)Q=u[b]u={Q(E)}n={z,N(u)}else z=100 p=r>z S=p and 8579103 or 12203168 end end else if S<967226 then if S<959270 then U=Y(-12840)S=Y(-12275)j=A[U]U=Y(-12081)C=Y(-12275)n=j[U]U=h[C]j=n(U)n=Y(-12275)h[S]=j S=h[n]n={S}S=A[Y(-11760)]else l=b V=S y=Y(-12046)R=O[y]y=Y(-12652)a=R==y S=a and 2903060 or 14962825 m=a end else if S<974672 then M=Y(-12840)C=A[M]M=Y(-12172)S=A[Y(-12844)]n=C[M]C={n(U)}n={N(C)}else S=14669644 m=Y(-12869)b=true O=z .. m r=b z=O end end end else if S<988282 then if S<980477 then if S<978843 then M=24 C=j==M S=1306492 n=C else r=Y(-11837)w=Y(-11729)v=A[r]r=Y(-12677)M=v[r]z=B[f[1]]r=Y(-12729)p=z[w]Q=B[f[1]]w=Y(-11961)W=Y(-12616)m=S u=Y(-12686)m=Y(-11841)E=Q[u]y=B[f[1]]a=S R=y[W]y=Y(-12160)u=Y(-11961)a=Y(-12593)V=R and y S=5859334 O=V or a b=O .. m Q=u .. b l=E .. Q z=w .. l J=p .. z v=r .. J C=M .. v n=C end else if S<985051 then J=1 r=U[J]J=Y(-11876)S=2372781 v=r[J]C=v else S=14527244 end end else if S<1008075 then if S<1001948 then V=Y(-12840)a=Y(-12586)m=A[V]V=Y(-11546)O=m[V]V=l[a]m=O(V)S=6812058 u=m else S=K S=s and 11936184 or 3376750 end else if S<1014228 then v=Y(-12834)r=Y(-11916)M={[v]=C,[r]=U}r=Y(-11951)v=h[r]r=M S=A[Y(-11751)]v[j]=r n={M}else if S<1023426 then S=7684293 else C=n v=0 M=j>v S=M and 7777433 or 8033147 n=M end end end end end else if S<1128526 then if S<1081612 then if S<1057509 then if S<1028941 then E=Y(-11639)n=l[E]S=n and 12252368 or 7572946 else r=C n=Y(-11501)S=A[n]n=S(r,N(j))J=n S=J and 2122194 or 763143 end else if S<1080670 then j=Y(-12840)n=A[j]h=g[1]j=Y(-12502)v=0 S=n[j]n=S(h)j=n C=S M=j~=v U=M S=M and 5429028 or 1759058 else S=24.2 r=Y(-12576)n=B[f[1]]U=S j=g[2]h=g[1]v=h[r]r=Y(-11396)M=v[r]C=n(j,M)n=0 S=C>=n S=S and 9804520 or 10304923 end end else if S<1092822 then if S<1085253 then U=Y(-12476)j=B[f[1]]h=g[1]n=j[U]j=n(h)S=not j S=S and 3970756 or 16594304 else U=g[3]h=g[1]j=g[2]S=not j S=S and 12763871 or 15151039 end else if S<1100202 then N3=Y(-11893)g3=Y(-12659)S3=A[N3]N3=Y(-12427)Y3=S3[N3]c3=Y(-12666)N3=h3[g3]f3=B[f[1]]g3=f3[c3]S3=Y3(N3,g3)f3=B[f[1]]c3=Y(-12321)Y3=Y(-12331)g3=f3[c3]N3=S3==g3 S=N3 and 10437511 or 13507568 else if S<1114853 then h=g[1]j=Y(-11740)n=B[f[1]]S=n[j]n=S(h)S=n and 3825060 or 13751116 else r=Y(-12314)v=A[r]r=v(j)S=12321425 v=Y(-11686)M=r==v n=M end end end end else if S<1162776 then if S<1150592 then if S<1142791 then T=Y(-11638)x=S h3=C[T]S=h3 and 405640 or 16001186 Z=h3 else S={}n=Y(-12223)j=g[2]h=g[1]J=Y(-11837)U=S S=A[n]r=A[J]J=Y(-12554)v=r[J]r={v(j)}v={S(N(r))}n=v[1]S=4221481 C=v[2]M=v[3]v=n end else if S<1159734 then C=Y(-11837)U=Y(-12840)j=A[U]h=g[1]U=Y(-12826)n=j[U]j=Y(-12077)S=n[j]U=A[C]C=Y(-12551)j=U[C]n={S(h,j)}n={N(n)}S=A[Y(-11516)]else v=B[f[1]]h=g[1]z=Y(-12576)C=S p=h[z]z=Y(-11388)J=p[z]j=g[2]r=v(j,J)v=0 C=27.2 M=r>=v S=A[Y(-12843)]v=29 U=M and v n=U or C n={n}end end else if S<1167447 then if S<1163940 then S=n and 14618208 or 9542853 else l=Y(-12840)n=A[l]O=Y(-12135)w=r u=Y(-12840)l=Y(-12169)S=n[l]Q=A[u]u=Y(-12826)E=Q[u]Q=Y(-12749)b=j[O]Q=E[Q]u=b+w Q=Q(E,u)b=Y(-11975)E=0 l=Q+E u=false E=Y(-11686)Q=false n=S(l)l=n w=nil b=l[b]n=A[E]E=Y(-12193)S=n[E]E={b(l,Q,u)}n=S(M,N(E))S=7670206 l=nil end else if S<1180861 then w=Y(-11775)J=w S=14641929 else if S<1191549 then h=g[1]j=g[2]S=0 U=g[3]M=S C=g[4]S=9625138 else U=Y(-11415)n=Y(-11390)S=A[n]n=S(U)S=3332518 end end end end end end else if S<1349182 then if S<1292595 then if S<1256194 then if S<1226449 then if S<1213254 then R=R+W a=~R a=R<=y s=not L a=s and a s=R>=y s=L and s a=s or a s=4415990 S=a and s a=16591605 S=S or a else w=Y(-12840)z=A[w]l=Y(-11672)w=Y(-11803)S=z[w]l=S[l]l={l(S)}z=l[1]p=z w=l[2]J=w S=8068539 end else if S<1230275 then b=Y(-12060)Q=Y(-12840)J=v E=A[Q]Q=Y(-11536)m=Y(-12840)l=E[Q]u=p[b]O=A[m]m=Y(-12253)b=O[m]Q=u+b E=l(Q)l=0 w=E==l S=w and 7856441 or 14149637 z=w else j=Y(-12840)n=A[j]C=Y(-12840)h=g[1]j=Y(-12701)M=Y(-11580)S=n[j]U=A[C]C=Y(-12610)j=U[C]C=h[M]U={j(C)}n={S(N(U))}n={N(n)}S=A[Y(-12244)]end end else if S<1272057 then if S<1259404 then n={}h=nil S=A[Y(-11731)]else l=Y(-11591)w=J~=l S=14572221 p=w end else if S<1276490 then M,J=v(C,M)S=M and 5120127 or 3208561 else S=L R=W S=W and 4691547 or 14945584 end end end else if S<1311451 then if S<1301242 then if S<1295370 then S=10838857 C=nil p=nil else v3=Y(-12655)M3=A[v3]v3=Y(-12274)D3=M3[v3]S=6732705 v3=Y(-12092)M3=D3(v3,q3)I3=M3 end else if S<1309681 then S=U S=n and 7780849 or 9268628 else E=Y(-12869)S=1810913 l=J .. E J=l end end else if S<1332773 then if S<1326667 then l=Q S=u S=Q and 10895736 or 8991718 else S=R S=2903060 m=a end else if S<1334423 then M,J=v(C,M)S=M and 1587323 or 14282647 else if S<1344338 then m=Y(-11975)y=Y(-12061)m=O[m]a=Y(-12669)m=m(O)E=b V=Y(-12613)S=1209698 V=m[V]R=Y(-12331)V=V(m,a,R)R=Y(-11861)a=O[R]R=O[y]m=a+R y=Y(-11861)R=O[y]y=0 a=R+y y=0 R=m-y y=R R=1 W=R R=0 L=W<R R=a-W else S=10064647 y=J end end end end end else if S<1411622 then if S<1382198 then if S<1364869 then if S<1359066 then S=j j=S r=Y(-11837)z=Y(-12168)U=n n=Y(-12168)S=A[n]n=Y(-11401)v=A[r]r=Y(-12526)M=v[r]v=M()M=Y(-12553)r=Y(-12404)M=v[M]M=M(v,r)p=A[z]r=Y(-12549)z=Y(-11401)J=p[z]v=r .. J p=Y(-11416)C=M .. v S[n]=C C={}n=Y(-11410)v=Y(-11658)S=A[n]r=B[f[1]]J=r(p)r=J(U)M={[v]=r}J=Y(-12803)n=S(C,M)C=Y(-12168)S=Y(-12840)A[S]=n S=A[C]M=j C=Y(-11401)S[C]=M M=Y(-12840)C=A[M]M=Y(-12803)S=C[M]r=U[J]M=r v=S S=r and 13663422 or 13872671 C=Y(-12080)else h3=nil S3=Y(-12320)Y3=T[S3]e=nil S3=0 A3=Y3>=S3 S=A3 and 4724076 or 2141116 end else if S<1380776 then n=Y(-12223)S=A[n]j=g[2]h=g[1]v=Y(-11469)v=h[v]M={v(h)}v={S(N(M))}C=v[3]S=15380893 U=v[2]n=v[1]M=n else v3=S E3=Y(-12721)z3=C3[E3]E3=1 p3=z3==E3 z3=Y(-12871)v3={}r3=p3 and z3 J3=S S=95168 J3=Y(-12331)k3=r3 or J3 z3=Y(-12410)r3=0 p3=T[z3]z3=1 J3=p3-z3 p3=J3 J3=1 z3=J3 J3=0 E3=z3<J3 J3=r3-z3 end end else if S<1389256 then if S<1384344 then r=Y(-12314)v=A[r]S=1163837 r=v(j)v=Y(-11686)M=r==v n=M else r=Y(-12072)v=n n=v[r]S=n+M n={S}S=A[Y(-12126)]end else if S<1399220 then h=g[1]j=Y(-12179)n=A[j]j=Y(-12763)S=n[j]U=Y(-12840)r=Y(-11776)n=S()j=n C=Y(-12740)n=A[U]U=Y(-12803)S=n[U]v=h[r]n=Y(-12419)r=Y(-11834)n=S[n]M=v[r]U=C .. M n=n(S,U)v=Y(-11776)U=Y(-12361)n=A[U]U=Y(-11946)M=Y(-11776)S=n[U]C=h[M]M=Y(-11401)U=C[M]C=Y(-12658)n=S(U,C)M=h[v]v=Y(-11692)C=M[v]U=n S=C and 5859814 or 11347633 n=C else if S<1404916 then E=Y(-11540)E=h[E]S=11107667 E=E(h,j,l,r)else r=Y(-12840)v=A[r]r=Y(-12032)M=v[r]v=Y(-12746)n=M[v]S=U==n S=S and 9423306 or 1525537 end end end end else if S<1448591 then if S<1420228 then if S<1418938 then r=M w=Y(-11975)O=Y(-12840)l=Y(-12060)z=Y(-11464)z=J[z]a=Y(-12491)p=Y(-12353)z=z(J)w=z[w]Q=Y(-12060)a=J[a]w=w(z)S=p .. w p=S w=Y(-11686)z=A[w]V=Y(-11714)w=Y(-12193)S=z[w]E=J[Q]b=A[O]Q=Y(-11568)r=nil O=Y(-12173)u=b[O]b=Y(-12620)a=a(J)m=V .. a J=nil O=p .. m p=nil w={[l]=E,[Q]=u;[b]=O}z=S(U,w)S=2474886 else S=12150556 end else if S<1427048 then n=Y(-12717)S={}U=S S=A[n]v={S(h)}M=v[3]S=8673356 n=v[1]C=v[2]v=n else U=Y(-12840)j=A[U]U=Y(-12826)n=j[U]h=g[1]j=Y(-12077)C=Y(-11837)S=n[j]U=A[C]C=Y(-12551)j=U[C]n={S(h,j)}S=A[Y(-11697)]n={N(n)}end end else if S<1453408 then if S<1452579 then Q=10 S=z>Q S=S and 9976842 or 5955088 else r=Y(-11893)C=Y(-12870)C=h[C]J=Y(-11893)C=C(h,j)v=A[r]r=Y(-12147)M=v[r]r=16 v=M(C,r)r=A[J]J=Y(-12427)M=r[J]J=0xFFFF l=Y(-11893)r=M(v,J)v=r J=1 z=Y(-11893)M=v+J p=A[z]z=Y(-12427)v=M J=p[z]w=A[l]l=Y(-12247)z=w[l]l=16 w=z(v,l)z=0xFFFFFFFF p=J(w,z)J=B[f[1]]S=J and 2498852 or 10736140 C=p end else if S<1454116 then j=Y(-12314)n=A[j]C=Y(-12279)h=g[1]U=h[C]j=n(U)n=Y(-11686)S=j==n S=S and 2584714 or 15016832 else if S<1456049 then J3=Y(-12840)r3=Y(-11915)v3=Y(-12840)k3=A[v3]v3=Y(-12826)I3=k3[v3]v3=T[r3]k3=Y(-12590)k3=I3[k3]k3=k3(I3,v3)r3=A[J3]J3=Y(-12826)v3=r3[J3]r3=Y(-11747)r3=v3[r3]r3=r3(v3,k3)I3=X3  .. r3 X3=I3 S=1381962 k3=nil else E=Y(-12802)w=Y(-11568)z=Y(-11893)p=A[z]S=16107879 z=Y(-12427)J=p[z]z=j[w]l=B[f[1]]w=l[E]p=J(z,w)J=0 r=p~=J n=r end end end end end end end else if S<1712787 then if S<1601487 then if S<1539435 then if S<1521304 then if S<1515559 then if S<1502858 then S=14234086 else Q=B[f[1]]u=Q(w,U)S=7894668 l=u end else if S<1519636 then U=Y(-12840)j=A[U]U=Y(-12169)S=Y(-12314)n=j[U]C=Y(-12314)U=h[C]j=n(U)n=Y(-12314)h[S]=j S=h[n]n={S}S=A[Y(-11460)]else k3=Y(-12070)I3=Y(-12840)r3=Y(-12320)X3=A[I3]I3=Y(-12826)C3=X3[I3]I3=T[k3]X3=Y(-12657)X3=C3[X3]k3=false X3=X3(C3,I3)I3=false C3=Y(-11975)C3=h3[C3]C3=C3(h3,I3,k3)v3=T[r3]r3=0 k3=v3>=r3 I3={}S=k3 and 14242438 or 10246309 end end else if S<1532000 then if S<1523453 then r=S w=Y(-12840)z=A[w]w=Y(-11514)p=z[w]z=Y(-11466)J=p[z]v=J S=J and 16269314 or 7804478 else p=Y(-12840)J=A[p]p=Y(-12032)r=J[p]J=Y(-12596)v=r[J]M=U==v S=M and 12180726 or 3406211 n=M end else if S<1537053 then p=Y(-11580)S=J[p]n={S}S=A[Y(-11455)]else r,z=J(v,r)S=r and 2898552 or 10558712 end end end else if S<1573027 then if S<1549303 then if S<1540040 then v=nil S=15498014 else C=Y(-12840)U=A[C]C=Y(-12314)v=Y(-12005)n=U[C]v=h[v]C=Y(-11972)U=A[C]M={v(h)}C=U(N(M))S=n[C]U=S M=Y(-12314)n=A[M]S={}M=n(j)C=S n=Y(-11686)S=M==n S=S and 1820468 or 6185604 end else if S<1551601 then S=15256758 C=Y(-12314)U=j[C]n=U else S=12578589 end end else if S<1585438 then if S<1583935 then n={h}S=A[Y(-12031)]else v=Y(-12070)S=5457081 M=h[v]U=M end else if S<1587918 then r=M w=Y(-11975)w=J[w]w=w(J)z=w==j p=z S=z and 10474887 or 9226467 else if S<1590876 then S=E S=l and 13173259 or 12211813 else M=Y(-12005)h=g[1]j=Y(-11972)v=Y(-11975)n=A[j]C=B[f[1]]U=C[M]C={U(h)}j=n(N(C))M=B[f[1]]C=M[v]U=Y(-12429)M=C(h)n=U .. M S=j .. n n={S}S=A[Y(-12842)]end end end end end else if S<1655208 then if S<1623172 then if S<1612228 then if S<1604426 then S=p and 4873842 or 954932 else J=1 S=v-J n={r;S}S=A[Y(-12285)]end else if S<1622712 then S=true S=S and 882019 or 14546191 else S=l w=p h[w]=S Q=Y(-12840)u=Y(-12186)E=A[Q]Q=Y(-12803)S=E[Q]Q=u .. w E=Y(-12673)E=S[E]w=nil l=nil E=E(S,Q)S=8427394 end end else if S<1638832 then if S<1628145 then S=B[f[1]]h=g[1]j=g[2]n={S(h,j)}S=A[Y(-12862)]n={N(n)}else M=Y(-12562)S=C==M S=S and 7257171 or 4786413 end else if S<1640002 then v,p=r(M,v)S=v and 12646525 or 4480567 else if S<1642748 then S=h3 S=x and 6820703 or 9645037 else M,J=v(C,M)S=M and 2049908 or 2113057 end end end end else if S<1691771 then if S<1671142 then if S<1669145 then n=J S=p S=J and 3410109 or 16295653 else n={n}S=A[Y(-12292)]end else if S<1674651 then n=Y(-12458)h=g[1]S=h[n]S=S and 13928648 or 12460574 else n=Y(-12620)S=h[n]n={S}S=A[Y(-12645)]end end else if S<1700271 then if S<1697768 then j=g[2]U=Y(-12033)h=g[1]n=h[U]S=not n S=S and 9049739 or 723291 else v=Y(-12803)S=9740657 M=j[v]n=M end else if S<1701003 then r=S E=Y(-12840)l=A[E]E=Y(-12826)w=l[E]l=Y(-11968)z=w[l]w=Y(-11974)p=z[w]J=not p S=J and 12159804 or 14886403 v=J else if S<1711389 then M=Y(-11882)U=S h=g[1]C=h[M]j=C S=C and 16359912 or 5567435 else j=Y(-12840)n=A[j]U=Y(-12151)h=g[1]j=Y(-12081)S=n[j]j=h[U]n={S(j)}S=A[Y(-11756)]n={N(n)}end end end end end end else if S<1890379 then if S<1805433 then if S<1754787 then if S<1746645 then if S<1715163 then K3=Y(-12780)s3=h[K3]u3=y3 Sg=Y(-12800)Sg=s3[Sg]Ng=Y(-11686)Sg={Sg(s3,L3)}K3=Sg[1]L3=nil Yg=Sg[2]fg=Y(-12655)u3=nil Sg=A[Ng]Ng=Y(-12193)s3=Sg[Ng]S=15269494 gg=A[fg]fg=Y(-12274)Ng=gg[fg]fg=Y(-12518)gg={Ng(fg,K3,Yg)}Sg=s3(v,N(gg))K3=nil Yg=nil else U=g[3]v=Y(-12840)S={}h=g[1]j=g[2]C=S M=A[v]v=Y(-12314)n=M[v]S=n[U]S=S and 9602954 or 9893998 end else if S<1753462 then n=Y(-12836)S=C[n]S=S and 8156937 or 11132280 else O=S V=Y(-12727)V=j[V]V=V(j)m=not V S=m and 11228526 or 6542211 b=m end end else if S<1785031 then if S<1770373 then S=C C=nil n=U or C S=A[Y(-11666)]n={n}else J=not r C=C+v n=~C n=C<=M n=J and n J=C>=M J=r and J n=J or n J=2343370 S=n and J n=193973 S=S or n end else if S<1799490 then m3=Y(-11686)p3=l3 Q3=A[m3]m3=Y(-12193)u3=Q3[m3]m3=Y(-12139)Q3=u3(v,m3)Q3=0 u3=p3>Q3 S=u3 and 11601304 or 8788996 else u=Y(-12655)Q=A[u]S=4085429 u=Y(-12716)E=Q[u]u=Y(-12581)Q=E(l,u)n=Q end end end else if S<1824180 then if S<1813488 then if S<1806022 then S=5798870 else V=Y(-11893)u=Y(-12331)a=Y(-11568)m=A[V]V=Y(-12427)O=m[V]V=j[a]R=B[f[1]]y=Y(-12191)a=R[y]m=O(V,a)O=0 b=m~=O S=b and 6469088 or 9383776 end else if S<1817130 then v,r=C(M,v)S=v and 5167825 or 1017117 else n=Y(-12223)S=A[n]r={S(j)}S=7768610 M=r[2]n=r[1]v=r[3]r=n end end else if S<1846780 then if S<1845566 then O=0xFE b=M==O S=b and 340314 or 2023984 else e=Y(-12840)S3=Y(-12441)T=A[e]e=Y(-12826)x=T[e]Y3=Y(-11713)A3=h3[Y3]Y3=h3[S3]S3=Y(-12752)S3=x[S3]S3={S3(x,A3,Y3)}T=S3[1]e=S3[2]S=T and 16156553 or 411454 end else if S<1869168 then S=8761171 O=0xffffffff j=O else if S<1887015 then r=Y(-11658)p=Y(-12435)M=Y(-11410)l=Y(-12491)S=A[M]J=B[f[1]]w=B[f[1]]z=w[l]w=Y(-11793)l=Y(-12169)v={[r]=J,[p]=z,[w]=l}M=S(C,v)J=Y(-12840)r=A[J]J=Y(-12847)v=r[J]r=Y(-12169)n={M}S=v[r]v=M S[U]=v S=A[Y(-12660)]else C=Y(-11837)U=A[C]C=Y(-12499)S=U[C]v=Y(-11837)r=Y(-11837)M=A[v]v=Y(-11872)C=M[v]p=Y(-11837)U=S(C)C=Y(-11837)U=A[C]C=Y(-12503)z=1 S=U[C]v=A[r]r=Y(-12551)C=Y(-12841)M=v[r]v=false J=A[p]p=Y(-11589)r=J[p]p=nil J=nil U=S(C,M,v,r,J,p,z)S=0x20 B[f[1]]=S S=14521327 end end end end end else if S<1952648 then if S<1909440 then if S<1895768 then if S<1892258 then E=Y(-11837)S=8765187 J=Y(-12223)n=A[J]l=A[E]E=Y(-12486)w=l[E]E=B[v]l={w(E)}w={n(N(l))}p=w[2]z=w[3]J=w[1]else S=A[Y(-11966)]n={}h=nil end else if S<1904767 then M=Y(-11968)J=Y(-12840)C=h[M]M=Y(-12022)n=C[M]r=A[J]J=Y(-12725)v=r[J]r=Y(-11639)M=v[r]C=U*M S=n+C U=S S=5504513 else S=C v=Y(-12840)p=Y(-11406)C=n M=A[v]v=Y(-12826)S=7820265 n=M[v]M=Y(-12590)v=Y(-11550)M=n[M]M=M(n,C)n=M[v]v=n n={}J=M[p]r=n p=J n=1 J=1 z=J J=0 w=z<J J=n-z end end else if S<1917585 then if S<1916419 then S=3743173 f3=Y(-12079)Y3=f3 else C=v S=r S=8113750 end else if S<1921368 then S=J and 2747975 or 5826597 else if S<1927510 then E=Y(-11837)l=A[E]M=r E=Y(-12486)w=l[E]E={C}l=w(E)w=1 z=l[w]w=Y(-12586)l=Y(-12655)S=z[w]E=0xFF z=S w=A[l]l=Y(-12858)S=w[l]l=z&E E=Y(-12060)w=S(l)U[M]=w S=Y(-12060)l=C[E]E=0x1 w=l+E z=nil C[S]=w S=12389925 M=nil else S=J S[n]=r S=G(14957001,{v})r=Y(-12836)J=n[r]n=B[v]n=Y(-12148)J[n]=S S=11132280 end end end end else if S<2025612 then if S<1998980 then if S<1987184 then U=Y(-11713)h=g[1]j=Y(-12840)n=A[j]j=Y(-12169)S=n[j]j=h[U]n={S(j)}n={N(n)}S=A[Y(-11526)]else M=j U=M S=6930364 j=nil end else if S<2018635 then S=z z=nil l=S E=B[f[1]]S=E and 8247542 or 8138534 w=E else m=0xFF O=M==m S=O and 1850311 or 8761171 end end else if S<2050018 then if S<2039923 then X3=Y(-11686)C3=A[X3]S=5718868 X3=Y(-12193)j3=C3[X3]X3=Y(-11811)C3=j3(M,X3)else r=M l=Y(-11568)w=J[l]z=not w S=z and 13397798 or 2932771 p=z end else if S<2050140 then S=10854586 n=j else if S<2050613 then z=Y(-12213)S=5439199 p=h[z]z=Y(-11848)J=p[z]p=J(v)n=p else M=Y(-12840)C=A[M]n={U}M=Y(-12176)S=C[M]C=S(U)S=A[Y(-12197)]end end end end end end end end end else if S<3290464 then if S<2670182 then if S<2397134 then if S<2245508 then if S<2113807 then if S<2085800 then if S<2074737 then if S<2066843 then S=13727834 else j=Y(-12168)h=g[1]n=A[j]j=Y(-11401)S=n[j]j=S n=h S=h and 1351562 or 5843930 end else if S<2079369 then v=1 M=U+v n=-M n={n}S=A[Y(-12096)]else j=Y(-12314)h=g[1]M=Y(-12840)n=h[j]C=A[M]M=Y(-12032)U=C[M]C=Y(-11701)j=U[C]S=n==j n={S}S=A[Y(-12137)]end end else if S<2098507 then if S<2090672 then Ag=Y(-11972)e3=A[Ag]Ag=e3(K3)T3=y3  .. Ag y3=T3 S=3987525 else Q=B[f[1]]u=Y(-11436)E=Q[u]S=15575824 l=r==E z=l end else if S<2105398 then U=g[3]h=g[1]j=g[2]S=j and 11723152 or 515668 n=j else S=A[Y(-12277)]n={U}end end end else if S<2158524 then if S<2127880 then if S<2119711 then o3=Y(-12314)H3=A[o3]o3=H3(q3)H3=Y(-12655)d3=o3==H3 t3=Y(-12268)I3=t3 S=d3 and 14036785 or 15686077 else n=Y(-12717)S=A[n]w={S(J)}z=w[3]p=w[2]S=497424 n=w[1]w=n end else if S<2145305 then X3=Y(-11812)C3=T[X3]X3=0 Y3=C3>=X3 S=Y3 and 14698581 or 1521043 else v=j p=0 r=Y(-12840)n=A[r]r=Y(-11853)S=n[r]n=S(h,v)r=n J=r~=p S=J and 16326054 or 11640967 n=J end end else if S<2179425 then if S<2167994 then S=7928200 C=Y(-12314)r=Y(-12840)U=h[C]v=A[r]r=Y(-12032)M=v[r]v=Y(-12801)C=M[v]j=U==C n=j else R=Y(-12586)a=J[R]S=12756335 m=a end else if S<2221613 then M=nil S=347327 else if S<2242663 then S=9723556 b=nil w=nil else a=nil m=nil n=V S=4049699 V=nil v=n R=true E=R end end end end end else if S<2347552 then if S<2293103 then if S<2279321 then if S<2278901 then z=Y(-12840)p=A[z]z=Y(-11587)S=p[z]S=S and 13848688 or 583723 else U=Y(-12840)n=A[U]C=Y(-12309)U=Y(-12081)S=n[U]U=h[C]n={S(U,j)}S=A[Y(-11856)]n={N(n)}end else if S<2290153 then r=true v=Y(-12415)v=U[v]v=v(U,r)n=v S=1385286 else l=Y(-11837)w=A[l]O=Y(-11837)l=Y(-12503)u=Y(-11837)z=w[l]m=Y(-11917)l=Y(-12684)Q=A[u]u=Y(-12551)E=Q[u]Q=false b=A[O]O=Y(-11589)u=b[O]O=Y(-11876)b=p[O]O=p[m]w=z(l,E,Q,u,b,O)E=Y(-11837)l=A[E]E=Y(-12637)w=l[E]l=w()w=0 z=l>w S=z and 16350895 or 14176447 end end else if S<2308705 then if S<2301583 then n=Y(-11390)J=Y(-12655)C=Y(-12678)S=A[n]r=A[J]w=Y(-12540)J=Y(-12274)v=r[J]J=Y(-11777)z=B[h]p=z[w]r=v(J,p)v=Y(-12255)M=r .. v U=C .. M n=S(U)S=12487575 else h=g[1]U=S C=B[f[1]]j=C S=C and 3545034 or 8924761 end else if S<2343224 then R=Y(-12586)a=Y(-12840)b=Y(-12840)u=A[b]m=Y(-12840)b=Y(-12081)Q=u[b]u=Q(w)O=A[m]m=Y(-12701)b=O[m]V=A[a]a=Y(-11546)S=6355100 m=V[a]a=z[R]V={m(a)}O={b(N(V))}Q=Y(-12846)Q=u[Q]Q=Q(u,N(O))l=Q else if S<2343454 then n=B[f[1]]p=Y(-12005)J=C S=n[p]n=S(h,J)p=n n=p S=p and 4526545 or 8634826 else n=Y(-11682)S=B[f[1]]U=Y(-12540)M=Y(-12540)h=g[1]C=Y(-12385)j=h[U]S[n]=j n=Y(-12385)S=B[f[1]]U=B[f[2]]j=U[C]C=h[M]M=Y(-12385)U=j(C)S[n]=U S=B[f[1]]C=B[f[1]]U=C[M]C=Y(-12206)n=Y(-12206)j=U[C]S[n]=j S=B[f[1]]n={S}S=A[Y(-11470)]end end end end else if S<2367121 then if S<2355036 then if S<2351076 then x=Y(-12655)S=6424471 Z=A[x]T=0 x=Y(-12274)K=Z[x]x=Y(-11990)h3=C-T Z=K(x,h3)L=Z else R=Y(-11972)V=Y(-11975)Z=Y(-12840)W=S V=M[V]V=V(M)a=A[R]R=a(v)K=A[Z]a=Y(-12331)Z=Y(-12494)s=K[Z]K=Y(-11914)L=s[K]y=L S=L and 1348173 or 10064647 end else if S<2366797 then l=0xC0 w=~l z=M&w w=24 p=z<<w j=p u=2 Q=C[u]u=Y(-12586)E=Q[u]b=3 Q=0xFF l=E&Q E=16 w=l<<E z=j|w u=C[b]j=z b=Y(-12586)Q=u[b]u=0xFF E=Q&u b=4 Q=8 l=E<<Q w=j|l u=C[b]b=Y(-12586)j=w S=8761171 Q=u[b]u=0xFF E=Q&u l=j|E Q=3 j=l E=U+Q U=E else M=Y(-11837)n=A[M]v=Y(-12331)M=Y(-11782)r=Y(-12331)S=n[M]M=Y(-12517)n=S(M,v,r)S=31 j=S S=3698218 end end else if S<2370762 then if S<2368539 then p=r O=Y(-12840)l=Y(-12840)Q=Y(-12060)w=A[l]l=Y(-12610)S=w[l]E=z[Q]b=A[O]O=Y(-12253)u=b[O]b=2 Q=u*b O=Y(-12840)l=E+Q E=1 w=S(l)l=#U S=l+E b=A[O]O=Y(-12081)u=b[O]E=S b=Y(-12446)Q=u[b]u=Q(w)l=u S=u and 2342761 or 6355100 else S={}U=S n=1 j=g[2]S=4743301 h=g[1]C=#j M=C C=1 v=C C=0 r=v<C C=n-v end else if S<2382216 then n=C S=M S=C and 16332197 or 11413389 else if S<2391624 then U=Y(-11837)C=Y(-12153)n=A[U]v=Y(-11837)U=Y(-12503)S=n[U]U=h[C]M=A[v]v=Y(-12551)C=M[v]M=false p=1 J=Y(-11837)r=A[J]J=Y(-11589)v=r[J]J=j[p]p=Y(-11876)r=J[p]z=#j p=j[z]z=Y(-11917)J=p[z]p=1 n=S(U,C,M,v,r,J,p)C=Y(-11837)U=A[C]C=Y(-12637)n=U[C]U=n()n=0 S=U>n S=S and 12757437 or 10780857 else w=z Q=Y(-12223)S=11535846 a=Y(-12081)n=false E=n n=A[Q]V=A[a]a=Y(-11749)m=V[a]V={m(v)}m={n(N(V))}O=m[3]b=m[2]Q=m[1]end end end end end end else if S<2554208 then if S<2489784 then if S<2470074 then if S<2447476 then if S<2422137 then C=Y(-12636)U=j[C]S=8778767 C=U(h)n=C else J=Y(-11893)r=A[J]J=Y(-12226)C=r[J]J=0x7F800000 r={C(U,J)}S=A[Y(-11808)]n={N(r)}end else if S<2463998 then j=g[2]h=g[1]C=Y(-11968)U=h[C]C=Y(-12225)n=U[C]S=n+j n={S}S=A[Y(-11512)]else L=Y(-12871)y=L S=1419541 end end else if S<2477226 then if S<2474879 then S=Y(-11929)v=Y(-12021)U=Y(-11893)M=Y(-11893)j=A[U]U=Y(-12427)n=j[U]C=A[M]M=Y(-12147)U=C[M]M=h[v]v=24 C=U(M,v)U=0x3f j=n(C,U)h[S]=j v=Y(-12021)S=Y(-12721)U=Y(-11893)j=A[U]U=Y(-12427)n=j[U]M=Y(-11893)C=A[M]M=Y(-12147)U=C[M]M=h[v]v=30 C=U(M,v)U=1 j=n(C,U)C=Y(-12021)h[S]=j U=Y(-11893)j=A[U]S=Y(-11543)U=Y(-12147)n=j[U]U=h[C]C=31 j=n(U,C)h[S]=j S=1583744 else M,J=v(C,M)S=M and 1417999 or 2055712 end else if S<2478280 then n=Y(-12620)h=g[1]S=h[n]n={S}S=A[Y(-11566)]else v=j M=Y(-12113)S=A[Y(-11810)]n={j}h[M]=v end end end else if S<2519891 then if S<2506107 then if S<2498874 then n={C}S=A[Y(-12100)]else S=false n={S}S=A[Y(-11702)]end else if S<2508572 then A3=Y(-11686)e=A[A3]X3=Y(-12681)A3=Y(-12193)h3=e[A3]S3=Y(-11725)C3=Y(-11798)Y3=A[S3]S3=T[C3]C3=T[X3]X3=Y(-12606)S=1359181 I3=Y(-11387)I3=h[I3]A3={I3(h,Y3,S3,C3,X3)}e=h3(v,N(A3))else S=n and 6281891 or 10285149 end end else if S<2533732 then if S<2521473 then J,w=p(r,J)S=J and 11999049 or 14237065 else z=Y(-11837)p=A[z]z=Y(-12414)S=11282548 J=p[z]p=J(r)end else if S<2544678 then r=Y(-12331)n={r}S=A[Y(-11664)]else if S<2546563 then U=n n=Y(-12717)S=A[n]v={S(U)}C=v[2]M=v[3]n=v[1]v=n S=7752058 else z=Y(-11837)v=Y(-12060)S=0 n=0 C=Y(-11837)j=S r=Y(-11568)U=n E=Y(-11837)h=g[1]n=A[C]C=Y(-12486)S=n[C]Q=Y(-11837)p=A[z]z=Y(-12551)J=p[z]M={[v]=h,[r]=J}r=Y(-12060)p=1 J=h+p l=Y(-11837)p=Y(-11568)w=A[l]l=Y(-12551)z=w[l]v={[r]=J;[p]=z}z=2 J=Y(-12060)p=h+z l=A[E]E=Y(-12551)z=Y(-11568)w=l[E]r={[J]=p;[z]=w}w=3 p=Y(-12060)z=h+w w=Y(-11568)E=A[Q]Q=Y(-12551)l=E[Q]J={[p]=z,[w]=l}C={M;v;r;J}v=1 n=S(C)C=n M=C[v]v=Y(-12586)n=M[v]M=0xFF S=n&M M=S S=1 r=0x80 U=S v=M&r r=0 n=v==r S=n and 5216645 or 9933429 end end end end end else if S<2619185 then if S<2582313 then if S<2572001 then if S<2555657 then j=n n=Y(-12223)S=A[n]M={S(j)}C=M[3]U=M[2]n=M[1]S=11813209 M=n else S={}C=S r=Y(-12314)v=A[r]r=v(j)v=Y(-12655)M=r==v S=M and 12321425 or 1123627 n=M end else if S<2573817 then z3=Y(-12717)p3=A[z3]S=4808621 w3={p3(J3)}E3=w3[2]l3=w3[3]z3=w3[1]else r3=Y(-11686)v3=A[r3]r3=Y(-12193)k3=v3[r3]r3=Y(-11403)S=5904877 v3=k3(I3,r3)end end else if S<2586608 then if S<2584431 then n=Y(-12541)v=Y(-12314)C=Y(-12309)S=B[f[1]]p=Y(-12840)n=S[n]U=h[C]n=n(S,U)U=n M=U[v]J=A[p]p=Y(-12032)r=J[p]J=Y(-11542)v=r[J]C=M==v S=C and 4783652 or 14274090 n=C else n=Y(-12279)S=h[n]n={S}S=A[Y(-12631)]end else if S<2593833 then U=Y(-12087)j=3 S=12250147 A[U]=j else if S<2614459 then w,l=p(z,w)S=w and 9860214 or 8332392 else y3=Y(-11686)m3=A[y3]y3=Y(-12193)S=4416862 Q3=m3[y3]y3=J3[u3]p3=nil m3=Q3(y3,w3)u3=nil w3=nil end end end end else if S<2634086 then if S<2628094 then if S<2627017 then S=12777238 n=27 U=n else I3=Y(-12840)X3=A[I3]S=5718868 I3=Y(-11432)C3=X3[I3]j3=N3-C3 G3=Y(-12655)I3=Y(-11686)X3=A[I3]I3=Y(-12193)C3=X3[I3]t3=A[G3]G3=Y(-12274)I3=t3[G3]G3=Y(-11389)t3={I3(G3,j3,j3,N3)}j3=nil X3=C3(M,N(t3))end else if S<2632336 then p=Y(-12840)J=A[p]p=Y(-12847)v=J[p]J=Y(-12081)S=A[Y(-11527)]M=v[J]n={C}v=C M[j]=v else S=13059650 z=nil end end else if S<2650876 then if S<2649713 then M=Y(-11548)C=A[M]M=C(U)n={h}S=A[Y(-11717)]else l=Y(-11837)M=J w=A[l]E=Y(-11972)l=Y(-12503)z=w[l]b=Y(-12060)O=1 l=A[E]u=p[b]b=0xB400000000000000 Q=u|b u=Y(-11837)E=l(Q)Q=A[u]u=Y(-12034)l=Q[u]w=z(E,l)l=Y(-11837)w=A[l]l=Y(-12026)Q=Y(-11837)z=w[l]E=A[Q]Q=Y(-12637)l=E[Q]E={l()}w=z(N(E))E=Y(-11686)S=7789306 l=A[E]E=Y(-12433)z=l[E]Q=#w E=1 b=#C u=b+O l=z(w,E,Q,u,C)E=Y(-11837)l=A[E]w=nil M=nil E=Y(-12083)z=l[E]l=z()p=nil end else if S<2653202 then g3=Y(-12717)N3=A[g3]B3={N3(S3)}f3=B3[2]S=16490647 F3=B3[3]g3=B3[1]else if S<2659789 then r=n n=Y(-12717)S=A[n]z={S(v)}J=z[2]n=z[1]p=z[3]z=n S=10398949 else V=Y(-12029)S=2759849 m=w[V]O=j>m u=O end end end end end end end else if S<2969743 then if S<2772236 then if S<2709459 then if S<2687982 then if S<2677925 then if S<2674900 then J=Y(-12830)n=B[f[1]]S=n[J]z=Y(-12840)p=A[z]z=Y(-12463)J=p[z]p={J(r)}n=S(h,r,N(p))S=10320150 else Z=h3 S=T S=h3 and 7397917 or 9389133 end else if S<2685808 then S=C S=6585608 n=U else S=n and 7477452 or 1805470 end end else if S<2698903 then if S<2693157 then Q=S m=Y(-11678)b=S O=w[m]u=O S=O and 5204340 or 11271850 else S=Q u=S V=Y(-11568)O=S m=J[V]S=m and 3791059 or 13357903 b=m end else if S<2702712 then S=p and 3684839 or 10763373 else z=Y(-11837)M=Y(-12223)n=A[M]p=A[z]z=Y(-12486)J=p[z]p={J(C)}J={n(N(p))}S=673076 r=J[3]M=J[1]v=J[2]end end end else if S<2744710 then if S<2741011 then if S<2729639 then S=true S=S and 15785300 or 10214397 else W=Y(-12840)S=15706460 y=A[W]W=Y(-12173)R=y[W]V=R end else if S<2743392 then n=Y(-12492)S=1419541 y=n else u=Y(-12840)Q=A[u]u=Y(-11514)E=Q[u]Q=Y(-12480)l=E[Q]E=30 S=10417567 w=l>=E p=w end end else if S<2757115 then if S<2751355 then S=363482 J=v else Q=Y(-11788)S=7021687 E=U .. Q U=E end else if S<2759706 then y=Y(-12840)S=a R=A[y]y=Y(-12253)a=R[y]m={b(V,a)}u=Q(U,N(m))U=u b=not l Q=U S=b and 11615582 or 12669001 else if S<2760641 then E=u S=b S=6490720 else S=Q S=E and 14906045 or 11741477 end end end end end else if S<2898458 then if S<2830341 then if S<2804436 then if S<2790501 then f3=Y(-12655)N3=Y(-11686)S3=A[N3]N3=Y(-12193)A3=S3[N3]g3=A[f3]f3=Y(-12274)N3=g3[f3]f3=Y(-11601)g3={N3(f3,z,R,V,a,s)}S3=A3(C,N(g3))N3=Y(-11686)S3=A[N3]N3=Y(-12406)A3=S3[N3]N3=Y(-11714)S3={A3(C,N3)}n={N(S3)}S=A[Y(-12595)]else w=4 n=Y(-12060)J=C E=1 l=J-E z=w*l E=Y(-12840)p=j-z l=A[E]E=Y(-12173)w=l[E]z=Y(-11568)S={[n]=p;[z]=w}U[J]=S J=nil S=7525710 end else if S<2824036 then j=nil h=nil S=A[Y(-12183)]n={}else j=Y(-12314)C=Y(-12151)h=g[1]n=A[j]U=h[C]j=n(U)n=Y(-12562)S=j==n S=S and 6186224 or 10171706 end end else if S<2857849 then if S<2845363 then M=n S=Y(-12847)J=Y(-12840)n={}h[S]=n r=A[J]n=1 J=Y(-12863)v=r[J]S=13680553 r=v v=1 J=v v=0 p=J<v v=n-J else n=Y(-12510)h=g[1]S=h[n]n={S}S=A[Y(-11444)]end else if S<2874566 then M=Y(-12840)n=A[M]w=Y(-12840)M=Y(-12494)S=n[M]r=Y(-12205)v=h[r]z=A[w]w=Y(-11562)p=z[w]z=Y(-11639)J=p[z]r=U*J M=v+r n=S(M)M=#j v=1 C=n S=M+v M=C j[S]=M M=1 S=U+M U=S S=6698389 else if S<2893728 then U=B[f[1]]h=g[1]j=g[2]C=Y(-12634)n=U[C]U=n(h)S=not U S=S and 5448728 or 1549225 else w=Y(-12840)z=A[w]w=Y(-12853)p=z[w]z=Y(-12164)J=p[z]r=C==J S=r and 16222182 or 16666869 end end end end else if S<2935781 then if S<2929370 then if S<2902066 then p=r l=Y(-12840)O=Y(-12840)w=A[l]l=Y(-12610)S=w[l]Q=Y(-12060)E=z[Q]b=A[O]O=Y(-12253)u=b[O]b=1 Q=u*b l=E+Q w=S(l)Q=Y(-12840)E=A[Q]Q=Y(-12081)l=E[Q]E=Y(-12446)S=l[E]l=S(w)S=l and 13119371 or 784798 else S=V S=m and 13801401 or 8724173 end else if S<2933169 then E=Y(-12314)l=h[E]S=13397798 Q=Y(-11568)E=J[Q]w=l[E]z=not w p=z else S=14932379 r=Y(-11655)l=Y(-12822)w=Y(-11686)z=A[w]w=Y(-12406)p=z[w]w=h[l]l=Y(-12715)z=p(w,l)p=Y(-12095)J=z .. p v=r .. J C=v end end else if S<2951734 then if S<2937654 then U=v z=Y(-11837)p=A[z]z=Y(-12083)J=p[z]p=J()z=Y(-11837)b=1 p=A[z]z=Y(-12499)J=p[z]z=Y(-11837)p=J(r)p=A[z]z=Y(-12503)J=p[z]w=Y(-12153)E=Y(-11837)z=h[w]l=A[E]E=Y(-12551)w=l[E]u=Y(-11837)Q=A[u]l=false u=Y(-11589)E=Q[u]Q=nil u=nil p=J(z,w,l,E,Q,u,b)w=Y(-11837)z=A[w]w=Y(-12637)p=z[w]z=p()p=0 J=z>p S=J and 11461408 or 11349156 else r,z=J(v,r)S=r and 11452266 or 12332844 end else if S<2959328 then A3=Y(-12655)S=2784121 N3=Y(-12158)Z=A[A3]A3=Y(-12274)K=Z[A3]A3=Y(-12552)N3=M[N3]S3={N3(M,U,r)}Z=K(A3,N(S3))s=Z else if S<2969429 then z=p S=8961585 else C=n n=B[f[1]]v=C M=Y(-12662)S=n[M]r=S M=S S=C and 9864933 or 11495821 end end end end end end else if S<3128279 then if S<3039902 then if S<3027414 then if S<2974145 then if S<2970195 then w=Y(-11788)z=U .. w S=7845408 U=z else v=Y(-12309)n=Y(-12541)S=B[f[1]]M=h[v]n=S[n]n=n(S,M)r=Y(-11975)M=n v=B[f[1]]n=v[r]v=n(M)n=Y(-11521)S=v .. n n={S}S=A[Y(-11662)]end else if S<3017464 then Q=Y(-12716)z=p Q=z[Q]E=Y(-12674)Q={Q(z,E)}l=Q[2]S=Q[1]E=S Q=#z S=l==Q S=S and 6520541 or 16628638 else u=Y(-12840)Q=A[u]u=Y(-11992)S=Q[u]Q=S(l)b=Y(-11392)u=Q[b]S=u<p S=S and 13225627 or 4386275 end end else if S<3032779 then if S<3031838 then a=y S=W S=y and 13601714 or 6061471 else q3=Y(-12207)S=613546 k3=q3 end else if S<3037139 then S=2631627 M=nil else S=7424291 x3=Y(-12441)Z3=L3[x3]x3=-1 K3=Z3~=x3 W3=K3 end end end else if S<3067160 then if S<3050199 then if S<3047334 then e=nil T=Z~=e S=T and 5018276 or 12373411 else J=C n=B[f[3]]p=Y(-11681)l=4 w=Y(-12206)S=n[p]z=h[w]w=J*l p=z+w w=B[f[4]]z=4 n=S(U,p,z,w)J=nil S=14950381 end else if S<3054207 then n={n}S=A[Y(-11924)]else h=g[1]S=h and 863354 or 8691719 end end else if S<3118097 then if S<3086584 then S=8490512 w=nil l=nil else h=g[1]j=g[2]C=Y(-11968)U=h[C]C=Y(-12372)n=U[C]C=4 U=j*C S=n+U U=S C=Y(-12840)n=A[C]C=Y(-11536)S=n[C]C=4 n={S(U,C)}S=A[Y(-11919)]n={N(n)}end else if S<3120656 then S=13551336 m=Q==M b=m else if S<3121918 then A3=Y(-12655)e=A[A3]A3=Y(-12274)T=e[A3]A3=Y(-11990)e=T(A3,J)S=171618 x=e else S=15981649 w=24.5 z=j==w J=z end end end end end else if S<3183693 then if S<3163722 then if S<3147531 then if S<3144008 then S=K S=L and 4315454 or 3829737 else y=not j S=y and 3784122 or 9334837 end else if S<3151686 then R=Y(-12046)S=7463278 a=r[R]R=Y(-11800)V=a==R O=V else r=Y(-11837)v=A[r]S=4603647 r=Y(-12486)M=v[r]v=M(h)U=v end end else if S<3166292 then if S<3164687 then J=Y(-12840)M=Y(-12314)C=h[M]r=A[J]J=Y(-12032)v=r[J]r=Y(-11542)M=v[r]U=C==M n=U S=12868594 else z3=Y(-11686)p3=A[z3]z3=Y(-12193)J3=p3[z3]z3=Y(-12457)p3=J3(v,z3)J3={}m3=Y(-12093)z3=Y(-12223)p3=A[z3]Q3=h[m3]m3=Y(-12038)u3=Q3[m3]S=4416862 m3=1 Q3=L-m3 w3=u3[Q3]u3={p3(w3)}E3=u3[2]z3=u3[1]l3=u3[3]end else if S<3172441 then L3=Y(-11893)W3=A[L3]s3=Y(-12659)L3=Y(-12427)y3=W3[L3]Z3=Y(-11482)L3=u3[s3]K3=B[f[1]]s3=K3[Z3]W3=y3(L3,s3)y3=0 a3=W3~=y3 S=a3 and 4775535 or 13176727 else if S<3180093 then p=r u=Y(-12060)l=1 w=#M S=w+l l=Y(-12060)b=Y(-11643)Q=z[u]m=S u=h[b]b=S E=Q+u S=C and 7726342 or 15049953 O=C Q=Y(-11568)else M=Y(-12840)C=A[M]M=Y(-12668)S=A[Y(-12045)]n=C[M]C=n(U)n={C}end end end end else if S<3217574 then if S<3209696 then if S<3206352 then v=Y(-12840)M=A[v]v=Y(-11429)S=M[v]l=Y(-12620)M=S(j,U)v=j z=Y(-11793)S=Y(-12060)C=M C[S]=v v=Y(-11410)S=A[v]J=Y(-11658)p=B[f[1]]w=C[l]r={[J]=p,[z]=w}v={S(C,r)}S=A[Y(-11404)]n={N(v)}else n={U}S=A[Y(-12229)]end else if S<3211837 then E=Y(-12840)l=A[E]E=Y(-11514)w=l[E]l=Y(-12480)S=11947542 z=w[l]w=30 p=z>=w r=p else S=15025006 C=Y(-11972)U=A[C]C=U(h)n=C end end else if S<3231594 then if S<3227218 then h=g[1]j=Y(-12840)n=A[j]U=Y(-12060)j=Y(-12176)S=n[j]j=h[U]C=Y(-12491)C=h[C]U={C(h)}n=S(j,N(U))n={}h=nil S=A[Y(-12747)]else O=Y(-11681)W=Y(-11568)S=u b=B[f[4]]u=b[O]V=Y(-12206)m=h[V]a=Y(-12206)O=m+z m=4 b=u(U,O,m,E)b=B[f[4]]O=Y(-11681)u=b[O]y=Y(-12314)V=h[a]L=Y(-11568)m=V+z V=8 O=m+V a=Y(-12206)m=4 b=u(U,O,m,Q)O=Y(-11681)b=B[f[4]]u=b[O]V=h[a]m=V+z O=m+w R=h[y]V=S y=J[W]a=R[y]W=J[L]R=32 m=a or R a=S R=W y=S S=W and 9911194 or 8493584 end else if S<3247653 then M=n n=Y(-12223)S=A[n]J={S(M)}r=J[3]n=J[1]S=705314 v=J[2]J=n else if S<3275122 then z=27.1 p=j==z J=S r=p S=p and 6956316 or 3847450 else z=Y(-12840)p=A[z]l=Y(-12840)z=Y(-12610)S=p[z]w=A[l]l=Y(-11725)z=w[l]p=S(z)w=Y(-12840)z=A[w]w=Y(-12701)S=z[w]w=100 z=S(p,w)S=Y(-12716)S=z[S]w=Y(-12669)S=S(z,w)S=S and 15060445 or 5605708 end end end end end end end end else if S<3696394 then if S<3490218 then if S<3407900 then if S<3349759 then if S<3317232 then if S<3307814 then if S<3291239 then Y3=Z .. e Z=Y3 S=6240516 else h=g[1]j=Y(-12721)n=h[j]j=0 S=n~=j S=S and 6051048 or 12705881 end else if S<3308355 then S=J S[n]=r r=Y(-12081)J=n[r]n=B[v]S=d(10583048,{v})n=Y(-12148)J[n]=S S=1751880 else l=Y(-12060)w=z[l]p=r Q=Y(-11854)E=B[f[1]]l=E[Q]E=1 S=w-l l=#C w=S S=l+E E=S u=B[f[1]]b=Y(-12446)Q=u[b]u=Q(w)l=u S=u and 1514803 or 7894668 end end else if S<3334046 then if S<3328690 then S=V S=m and 7020595 or 4029203 else C=S M=not j S=M and 8451596 or 7348205 U=M end else if S<3334791 then J={}S=320120 n=J else S=r S=v and 982641 or 2372781 C=v end end end else if S<3377120 then if S<3367748 then if S<3351464 then s=Y(-11736)V=S L=O==s y=L R=S W=S S=L and 3028133 or 8546533 else M=j S=13266851 end else if S<3371401 then u=Q y=1 m=Y(-12061)O=b[m]n=w+O w=n a=Y(-12655)L=Y(-11861)V=A[a]a=Y(-12274)m=V[a]a=Y(-11421)R=u-y u=nil y=Y(-11975)y=b[y]S=15293073 y=y(b)W=b[L]b=nil V={m(a,R,y,W)}O=Y(-12513)O=J[O]O=O(J,N(V))else T=S h3=r x=S S=r and 6482056 or 2675899 end end else if S<3396162 then if S<3380339 then S=6267522 J=nil p=nil else M=Y(-12192)U=g[3]h=i()v=Y(-11466)C=g[4]B[h]=g[1]j=g[2]S=B[h]n=S(M)M=i()B[M]=n n=B[M]S=n[v]v=i()J=S B[v]=S p=B[v]S=p and 12196174 or 7401779 r=p end else if S<3400552 then S=A[Y(-12607)]n={J}else if S<3405921 then h=g[1]n=B[f[1]]S=n[h]j=S S=j and 16380751 or 5103146 else p=Y(-12840)J=A[p]p=Y(-12032)r=J[p]J=Y(-11542)S=12180726 v=r[J]M=U==v n=M end end end end end else if S<3449633 then if S<3429588 then if S<3412060 then if S<3409376 then S=F3 S=c3 and 16418926 or 5255887 else n={n}S=r S=A[Y(-12833)]end else if S<3425899 then w=Y(-12840)v=S z=A[w]w=Y(-12032)p=z[w]z=Y(-12596)J=p[z]r=j==J S=r and 11334122 or 4332178 M=r else S=880463 z=nil end end else if S<3438094 then if S<3433570 then r=Y(-12655)n=Y(-11390)S=A[n]v=A[r]r=Y(-12274)M=v[r]r=Y(-12771)v={M(r,h)}n=S(N(v))S=94393 else S=J and 7801753 or 8172276 end else if S<3445036 then n=Y(-12636)S=j[n]v={S(h)}M=v[2]S=13349034 n=v[1]U=n C=M else if S<3446732 then S=J S=r and 12747231 or 10088117 else z=Y(-12337)p=A[z]z=Y(-11496)w=1 J=p[z]z=v-w p=J(M,z)M=p J=0 v=J S=8833265 end end end end else if S<3474956 then if S<3460708 then if S<3459896 then J3=S E3=Y(-12207)p3=h3 and E3 z3=S z3=Y(-12131)r3=p3 or z3 z3=Y(-11686)m3=Y(-11686)p3=A[z3]z3=Y(-12193)Q3=false u3=false J3=p3[z3]w3=Y(-11975)l3=Y(-12655)E3=A[l3]w3=C3[w3]l3=Y(-12274)z3=E3[l3]l3=Y(-11475)w3=w3(C3,u3,Q3)Q3=A[m3]m3=Y(-12406)u3=Q3[m3]m3=Y(-12715)Q3=u3(v3,m3)E3={z3(l3,e,k3,w3,X3,Q3,r3)}p3=J3(v,N(E3))E3=Y(-12840)z3=A[E3]E3=Y(-12038)p3=z3[E3]J3=p3[L]S=J3 and 3164795 or 334356 else x=Y(-11893)L=S Z=A[x]x=Y(-12427)K=Z[x]h3=Y(-12659)A3=Y(-12840)x=a[h3]e=A[A3]A3=Y(-12853)T=e[A3]e=Y(-11482)h3=T[e]Z=K(x,h3)K=0 s=Z==K W=s S=s and 12760335 or 8966621 end else if S<3468989 then J=Y(-12840)S=A[Y(-12758)]v=Y(-12840)U=Y(-12840)j=A[U]U=Y(-12610)n=j[U]M=A[v]v=Y(-11587)C=M[v]r=A[J]J=Y(-12253)v=r[J]M=h*v U=C+M j={n(U)}n={N(j)}else g3=Y(-11686)N3=A[g3]g3=Y(-12193)S3=N3[g3]X3=Y(-12840)g3=Y(-12457)N3=S3(M,g3)g3=Y(-12223)S3={}N3=A[g3]C3=A[X3]X3=Y(-12038)j3=C3[X3]B3=j3[Y3]j3={N3(B3)}F3=j3[3]S=9615877 f3=j3[2]g3=j3[1]end end else if S<3483448 then if S<3482918 then n=nil S=A[Y(-11965)]n={n}else m=Y(-11740)m=j[m]m=m(j)S=m and 6290305 or 16174109 end else if S<3484328 then n=Y(-11390)S=A[n]w=1 J=Y(-12655)r=A[J]J=Y(-12274)v=r[J]z=C[w]w=Y(-12060)p=z[w]J=Y(-11397)r={v(J,h,p)}n=S(N(r))S=7589038 else if S<3484990 then w=Y(-12840)n=A[w]w=Y(-12826)S=n[w]E=Y(-12840)n=Y(-12590)n=S[n]n=n(S,z)w=n l=A[E]E=Y(-12826)n=l[E]l=Y(-11747)l=n[l]l=l(n,w)S=p .. l p=S S=3945869 w=nil else Q=Y(-12840)v=z l=i()B[l]=w w=l b=Y(-12840)E=A[Q]S=14539716 Q=Y(-12081)l=E[Q]u=A[b]m=Y(-12586)b=Y(-11546)Q=u[b]O=B[w]a=Y(-12620)b=O[m]O=Y(-11793)u={Q(b)}E=l(N(u))l=i()R=Y(-12396)u={}B[l]=E Q=Y(-11410)y=k(12005097,{l,w})E=A[Q]V=B[l]m=V[a]V=Y(-11658)a=P(10695311,{l;w})b={[O]=m;[V]=a;[R]=y}Q=E(u,b)l=X(l)r[v]=Q w=X(w)v=nil end end end end end end else if S<3574999 then if S<3529866 then if S<3511379 then if S<3494214 then if S<3491737 then S=true S=S and 3656223 or 5188307 else p=Y(-12869)J=U .. p U=J S=7670127 end else if S<3508246 then N3=nil S3=e~=N3 S=S3 and 6563793 or 7842708 else j=Y(-12314)M=Y(-12840)h=g[1]n=h[j]C=A[M]M=Y(-12032)U=C[M]C=Y(-12818)j=U[C]S=n==j n={S}S=A[Y(-12024)]end end else if S<3520733 then if S<3517347 then p=Y(-11695)J=p S=14641929 else p=Y(-12840)J=A[p]p=Y(-11536)l=Y(-12840)r=J[p]w=A[l]l=Y(-12479)z=w[l]w=Y(-11983)p=z[w]J=r(p)r=0 S=J==r S=S and 5933666 or 15534059 end else if S<3521626 then h=g[1]U=Y(-12840)j=g[2]n=A[U]U=Y(-11546)S=n[U]n=S(j)U=n v=Y(-12840)M=A[v]v=Y(-12479)C=M[v]M=Y(-11392)n=C[M]S=n>=U S=S and 15838414 or 10588057 else n={}S=A[Y(-12559)]h=nil end end end else if S<3561682 then if S<3543326 then if S<3534053 then C=Y(-12455)M=Y(-12455)U=h[C]C=j[M]n=U~=C S=n and 13639826 or 16276961 else S=z S=p and 13268816 or 11859549 r=p end else if S<3554781 then M=0x00FFFFFFFFFFFFFF C=h&M j=C S=8924761 else a3=Y(-12714)R3=m3  .. a3 S=3167994 m3=R3 end end else if S<3567370 then if S<3563176 then O=Y(-12500)u=O S=15258465 else p={}S=8857984 r=p end else if S<3570416 then j=Y(-12468)h=g[1]n=h[j]j=1 S=n==j n={S}S=A[Y(-12157)]else if S<3572020 then S=854321 l=Y(-11692)w=h[l]l=w()n=l else n=0 n={n}S=A[Y(-12204)]end end end end end else if S<3637476 then if S<3588354 then if S<3578262 then if S<3577388 then U=n S=U and 2050026 or 10854586 n=U else V=Y(-11893)W=Y(-12840)m=A[V]a=Y(-12659)V=Y(-12427)O=m[V]V=v[a]y=A[W]W=Y(-12853)R=y[W]y=Y(-12848)a=R[y]m=O(V,a)O=0 b=m~=O S=b and 976504 or 14669644 end else if S<3580449 then S=15757830 M={}n=M else S=Y(-12791)J=S S=14641929 end end else if S<3609399 then if S<3602156 then h=g[1]U=Y(-12840)j=A[U]U=Y(-12826)n=j[U]j=Y(-12077)S=n[j]C=Y(-11837)U=A[C]C=Y(-12527)j=U[C]n={S(h,j)}n={N(n)}S=A[Y(-11474)]else p=Y(-12840)J=A[p]p=Y(-12176)n=J[p]p=B[v]S=1891195 J=n(p)end else if S<3622926 then S=V S=7738056 b=m else if S<3634898 then v=nil S=11558730 else J=w S=l S=3857376 end end end end else if S<3685872 then if S<3669584 then if S<3656344 then R=Y(-11837)a=A[R]R=Y(-12486)V=a[R]R={O}a=V(R)V=1 m=a[V]V=Y(-12586)S=m[V]m=Y(-12347)A[m]=S a=Y(-12655)V=A[a]a=Y(-12858)m=V[a]y=Y(-12347)R=A[y]y=255 a=R&y V=m(a)m=Y(-12566)A[m]=V y=Y(-12060)R=O[y]m=Y(-12060)y=1 a=R-y R=Y(-12655)O[m]=a y=Y(-12566)a=A[R]R=Y(-12716)m=a[R]R=A[y]y=Y(-11928)a=m(R,y)S=a and 5832302 or 10608982 else p=nil z=n(C,w)S=l S=11125151 end else if S<3672757 then v=Y(-11837)M=A[v]l=1 v=Y(-12503)w=Y(-11837)C=M[v]r=false v=4 z=A[w]w=Y(-11589)J=z[w]w=j[l]l=Y(-11876)z=w[l]E=#j l=j[E]E=Y(-11917)w=l[E]M=C(U,v,r,J,z,w)r=Y(-11837)v=A[r]r=Y(-12637)M=v[r]v=M()M=0 C=v>M S=C and 13618915 or 2062701 else y=Y(-11918)S=14299018 V=y end end else if S<3690540 then if S<3686478 then S=S3 S=Y3 and 3291067 or 3505985 else S=10171742 u=nil b=nil J=nil end else if S<3694826 then m=Y(-12290)u=S O=U[m]b=z==O S=b and 6214516 or 11566104 Q=b else if S<3695860 then v=S J=-65535 r=j>J S=r and 4865121 or 8396334 M=r else h=g[1]n=Y(-12314)S=h[n]n=B[f[1]]C=Y(-11433)j=g[2]U=S S=n[C]n=S(h)C=n n=Y(-12201)S=C~=n S=S and 6010780 or 6062125 end end end end end end end else if S<3913049 then if S<3819388 then if S<3742676 then if S<3731900 then if S<3715327 then if S<3704483 then S=15151039 C=nil else M=J l=Y(-12046)w=p[l]l=Y(-12103)z=w==l S=z and 2292244 or 10639808 end else if S<3725889 then e=Y(-12840)L=s T=A[e]e=Y(-12826)h3=T[e]T=Y(-12762)T=h3[T]T=T(h3,L)A3=Y(-11776)e=h[A3]A3=Y(-11886)h3=e[A3]S=h3 and 2507848 or 1359181 else S=false n={S}S=A[Y(-12545)]end end else if S<3739396 then if S<3737834 then v=p l=Y(-12827)w=z==l S=w and 4900146 or 4877421 else r=nil J=nil S=480032 p=nil end else if S<3742330 then Q=Y(-12314)E=A[Q]Q=E(l)E=Y(-11686)w=z n=Q==E S=n and 1028677 or 3081051 else h=g[1]j=Y(-12314)C=Y(-12642)n=A[j]U=h[C]j=n(U)n=Y(-11686)S=j==n S=S and 120877 or 12440042 end end end else if S<3772874 then if S<3758616 then if S<3744166 then j3=Y(-11893)i3=A[j3]X3=Y(-12623)j3=Y(-12427)B3=i3[j3]U3=Y(-12659)j3=h3[U3]C3=B[f[1]]U3=C3[X3]i3=B3(j3,U3)B3=0 n3=i3~=B3 S=n3 and 12907447 or 14823625 else S=U U=Y(-12511)S=n .. U U=S n={}C=n n=Y(-12223)S=A[n]r=B[f[1]]J={S(r)}M=J[2]n=J[1]S=10755332 v=J[3]r=n end else if S<3767520 then w,Q=l(z,w)S=w and 4601229 or 167785 else n=h S=6242443 end end else if S<3782207 then if S<3776305 then S=M and 9542277 or 1886691 else S=n and 3582117 or 13002488 end else if S<3784255 then L=Y(-12840)W=A[L]L=Y(-11818)y=W[L]L=Y(-11464)L=M[L]L=L(M)K=Y(-12415)K=L[K]s={K(L)}W=y(N(s))y=Y(-12849)s=Y(-12849)A[y]=W y=Y(-11547)L=A[s]y=M[y]S=9334837 y=y(M,L)j=y else if S<3792407 then a=Y(-12054)S=13357903 V=B[f[2]]y=Y(-11568)m=V[a]W=Y(-11568)R=h[y]y=J[W]a=R[y]R=B[f[1]]V=m(r,p,a,R)b=V else R=Y(-11893)a=A[R]y=Y(-11568)R=Y(-12427)W=Y(-12145)V=a[R]R=r[y]y=U[W]S=6676496 a=V(R,y)V=0 m=a~=V b=m end end end end end else if S<3847482 then if S<3830046 then if S<3825879 then if S<3823573 then M=Y(-12840)C=A[M]M=Y(-12032)U=C[M]C=Y(-11542)n=U[C]S=j==n S=S and 6019590 or 14024341 else n=B[f[1]]j=Y(-12804)S=n[j]n=S(h)j=n n=Y(-11906)S=j[n]n={S}S=A[Y(-11574)]end else if S<3826620 then S=A[Y(-12170)]n={U}else S=10411144 s=nil end end else if S<3833847 then if S<3832059 then n=B[f[1]]U=Y(-11493)S=n[U]n=Y(-12148)n=S[n]n=n(S)S=6711902 else l=Y(-12473)w=U .. l U=w S=15971184 end else if S<3834346 then z=Y(-12060)p=Y(-11837)v=C J=A[p]p=Y(-12083)S=J[p]J=S()p=Y(-11837)J=A[p]l=Y(-12840)p=Y(-12499)b=Y(-11593)S=J[p]p=Y(-11837)J=S(r)Q=Y(-12178)J=A[p]p=Y(-12503)S=J[p]u=Y(-12495)p=h[z]w=A[l]l=Y(-12173)z=w[l]w=nil E=h[Q]Q=h[u]u=h[b]l=nil J=S(p,z,w,l,E,Q,u)l=Y(-11837)w=A[l]l=Y(-12637)z=w[l]w=z()z=0 p=w==z J=p S=p and 7388678 or 6067442 else if S<3847293 then v,p=r(M,v)S=v and 10629433 or 16293372 else z=27.2 p=j==z S=6956316 r=p end end end end else if S<3871475 then if S<3855697 then if S<3854362 then S=12201129 else U=Y(-12060)M=Y(-12540)C=h[M]r=Y(-12540)M=Y(-11568)v=B[f[1]]n={[U]=C;[M]=v}v=h[r]r=B[f[2]]M=v+r v=Y(-11568)C=Y(-12060)r=B[f[1]]U={[C]=M,[v]=r}S={n,U}z=Y(-12133)C=B[f[3]]M=Y(-12486)n=C[M]U=S M=Y(-12058)S=Y(-11916)C=n(U)h[S]=C p=Y(-11868)C=B[f[3]]n=C[M]w=2 J=B[f[3]]S=Y(-12206)r=J[p]p=B[f[3]]J=p[z]p=Y(-12572)v=r|J J=B[f[3]]z=Y(-11916)r=J[p]M=v|r r=Y(-12540)v=h[r]C=n(M,v)h[S]=C S={}v=Y(-12206)n=B[f[4]]C=S M=Y(-11681)S=n[M]M=h[v]v=B[f[1]]p=h[z]z=1 J=p[z]z=Y(-11916)p=Y(-12586)r=J[p]n=S(C,M,v,r)n=B[f[4]]M=Y(-11681)S=n[M]r=Y(-12206)v=h[r]r=B[f[2]]M=v+r v=B[f[1]]p=h[z]z=2 J=p[z]p=Y(-12586)r=J[p]n=S(C,M,v,r)M=Y(-11681)n=B[f[4]]v=Y(-12540)S=n[M]M=h[v]v=B[f[1]]r=B[f[5]]n=S(C,M,v,r)M=Y(-11681)r=Y(-12540)n=B[f[4]]S=n[M]v=h[r]r=B[f[2]]M=v+r v=B[f[1]]J=Y(-12206)r=h[J]z=2 n=S(C,M,v,r)n=Y(-11548)S=A[n]n=S(C)S=Y(-12385)v=Y(-12385)J=Y(-12540)M=B[f[4]]n=M[v]r=h[J]p=B[f[2]]J=p*z p=Y(-12206)v=r+J J=h[p]z=B[f[2]]p=z*w r=J+p M=n(v,r)n=Y(-11548)h[S]=M v=Y(-12385)S=A[n]M=h[v]r=Y(-11548)r=M[r]v={r(M,j)}n=S(N(v))n=true S=Y(-12458)h[S]=n n={h}S=A[Y(-12260)]end else if S<3857462 then S=z S=J and 10967160 or 14492243 else j=g[2]h=g[1]S=not j S=S and 9374392 or 5580087 end end else if S<3906690 then if S<3899932 then h=g[1]U=Y(-12840)n=A[U]j=g[2]U=Y(-12826)S=n[U]C=S S=j and 5457081 or 1584653 U=j else L=#M W=M[L]S=9913477 L=Y(-11917)y=W[L]a=y end else if S<3911279 then j=g[2]C=g[4]M=i()U=g[3]Q=Y(-12840)h=g[1]n=Y(-11633)r=Y(-11854)S=h(n)p=S n=Y(-12662)B[M]=S E=A[Q]Q=Y(-12616)w=S l=E[Q]E=0x10 w=0x8 v={}z=l and E J=z or w S={[n]=v;[r]=J}n=d(12144296,{})J=Y(-11975)v=i()B[v]=S r=B[v]r[J]=n J=Y(-11750)r=B[v]n=D(6516526,{})r[J]=n J=Y(-11985)r=B[v]n=t(1238767,{})r[J]=n r=B[v]J=Y(-11464)n=P(15896257,{v})r[J]=n n=d(10890799,{})r=B[v]J=Y(-11740)r[J]=n n=D(10936020,{})r=B[v]J=Y(-12727)r[J]=n n=k(5956788,{})r=B[v]J=Y(-11469)r[J]=n r=B[v]n=d(1369147,{})J=Y(-12846)r[J]=n r=B[v]n=d(13732115,{})J=Y(-12732)r[J]=n r=B[v]n=G(10834298,{})J=Y(-12688)r[J]=n n=P(14441752,{})r=B[v]J=Y(-12073)r[J]=n r=B[v]J=Y(-11636)n=D(648078,{})r[J]=n r=B[v]J=Y(-11642)n=d(14352281,{})r[J]=n n=k(6971568,{})J=Y(-12719)r=B[v]r[J]=n r=B[v]J=Y(-12653)n=t(10546411,{})r[J]=n J=Y(-12749)r=B[v]E=Y(-12541)n=d(1454032,{v})r[J]=n n=H(3742386,{})r=B[v]J=Y(-12825)r[J]=n r=B[v]n=k(4435881,{})J=Y(-11547)r[J]=n J=Y(-11860)n=H(5180037,{})r=B[v]r[J]=n r=B[v]J=Y(-12446)n=k(16124571,{v})r[J]=n r=B[v]n=d(14722472,{})J=Y(-12415)r[J]=n J=Y(-12541)n=k(948820,{v})r=B[v]r[J]=n J=Y(-11719)S=A[Y(-11503)]r=B[v]n=t(1626568,{M})r[J]=n z=Y(-12389)r=Y(-11410)n=A[r]J=B[v]l=B[v]w=l[E]p={[z]=w}r={n(J,p)}n={N(r)}else if S<3912160 then S=v v=0 r=Y(-11837)U=M or v v=A[r]r=Y(-12637)M=v[r]v=M()M=0 C=v==M S=C and 5808707 or 7325638 else l=Y(-12840)w=A[l]l=Y(-11725)z=w[l]p=z S=z and 5389333 or 1601657 end end end end end end else if S<4040225 then if S<3962852 then if S<3938620 then if S<3922280 then if S<3920158 then n3=Y(-11387)N3=Y(-11686)F3=Y(-12681)c3=Y(-11798)S3=A[N3]f3=Y(-11725)n3=h[n3]N3=Y(-12193)Y3=S3[N3]g3=A[f3]S=1096233 f3=T[c3]c3=T[F3]F3=Y(-12606)N3={n3(h,g3,f3,c3,F3)}S3=Y3(v,N(N3))else C=Y(-12586)v=Y(-12060)M=0 r=0 S={[C]=M;[v]=r}n={S}S=A[Y(-11663)]end else if S<3924383 then S=4538369 C=9 U=C<=h n=U else S=U and 15551068 or 15498014 end end else if S<3947638 then if S<3941064 then I3,t3=C3(X3,I3)S=I3 and 11126893 or 7231402 else b=Y(-12721)u=J[b]w=S b=1 E=S Q=u==b E=Y(-12331)u=Y(-12871)l=Q and u n=l or E u=Y(-12792)w=n n={}l=n Q=U[u]u=1 E=Q-u n=0 Q=E E=1 u=E E=0 S=13174070 b=u<E E=n-u end else if S<3948981 then p=2 J=M*p p=1 r=J-p z=Y(-12337)p=A[z]z=Y(-11496)w=24 J=p[z]z=.5 p=J(z,w)C=r*p J=126 p=0 r=v+J v=r M=C J=v<=p S=J and 3449400 or 14421735 else j=g[2]h=g[1]U=Y(-11905)n=h[U]S=n[j]S=S and 12131257 or 9780656 end end end else if S<3980637 then if S<3972193 then if S<3969836 then Q=Y(-12840)w=Y(-12840)z=A[w]y=Y(-12840)w=Y(-12081)S=z[w]z=S(p)m=Y(-12840)l=Y(-12840)w=A[l]l=Y(-12081)S=w[l]E=A[Q]O=Y(-12840)Q=Y(-12610)l=E[Q]b=A[O]O=Y(-11587)u=b[O]O=A[m]m=Y(-12253)b=O[m]Q=u+b E={l(Q)}u=Y(-12840)m=Y(-12840)w=S(N(E))E=Y(-12840)l=A[E]E=Y(-12081)S=l[E]Q=A[u]u=Y(-12610)E=Q[u]O=A[m]m=Y(-11587)b=O[m]R=A[y]y=Y(-12479)a=R[y]R=Y(-11826)V=a[R]a=1 m=V-a w=nil R=Y(-12840)a=A[R]R=Y(-12253)V=a[R]O=m*V u=b+O Q={E(u)}l=S(N(Q))Q=Y(-12415)E=Y(-11968)S=h[E]b=Y(-12415)E=Y(-11577)b=l[b]Q=z[Q]Q=Q(z)S[E]=Q E=Y(-11968)S=h[E]b=b(l)V=Y(-12840)E=Y(-12264)m=A[V]V=Y(-11558)O=m[V]m=Y(-11968)u=b+O O=h[m]m=Y(-11577)b=O[m]m=Y(-12840)a=Y(-11968)Q=u-b u=Y(-11706)l=nil S[E]=Q Q=Y(-12840)E=A[Q]Q=Y(-12803)S=E[Q]O=A[m]m=Y(-11477)b=O[m]V=h[a]a=Y(-11577)m=V[a]E=Y(-12360)O=b(m)E=S[E]Q=u .. O u=Y(-11711)E=E(S,Q)m=Y(-11968)Q=Y(-12840)E=A[Q]Q=Y(-12803)S=E[Q]O=h[m]m=Y(-12264)b=O[m]Q=u .. b E=Y(-12360)z=nil E=S[E]E=E(S,Q)S=5736763 else n={h}S=A[Y(-12214)]end else if S<3979276 then J=0 u=Y(-12840)Q=A[u]u=Y(-12479)E=Q[u]Q=Y(-12696)l=E[Q]E=1 w=l-E l=w S=10171742 w=1 E=w w=0 Q=E<w w=J-E else w=Y(-12296)S=p[w]Q=S w=S S=w and 9077512 or 14981736 E=w end end else if S<4016308 then if S<3984396 then S=8441829 u=not v E=u else S=9587690 end else if S<4030824 then V=Y(-12331)L=Y(-11568)W=Y(-11893)y=A[W]W=Y(-12427)R=y[W]W=r[L]s=Y(-12191)L=U[s]y=R(W,L)R=0 a=y~=R S=a and 12833430 or 13667464 else if S<4032006 then l=Y(-11643)b=Y(-12840)w=h[l]u=A[b]b=Y(-12314)Q=u[b]u=Y(-11541)E=Q[u]Q=Y(-11639)l=E[Q]z=w>=l J=z S=902359 else m=Y(-12840)O=A[m]m=Y(-12853)b=O[m]E=S O=Y(-11845)u=b[O]Q=p==u l=Q S=Q and 1589204 or 8520558 end end end end end else if S<4078633 then if S<4050018 then if S<4044963 then if S<4041120 then v=Y(-12840)M=A[v]J=Y(-12840)v=Y(-12479)C=M[v]M=Y(-11923)n=C[M]r=A[J]J=Y(-12172)v=r[J]r=Y(-11639)M=v[r]C=U*M S=n+C U=S S=971746 else y=Y(-11893)R=A[y]W=Y(-11568)m=S y=Y(-12427)a=R[y]L=Y(-12191)y=r[W]W=U[L]R=a(y,W)a=0 V=R==a O=V S=V and 16298757 or 11500494 end else if S<4049572 then v=Y(-11401)M=n n=M[v]S=not n S=S and 5230314 or 14474906 else Q=not E S=Q and 13065383 or 8948985 end end else if S<4058247 then if S<4055751 then C=Y(-11837)n=A[C]C=Y(-12486)S=n[C]n=S(U)U=n C=1 M=#U v=M M=1 S=10838857 r=M M=0 J=r<M M=C-r else V=Y(-12438)w=l m=h[V]W=Y(-12780)a=Y(-11876)V=Y(-11417)O=m[V]V=J[a]Z=1 m=V+w b=O[m]s=Y(-12093)V=Y(-11686)m=A[V]R=Y(-12655)V=Y(-12193)O=m[V]a=A[R]R=Y(-12274)V=a[R]R=Y(-11424)y=h[W]L=h[s]K=b+Z b=nil s=Y(-12269)W=Y(-11438)w=nil s=L[s]S=11707082 s=s(L,K)W=y[W]K=false L=false W=W(y,s,L,K)a={V(R,M,W,p,p,v)}m=O(z,N(a))end else if S<4063507 then z=Y(-11451)p=C[z]v=S r=p J=S S=p and 10476103 or 14709993 else if S<4072627 then J=Y(-11887)r=h[J]S=not r S=S and 8290264 or 3519063 else j=g[2]r=Y(-12576)S=24.3 U=S h=g[1]n=B[f[1]]v=h[r]r=Y(-12421)M=v[r]C=n(j,M)n=0 S=C>=n S=S and 4812313 or 12016233 end end end end else if S<4145840 then if S<4083162 then if S<4082354 then S=3698218 else n=Y(-11390)C=Y(-12643)S=A[n]n=S(C)S=6743213 end else if S<4128545 then E=n S=not E S=S and 10906090 or 7632353 else Q=Y(-12840)E=A[Q]Q=Y(-12853)l=E[Q]E=Y(-11752)w=l[E]n=p==w S=n and 7639578 or 6473312 end end else if S<4164364 then if S<4161872 then z=Y(-11968)S=Y(-11968)p=h[z]r=p J=S S=p and 10321614 or 12953702 else S=6631929 C=Y(-12620)U=h[C]C=Y(-12159)j=U==C n=j end else if S<4169154 then C3=Y(-12093)e=h[C3]C3=Y(-11598)I3=Y(-11931)C3=e[C3]X3=A[I3]C3=C3(e,X3,T)X3=S I3=not h3 e=I3 S=I3 and 14712597 or 6245034 else if S<4171298 then U=Y(-11893)C=Y(-12021)v=Y(-12021)S=Y(-12659)h=g[1]j=A[U]U=Y(-12427)n=j[U]U=h[C]C=0xffff j=n(U,C)h[S]=j S=Y(-12314)U=Y(-11893)j=A[U]M=Y(-11893)U=Y(-12147)n=j[U]C=A[M]M=Y(-12427)U=C[M]M=h[v]v=0xff0000 C=U(M,v)U=16 j=n(C,U)U=Y(-12840)h[S]=j j=A[U]U=Y(-12354)n=j[U]j=27.2 S=n>=j S=S and 16031278 or 2470265 else S=true n={S}S=A[Y(-11836)]end end end end end end end end end end else if S<6140210 then if S<5208983 then if S<4686854 then if S<4468740 then if S<4334036 then if S<4225165 then if S<4203207 then if S<4190746 then if S<4186027 then a=S y=Y(-12029)R=b[y]V=R S=R and 8316748 or 10569095 else S=M S=C and 3672067 or 13727834 end else if S<4200538 then S=12332913 w=not J z=w else q3=Y(-12840)k3=A[q3]q3=Y(-12826)t3=k3[q3]o3=Y(-12441)H3=Y(-11713)d3=G3[H3]H3=G3[o3]o3=Y(-12752)o3=t3[o3]o3={o3(t3,d3,H3)}q3=o3[2]k3=o3[1]S=k3 and 2114163 or 1295960 end end else if S<4221288 then if S<4215972 then n3=Y(-12840)B3=Y(-12320)F3=A[n3]n3=Y(-12544)c3=F3[n3]n3=A3[B3]F3=c3(n3)n3=Y(-12840)c3=A[n3]n3=Y(-11553)n3=c3[n3]n3=n3(c3,F3)c3=Y(-12734)c3=F3[c3]c3=c3(F3)F3=nil S=821186 S3=n3 Y3=c3 else l=Y(-12840)E=w S=A[l]O=Y(-12840)V=Y(-12840)Q=Y(-12594)l=Y(-11725)S[l]=E E=Y(-12840)l=A[E]E=Y(-12803)S=l[E]b=A[O]O=Y(-11477)u=b[O]m=A[V]V=Y(-11725)O=m[V]l=Y(-12673)b=u(O)E=Q .. b l=S[l]l=l(S,E)S=7943082 end else if S<4221626 then M,J=v(C,M)S=M and 207489 or 7712426 else r=Y(-12174)C=Y(-12655)U=A[C]C=Y(-12274)n=U[C]v=Y(-12620)S=Y(-12803)M=h[v]J=j[1]S=h[S]v=r .. J C=M .. v M=Y(-11490)U={n(C,M)}S=S(h,N(U))S=1258396 end end end else if S<4299890 then if S<4263752 then if S<4240448 then S=6002480 else h=g[1]v=B[f[1]]j=g[2]z=Y(-12576)C=S p=h[z]z=Y(-11871)J=p[z]r=v(j,J)v=0 M=r>=v v=24.1 S=A[Y(-11865)]U=M and v C=24 n=U or C n={n}end else if S<4271756 then n=Y(-12223)j=g[2]S={}h=g[1]U=S S=A[n]J=Y(-11493)r=B[f[1]]v=r[J]r={S(v)}n=r[1]C=r[2]v=n M=r[3]S=11297344 else n=Y(-12620)h=g[1]S=h[n]n={S}S=A[Y(-11869)]end end else if S<4315468 then if S<4314868 then v=Y(-12458)M=h[v]C=not M S=C and 11113430 or 2646863 else Z=Y(-12840)K=A[Z]Z=Y(-12826)h3=Y(-11713)L=K[Z]T=Y(-12441)x=s[h3]h3=s[T]T=Y(-12752)T=L[T]T={T(L,x,h3)}Z=T[2]K=T[1]S=K and 9433014 or 16438730 end else if S<4318558 then n=Y(-11390)S=A[n]J=Y(-12655)r=A[J]C=Y(-12678)J=Y(-12274)v=r[J]J=Y(-11777)z=Y(-12540)p=h[z]r=v(J,p)v=Y(-12255)M=r .. v U=C .. M n=S(U)S=8544874 else if S<4324018 then m=Y(-12060)V=Y(-11568)y=Y(-11837)R=A[y]y=Y(-12512)a=R[y]s=S R=Y(-12586)h3=Y(-11837)W=S x=A[h3]h3=Y(-12512)Z=x[h3]K=p==Z L=K S=K and 15814834 or 554652 else J=S E=Y(-12840)l=A[E]E=Y(-12032)w=l[E]l=Y(-12293)z=w[l]p=j==z r=p S=p and 9107087 or 15901703 end end end end end else if S<4395764 then if S<4372415 then if S<4368555 then if S<4337302 then E=B[v]Q=Y(-12836)l=E[Q]S=6715103 w={l}p=w else b,O=Q(u,b)S=b and 1335828 or 15812750 end else if S<4370008 then Q=Y(-12223)l=A[Q]S=8546763 O={l(E)}b=O[3]u=O[2]Q=O[1]else S=Y(-12591)z=Y(-12060)J=C p=j[J]S=h[S]n=p[z]z=Y(-11686)S=S(h,n)p=S n=A[z]z=Y(-12433)S=n[z]w=#p E=#U J=nil Q=1 z=1 l=E+Q n=S(p,z,w,l,U)p=nil S=4743301 end end else if S<4377758 then if S<4375959 then a=Y(-11972)b=S Q=S O=Y(-12207)u=M and O b=Y(-12131)E=u or b y=Y(-11686)m=Y(-12655)b=Y(-11686)S=A[Y(-12598)]u=A[b]b=Y(-12193)Q=u[b]O=A[m]m=Y(-12274)b=O[m]m=Y(-11475)V=A[a]a=V(J)R=A[y]y=Y(-12406)V=R[y]y=Y(-12715)R=V(l,y)O={b(m,r,w,a,p,R,E)}b=Y(-11686)u=Q(j,N(O))u=A[b]b=Y(-12406)Q=u[b]b=Y(-11714)u={Q(j,b)}n={N(u)}else v=S C=n p=Y(-12314)J=A[p]p=J(j)J=Y(-11686)r=p==J M=r S=r and 3362482 or 13266851 end else if S<4379783 then n={}h=nil j=nil S=A[Y(-12386)]else Q=nil S=5955088 end end end else if S<4416532 then if S<4405136 then if S<4404679 then v=Y(-12392)C=g[4]h=g[1]j=g[2]U=g[3]M=j[v]S=M and 9740657 or 1698268 n=M else S=A[Y(-11456)]n={n}end else if S<4410232 then M=n n=Y(-12223)S=A[n]J={S(M)}S=8858927 r=J[3]n=J[1]v=J[2]J=n else a=R s=C K=S S=C and 11599857 or 1007667 end end else if S<4431980 then if S<4417755 then l3,w3=z3(E3,l3)S=l3 and 5740598 or 2573781 else u=Y(-12840)Q=A[u]S=13790507 u=Y(-12173)E=Q[u]w=E end else if S<4433995 then r=Y(-11568)v=Y(-11893)z=Y(-12840)M=A[v]v=Y(-12427)C=n n=M[v]v=U[r]p=A[z]z=Y(-12853)J=p[z]p=Y(-11385)r=J[p]M=n(v,r)v=Y(-12840)r=Y(-12540)n=0 S=M~=n M=S n=A[v]v=Y(-11546)S=n[v]v=U[r]n=S(v)v=n r=not M n=r S=r and 16613800 or 12838344 else if S<4441019 then J=Y(-12840)h=g[1]j=Y(-12533)n=h[j]j=Y(-12309)S=n[j]j=S r=A[J]J=Y(-12826)v=r[J]r=Y(-11968)M=v[r]v=Y(-11577)C=M[v]U=C<=j S=U and 12480372 or 10814095 n=U else b3=Y(-11610)S=5318609 m3=b3 end end end end end end else if S<4567850 then if S<4508810 then if S<4495095 then if S<4485433 then if S<4474408 then S=N3 S=S3 and 16144890 or 15995138 A3=S3 else r=Y(-12224)v=Y(-11837)p=Y(-12224)U=nil M=A[v]v=Y(-12556)S=M[v]J=h[p]w=Y(-12033)p=Y(-12033)C=nil z=h[w]v={[r]=J;[p]=z}J=Y(-12144)r=h[J]M=S(v,r)S=723291 end else if S<4490641 then v=true u=Y(-12529)w=Y(-12323)r=Y(-11638)J=true U=Y(-11886)b=true C=false p=Y(-12544)z=true E=Y(-12149)M=Y(-12494)l=false S=6437702 Q=false j={[U]=C,[M]=v;[r]=J,[p]=z,[w]=l;[E]=Q,[u]=b}n=j else Q=Y(-11837)E=A[Q]R=Y(-11837)l=J Q=Y(-12112)b=Y(-12840)m=Y(-12840)n=E[Q]u=A[b]b=Y(-11677)Q=u[b]u=0 a=4 O=A[m]m=Y(-11536)b=O[m]V=l*a m=j+V a=A[R]R=Y(-12512)V=a[R]O={b(m,V)}E=n(Q,u,N(O))O=S m=B[f[1]]V=Y(-12356)O=Y(-11602)b=m and V u=S n=Y(-12716)n=E[n]Q=b or O n=n(E,Q)S=n and 14445989 or 8815064 end end else if S<4499584 then if S<4497314 then S=Q S=3635188 w=E else S=W W=Y(-11742)a=y or W u={[b]=j,[O]=m;[V]=a}y=Y(-11837)O=Y(-12060)V=4 m=j+V s=S V=Y(-11568)R=A[y]s=Y(-12327)Z=Y(-12002)y=Y(-12512)a=R[y]R=Y(-12586)W=S K=B[f[1]]L=K and Z y=L or s b={[O]=m,[V]=a,[R]=y}m=Y(-12060)a=8 R=Y(-12586)V=j+a a=Y(-11568)O={[m]=V;[a]=p,[R]=v}S=10895736 Q={u,b;O}l=Q end else if S<4502525 then S=v and 8050815 or 6721500 else v,r=C(M,v)S=v and 2936901 or 12436464 end end end else if S<4527081 then if S<4518304 then if S<4517224 then j=g[2]U=g[3]C=U h=g[1]M=S S=U and 8383455 or 5901974 else p=Y(-12337)J=A[p]p=Y(-11819)r=J[p]C=j==r S=C and 2437100 or 3947818 end else if S<4526436 then n=not v S=n and 3474971 or 10722071 else l=Y(-12620)w=p[l]S=8634826 l=Y(-11632)z=w~=l n=z end end else if S<4542932 then if S<4535817 then S=n and 13418020 or 1421589 else S=j S=n and 7008083 or 8723318 end else if S<4553226 then K3=Y(-12041)W3=Y(-11893)y3=A[W3]W3=Y(-12427)a3=y3[W3]L3=Y(-12659)W3=u3[L3]s3=B[f[1]]L3=s3[K3]y3=a3(W3,L3)a3=0 R3=y3~=a3 S=R3 and 3560499 or 3167994 else if S<4561256 then s=s+Z L=~s h3=not x L=s<=K L=h3 and L h3=s>=K h3=x and h3 L=h3 or L h3=14236172 S=L and h3 L=13176782 S=S or L else j=g[2]h=g[1]U=Y(-12840)n=A[U]U=Y(-12726)S=n[U]U=S C=Y(-12840)n=A[C]C=Y(-12701)S=n[C]C=U+j n={S(C)}n={N(n)}S=A[Y(-11585)]end end end end end else if S<4603799 then if S<4574753 then if S<4570306 then if S<4568753 then z=Y(-12840)S=7219385 p=A[z]z=Y(-12173)J=p[z]v=J else m=E==C O=S b=m S=m and 3120472 or 13551336 end else if S<4573263 then J=31 S=242012 r=v>J n=r else Q=Y(-12840)E=A[Q]S=16090737 Q=Y(-12173)l=E[Q]z=l end end else if S<4594987 then if S<4585504 then j=Y(-12840)n=A[j]v=Y(-12840)h=g[1]j=Y(-12826)S=n[j]j=S S=0 M=A[v]U=S n=0 C=n v=Y(-12354)n=M[v]M=29 S=n>=M S=S and 3443639 or 5933850 else b=Y(-12060)a=Y(-11639)S=16369266 V=U[a]m=p*V a=Y(-11568)O=h+m m=Y(-11568)V=U[a]u={[b]=O;[m]=V}E=u end else if S<4602155 then b=Y(-11686)E=w O=Y(-11975)u=A[b]b=Y(-12193)S=u[b]O=Q[O]b={O(Q)}u=S(v,N(b))Q=nil E=nil S=3766586 else if S<4603388 then w=Y(-12354)z=h[w]w=31 J=z==w S=J and 9379486 or 246988 else S=C n=U S=U and 7493351 or 10870664 end end end end else if S<4611058 then if S<4606899 then if S<4605365 then M=J S=4768346 z=p p=nil h[M]=z M=nil else v=S J=Y(-11905)n=Y(-11905)r=h[J]M=r S=r and 16095628 or 14902987 end else if S<4607240 then S=w p=z S=9226467 else W=1 S=12717697 y=M[W]W=Y(-11876)R=y[W]V=R end end else if S<4613710 then if S<4611306 then w=Y(-12620)z=r[w]p=z==j v=M S=p and 14827513 or 15350430 J=p else n=j S=B[f[1]]S[h]=n S=16354097 end else if S<4672513 then S=12389925 r=1 M=1 J=r v=j r=0 p=J<r r=M-J else if S<4680979 then S=935768 r=Y(-12840)v=A[r]w=Y(-11837)r=Y(-11546)M=v[r]J=Y(-12077)r=j[J]z=A[w]w=Y(-12512)p=z[w]J={r(h,p)}v=M(N(J))U=v else S=C n=U S=11400803 end end end end end end end else if S<4935033 then if S<4808018 then if S<4766253 then if S<4741575 then if S<4712725 then if S<4697977 then S=14945584 R=O else j={F(2,N(g))}h=g[1]M=Y(-12080)C=h[M]M=Y(-12101)U=C[M]n=U S=U and 12888096 or 8848728 end else if S<4722755 then l=Y(-11837)w=A[l]l=Y(-12026)z=w[l]l=3 w=z(l)z=3 S=9393048 p=w[z]z=Y(-12060)J=p[z]v=J else G3=Y(-12320)S3=Y(-12840)Y3=A[S3]S3=Y(-12826)A3=Y3[S3]Y3=Y(-12601)I3=Y(-12219)X3=j[I3]I3=T[G3]C3=X3+I3 X3=0 S3=C3+X3 Y3=A3[Y3]Y3=Y3(A3,S3)A3=Y(-11473)S3=Y(-12734)A3=h[A3]S=1521043 A3=A3(h,Y3)e=A3 S3=Y3[S3]S3=S3(Y3)h3=S3 Y3=nil end end else if S<4751044 then if S<4747673 then J=not r C=C+v n=~C n=C<=M n=J and n J=C>=M J=r and J n=J or n J=4370231 S=n and J n=420515 S=S or n else U=Y(-12840)C=Y(-11713)S=Y(-12314)j=A[U]U=Y(-12169)n=j[U]U=h[C]j=n(U)h[S]=j S=15050535 end else if S<4759076 then w=Y(-12624)E=Y(-11972)p=Y(-11390)S=A[p]u=Y(-11568)l=A[E]Q=J[u]E=l(Q)z=w .. E p=S(z)S=8692039 else n=B[f[1]]h=g[1]j=Y(-12194)S=n[j]n=S(h)j=n S=not j S=S and 9665575 or 233862 end end end else if S<4783608 then if S<4777467 then if S<4773338 then J,p=v(r,J)S=J and 4604173 or 5078868 else S=13176727 y3=Y(-11829)a3=m3  .. y3 m3=a3 end else if S<4783230 then p=Y(-12840)J=A[p]p=Y(-12803)S=J[p]z=Y(-11680)J=Y(-11390)J=S[J]p=z .. v J=J(S,p)S=13711313 else h=Y(-12840)n=A[h]h=Y(-12341)S=n[h]n=S()S=A[Y(-11827)]n={}end end else if S<4787813 then if S<4784377 then v=B[f[1]]r=Y(-12727)M=v[r]S=14274090 v=M(U)C=not v n=C else v=Y(-12840)M=A[v]v=Y(-12803)S=M[v]M=Y(-11390)v=Y(-11506)M=S[M]M=M(S,v)S=14274397 end else if S<4790942 then S=true j=S S=5687623 else if S<4802409 then S=v S=M and 6741021 or 7048214 n=M else S=2698901 u=B[f[3]]E=u end end end end end else if S<4861343 then if S<4830863 then if S<4814403 then if S<4809409 then l3,w3=z3(E3,l3)S=l3 and 1787313 or 15146150 else S=27.1 U=S S=12777238 end else if S<4820836 then M=Y(-12840)C=A[M]S=A[Y(-11726)]M=Y(-12413)n=C[M]C={n(U)}n={N(C)}else r=Y(-12840)M=Y(-12840)n=A[M]M=Y(-12544)S=n[M]l=Y(-12840)p=Y(-12113)v=A[r]r=Y(-12610)M=v[r]J=h[p]w=A[l]l=Y(-12253)z=w[l]p=U*z r=J+p v={M(r)}n=S(N(v))v=1 C=n M=#j S=M+v M=C j[S]=M M=1 S=U+M U=S S=199566 end end else if S<4849898 then if S<4834089 then J=nil r=nil S=15712342 else z=Y(-12840)u=Y(-12840)S=A[z]z=Y(-11587)O=Y(-12840)w=J S[z]=w w=Y(-12840)z=A[w]l=Y(-12403)w=Y(-12803)S=z[w]Q=A[u]u=Y(-11477)E=Q[u]b=A[O]z=Y(-12673)O=Y(-11587)u=b[O]Q=E(u)w=l .. Q z=S[z]z=z(S,w)S=880463 end else if S<4851427 then Q=Y(-12840)E=A[Q]l=J b=Y(-12840)Q=Y(-12826)n=E[Q]E=Y(-12788)u=1 Q=v+l O=Y(-12070)E=n[E]E=E(n,Q)Q=#r n=Q+u u=A[b]b=Y(-12826)Q=u[b]u=Y(-12657)S=7820265 l=nil b=E[O]u=Q[u]u=u(Q,b)r[n]=u E=nil else if S<4854326 then r=nil J=nil S=4221481 else r=j C=B[f[1]]M=Y(-12414)S=C[M]M=Y(-12299)C=S(U)C=B[f[1]]S=C[M]J=S v=S S=j and 7870645 or 6959401 end end end end else if S<4885837 then if S<4875502 then if S<4871923 then J=65535 r=j<J M=r S=8396334 else w=Y(-12840)E=Y(-12840)z=A[w]w=Y(-12701)p=z[w]l=A[E]E=Y(-12726)w=l[E]l=100 z=p(w,l)w=Y(-12669)p=Y(-12716)p=z[p]p=p(z,w)S=not p S=S and 3281612 or 418187 end else if S<4876806 then S=16671167 r=Y(-11837)v=A[r]r=Y(-11782)p=Y(-12331)J=Y(-12331)C=v[r]r=Y(-12769)v=C(r,J,p)C=31 j=C else S=6938206 z=nil v=nil end end else if S<4892182 then if S<4890552 then S=u S=Q and 15182605 or 1810913 else S=C S=8122053 n=U end else if S<4910181 then b=Y(-12840)l=#C E=1 w=l+E u=A[b]E=Y(-12060)b=Y(-11546)m=Y(-12586)S=4877421 Q=u[b]O=M[v]b=O[m]u=Q(b)O=M[v]Q=Y(-11568)m=Y(-11568)b=O[m]l={[E]=u,[Q]=b}C[w]=l else if S<4925162 then p=Y(-11814)v=j r=Y(-12840)n=A[r]r=Y(-12075)S=n[r]J=h[p]r=J+v n=S(r)J=1 r=n n=Y(-12822)S=h[n]n=v+J J=r S[n]=J S=15181022 v=nil r=nil else h3=Y(-12441)x=s[h3]h3=-1 Z=x~=h3 L=Z S=3132780 end end end end end end else if S<5095472 then if S<5018179 then if S<5002286 then if S<4950404 then if S<4942185 then C=S r=Y(-12080)v=h[r]r=Y(-11552)M=v[r]U=M S=M and 2680248 or 6804236 else S=173049 u=263434879 Q=w==u l=Q end else if S<4964212 then X3=Y(-12093)r3=Y(-12655)e=h[X3]X3=Y(-12665)X3=e[X3]k3=Y(-11686)X3=X3(e,C3)I3=A[k3]k3=Y(-12193)e=I3[k3]v3=A[r3]r3=Y(-12274)S=16449567 k3=v3[r3]r3=Y(-12262)v3={k3(r3,X3,X3,C3)}I3=e(v,N(v3))X3=nil else U=Y(-12361)n=A[U]U=Y(-11946)M=1 S=n[U]C=j[M]M=Y(-12620)U=C[M]C=Y(-11648)n=S(U,C)U=Y(-12370)S=Y(-12786)S=n[S]S=S(n,U)U=S n=Y(-12717)S=A[n]v={S(h)}n=v[1]M=v[3]C=v[2]S=13658975 v=n end end else if S<5010001 then if S<5006763 then J=n z=Y(-12275)S=Y(-11740)S=r[S]S=S(r)n=h[z]z=0 p=S S=n>=z S=S and 11820173 or 9847591 else J=Y(-11696)J=r[J]p=1 S=746644 w=1 z=v-w J=J(r,p,z)r=J end else if S<5010532 then C,r=M(U,C)S=C and 11129965 or 12067971 else r=Y(-11837)v=A[r]r=Y(-11537)M=v[r]C=U==M S=C and 1452645 or 5261132 end end end else if S<5053574 then if S<5022662 then if S<5020035 then A3=Y(-11972)e=A[A3]A3=e(Z)T=a .. A3 a=T S=4225707 else S=A[Y(-11588)]n={n}end else if S<5039019 then j=Y(-11643)n=h[j]j=-1 S=n==j S=S and 9616725 or 6930388 else S=n and 13497724 or 4832136 end end else if S<5077801 then if S<5073122 then E=Y(-11686)S=9268820 C=nil l=A[E]p=Y(-12754)E=Y(-12406)w=l[E]E=Y(-12715)l=w(r,E)w=Y(-11603)z=l .. w r=nil v=nil J=p .. z n=j .. J M=nil j=n else w=Y(-12540)n=Y(-11390)S=A[n]M=Y(-12678)p=Y(-12655)J=A[p]p=Y(-12274)r=J[p]z=h[w]p=Y(-11777)J=r(p,z)r=Y(-12255)v=J .. r C=M .. v n=S(C)S=14851436 end else if S<5079968 then S=A[Y(-12326)]n={h}else if S<5090076 then S=r S=v and 5798331 or 2897264 else a=1 l=b V=#v l=nil m=V+a V=O v[m]=V O=nil S=8546763 end end end end end else if S<5150669 then if S<5116792 then if S<5103148 then if S<5101679 then O=true w=true J=Y(-11886)l=Y(-11638)u=true Q=Y(-12544)m=Y(-12149)E=true S=899455 z=Y(-12494)R=false V=true a=Y(-12529)b=Y(-12323)p=false r={[J]=p,[z]=w;[l]=E;[Q]=u;[b]=O,[m]=V;[a]=R}n=r else U=B[f[3]]n=U[h]S=not n S=S and 12219550 or 6716931 end else if S<5103856 then S=W S=y and 15567924 or 12985982 n=y else C=g[4]U=g[3]j=g[2]S=U and 4048208 or 7559588 n=U h=g[1]end end else if S<5121290 then if S<5119420 then p=j[J]z=Y(-11876)S=p[z]z=Y(-11917)p=r[z]n={S,p}S=A[Y(-11855)]else p=J r=M S=j(J)r=nil J=nil U[S]=p S=1276037 end else if S<5124041 then S=12965469 p={}r=p else if S<5128202 then b=Y(-12840)l=J E=Y(-12403)m=Y(-12840)w=Y(-12840)S=A[w]w=Y(-11587)S[w]=l l=Y(-12840)w=A[l]l=Y(-12803)S=w[l]u=A[b]b=Y(-11477)Q=u[b]w=Y(-12673)O=A[m]m=Y(-11587)w=S[w]b=O[m]u=Q(b)l=E .. u w=w(S,l)l=Y(-12840)Q=1 w=A[l]l=Y(-12610)S=w[l]E=z[Q]Q=Y(-12060)l=E[Q]w=S(l)S=B[f[1]]l=S(w)S=l and 4220972 or 7943082 else v=p u=Y(-11837)Q=A[u]u=Y(-12486)a=4 O=Y(-12060)V=Y(-11876)E=Q[u]m=z[V]V=Y(-11568)b={[O]=m;[V]=a}u={b}Q=E(u)E=1 l=Q[E]E=Y(-12586)w=l[E]u=0x464C457F E=S Q=w==u S=Q and 173049 or 4946461 l=Q end end end end else if S<5174569 then if S<5168027 then if S<5165077 then C=Y(-12721)j=Y(-11975)h=g[1]n=B[f[1]]S=n[j]n=S(h)S={}j=n n=h[C]C=1 U=S S=n==C S=S and 15850523 or 13498576 else z=S E=Y(-12046)l=r[E]U=v E=Y(-12652)w=l==E J=w S=w and 3857376 or 13620783 end else if S<5170871 then w=Y(-12840)z=A[w]w=Y(-11587)p=z[w]S=not p S=S and 13857871 or 2278899 else S=3912339 p=nil end end else if S<5185300 then if S<5180587 then U=Y(-12840)j=A[U]U=Y(-11392)h=g[1]n=j[U]S=h>n S=S and 8856190 or 8564177 else j={F(2,N(g))}v=Y(-12389)U={N(j)}M=Y(-11658)r=I(10864126,{})n=Y(-11410)h=g[1]S=A[n]C={[M]=h,[v]=r}n={S(U,C)}S=A[Y(-12390)]n={N(n)}end else if S<5192125 then R=Y(-12060)a=O[R]K=Y(-12620)W=1 R=2 m=a+R y=Y(-12840)R=A[y]y=Y(-12701)b=nil a=R[y]R=a(m)y=#C a=y+W u=nil y=R C[a]=y s=1 y=#U S=10884465 W=1 a=y+W L=Y(-11568)W=Y(-12060)y={[W]=m,[L]=s;[K]=R}U[a]=y m=nil R=nil O=nil else if S<5195006 then S=b E=Q-u z[S]=E Q=1 b=Y(-12060)E=#C S=E+Q E=B[f[1]]u=z[b]Q=E(u,U)C[S]=Q S=784798 else V=Y(-11678)m=w[V]S=11271850 O=j<m u=O end end end end end end end end else if S<5702935 then if S<5456022 then if S<5287411 then if S<5233159 then if S<5219203 then if S<5216324 then if S<5210654 then S=10417405 J=Y(-12061)p=Y(-12819)r=h[J]J=h[p]v=r>J n=v else r=Y(-11686)p=Y(-12655)E=Y(-11932)n=A[r]r=Y(-12193)S=n[r]J=A[p]p=Y(-12274)l=Y(-12840)r=J[p]p=Y(-11478)w=A[l]l=Y(-12826)z=w[l]l=j[E]E=Y(-12657)E=z[E]w={E(z,l)}J={r(p,N(w))}r=Y(-11776)n=S(v,N(J))n=h[r]r=Y(-11886)S=n[r]S=S and 15519567 or 7363654 end else if S<5216881 then S=8761171 n=M j=n else b=u u=nil S=M[p]Q=E S[Q]=b Q=nil S=5949444 end end else if S<5228067 then if S<5226681 then j=Y(-12314)h=g[1]n=A[j]C=Y(-12275)U=h[C]j=n(U)n=Y(-11686)S=j==n S=S and 16540867 or 959086 else n=B[f[1]]j=Y(-12804)S=n[j]n=S(h)j=n n=Y(-11892)S=j[n]n={S}S=A[Y(-11462)]end else if S<5229591 then w=Y(-12840)z=A[w]w=Y(-12253)p=z[w]z=3 J=p*z p=4 r=J+p S=14268193 M=r else v=Y(-11837)l=Y(-11729)n=A[v]v=Y(-12487)p=Y(-11837)S=n[v]O=Y(-11961)n=S()v=n J=A[p]p=Y(-12677)L=Y(-12616)r=J[p]p=Y(-12729)b=Y(-12686)S=Y(-11401)E=Y(-11961)y=S w=v[l]a=S a=Y(-11841)u=v[b]y=Y(-12593)W=v[L]v=nil L=Y(-12160)R=W and L V=R or y m=V .. a b=O .. m Q=u .. b l=E .. Q z=w .. l J=p .. z n=r .. J M[S]=n S=14474906 end end end else if S<5254508 then if S<5243887 then if S<5237286 then M=Y(-12840)C=A[M]M=Y(-12847)U=C[M]C=Y(-12701)n=U[C]S=n[h]n={S}S=A[Y(-12604)]else j=g[2]h=g[1]n=Y(-11878)U=g[3]M=i()C=g[4]S=h(n)B[M]=S n=Y(-11481)v=true S=B[M]S[n]=v S=k(4293191,{})v=Y(-11975)n=B[M]n[v]=S S=d(10772510,{})n=B[M]J=Y(-12389)v=Y(-11802)n[v]=S v=Y(-12867)S=D(1712117,{})n=B[M]n[v]=S v=Y(-12734)n=B[M]S=D(6484813,{})n[v]=S n=B[M]S=d(12169187,{})v=Y(-12020)n[v]=S S=d(14534425,{M})n=B[M]v=Y(-12520)n[v]=S S=k(11159118,{})n=B[M]v=Y(-12634)n[v]=S n=B[M]v=Y(-11772)S=D(5654776,{})n[v]=S S=k(9957705,{})v=Y(-11944)n=B[M]n[v]=S v=Y(-11609)w=Y(-12541)S=d(13913378,{})n=B[M]n[v]=S S=H(7072384,{})n=B[M]v=Y(-12073)n[v]=S v=Y(-12476)n=B[M]S=t(10186352,{})n[v]=S v=Y(-11547)n=B[M]S=d(1701138,{})n[v]=S v=Y(-12804)S=H(2824730,{})n=B[M]n[v]=S n=B[M]S=P(15894786,{})v=Y(-12491)n[v]=S n=B[M]S=k(7678237,{})v=Y(-12148)n[v]=S S=t(7224472,{M})v=Y(-12541)n=B[M]n[v]=S n=Y(-11410)S=A[n]v=B[M]z=B[M]p=z[w]r={[J]=p}n={S(v,r)}S=A[Y(-11621)]n={N(n)}end else if S<5246301 then M=j S=11558057 else r=2 C=g[4]u=7 b=4 j=g[2]p=4 z=4 U=g[3]h=g[1]L=64 l=4 M=Y(-12840)a=4 R=12 E=6 n=A[M]M=Y(-12616)w=5 Q=4 S=n[M]W=13 O=8 n=Y(-12314)M=i()J=4 B[M]=S m=4 V=9 y=16 v={[r]=J;[p]=z,[w]=l,[E]=Q;[u]=b;[O]=m;[V]=a,[R]=y;[W]=L}y=q(6087551,{M})l=B[M]w=S b=k(491030,{M})p=S p=Y(-11661)r=Y(-12845)E=Y(-11960)Q=B[M]u=Y(-12002)m=H(8810560,{M})w=Y(-12814)z=l and E E=S E=Y(-12327)O=Y(-12161)J=z or w w=S l=Q and u w=Y(-11536)u=Y(-11480)V=Y(-11548)R=Y(-12641)z=l or E E=Y(-12870)Q=d(713256,{})l=q(9920922,{M})a=k(14605736,{})S={[n]=v;[r]=J;[p]=z,[w]=l;[E]=Q;[u]=b,[O]=m;[V]=a,[R]=y}r=Y(-11410)z=Y(-11658)J={}v=S n=A[r]E=Y(-12641)l=v[E]w=Y(-12389)p={[z]=v;[w]=l}S=A[Y(-11599)]r={n(J,p)}n={N(r)}end end else if S<5258324 then if S<5256626 then i3=Y(-12393)B3=B[f[1]]n3=B3[i3]F3=S3==n3 S=F3 and 14716163 or 3743173 else j3=Y(-11686)S=10380922 B3=A[j3]j3=Y(-12193)F3=B3[j3]j3=Y(-12523)B3=F3(f3,j3)end else if S<5263879 then v=Y(-11390)S=11975071 C=A[v]J=Y(-12037)v=C(J)else if S<5267114 then S=A[Y(-12258)]n={n}else S=B[f[1]]n=S()S=B[f[2]]h=nil n=Y(-12571)S[n]=h S=A[Y(-12308)]n={}end end end end end else if S<5383700 then if S<5348159 then if S<5304039 then if S<5296292 then S=16629982 z=nil else S=29 j=g[2]n=B[f[1]]h=g[1]U=S r=Y(-12576)v=h[r]r=Y(-12329)M=v[r]C=n(j,M)n=0 S=C>=n S=S and 14479755 or 9501246 end else if S<5323869 then S=11010190 else v=Y(-12792)S={}j=S U=h M=U[v]v=0 C=M~=v S=C and 14542288 or 4433471 n=C end end else if S<5355051 then if S<5354614 then S=12736607 Q=Y(-11605)E=B[f[1]]l=E[Q]E=l(r)w=not E p=w else A3=not e x=x+T Z=~x Z=x<=h3 Z=A3 and Z A3=x>=h3 A3=e and A3 Z=A3 or Z A3=9046235 S=Z and A3 Z=7019265 S=S or Z end else if S<5364403 then m=Y(-11700)O=h[m]S=9334979 u=O else if S<5365113 then S=l S=w and 7039547 or 8144245 p=w else S=J Q=Y(-11493)S[n]=r S=B[v]z=S J=S E=B[v]l=E[Q]E=Y(-12060)w=l[E]n=Y(-11493)S=w and 15523346 or 12098398 p=w end end end end else if S<5405091 then if S<5394222 then if S<5393276 then w=S Q=Y(-12840)E=A[Q]Q=Y(-12863)l=E[Q]z=l S=l and 6464761 or 10771671 else S=15251972 Q=Y(-11568)E=U[Q]w=E end else if S<5399080 then S=14227733 E={}Q=0 u=4 b=u u=1 O=u u=0 m=O<u u=Q-O else S=b E=u S=u and 2698901 or 4806811 end end else if S<5425399 then if S<5415304 then j=g[2]h=g[1]U=Y(-11837)n=A[U]U=Y(-12083)S=n[U]U=Y(-11837)n=S()r=Y(-12359)n=A[U]U=Y(-12499)S=n[U]z=Y(-12840)U=0 n=S(U)U=Y(-11837)C=Y(-12190)n=A[U]U=Y(-12499)S=n[U]U=h[C]n=S(U)M=Y(-12060)U=Y(-11837)n=A[U]U=Y(-12109)S=n[U]v=A[r]r=v(j)v=Y(-11568)p=A[z]z=Y(-12173)J=p[z]C={[M]=r,[v]=J}U={C}v=Y(-11837)n=S(U)U=Y(-11837)n=A[U]U=Y(-11644)S=n[U]U=0 n=S(U)M=A[v]v=Y(-12637)C=M[v]M=C()C=0 U=M<=C n=U S=U and 15958124 or 8122053 else m=Y(-12840)S=16738187 O=A[m]m=Y(-12173)b=O[m]Q=b end else if S<5432752 then S=1759058 r=Y(-12840)v=A[r]r=Y(-11429)M=v[r]v=M(j)U=v else if S<5447666 then S=r z=Y(-11401)p=Y(-12361)r=n J=A[p]p=Y(-11946)l=Y(-11580)n=J[p]p=M[z]z=Y(-12658)J=n(p,z)z=Y(-12179)p=A[z]z=Y(-12763)n=p[z]z=S p=n()w=M[l]S=w and 854321 or 3571866 n=w else n=Y(-11390)U=Y(-11925)S=A[n]n=S(U)S=1549225 end end end end end end else if S<5592580 then if S<5519118 then if S<5490418 then if S<5464735 then if S<5457513 then S=C C=Y(-12657)C=S[C]n={C(S,U)}S=A[Y(-12481)]n={N(n)}else o3=Y(-11998)C3=S M3=Y(-11940)q3=Y(-11427)k3=Y(-11565)N3=F3 G3=Y(-12840)t3=A[G3]P3=Y(-11427)G3=Y(-12065)I3=t3[G3]G3=B3[k3]H3=B3[o3]D3=B3[M3]o3=P3  .. D3 d3=H3  .. o3 k3=q3  .. d3 t3=G3  .. k3 X3=I3[t3]I3=0 j3=X3 or I3 X3=S3[j3]C3=not X3 S=C3 and 9768973 or 10512445 end else if S<5476360 then C=g[4]n=Y(-11719)U=g[3]S=d(12501935,{})h=g[1]j=g[2]A[n]=S n=Y(-11719)S=A[n]n={S}S=A[Y(-12104)]else O=V S=a S=V and 16001720 or 4179919 end end else if S<5509180 then if S<5504257 then E=S u=S Q=r S=r and 4318770 or 1318958 else M=Y(-12840)C=A[M]S=A[Y(-12110)]M=Y(-12725)n=C[M]C={n(U)}n={N(C)}end else if S<5515641 then U=Y(-11837)M=Y(-11837)n=A[U]U=Y(-12026)S=n[U]C=A[M]M=Y(-12637)U=C[M]C={U()}n=S(N(C))U=n n=#U C=0 S=n>C S=S and 12158596 or 13694154 else z=Y(-11837)M=Y(-12655)n=A[M]M=Y(-12858)S=n[M]p=A[z]z=Y(-12486)J=p[z]z={C}p=J(z)J=1 r=p[J]J=Y(-12586)v=r[J]r=0xFF M=v&r r=Y(-12060)n=S(M)S=Y(-12566)v=1 A[S]=n M=#U S=M+v v=Y(-12566)M=A[v]U[S]=M S=Y(-12060)v=C[r]r=0x1 M=v+r v=Y(-12655)C[S]=M M=A[v]r=Y(-12566)v=Y(-12716)S=M[v]v=A[r]r=Y(-11928)M=S(v,r)S=M and 17734 or 14675776 end end end else if S<5565615 then if S<5549523 then if S<5531004 then r=Y(-12845)J=0 v=h[r]r=Y(-12613)r=v[r]r=r(v,J,U)S=14915815 C=r else C=0 n={C}S=A[Y(-11447)]end else if S<5552400 then C=Y(-11893)n=A[C]C=Y(-12147)M=Y(-11893)S=n[C]C=16 n=S(j,C)p=Y(-11893)r=Y(-11893)C=n n=A[M]M=Y(-12427)S=n[M]M=0xFFFF n=S(C,M)C=n M=1 S=C+M C=S S=A[Y(-11555)]v=A[r]r=Y(-12427)M=v[r]J=A[p]p=Y(-12247)r=J[p]p=16 J=r(C,p)r=0xFFFFFFFF v={M(J,r)}n={N(v)}else r=Y(-12840)C=Y(-12314)U=h[C]v=A[r]r=Y(-12032)M=v[r]v=Y(-11507)C=M[v]j=U==C S=j and 7928200 or 2158626 n=j end end else if S<5570813 then if S<5567677 then S=16359912 M=Y(-12629)C=h[M]j=C else r,p=M(v,r)S=r and 13833684 or 6192978 end else if S<5576022 then p=Y(-12840)S=A[p]p=Y(-12863)z=J S[p]=z S=5168322 else if S<5580494 then U=Y(-12060)M=Y(-12060)r=Y(-12540)C=j[M]M=Y(-12586)S=Y(-11988)v=j[r]J=B[f[1]]r=Y(-11568)n={[U]=C,[M]=v;[r]=J}C=Y(-11988)h[S]=n U=h[C]C=Y(-12586)S=Y(-12540)n=U[C]h[S]=n U=Y(-12540)n=h[U]U=0 S=n==U S=S and 7006067 or 12007340 else S=a O=V S=V and 8448842 or 16064468 end end end end end else if S<5639404 then if S<5611244 then if S<5604720 then if S<5600523 then S=12598482 W3=Y(-11893)y3=A[W3]L3=Y(-12659)W3=Y(-12427)a3=y3[W3]K3=Y(-12041)W3=u3[L3]s3=B[f[1]]L3=s3[K3]y3=a3(W3,L3)a3=0 R3=y3~=a3 b3=R3 else S=nil n={S}S=A[Y(-12234)]end else if S<5608051 then l=Y(-12840)w=A[l]l=Y(-12803)z=w[l]w=Y(-11390)Q=Y(-11968)E=h[Q]w=z[w]l=Y(-12443)w=w(z,l,p,E)S=8890745 else S=E z=l S=l and 8961585 or 2969201 end end else if S<5626839 then if S<5621928 then S=5948036 m=Y(-12827)O=E==m u=O else J=Y(-12783)p=Y(-11910)r=h[J]J=C[p]v=r[J]r=31 n=v or r j=n r=Y(-12314)M=S v=A[r]r=v(j)v=Y(-12123)M=r==v S=M and 7142085 or 4082100 end else if S<5627388 then S=A[Y(-11844)]n={}h=nil else if S<5633336 then V=Y(-12840)m=A[V]V=Y(-12173)O=m[V]u=O S=12750114 else j=g[2]U=S h=g[1]S=j and 3747009 or 9599290 n=j end end end end else if S<5675427 then if S<5654362 then if S<5641220 then C=Y(-11681)v=Y(-12206)p=4 n=B[f[3]]S=n[C]r=22 J=4 M=h[v]v=r*J C=M+v M=B[f[1]]r=Y(-12206)v=B[f[5]]n=S(U,C,M,v)w=8 C=Y(-11681)n=B[f[3]]S=n[C]J=22 v=h[r]r=J*p M=v+r z=B[f[6]]J=z and w p=S p=4 v=J or p C=M+v M=B[f[1]]r=S r=Y(-12540)v=h[r]n=S(U,C,M,v)C=Y(-11548)n=A[C]C=n(U)n={h}S=A[Y(-12759)]else n=0 h=g[1]C=Y(-12061)U=h[C]C=1 j=U-C U=j j=1 C=j S=8917641 j=0 M=C<j j=n-C end else if S<5665355 then U=Y(-11568)r=Y(-12840)h=g[1]j=h[U]v=A[r]r=Y(-12116)M=v[r]v=Y(-12544)C=M[v]M=Y(-11385)U=C[M]n=j&U j=0 S=n~=j n={S}S=A[Y(-12857)]else C=Y(-12840)n=A[C]C=Y(-11818)S=n[C]n=S(U)S=Y(-12060)C=n n=U C[S]=n n={C}S=A[Y(-11413)]end end else if S<5686187 then if S<5678369 then Q=Y(-12826)E=w==Q S=E and 1403856 or 11107667 else S=l and 13802499 or 7652947 end else if S<5687317 then C=S r=Y(-12314)j=g[2]h=g[1]v=A[r]r=v(h)v=Y(-11686)M=r==v U=M S=M and 3161305 or 4603647 else if S<5702046 then v=nil J=nil S=11989906 r=nil else S=n and 2671397 or 10320150 end end end end end end end else if S<5927624 then if S<5814689 then if S<5749555 then if S<5725730 then if S<5716093 then if S<5711238 then n=Y(-12113)S=h[n]n={S}S=A[Y(-11809)]else m=Y(-12450)O=w .. m w=O S=4029203 end else if S<5722246 then S=3939064 C3=Y(-12223)j3=A[C3]t3={j3(B3)}I3=t3[3]C3=t3[1]X3=t3[2]else C=24.3 S=12366692 U=C end end else if S<5740106 then if S<5738313 then l=Y(-12840)w=A[l]l=Y(-11725)z=w[l]S=not z S=S and 7446015 or 16629982 else S=Y(-11695)z=S S=9617354 end else if S<5743791 then gg=Y(-11998)Fg=Y(-11940)Q3=S s3=Y(-12093)L3=h[s3]K3=Y(-11565)Yg=Y(-11427)s3=Y(-12065)y3=L3[s3]p3=l3 fg=Y(-11427)s3=w3[K3]Ng=w3[gg]cg=w3[Fg]gg=fg .. cg Sg=Ng .. gg K3=Yg .. Sg L3=s3  .. K3 m3=y3[L3]y3=0 u3=m3 or y3 m3=J3[u3]Q3=not m3 S=Q3 and 8553295 or 2619165 else r=Y(-12587)v=Y(-12840)n=A[v]v=Y(-12803)S=n[v]n=Y(-12360)v=r .. M n=S[n]n=n(S,v)S=9840692 end end end else if S<5798544 then if S<5755143 then if S<5752207 then S=1137421 else C=Y(-11771)h=g[1]U=h[C]C=Y(-12198)j=U==C n=j S=j and 4162044 or 6631929 end else if S<5784067 then E=u S=b S=4497143 else r=Y(-12795)S=16666869 v=U .. r U=v end end else if S<5805386 then if S<5803022 then S=1772414 p=nil J=nil else w=Y(-12451)p=Y(-11390)E=Y(-11972)S=A[p]u=Y(-11568)l=A[E]Q=J[u]E=l(Q)z=w .. E p=S(z)S=13574994 end else if S<5806625 then b=Y(-11568)u=Y(-11893)Q=A[u]m=Y(-12648)u=Y(-12427)E=Q[u]u=j[b]O=B[f[1]]b=O[m]Q=E(u,b)u=B[f[1]]b=Y(-12342)E=u[b]l=Q==E S=l and 11177481 or 2752274 else if S<5808684 then Q=b S=O S=b and 16738187 or 5416946 else v=Y(-11837)w=Y(-11837)J=Y(-11837)M=A[v]v=Y(-12499)C=M[v]r=A[J]J=Y(-12210)v=r[J]M=C(v)p=Y(-11837)v=Y(-11837)M=A[v]v=Y(-12083)C=M[v]M=C()v=Y(-11837)M=A[v]v=Y(-12503)C=M[v]J=A[p]v=Y(-11699)p=Y(-12551)r=J[p]J=false z=A[w]l=1 w=Y(-11589)p=z[w]w=nil z=nil M=C(v,r,J,p,z,w,l)M=S r=S w=Y(-11837)z=A[w]w=Y(-12637)p=z[w]z=p()p=0 J=z>p S=J and 4719956 or 9393048 v=J end end end end end else if S<5859596 then if S<5830392 then if S<5817646 then if S<5817129 then z=Y(-12079)S=14641929 J=z else C=Y(-12655)r=Y(-12174)S=Y(-12803)v=Y(-12620)U=A[C]J=j[1]S=h[S]C=Y(-12274)n=U[C]M=h[v]v=r .. J C=M .. v M=Y(-11939)U={n(C,M)}S=S(h,N(U))S=5626939 end else if S<5824026 then n=M S=v S=M and 4405960 or 8072750 else r=nil v=nil S=5010500 end end else if S<5841492 then if S<5832930 then S=5188307 else n=Y(-11390)S=A[n]U=Y(-12643)n=S(U)S=8123962 end else if S<5858277 then U={}n=U S=1351562 else if S<5858663 then n=Y(-12060)S=U[n]r=S Q=Y(-12840)J=Y(-11686)n=A[J]z=Y(-12655)J=Y(-12193)S=n[J]p=A[z]z=Y(-12274)J=p[z]z=Y(-12262)E=A[Q]Q=Y(-11432)l=E[Q]w=v-l p={J(z,r,w,v)}n=S(j,N(p))S=15610754 r=nil else S=U j[S]=n U={}n=Y(-11410)S=A[n]C=B[f[2]]n=S(U,C)S=Y(-12323)U=n n=false j[S]=n n=false S=Y(-12149)j[S]=n S=Y(-11776)n=j U[S]=n S=Y(-11531)n={}U[S]=n S=A[Y(-11567)]n={U}end end end end else if S<5904397 then if S<5884897 then if S<5861648 then C=n n=Y(-12223)S=A[n]r={S(C)}n=r[1]M=r[2]v=r[3]S=11336427 r=n else S=o3 S=H3 and 8538817 or 726657 end else if S<5897284 then M=Y(-12318)n=h[M]S=U<n S=S and 9810052 or 560525 else n=C S=M S=C and 13635915 or 8409661 end end else if S<5915185 then if S<5911777 then r3=Y(-11686)h3=nil v3=A[r3]L=nil p3=Y(-12655)r3=Y(-12193)k3=v3[r3]l3=Y(-11686)J3=A[p3]p3=Y(-12274)r3=J3[p3]T=nil E3=A[l3]l3=Y(-12406)z3=E3[l3]p3=Y(-11684)E3={z3(I3)}J3={r3(p3,e,C3,X3,N(E3))}I3=nil v3=k3(v,N(J3))X3=nil C3=nil S=254676 e=nil else m=Y(-11893)Q=S R=Y(-12191)O=A[m]m=Y(-12427)V=Y(-11568)b=O[m]m=j[V]a=B[f[1]]V=a[R]O=b(m,V)b=0 u=O==b S=u and 358913 or 2761425 E=u end else if S<5916640 then C=Y(-11837)h=g[1]U=Y(-12840)j=A[U]U=Y(-12826)n=j[U]j=Y(-12077)S=n[j]U=A[C]C=Y(-11537)j=U[C]n={S(h,j)}S=A[Y(-12442)]n={N(n)}else if S<5917255 then S=613546 z3=1 v3=Y(-12655)D3=A[v3]v3=Y(-12274)q3=D3[v3]w3=Y(-12072)J3=Y(-12093)r3=h[J3]p3=C-z3 l3=j[w3]E3=L-l3 l3=1 z3=E3-l3 l3=1 E3=L-l3 l3=Y(-11740)l3=j[l3]w3=Y(-11801)w3=r3[w3]v3=Y(-12552)l3=l3(j)J3={w3(r3,p3,z3,E3,l3,e)}D3=q3(v3,N(J3))k3=D3 else e=Y(-11669)S=8157706 T=h[e]e=0 h3=T>e Z=h3 end end end end end end else if S<6043520 then if S<5956784 then if S<5938869 then if S<5933772 then if S<5931094 then r=Y(-11893)J=Y(-11568)n=A[r]l=Y(-12146)r=Y(-12427)S=n[r]z=Y(-12539)r=j[J]p=B[f[1]]J=p[z]n=S(r,J)w=B[f[1]]S=Y(-12331)J=S z=w[l]r=n p=r==z n=p S=p and 3777721 or 16192121 else J=Y(-12840)r=A[J]J=Y(-12479)S=r[J]r=Y(-11392)z=Y(-12840)p=A[z]E=Y(-12840)z=Y(-11536)J=p[z]l=A[E]E=Y(-12310)w=l[E]b=Y(-12840)E=8 u=A[b]b=Y(-12253)Q=u[b]l=E*Q z=w+l E=Y(-12840)l=A[E]E=Y(-11805)w=l[E]p=J(z,w)J=Y(-12840)S[r]=p z=Y(-12840)E=Y(-12840)r=A[J]J=Y(-12479)S=r[J]p=A[z]r=Y(-11983)z=Y(-11536)b=Y(-12840)J=p[z]l=A[E]E=Y(-12310)w=l[E]E=9 u=A[b]b=Y(-12253)Q=u[b]l=E*Q E=Y(-12840)z=w+l l=A[E]E=Y(-11805)w=l[E]p=J(z,w)J=Y(-12840)S[r]=p u=Y(-12840)r=A[J]l=Y(-12840)J=Y(-12803)S=r[J]p=Y(-12426)w=A[l]l=Y(-11477)z=w[l]Q=A[u]u=Y(-12479)E=Q[u]Q=Y(-11983)l=E[Q]w=z(l)r=Y(-12360)r=S[r]J=p .. w r=r(S,J)J=Y(-12840)r=A[J]J=Y(-12803)E=Y(-12840)S=r[J]p=Y(-11426)l=A[E]E=Y(-12479)w=l[E]l=Y(-11392)r=Y(-12360)z=w[l]J=p .. z r=S[r]r=r(S,J)S=15534059 end else if S<5936542 then p=Y(-11837)v=Y(-12077)S=j[v]J=A[p]p=Y(-12512)r=J[p]v=S(h,r)S=4 C=S S=13349034 U=v else E=B[v]S=14304142 Q=Y(-12081)l=E[Q]w={l}p=w end end else if S<5948365 then if S<5943930 then r=Y(-12840)v=A[r]r=Y(-12032)M=v[r]v=Y(-12000)n=M[v]S=U==n S=S and 2972027 or 1406192 else S=b Q=u S=12183039 end else if S<5952862 then E,u=w(l,E)S=E and 5217363 or 3847552 else E=nil w=nil Q=1 S=z+Q z=S S=1614671 l=nil end end end else if S<6007415 then if S<5984428 then if S<5965588 then h=g[1]j=Y(-12314)n=A[j]C=Y(-12205)U=h[C]j=n(U)n=Y(-11686)S=j==n S=S and 14423240 or 12718932 else m=Y(-12840)u=Y(-11568)Q=Y(-11893)E=A[Q]Q=Y(-12427)l=E[Q]Q=j[u]O=A[m]m=Y(-12853)b=O[m]O=Y(-12611)u=b[O]E=l(Q,u)l=0 w=E~=l S=w and 12260462 or 2641 end else if S<5997429 then S=A[Y(-12713)]n={n}else S=3829737 Z=nil K=nil end end else if S<6021105 then if S<6019557 then n={C}S=A[Y(-12215)]else U=B[f[1]]C=Y(-12727)n=U[C]U=n(h)S=not U n={S}S=A[Y(-12212)]end else if S<6025774 then v=not M j=j+C n=~j n=j<=U n=v and n v=j>=U v=M and v n=v or n v=11849108 S=n and v n=12455425 S=S or n else if S<6033748 then X3=Y(-11776)C3=h[X3]X3=Y(-12149)e=C3[X3]S=e and 4166058 or 8235002 else C=Y(-12655)U=A[C]J=j[1]C=Y(-12274)r=Y(-12174)S=Y(-12803)v=Y(-12620)n=U[C]M=h[v]v=r .. J S=h[S]C=M .. v M=Y(-11514)U={n(C,M)}S=S(h,N(U))S=6753322 end end end end end else if S<6094689 then if S<6061985 then if S<6053537 then if S<6049836 then r={}n=r S=2659618 else S=nil n={S}S=A[Y(-11420)]end else if S<6056405 then S=false z=S S=16350290 else S=R R=Y(-12331)m=a or R S=w .. m K=Y(-12579)a=S m=S s=O==K y=S L=S W=s S=s and 12541664 or 16241956 end end else if S<6074522 then if S<6065895 then r=Y(-12840)v=A[r]r=Y(-12032)M=v[r]v=Y(-12818)n=M[v]S=U==n S=S and 8215130 or 5943208 else S=J and 8161614 or 15915155 end else if S<6086562 then w=Y(-12079)z=w S=9617354 else if S<6087803 then v=0 S=13951617 M=g[5]h=g[1]j=g[2]C=g[4]U=g[3]n=U or v v=n n=nil J=4 p=J r=n n=0 J=1 z=J J=0 w=z<J J=n-z else e=Y(-11686)V=nil a=nil T=A[e]S=13174070 R=nil e=Y(-12193)O=nil h3=T[e]T=h3(l,Z)m=nil y=nil Z=nil end end end end else if S<6129279 then if S<6108982 then if S<6105887 then l=Y(-12565)w=B[f[1]]z=w[l]w=z(p)n=w S=2687515 else r=M z=Y(-12663)w=Y(-12521)p=r .. z S=h[p]z=r .. w p=S S=h[z]w=0 z=S S=p>w S=S and 10153844 or 16023681 end else if S<6111956 then S=898371 else S=11358335 w=Y(-11788)z=U .. w U=z end end else if S<6133056 then if S<6130873 then h=g[1]C=Y(-11771)U=h[C]C=Y(-11484)j=U==C S=j and 10774927 or 11078611 n=j else l=Y(-12399)h=g[1]C=Y(-12840)n=A[C]J=Y(-11793)U=g[3]C=Y(-12826)j=g[2]S=n[C]z=Y(-12189)E=Y(-12491)n=Y(-12317)n=S[n]n=n(S,j,U)C=n v=Y(-11658)n=Y(-11410)S=A[n]r=B[f[1]]w=j .. l p=z .. w l=B[f[1]]w=l[E]z=Y(-12435)M={[v]=r,[J]=p,[z]=w}n={S(C,M)}n={N(n)}S=A[Y(-11616)]end else if S<6136043 then J=0 r=Y(-12438)v=h[r]r=Y(-11409)r=v[r]r=r(v,j,U,C)v=r>=J S=v and 16118894 or 12578589 else if S<6138365 then S=T S=h3 and 14481834 or 3045151 else v=Y(-12331)M=g[5]C=g[4]U=g[3]h=g[1]n=M or v j=g[2]M=n z=Y(-12093)p=h[z]z=Y(-12424)J=p[z]p=Y(-12296)r=J[p]J=21 v=r<J S=v and 7186621 or 6135970 end end end end end end end end end else if S<7281442 then if S<6694281 then if S<6403177 then if S<6244046 then if S<6190973 then if S<6160069 then if S<6154493 then if S<6144172 then S=false n={S}S=A[Y(-11439)]else S=nil n={S}S=A[Y(-11422)]end else if S<6158247 then T=Y(-12544)x=S h3=C[T]Z=h3 S=h3 and 5925467 or 8157706 else h=g[1]j=Y(-12840)n=A[j]j=Y(-12169)S=n[j]U=Y(-11488)j=h[U]n={S(j)}S=A[Y(-11831)]n={N(n)}end end else if S<6185896 then if S<6185511 then h=g[1]C=g[4]n=Y(-12641)S=h(n)j=g[2]n=Y(-11903)C=nil S=h(n)n={}S=A[Y(-11962)]j=nil U=g[3]h=nil U=nil else v=1 w=U M=#C S=M+v v=Y(-12060)p=Y(-11643)J=h[p]r=j+J l=S J=Y(-11568)z=S S=U and 5393500 or 15251972 end else if S<6186748 then U=Y(-12840)C=Y(-12151)S=Y(-12151)j=A[U]U=Y(-12081)n=j[U]U=h[C]j=n(U)h[S]=j S=10171706 else j=Y(-12840)U=Y(-12309)n=A[j]j=Y(-11818)S=n[j]j=h[U]n={S(j)}S=A[Y(-12789)]n={N(n)}end end end else if S<6218982 then if S<6197154 then if S<6196247 then S=Y(-12467)l=Y(-12179)v=Y(-11837)S=U[S]S=S(U)M=A[v]v=Y(-11782)S=M[v]J=Y(-12655)r=A[J]J=Y(-12274)v=r[J]w=A[l]J=Y(-12291)l=Y(-12763)z=w[l]w=z()p=w-j r={v(J,p)}M=S(N(r))S=true n={S}S=A[Y(-12810)]else Q=B[f[1]]w=S u=Y(-12290)E=Q[u]l=r==E z=l S=l and 15575824 or 2097153 end else if S<6202768 then S=12366692 n=24.4 U=n else S=u S=7217200 l=Q end end else if S<6230423 then if S<6229957 then b=Y(-12840)S=11414475 E=nil Q=nil u=A[b]b=Y(-12324)n=u[b]u=n(l)v=u l=nil w=nil else p=32 J=4 r=J|p J=-2080896 v=r|J C=v S=10060847 end else if S<6239906 then S=l and 6056006 or 11030720 else if S<6241023 then S=8953286 else S=M M=S S=C and 2659618 or 6048755 v=n n=C end end end end end else if S<6294879 then if S<6266879 then if S<6249464 then if S<6245679 then S=X3 S=e and 4958044 or 14302518 else u=0x10 v=Y(-12487)M=i()r=i()m=I(15251403,{})h=g[1]C=g[4]j=g[2]n=Y(-11837)U=g[3]S=A[n]B[M]=S n=B[M]O=Y(-12008)S=n[v]Q=6 y=Y(-11445)n=S()v=n n=Y(-12616)w=32 S=v[n]B[r]=S z=B[r]p=S p=4 J=z and w n=J or p b=Y(-12530)p=S p=i()J=i()w=S B[J]=n E=8 l=B[r]z=l and E w=4 n=z or w B[p]=n l=S z=S V=Y(-12835)E=B[r]a=Y(-11485)w=E and Q l=4 n=w or l Q=B[r]w=S l=Q and u Q=S u=B[r]z=n Q=Y(-11977)E=S E=0x8 n=l or E w=n E=u and b u=S n=E or Q R=Y(-11779)l=S l=i()E=S B[l]=n u=0 b=B[r]Q=b and O b=Y(-11686)n=Q or u s=Y(-12835)Q=Y(-11686)E=i()O=Y(-12389)B[E]=n n=A[Q]Q=Y(-11658)u=A[b]n[Q]=u Q=Y(-11410)n=A[Q]b=Y(-11686)u=A[b]b={[O]=m}Q=n(u,b)b=Y(-12770)n=I(9486827,{})u=Y(-12009)Q=Y(-11686)Q=A[Q]Q[u]=n Q=Y(-11637)n=G(11085748,{M})A[Q]=n n=H(13871599,{M})Q=Y(-11548)A[Q]=n m=Y(-12152)n={}Q=i()B[Q]=n n=t(13850402,{})u=B[Q]u[b]=n b=Y(-12054)n=k(16696601,{})u=B[Q]L=Y(-12655)u[b]=n n={}u=i()B[u]=n b=Y(-11568)n=B[u]W=Y(-11908)O={[m]=V,[a]=R,[y]=W,[L]=s}n[b]=O b=Y(-12314)V=4 m=Y(-12152)W=64 L=Y(-12655)R=16 a=Y(-11485)n=B[u]s=B[J]y=Y(-11445)O={[m]=V,[a]=R;[y]=W;[L]=s}n[b]=O O=Y(-11681)b=B[u]n=k(13193815,{})V=Y(-12389)b[O]=n a=I(5181082,{})n=G(11748625,{M;J;r})O=Y(-11644)b=B[u]b[O]=n b=B[u]O=Y(-12340)n=t(9990607,{})b[O]=n b=Y(-11410)m={[V]=a}n=A[b]O=B[u]b=n(O,m)n=B[u]b=Y(-11545)O=B[u]m=O()n[b]=m n=B[u]b=Y(-12010)O=B[u]m=O()n[b]=m b=Y(-12626)a=0x38 n=B[u]O=B[u]m=O()n[b]=m n=B[u]O=B[u]m=O()b=Y(-12385)n[b]=m m=S V=B[r]O=V and a m=0x30 b=S n=O or m a=Y(-12586)V=Y(-12385)b=n O=2 n=b*O O=n m=B[u]n=m[V]V={[a]=b}m=Y(-11643)n[m]=V m=B[u]V=Y(-12626)n=m[V]a=Y(-12586)V={[a]=O}m=Y(-11643)n[m]=V n=d(3858560,{J})V=Y(-12010)a=m[V]m=B[u]S=A[Y(-11448)]m=Y(-12641)V=Y(-12010)a[m]=n a=m[V]V=Y(-12010)m=B[u]n=P(8067520,{u})m=Y(-11545)a[m]=n a=m[V]m=B[u]V=Y(-12010)m=Y(-12385)n=H(10713335,{J,p;M,u;l})a[m]=n a=m[V]m=B[u]n=P(1674510,{})V=Y(-12385)m=Y(-12340)a[m]=n m=B[u]a=m[V]n=q(6267036,{M;u,E,J,l;r})m=Y(-12641)a[m]=n n=H(7304961,{Q,r,E,u})V=Y(-12385)m=B[u]m=Y(-11548)a=m[V]a[m]=n m=B[u]m=Y(-12641)V=Y(-11545)a=m[V]n=P(8618339,{J;u})V=Y(-11545)a[m]=n m=B[u]m=Y(-11548)n=H(530065,{u})a=m[V]a[m]=n m=B[u]m=Y(-12641)n=G(12830868,{J,M;u,E;l,r})V=Y(-12626)a=m[V]a[m]=n V=Y(-12626)n=t(14691476,{r,Q;E,u})a=m[V]m=B[u]m=Y(-11548)a[m]=n n=B[u]n={n}end else if S<6254549 then n=Y(-11406)S=z[n]w=S Q=1 n=0 E=w-Q S={}l=S Q=E S=12206926 E=1 u=E E=0 b=u<E E=n-u else h=g[1]j=Y(-11837)n=A[j]j=Y(-12083)S=n[j]n=S()j=Y(-11837)n=A[j]j=Y(-12499)S=n[j]r=Y(-11837)v=Y(-11837)M=A[v]v=Y(-12543)C=M[v]v=A[r]r=Y(-12210)M=v[r]v=Y(-11837)U=C|M M=A[v]v=Y(-11614)C=M[v]j=U|C n=S(j)j=Y(-11837)n=A[j]j=Y(-11896)S=n[j]j=Y(-12281)n=S(j)j=n n=Y(-11897)n=h[n]n=n(h,j)S=not n S=S and 9317078 or 9622910 end end else if S<6269997 then if S<6267514 then U=g[3]h=g[1]j=g[2]S=not j S=S and 4082947 or 6743213 else v,p=r(M,v)S=v and 1227965 or 16149300 end else if S<6274951 then j=B[f[1]]h=g[1]U=Y(-11909)n=j[U]j=n(h)S=not j S=S and 9307377 or 7461079 else if S<6286585 then S=C .. j n={S}S=A[Y(-12084)]else m=Y(-11918)u=m S=15258465 end end end end else if S<6356541 then if S<6334926 then if S<6326949 then n=0 C=Y(-12710)U=h[C]C=1 j=U-C U=j j=1 C=j S=6022557 j=0 M=C<j j=n-C else n=B[f[1]]U=Y(-12836)S=n[U]S=S and 7684629 or 12244764 end else if S<6345308 then l=z S=E h[l]=S S=497424 l=nil E=nil else z=nil S=E U[S]=l p=nil S=8858927 w=nil end end else if S<6366057 then if S<6360115 then m=Y(-11568)O=Y(-11893)b=A[O]O=Y(-12427)u=b[O]O=j[m]V=B[f[1]]a=Y(-12741)m=V[a]b=u(O,m)u=0 Q=b~=u S=Q and 14863077 or 13942402 else U=Y(-11951)n=h[U]S=n[j]n={S}S=A[Y(-12251)]end else if S<6383764 then U,v=C(j,U)S=U and 13135416 or 16444424 else if S<6394837 then J=Y(-11905)v=Y(-12840)M=A[v]S=A[Y(-11617)]v=Y(-12081)n=M[v]r=h[J]v=r[C]M={n(v)}n={N(M)}else U=Y(-12840)h=g[1]n=A[U]U=Y(-12169)S=n[U]j={F(2,N(g))}U=Y(-12605)U=S[U]n={U(S,h,N(j))}S=A[Y(-12227)]n={N(n)}end end end end end end else if S<6526036 then if S<6469584 then if S<6444999 then if S<6414203 then if S<6413780 then S=10240101 l=Y(-12493)p=Y(-11390)n=A[p]Q=Y(-11713)u=Y(-12441)E=Y(-11624)w=Y(-11805)z={[w]=C;[l]=v,[E]=M,[Q]=j,[u]=U}p=n(z)else J=Y(-12840)w=1 S=A[J]z=r[w]J=Y(-11583)u=Y(-12840)E=Y(-12840)w=Y(-12060)p=z[w]z=Y(-12416)S[J]=p p=Y(-12840)J=A[p]p=Y(-12803)S=J[p]l=A[E]E=Y(-11477)w=l[E]Q=A[u]u=Y(-11583)E=Q[u]J=Y(-12419)l=w(E)p=z .. l J=S[J]w=Y(-12840)J=J(S,p)p=Y(-12840)J=A[p]p=Y(-11546)S=J[p]Q=Y(-12840)z=A[w]w=Y(-11536)p=z[w]E=A[Q]Q=Y(-11583)u=Y(-12840)l=E[Q]Q=A[u]u=Y(-12253)E=Q[u]w=l+E z={p(w)}E=Y(-12840)J=S(N(z))w=Y(-12840)z=A[w]w=Y(-11536)p=z[w]l=A[E]E=Y(-11583)w=l[E]z=p(w)S=z~=J S=S and 15341737 or 13551134 end else if S<6437381 then S=s s=Y(-12331)y=L or s s=Y(-11686)L=A[s]s=Y(-12193)Z=Y(-12655)W=L[s]K=A[Z]Z=Y(-12274)s=K[Z]Z=Y(-12102)K={s(Z,J,u,a,R,y)}L=W(v,N(K))Z=Y(-11776)L=S K=h[Z]Z=Y(-12494)s=K[Z]W=s S=s and 13846258 or 12855661 else j=n S=Y(-11834)U=S M=Y(-11834)C=j[M]n=C S=C and 5859334 or 979001 end end else if S<6464634 then if S<6452017 then C=Y(-12194)U=Y(-12840)j=A[U]U=Y(-12826)n=j[U]j=Y(-12447)S=n[j]U=B[f[1]]j=U[C]U={j(h)}n={S(N(U))}S=A[Y(-11572)]n={N(n)}else u=0 Q=#M l=Q==u S=l and 10083614 or 4369605 end else if S<6467304 then b=Y(-12840)E=S u=A[b]b=Y(-12739)Q=u[b]S=Q and 15298924 or 12334233 l=Q else S=15258465 b=Y(-11693)u=b end end end else if S<6483860 then if S<6476844 then if S<6473774 then u=Y(-12840)Q=A[u]u=Y(-12853)E=Q[u]Q=Y(-11668)l=E[Q]w=p==l S=w and 6083809 or 4033058 else U=nil C=nil S=40281 M=nil end else if S<6481835 then S=r S=v and 7784960 or 8081716 else S3=Y(-12840)e=Y(-11459)Y3=A[S3]S3=Y(-12826)S=2675899 A3=Y3[S3]Y3=Y(-12415)e=r[e]Y3=A3[Y3]Y3=Y3(A3,a)e=e(r,Y3,a)h3=e end end else if S<6490455 then if S<6485081 then h=g[1]j=Y(-12840)n=A[j]U=Y(-12339)j=Y(-12169)S=n[j]j=h[U]n={S(j)}n={N(n)}S=A[Y(-12705)]else C=Y(-12655)n=A[C]C=Y(-12274)S=n[C]C=Y(-12272)r=Y(-11686)v=A[r]r=Y(-12406)M=v[r]r=Y(-12715)v={M(U,r)}n={S(C,j,N(v))}S=A[Y(-12860)]n={N(n)}end else if S<6509452 then S=Q l=E S=6231121 else if S<6519430 then n=Y(-11771)h=g[1]S=h[n]n={S}S=A[Y(-12799)]else m=Y(-12516)b=1 u=E-b S=Y(-11696)Q=1 b=Y(-11968)S=z[S]S=S(z,Q,u)Q=S S=C+w u=S S=h[b]b=u R=Y(-12319)S[Q]=b b=Y(-11968)O=Y(-12840)L=Y(-12840)S=h[b]b=nil S[z]=b b=A[O]O=Y(-12803)S=b[O]W=A[L]L=Y(-11477)y=W[L]W=y(u)u=nil a=R .. W b=Y(-12673)V=Q .. a b=S[b]Q=nil O=m .. V b=b(S,O)S=16628638 end end end end end else if S<6578849 then if S<6559042 then if S<6555060 then if S<6544918 then S=O Q=b S=4889476 else J=v S=true z=S w=Y(-12296)S=p[w]S=S and 3980422 or 13451935 end else if S<6556039 then U=Y(-12840)j=A[U]U=Y(-12826)n=j[U]j=Y(-12063)S=n[j]n={S(h)}n={N(n)}S=A[Y(-11645)]else h=g[1]n=Y(-12681)S=h[n]n={S}S=A[Y(-12469)]end end else if S<6568999 then if S<6567269 then g3=Y(-11972)N3=A[g3]g3=N3(e)S=6240516 S3=Z .. g3 Z=S3 else j=nil n={}U=nil C=nil h=nil S=A[Y(-11534)]end else if S<6571623 then S=3538247 p=v else if S<6574703 then C3=Y(-11524)S=986986 U3=Y3  .. C3 Y3=U3 else v=Y(-12716)v=r[v]J=Y(-12375)v=v(r,J)S=v and 5009825 or 746644 end end end end else if S<6640153 then if S<6626027 then if S<6600869 then S=n and 6037439 or 6753322 else J=B[f[1]]r=not J S=10738139 M=r end else if S<6629760 then b=U Q=Y(-12060)w=1 z=#C S=z+w E=p[Q]J=v u=Y(-11643)Q=h[u]u=S l=E+Q O=S w=Y(-12060)S=U and 10691257 or 5808647 E=Y(-11568)else n={n}S=A[Y(-12259)]end end else if S<6669314 then if S<6651230 then y=Y(-12840)R=A[y]y=Y(-12253)a=R[y]S=11327020 R=2 V=a*R O=V else r=M l=Y(-11643)w=J[l]z=not w S=z and 10636928 or 15522302 p=z end else if S<6675342 then S3=Y(-12337)Y3=A[S3]S3=Y(-12283)A3=Y3[S3]Y3=A3(Z)e=Y3==Z S=6136098 h3=e else if S<6678372 then S=O S=b and 14517006 or 4041305 else F3=Y(-12331)S3=F3 c3=Y(-12331)Y3=c3 n3=Y(-12320)F3=A3[n3]n3=0 c3=F3~=n3 S=c3 and 4215241 or 14925887 end end end end end end end else if S<6983868 then if S<6820742 then if S<6725797 then if S<6712489 then if S<6700204 then if S<6698669 then M=Y(-12474)n=h[M]S=U<n S=S and 2860690 or 9583939 else v=false S=B[f[1]]r=Y(-12605)r=S[r]n={r(S,M,j,v)}n={N(n)}S=A[Y(-12767)]end else if S<6705261 then p=S z=not U J=z S=z and 4031681 or 902359 else h=nil j=nil n={}S=A[Y(-11889)]end end else if S<6717600 then if S<6716789 then r=p S=z S=p and 1939677 or 12436330 else S=B[f[1]]n=B[f[2]]S[h]=n n=B[f[3]]S=n[h]U=B[f[5]]C=B[f[1]]M=B[f[6]]v=B[f[3]]n=S(U,C,M,v)S=B[f[1]]j=n U=j S[h]=U S=14234086 end else if S<6721214 then j=g[2]J=Y(-12314)U=g[3]h=g[1]r=A[J]J=r(h)r=Y(-11686)v=J==r M=S C=v S=v and 15512260 or 12079337 else J=Y(-12840)z=Y(-11712)p=M S=A[J]J=Y(-11432)S[J]=p J=Y(-12840)p=C S=A[J]J=Y(-11807)S[J]=p p=Y(-12840)J=A[p]p=Y(-12803)E=Y(-12840)S=J[p]l=A[E]J=Y(-12419)E=Y(-12354)J=S[J]w=l[E]p=z .. w J=J(S,p)p=Y(-12840)J=A[p]E=Y(-12840)p=Y(-12803)u=Y(-12840)S=J[p]l=A[E]z=Y(-12744)E=Y(-11477)J=Y(-12419)w=l[E]Q=A[u]J=S[J]u=Y(-11432)E=Q[u]l=w(E)p=z .. l J=J(S,p)p=Y(-12840)J=A[p]p=Y(-12803)S=J[p]p=Y(-11866)J=Y(-12419)J=S[J]J=J(S,p)p=Y(-11907)J=Y(-11997)S=U[J]J=U[p]p=S w=not p S=w and 4191112 or 12332913 z=w end end end else if S<6748574 then if S<6738602 then if S<6737245 then k3=nil S=26207 q3=nil else b=S m=Y(-11800)O=E==m S=O and 5948036 or 5616741 u=O end else if S<6742107 then M=n n=Y(-12223)S=A[n]J={S(M)}r=J[3]v=J[2]S=1539303 n=J[1]J=n else S=Y(-12540)n=j C=Y(-12540)h[S]=n n=h[C]C=0 S=n==C S=S and 5073123 or 14851436 end end else if S<6768518 then if S<6750847 then U=Y(-11531)h=g[1]n=h[U]j=g[2]S=n[j]S=S and 930788 or 490331 else S=A[Y(-12709)]n={}h=nil end else if S<6806044 then r=Y(-12080)v=h[r]r=Y(-12136)S=2680248 M=v[r]U=M else if S<6818462 then E=u S=b S=u and 10182088 or 9679096 else n={}S=A[Y(-11631)]end end end end end else if S<6936982 then if S<6883195 then if S<6839020 then if S<6827425 then S=n and 11795569 or 11742011 else M=Y(-12840)n=A[M]M=Y(-12826)v=Y(-12309)S=n[M]r=Y(-12070)M=h[v]n=Y(-12788)n=S[n]v=Y(-12840)n=n(S,M)M=n n=A[v]v=Y(-12826)S=n[v]v=M[r]n=Y(-12657)n=S[n]n=n(S,v)v=n S=A[Y(-12346)]n={v}end else if S<6856742 then J=Y(-11568)C=Y(-12840)U=A[C]C=Y(-11536)n=U[C]v=Y(-12275)M=h[v]v=Y(-11400)r=Y(-12060)C=M[v]v=Y(-12314)U=n(C)C=Y(-11643)n=h[C]S=U+n U=S M=Y(-12840)C=A[M]M=Y(-12314)n=C[M]M=h[v]v=Y(-12314)C=M[v]S=n[C]C=S M=Y(-11837)n=A[M]M=Y(-11548)S=n[M]l=S w=C z=S S=C and 31332 or 5364650 else s=Y(-11686)L=A[s]S=254676 s=Y(-12193)W=L[s]s=Y(-12003)L=W(v,s)s=Y(-12471)K=Y(-12318)L=j[s]s=j[K]W=L+s K=Y(-12471)s=j[K]K=0 L=s+K K=1 s=W-K K=s s=1 Z=s s=0 x=Z<s s=L-Z end end else if S<6916362 then if S<6890043 then S=k3 S=t3 and 4202259 or 26207 else l=E S=Q S=E and 13280039 or 723272 end else if S<6930379 then r=1 v=U[r]r=Y(-11876)S=A[Y(-12117)]j=v[r]J=#U r=U[J]J=Y(-11917)v=r[J]n={j;v}else if S<6936479 then U=Y(-11893)j=A[U]U=Y(-12427)M=Y(-12314)n=j[U]C=h[M]M=Y(-12659)U=C[M]C=0x0040 j=n(U,C)n=0 S=j~=n S=S and 8203941 or 4173568 else u=Y(-12399)Q=j .. u E=Y(-12797)z=Y(-12806)l=E .. Q S=7732000 w=M .. l p=z .. w r=p end end end end else if S<6955613 then if S<6945516 then if S<6944844 then p,z=r(J,p)S=p and 3733275 or 382362 else K3=Y(-12840)T3=Y(-12441)x3=Y(-11713)s3=A[K3]K3=Y(-12826)W3=s3[K3]Z3=L3[x3]x3=L3[T3]T3=Y(-12752)T3=W3[T3]T3={T3(W3,Z3,x3)}K3=T3[2]s3=T3[1]S=s3 and 15291276 or 15211295 end else if S<6950427 then S=L S=W and 9444697 or 16624409 else v=Y(-12840)n=A[v]v=Y(-11613)S=n[v]n=S(j,M)v=n n=0 S=v==n S=S and 16107535 or 12559983 end end else if S<6959820 then if S<6957356 then S=J S=14953234 M=r else M=r S=J S=r and 12235911 or 7151804 end else if S<6971834 then n=Y(-11906)h=g[1]S=h[n]n={S}S=A[Y(-12250)]else if S<6975167 then U3=Y(-12869)j3=Y3  .. U3 Y3=j3 i3=true S=11763162 e=i3 else r=Y(-11837)v=A[r]r=Y(-12109)M=v[r]v=M(C)S=9401239 C=nil end end end end end end else if S<7068796 then if S<7015450 then if S<7001383 then if S<6994781 then if S<6992388 then U=Y(-12840)j=A[U]U=Y(-12826)C=Y(-12194)n=j[U]j=Y(-12728)S=n[j]U=B[f[1]]j=U[C]U={j(h)}n={S(N(U))}n={N(n)}S=A[Y(-11858)]else n=M S=v S=8245723 end else if S<6997530 then U=Y(-11531)n=h[U]S=n[j]n={S}S=A[Y(-11597)]else r=M w=Y(-12060)p=Y(-12060)z=J[w]w=Y(-11568)Q=Y(-12840)E=A[Q]Q=Y(-12173)l=E[Q]E=Y(-12620)Q=Y(-11719)Q=J[Q]Q=Q(J)S={[p]=z,[w]=l,[E]=Q}U[r]=S r=nil J=nil S=14064602 end end else if S<7006665 then if S<7002731 then S=Y(-12513)l=Y(-12655)S=U[S]J=v w=A[l]b=Y(-11861)l=Y(-12274)z=w[l]Q=1 E=J-Q l=Y(-11421)Q=Y(-11975)J=nil Q=p[Q]Q=Q(p)u=p[b]p=nil w={z(l,E,Q,u)}S=S(U,N(w))S=11336427 else J=Y(-12655)n=Y(-11390)C=Y(-11857)S=A[n]r=A[J]J=Y(-12274)v=r[J]J=Y(-11777)z=Y(-12540)p=h[z]r=v(J,p)v=Y(-12255)M=r .. v U=C .. M n=S(U)S=12007340 end else if S<7013393 then S=12250147 j=Y(-12087)n=2 A[j]=n else z=Y(-12450)E=Y(-11893)p=U .. z Q=Y(-11568)U=p l=A[E]E=Y(-12427)w=l[E]O=Y(-12840)E=j[Q]b=A[O]O=Y(-12853)u=b[O]b=Y(-12648)Q=u[b]l=w(E,Q)u=Y(-12840)Q=A[u]u=Y(-12853)E=Q[u]Q=Y(-12599)w=E[Q]z=l==w S=z and 2969744 or 7845408 end end end else if S<7020606 then if S<7019320 then if S<7018804 then S=M z=#j v=S J=j[z]z=Y(-11917)r=J[z]S=A[Y(-11502)]J=0 M=r or J v=0 n={C,M;v}else S=522101 end else if S<7020484 then j=g[2]U=g[3]n=U h=g[1]S=U and 4377282 or 15579093 else V=Y(-12001)m=w .. V S=4029203 w=m end end else if S<7041926 then if S<7022639 then S=6357298 else S=z z=Y(-12586)C=nil v={[r]=U,[J]=p,[z]=j}h=nil M={v}U=nil n=S(M)n={}j=nil S=A[Y(-11721)]end else if S<7048104 then j=Y(-12840)J=Y(-12840)n=A[j]h=g[1]j=Y(-12826)S=n[j]r=A[J]j=S C=S J=Y(-12354)v=r[J]r=29 M=v<r S=M and 10015308 or 8235459 U=M else if S<7058810 then J=Y(-12840)r=A[J]J=Y(-12826)S=6741021 v=r[J]r=Y(-11828)M=v[r]v=M(j)n=v else l=Y(-11921)S=r .. l l=w h[S]=l S=16023681 w=nil end end end end end else if S<7215369 then if S<7121046 then if S<7101457 then if S<7085837 then j=Y(-12085)h=g[1]n=h[j]j=0 S=n~=j n={S}S=A[Y(-12423)]else v=Y(-12840)M=A[v]v=Y(-12826)C=M[v]M=Y(-11968)U=C[M]C=Y(-11577)j=U[C]n=h-j C=Y(-12840)U=A[C]C=Y(-11486)j=U[C]S=n/j h=S S=3464393 end else if S<7110635 then l=Y(-11837)u=nil w=A[l]l=Y(-12083)O=1 E=4 J=w[l]w=J()l=Y(-11837)w=A[l]b=-1 l=Y(-12499)J=w[l]l=-1 w=J(l)l=Y(-11837)w=A[l]l=Y(-12503)J=w[l]Q=nil l=134217729 w=J(l,E,Q,u,C,b,O)l=Y(-11837)b=1 w=A[l]E=Y(-11837)l=Y(-12026)J=w[l]l=1 w=J(l)l=A[E]E=Y(-12083)J=l[E]l=J()l=Y(-11968)J=h[l]S=3976205 u=w[b]l=Y(-12822)b=Y(-12060)V=Y(-11968)Q=u[b]u=4 E=Q-u Q=Y(-12872)J[l]=E O=Y(-12840)E=Y(-12840)l=A[E]E=Y(-12803)J=l[E]b=A[O]O=Y(-11477)u=b[O]m=h[V]V=Y(-12822)w=nil O=m[V]b=u(O)l=Y(-12360)E=Q .. b l=J[l]l=l(J,E)else M=B[f[3]]S=6822295 n=M end end else if S<7151789 then if S<7137947 then w=Y(-12840)z=A[w]S=5702657 w=Y(-11894)p=z[w]z=p(r)J=not z n=J else M=j(h,C)S=4082100 j=M end else if S<7154016 then S=12235911 M=U else if S<7158601 then S=nil n={S}S=A[Y(-12165)]else v=Y(-12331)S=A[Y(-11864)]n={v}end end end end else if S<7236799 then if S<7223789 then if S<7217849 then S=E S=l and 14379240 or 10590623 else J=Y(-11975)S=r J=h[J]r=Y(-12620)J=J(h)n={[C]=j,[M]=v;[r]=J}S={n}C=S M=Y(-12840)n=A[M]M=Y(-11536)S=n[M]n=S(C)S=A[Y(-12134)]n={n;C}end else if S<7227390 then j=g[2]h=g[1]U=g[3]v=Y(-12840)M=A[v]v=Y(-12847)C=M[v]M=Y(-12544)n=C[M]S=n[j]S=S and 7609889 or 2555773 else B3=nil S=16490647 N3=nil end end else if S<7264075 then if S<7244375 then S=Y(-12716)r=M S=U[S]S=S(U,J)S=S and 13802338 or 13860289 else v=Y(-12840)M=A[v]l=Y(-12620)v=Y(-11562)S=M[v]M=S(j)z=Y(-11793)S=Y(-12060)J=Y(-11658)v=j M[S]=v v=Y(-11410)S=A[v]p=B[f[1]]w=M[l]r={[J]=p,[z]=w}v={S(M,r)}n={N(v)}S=A[Y(-12768)]end else if S<7271362 then S=n and 7101057 or 3464393 else if S<7278490 then S=n and 7778290 or 1638365 else h=g[1]U=Y(-12840)j=A[U]C=Y(-11837)U=Y(-12826)n=j[U]j=Y(-12077)S=n[j]U=A[C]C=Y(-11539)j=U[C]n={S(h,j)}n={N(n)}S=A[Y(-11792)]end end end end end end end end else if S<7768521 then if S<7506596 then if S<7421171 then if S<7348282 then if S<7305980 then if S<7288103 then if S<7284891 then U=Y(-11893)h=g[1]M=Y(-11893)j=A[U]U=Y(-12427)n=j[U]v=Y(-11938)C=A[M]M=Y(-12147)U=C[M]M=h[v]v=1 C=U(M,v)U=0x1 j=n(C,U)n=1 S=j==n n={S}S=A[Y(-12679)]else C=Y(-12081)n=A[C]C=Y(-11464)S=n[C]n=S(h)C=n n=C S=C and 11014584 or 3051541 end else if S<7297282 then S=J S[n]=r n=B[v]n=Y(-12148)r=Y(-11493)S=P(4265691,{v})J=n[r]J[n]=S S=903862 else h=g[1]j=g[2]S={}U=S n=Y(-12717)S=A[n]v={S(j)}S=1642805 n=v[1]M=v[3]C=v[2]v=n end end else if S<7330149 then if S<7313279 then S=E z=l S=l and 16090737 or 4573666 else r=Y(-11837)v=A[r]r=Y(-12083)M=v[r]p=Y(-12840)v=M()r=Y(-12655)v=A[r]r=Y(-12735)M=v[r]w=Y(-12359)u=Y(-12359)J=A[p]p=Y(-12701)r=J[p]J=r(U)E=Y(-12359)r=Y(-11454)S=A[Y(-12776)]v=M(J,r)p={v()}J=p[3]M=p[1]z=A[w]r=p[2]w=z(M)p=Y(-11910)l=A[E]z=Y(-12455)E=l(r)l=Y(-12622)Q=A[u]u=Q(J)v={[p]=w,[z]=E,[l]=u}n={v}end else if S<7341214 then S=p S=J and 2526303 or 11282548 else S=C S=U and 5266940 or 16697779 n=U end end end else if S<7373906 then if S<7358519 then if S<7350547 then U=Y(-12840)h=g[1]n=A[U]U=Y(-12306)S=n[U]j=g[2]C=nil n=S(h,j)S=A[Y(-12059)]U=n n=U or C n={n}else C=Y(-11787)U=h[C]S=8052221 n=U end else if S<7364881 then p=Y(-11776)J=h[p]p=Y(-11886)r=J[p]S=r and 1464328 or 16107879 n=r else S=3743173 g3=Y(-12791)Y3=g3 end end else if S<7389723 then if S<7380371 then C,r=M(U,C)S=C and 15949464 or 13756697 else z=S Q=Y(-12840)E=A[Q]Q=Y(-11514)l=E[Q]E=Y(-11466)w=l[E]p=w S=w and 2743813 or 10417567 end else if S<7401535 then S=x s=Y(-12513)x=Y(-11714)s=J[s]a=nil K=Z .. x S=1209698 s=s(J,K)else if S<7406485 then S=J S=r and 10730169 or 7446154 n=r else S=nil n={S}S=A[Y(-12772)]end end end end end else if S<7463426 then if S<7446037 then if S<7438308 then if S<7422998 then S=1539448 r=Y(-11759)n=v .. r M=n else S=s3 S=W3 and 6945359 or 16408461 end else if S<7440643 then r=nil v=nil J=nil S=11813209 else w=Y(-12840)E=Y(-12840)z=A[w]w=Y(-12610)S=z[w]l=A[E]E=Y(-12610)w=l[E]u=Y(-12840)Q=A[u]u=Y(-11587)E=Q[u]l={w(E)}z=S(N(l))S=B[f[1]]w=S(z)S=w and 15832847 or 5296195 end end else if S<7456889 then if S<7447322 then p=Y(-11837)S=10730169 J=A[p]p=Y(-12512)r=J[p]n=r else U=Y(-12643)n=Y(-11390)S=A[n]n=S(U)S=9776570 end else if S<7460667 then V3=S L3=Y(-12659)W3=Y(-11893)K3=Y(-11482)y3=A[W3]W3=Y(-12427)a3=y3[W3]W3=u3[L3]s3=B[f[1]]L3=s3[K3]y3=a3(W3,L3)a3=0 R3=y3==a3 S=R3 and 5597217 or 12598482 b3=R3 else if S<7462432 then j=Y(-11464)U=Y(-11400)j=h[j]j=j(h)n=j[U]v=Y(-12005)C=Y(-12840)U=Y(-11643)j=h[U]S=n+j U=A[C]C=Y(-12314)j=S n=U[C]C=Y(-11972)v=h[v]U=A[C]M={v(h)}C=U(N(M))M=Y(-11568)S=n[C]r=S U=S p=S J=U S=U and 14076555 or 12860047 C=Y(-12060)else S=m u=O S=5756674 end end end end else if S<7476149 then if S<7469583 then if S<7464553 then u=Y(-11541)Q=w~=u l=Q S=503286 else M=Y(-12840)n=A[M]M=Y(-12276)S=n[M]v=Y(-12309)M=h[v]n=S(M)M=n S=M and 689129 or 2211793 end else if S<7469660 then h=g[1]r=Y(-12840)j=g[2]C=Y(-11968)U=h[C]C=Y(-12642)n=U[C]v=A[r]r=Y(-12750)M=v[r]v=Y(-11639)C=M[v]U=j*C S=n+U C=Y(-12840)n=A[C]U=S C=Y(-12750)S=n[C]n={S(U)}S=A[Y(-11955)]n={N(n)}else u=Y(-11775)w=u S=13311336 end end else if S<7495919 then if S<7492542 then n=#U z=1 S=n+z n=p U[S]=n S=1805470 else S=A[Y(-12505)]n={n}end else if S<7502910 then S=10371854 E=Y(-12223)l=A[E]b={l(w)}E=b[1]Q=b[2]u=b[3]else if S<7504829 then S=15848503 L=Y(-11639)W=l[L]R=W else w=Y(-11837)Q=Y(-11568)z=v n=A[w]O=Y(-12840)E=Y(-12060)w=Y(-12486)S=n[w]b=A[O]O=Y(-12173)u=b[O]l={[E]=C;[Q]=u}O=4 b=Y(-11568)y=Y(-12840)u=C+M Q=Y(-12060)E={[Q]=u;[b]=O}a=Y(-12840)u=Y(-12060)V=A[a]a=Y(-12253)m=V[a]V=2 O=m*V a=Y(-12840)b=C+O V=A[a]O=Y(-11568)a=Y(-12173)m=V[a]Q={[u]=b;[O]=m}b=Y(-12060)m=C+M R=A[y]y=Y(-12253)a=R[y]R=5 V=a*R O=m+V m=Y(-11568)V=4 u={[b]=O,[m]=V}w={l,E;Q;u}n=S(w)w=n l=Y(-12840)n=A[l]b=1 Q=Y(-12840)l=Y(-12701)S=n[l]E=A[Q]Q=Y(-11546)l=E[Q]u=w[b]b=Y(-12586)Q=u[b]E={l(Q)}u=Y(-12655)n=S(N(E))l=n Q=A[u]u=Y(-12716)E=Q[u]u=Y(-12785)Q=E(l,u)S=Q and 4085429 or 1802850 n=Q end end end end end end else if S<7631437 then if S<7577530 then if S<7559436 then if S<7533084 then if S<7512918 then S3=Y(-11686)Y3=A[S3]Z=nil S3=Y(-12193)A3=Y3[S3]S3=Y(-12349)g3=nil N3=nil f3=nil S=13271607 Y3=A3(M,S3)S3=nil Y3=nil A3=nil else J=not r C=C+v n=~C n=C<=M n=J and n J=C>=M J=r and J n=J or n J=2801579 S=n and J n=4050045 S=S or n end else if S<7550913 then l=Y(-11893)w=A[l]E=Y(-11568)l=Y(-12427)z=w[l]l=j[E]Q=B[f[1]]u=Y(-11385)E=Q[u]w=z(l,E)z=0 p=w~=z S=p and 11457317 or 581020 else p=Y(-12576)M=B[f[1]]J=h[p]p=Y(-12546)r=J[p]v=M(j,r)M=0 C=v>=M S=C and 8534932 or 12777238 end end else if S<7568975 then if S<7560063 then M={}S=4048208 n=M else n=Y(-12314)S=h[n]j=S M=Y(-12840)C=A[M]M=Y(-12032)U=C[M]C=Y(-11964)n=U[C]S=j==n S=S and 515970 or 3823374 end else if S<7572878 then r=Y(-11686)n=A[r]r=Y(-12193)S=n[r]r=Y(-11683)n=S(v,r)S=5928220 else y=Y(-12620)Q=Y(-12060)V=Y(-11568)S=12043131 E=l[Q]n=E+j E=n n=B[v]b=B[v]u=#b b=1 Q=u+b O=Y(-11568)m=l[V]R=l[y]a=M .. R V=Y(-12620)b=Y(-12060)u={[b]=E,[O]=m,[V]=a}E=nil n[Q]=u end end end else if S<7599233 then if S<7588187 then if S<7586164 then S=13057722 V=Y(-11524)m=z .. V z=m else r=U S=15964935 end else if S<7592324 then S=A[Y(-12138)]n={M}else S=14274397 M=nil end end else if S<7609107 then if S<7608175 then j=Y(-12822)h=g[1]n=h[j]S=not n S=S and 12925505 or 7977626 else M=Y(-11619)C=A[M]M=C(h)C=nil U=M==C n=U S=4535709 end else if S<7624227 then v=Y(-12840)M=A[v]v=Y(-12847)C=M[v]M=Y(-12544)n=C[M]S=n[j]n={S}S=A[Y(-11734)]else if S<7630605 then S=10730845 else n=Y(-12223)E=Y(-12749)E=h[E]S=A[n]l={E(h)}E={S(N(l))}z=E[2]n=E[1]l=n w=E[3]S=3766586 end end end end end else if S<7684423 then if S<7657234 then if S<7640719 then if S<7635662 then b=Y(-11902)n=Y(-12847)O=Y(-12061)a=2 S=h[n]Q=Y(-11410)n=A[Q]V=w[a]a=Y(-12586)m=V[a]L=3 a=Y(-12620)W=w[L]R=Y(-12510)V=Y(-11861)L=Y(-12586)y=W[L]W=Y(-12681)K=4 s=w[K]K=Y(-12586)L=s[K]u={[b]=z;[O]=m;[V]=U;[a]=l;[R]=y;[W]=L}m=B[f[1]]O=Y(-11658)b={[O]=m}Q=n(u,b)S[z]=Q u=2 l=nil b=Y(-12840)Q=w[u]u=Y(-12586)n=Q[u]S=U+n z=nil U=S u=A[b]S=13680553 b=Y(-12739)Q=u[b]n=C+Q E=nil w=nil C=n else S=9617354 n=Y(-12791)z=n end else if S<7645988 then S=12262876 m=Y(-11968)J=nil O=h[m]V=u b=nil m=Y(-12022)O[m]=V u=nil else b=Y(-11738)E=S u=U[b]Q=z==u S=Q and 7217200 or 3691838 l=Q end end else if S<7670193 then if S<7663187 then j=g[2]h=g[1]C=Y(-11968)U=h[C]r=Y(-12840)C=Y(-11577)n=U[C]v=A[r]r=Y(-11818)M=v[r]v=Y(-11639)C=M[v]U=j*C C=Y(-12840)S=n+U U=S n=A[C]C=Y(-11818)S=n[C]n={S(U)}n={N(n)}S=A[Y(-12150)]else l=Y(-11893)b=Y(-12840)w=A[l]l=Y(-12427)E=Y(-11568)z=w[l]l=j[E]u=A[b]b=Y(-12853)Q=u[b]u=Y(-11385)E=Q[u]w=z(l,E)z=0 p=w~=z S=p and 7015304 or 5969371 end else if S<7677132 then r=r+p w=not z n=~r n=r<=J n=w and n w=r>=J w=z and w n=w or n w=1164060 S=n and w n=14909383 S=S or n else if S<7683421 then j=Y(-12840)h=g[1]n=A[j]U=Y(-12060)j=Y(-12176)S=n[j]C=Y(-12491)j=h[U]C=h[C]U={C(h)}n=S(j,N(U))S=A[Y(-11986)]n={}h=nil else r=#j M=S J=0 v=r>J S=v and 14901721 or 4189642 U=-89056337 C=v end end end end else if S<7721148 then if S<7697531 then if S<7685283 then n=B[f[1]]U=Y(-12836)S=n[U]n=Y(-12148)n=S[n]n=n(S)S=12244764 else s=Y(-11837)m=Y(-11837)a=Y(-12060)O=A[m]m=Y(-12486)b=O[m]y=1 R=h+y y=Y(-11568)L=A[s]s=Y(-12512)W=L[s]V={[a]=R,[y]=W}S=8761171 m={V}O=b(m)b=1 u=O[b]b=Y(-12586)Q=u[b]j=Q b=4 u=U+b U=u end else if S<7709349 then p=Y(-12840)J=A[p]p=Y(-12701)r=J[p]p=h+C S=A[Y(-11665)]J={r(p,U)}n={N(J)}else S=U v=Y(-11837)j=S M=A[v]v=Y(-12109)C=M[v]M=C(j)v=Y(-11837)M=A[v]v=Y(-11644)C=M[v]v=0 M=C(v)M=S p=Y(-11837)J=A[p]p=Y(-12637)r=J[p]J=r()r=0 v=J<=r S=v and 1521671 or 10462679 C=v end end else if S<7737242 then if S<7731851 then S=15049953 a=Y(-11568)V=C[a]O=V else n=r S=J S=r and 8429876 or 94190 end else if S<7743385 then S=O S=b and 16356518 or 4570250 n=b else if S<7752564 then M,J=v(C,M)S=M and 6107696 or 8296373 else h=Y(-12840)n=A[h]h=Y(-12278)S=n[h]n=S()h=n n=Y(-12223)S=false j=S S=A[n]M={S(h)}n=M[1]C=M[3]U=M[2]M=n S=11989906 end end end end end end end else if S<8046515 then if S<7842423 then if S<7795728 then if S<7782479 then if S<7778080 then if S<7773598 then v,p=r(M,v)S=v and 6628926 or 6111012 else v=S J=65535 r=j<J S=r and 6606025 or 10738139 M=r end else if S<7778636 then J=Y(-11686)v=S r=C==J S=r and 16220645 or 5820799 M=r else n=24.0 j=n S=10088117 end end else if S<7785568 then if S<7785092 then r=Y(-12795)v=U .. r U=v S=561089 else u=Y(-12314)b=Y(-11568)Q=h[u]u=J[b]E=Q[u]l=not E z=l S=11841647 end else if S<7792157 then J,p=v(r,J)S=J and 2650437 or 6983054 else Yg=Y(-12314)Ag=A[Yg]T3=S Yg=Ag(K3)Ag=Y(-12562)e3=Yg==Ag S=e3 and 8330917 or 13230148 x3=e3 end end end else if S<7812871 then if S<7805578 then if S<7804218 then J=Y(-11580)S=r[J]n={S}S=A[Y(-11996)]else C=v S=r S=10462679 end else if S<7809845 then p=Y(-12710)n=0 J=h[p]p=1 S=12041100 r=J-p J=r r=1 p=r r=0 z=p<r r=n-p else C=Y(-12499)n=B[f[1]]S=n[C]C=U M=S S=U and 10060847 or 6230185 end end else if S<7819619 then if S<7815932 then U=Y(-12376)n=Y(-11390)S=A[n]n=S(U)S=11883976 else E=Y(-12864)l=B[f[1]]w=l[E]z=r==w S=z and 5815912 or 16711608 end else if S<7826685 then l=not w J=J+z n=~J n=J<=p n=l and n l=J>=p l=w and l n=l or n l=4850361 S=n and l n=5073053 S=S or n else if S<7832727 then h=g[1]j=Y(-12314)n=h[j]S=not n S=S and 4750424 or 15050535 else e=Y(-12655)T=A[e]e=Y(-12274)S3=Y(-11686)h3=T[e]Y3=A[S3]S3=Y(-12406)S=13744722 A3=Y3[S3]S3=Y(-12715)Y3={A3(v,S3)}e=Y(-11544)T=h3(e,N(Y3))Z=T end end end end end else if S<7919214 then if S<7856829 then if S<7852166 then if S<7845032 then g3=Y(-12856)N3=Z .. g3 Z=N3 S=6240516 else S=10730845 end else if S<7855453 then v=J S=p S=J and 16612125 or 14701081 else Q=Y(-12840)E=A[Q]V=Y(-12840)b=Y(-12060)Q=Y(-11536)l=E[Q]u=p[b]m=A[V]V=Y(-12366)O=m[V]m=Y(-11639)b=O[m]Q=u+b S=14149637 u=4 E=l(Q,u)l=75 w=E~=l z=w end end else if S<7873671 then if S<7867391 then n=C S=M S=C and 1028583 or 14994610 else S=6959401 p={}r=p end else if S<7888216 then O=false z=O S=10025996 else if S<7901607 then S=E C[S]=l w=nil S=705314 p=nil z=nil else r=Y(-12840)v=A[r]r=Y(-12847)M=v[r]v=Y(-12169)C=M[v]S=C[U]n={S}S=A[Y(-12035)]end end end end else if S<7977553 then if S<7949965 then if S<7938948 then S=n and 6991010 or 5227264 else S=3429227 w=nil end else if S<7965936 then z=31 J=S p=j==z r=p S=p and 3446138 or 15957974 else p=#U z=0 J=p>z S=3344791 v=J end end else if S<8002354 then if S<7992589 then n=Y(-12822)S=h[n]n={S}S=A[Y(-12528)]else S=nil n={S}S=A[Y(-12815)]end else if S<8019835 then n=Y(-11695)S=U .. n U=S S=16666869 else if S<8041163 then S=n and 11044469 or 16488517 else p=z S=w S=14648018 end end end end end end else if S<8149449 then if S<8087412 then if S<8068325 then if S<8051938 then if S<8051111 then J=Y(-12840)r=A[J]J=Y(-11803)v=r[J]r=Y(-12478)S=v[r]J={S()}r=J[2]C=r v=J[1]M=v S=6721500 else S=u S=357122 n=Q end else if S<8063443 then S=not j U=n S=S and 15526941 or 5670844 else n=B[f[1]]U=Y(-11545)j=g[2]S=n[U]M=Y(-11988)h=g[1]C=h[M]M=Y(-12060)U=C[M]n=S(U)S={n(j)}n={N(S)}S=A[Y(-11936)]end end else if S<8073096 then if S<8070606 then E=Y(-12840)l=A[E]E=Y(-12826)S=l[E]E=p l=Y(-11997)S[l]=E E=Y(-12840)l=A[E]E=Y(-12826)S=l[E]l=Y(-11907)E=J S[l]=E E=Y(-12840)l=A[E]E=Y(-11803)S=l[E]E=Y(-12840)u=Y(-12840)l=Y(-11992)l=S[l]l=l(S,p)l=A[E]E=Y(-12826)S=l[E]m=Y(-12840)Q=A[u]u=Y(-12354)E=Q[u]l=S(p,E)E=Y(-12840)l=A[E]Q=Y(-11414)E=Y(-12803)S=l[E]O=A[m]m=Y(-12826)b=O[m]O=Y(-12354)u=b[O]E=Q .. u l=Y(-12419)Q=Y(-12609)l=S[l]O=Y(-12840)l=l(S,E)E=Y(-12840)l=A[E]E=Y(-12803)S=l[E]b=A[O]O=Y(-11477)u=b[O]l=Y(-12419)l=S[l]b=u(p)E=Q .. b l=l(S,E)Q=Y(-12840)E=A[Q]Q=Y(-11803)l=E[Q]E=Y(-12478)b=Y(-12840)S=l[E]u=A[b]b=Y(-12310)Q=u[b]u={S(Q)}E=u[2]Q=Y(-12840)S=A[Q]l=u[1]Q=Y(-11432)V=Y(-12840)u=l S[Q]=u Q=Y(-12840)S=A[Q]u=E Q=Y(-11807)S[Q]=u u=Y(-12840)Q=A[u]u=Y(-12803)R=Y(-12840)S=Q[u]m=A[V]V=Y(-11477)O=m[V]a=A[R]R=Y(-11432)V=a[R]m=O(V)b=Y(-12248)Q=Y(-12419)u=b .. m Q=S[Q]Q=Q(S,u)Q=Y(-12840)S=A[Q]n={S}S=A[Y(-12344)]else J=Y(-12840)r=A[J]J=Y(-12826)S=4405960 v=r[J]r=Y(-11828)M=v[r]v=M(j)n=v end else if S<8074801 then S=A[Y(-12240)]n={n}else z=Y(-12164)p=B[f[1]]J=p[z]r=C==J S=r and 11036414 or 561089 end end end else if S<8124217 then if S<8120693 then if S<8115883 then S=M S=C and 239215 or 16021347 else r=Y(-12083)v=B[f[1]]S=v[r]v=S()n={M}S=A[Y(-12708)]end else if S<8122396 then S=n and 13539899 or 15485447 else J=Y(-12540)C=Y(-12060)S=B[h]v=Y(-12060)M=j[v]n=Y(-11988)v=Y(-12586)r=j[J]J=Y(-11568)p=B[f[1]]U={[C]=M;[v]=r,[J]=p}S[n]=U n=Y(-12540)v=Y(-11988)S=B[h]M=B[h]C=M[v]M=Y(-12586)U=C[M]C=Y(-12540)S[n]=U U=B[h]n=U[C]U=0 S=n==U S=S and 2298015 or 12487575 end end else if S<8142517 then if S<8137700 then u=0xF0 Q=M==u S=Q and 7687278 or 1832929 else S=l S=w and 12115112 or 5503330 end else if S<8143993 then j=g[2]h=g[1]M=Y(-12840)C=A[M]M=Y(-12479)U=C[M]J=Y(-12840)C=Y(-11556)n=U[C]r=A[J]J=Y(-12314)v=r[J]r=Y(-12091)M=v[r]v=Y(-11639)C=M[v]U=j*C S=n+U U=S C=Y(-12840)n=A[C]C=Y(-12312)S=n[C]n={S(U)}S=A[Y(-12132)]n={N(n)}else if S<8148335 then E=Y(-12840)l=A[E]E=Y(-12173)w=l[E]S=7039547 p=w else w=1000 z=J<w p=z S=12815130 end end end end end else if S<8193505 then if S<8168147 then if S<8159055 then if S<8157226 then S=B[v]J=S z=Y(-12494)n=Y(-12836)p=h[z]z=p(M)r=z S=z and 12965469 or 5123545 else S=x S=Z and 12650121 or 522101 end else if S<8163808 then Q=Y(-12178)p=Y(-11837)J=A[p]p=Y(-12503)z=Y(-11972)S=J[p]b=Y(-11593)E=Y(-12060)p=A[z]l=h[E]E=0xB400000000000000 w=l|E l=Y(-12840)z=p(w)w=A[l]l=Y(-12173)p=w[l]E=h[Q]u=Y(-12495)Q=h[u]l=nil w=nil u=h[b]J=S(z,p,w,l,E,Q,u)S=15915155 else S=w w=Y(-12620)r={[J]=h;[p]=z;[w]=j}S=11385893 v={r}M=C(v)n=M end end else if S<8178867 then if S<8174276 then r=nil M=nil v=nil S=6381693 else v=Y(-12807)M=j[v]S=M and 106505 or 10847318 end else if S<8185378 then S=12150556 else if S<8186996 then h=g[1]n=Y(-11639)S=h[n]n={S}S=A[Y(-11398)]else M=Y(-12840)v=Y(-12840)C=A[M]M=Y(-12826)U=C[M]C=Y(-11968)j=U[C]C=Y(-12309)U=Y(-11577)n=j[U]U=h[C]M=A[v]v=Y(-11818)C=M[v]M=Y(-12793)M=C[M]M=M(C)j=U*M U=Y(-12840)S=n+j n=A[U]U=Y(-11818)j=S S=n[U]n={S(j)}n={N(n)}S=A[Y(-12638)]end end end end else if S<8216972 then if S<8206905 then if S<8203302 then u=#w b=0 S=15424203 Q=u>b l=Q else S=false n={S}S=A[Y(-11611)]end else if S<8210676 then S=A[Y(-11472)]n={r}else S=B[f[1]]n=Y(-12541)v=Y(-12309)n=S[n]r=Y(-11975)M=h[v]n=n(S,M)v=B[f[1]]M=n n=v[r]v=n(M)n=Y(-11629)S=v .. n n={S}S=A[Y(-12122)]end end else if S<8242197 then if S<8235428 then e=Y(-11473)v3=Y(-11915)e=h[e]e=e(h,T)C3=Y(-12734)C3=T[C3]X3=Y(-11975)C3=C3(T)X3=T[X3]X3=X3(T)k3=T[v3]v3=0 I3=k3>=v3 S=I3 and 1454241 or 1381962 else S=C S=U and 8778767 or 2398694 n=U end else if S<8245956 then M=n v=i()n=Y(-12081)S={}B[v]=S S=C[n]S=S and 117804 or 1751880 else if S<8248051 then Q=S b=0 u=v==b E=u S=u and 8441829 or 3981316 else m=1 S=l+m m=O w[S]=m O=nil S=9773323 l=nil end end end end end end end end end end end else if S<12550412 then if S<10490772 then if S<9437157 then if S<8822788 then if S<8520732 then if S<8399652 then if S<8328122 then if S<8296556 then if S<8290322 then if S<8278847 then j={}r=Y(-12223)v=A[r]z={v(U)}J=z[2]r=z[1]p=z[3]S=15088271 else J=Y(-12840)r=A[J]J=Y(-12803)w=Y(-11968)S=r[J]r=Y(-12673)r=S[r]J=Y(-12462)r=r(S,J)r=Y(-12717)S=A[r]z=h[w]w={S(z)}S=9154791 r=w[1]J=w[2]p=w[3]end else if S<8292886 then j=g[2]S=Y(-11912)h=g[1]M=Y(-12840)U=g[3]S=h[S]S=S(h,U)p=Y(-12314)J=Y(-12434)n=A[M]M=Y(-12169)C=S S=n[M]n=S(j)r=h[J]M=n J=M[p]v=r[J]r=Y(-12036)J=Y(-12314)n=v or r r=A[J]v=n J=r(v)r=Y(-12123)n=J==r S=n and 12205198 or 16593459 else S=A[Y(-12154)]n={h}end end else if S<8319638 then if S<8305872 then O=Y(-11639)b=U[O]u=p*b Q=h+u S=3658325 E=U(Q)w=E else W=Y(-12029)y=b[W]S=10569095 R=j>y V=R end else if S<8325731 then S=11057833 r=M else Q=B[f[1]]w=S u=Y(-12564)E=Q[u]Q=E(J)l=not Q z=l S=l and 10949874 or 8045979 end end end else if S<8346230 then if S<8332636 then if S<8330931 then Sg=Y(-12337)Yg=A[Sg]Sg=Y(-12283)S=13230148 Ag=Yg[Sg]Yg=Ag(K3)e3=Yg==K3 x3=e3 else z=B[f[2]]m=Y(-11995)l=Y(-12430)p=Y(-12405)w=z(l)l=B[f[2]]Q=Y(-11764)y=Y(-11862)z=Y(-12826)E=l(Q)l=Y(-12213)b=Y(-12369)Q=B[f[2]]u=Q(b)K=Y(-11564)b=B[f[2]]Q=Y(-11803)a=Y(-12140)O=b(m)b=Y(-12081)m=B[f[2]]V=m(a)a=B[f[2]]m=Y(-12494)R=a(y)a=Y(-12544)y=B[f[2]]L=Y(-11412)A3=Y(-11519)W=y(L)x=Y(-12592)y=Y(-12075)S=A[Y(-12861)]L=B[f[2]]s=L(K)T=Y(-11408)K=B[f[2]]Z=K(x)K=Y(-11692)x=B[f[2]]h3=x(T)L=Y(-11541)x=Y(-12169)T=B[f[2]]e=T(A3)T=Y(-12509)J={[p]=w;[z]=E,[l]=u,[Q]=O,[b]=V;[m]=R,[a]=W;[y]=s;[L]=Z;[K]=h3,[x]=e;[T]=h}Q=Y(-12840)z=Y(-11410)p=A[z]E=A[Q]l=Y(-11658)w={[l]=E}z={p(J,w)}n={N(z)}end else if S<8336189 then S=7015806 J=1 r=j[J]J=Y(-11876)v=r[J]C=v else M=Y(-11968)C=h[M]M=Y(-11974)n=C[M]J=Y(-12840)r=A[J]J=Y(-12668)v=r[J]r=Y(-11639)M=v[r]C=U*M S=n+C U=S S=3183459 end end else if S<8351224 then if S<8347333 then n=Y(-12822)S=h[n]n={S}S=A[Y(-12377)]else j=nil h=nil S=A[Y(-12111)]n={}end else if S<8383325 then r=Y(-11686)w=Y(-12439)p=Y(-12655)n=A[r]r=Y(-12193)S=n[r]J=A[p]p=Y(-12274)r=J[p]z=U[w]p=Y(-12345)J={r(p,z)}n=S(j,N(J))S=14765086 else if S<8389490 then C=U S=5901974 else n=M S=v S=2516414 end end end end end else if S<8451564 then if S<8435254 then if S<8427209 then if S<8407021 then F3=Y(-12840)f3=A[F3]F3=Y(-12544)g3=f3[F3]j3=Y(-12840)B3=A[j3]G3=Y(-12840)j3=Y(-12610)F3=B3[j3]X3=Y(-12113)S=13004800 C3=h[X3]t3=A[G3]G3=Y(-12253)I3=t3[G3]X3=Z*I3 j3=C3+X3 B3={F3(j3)}f3=g3(N(B3))S3=f3 else w=Y(-12840)r=Y(-12060)v=j[r]z=A[w]w=Y(-12826)p=z[w]z=Y(-11968)J=p[z]p=Y(-11577)S=13635915 r=J[p]p=Y(-12840)M=v-r J=A[p]p=Y(-11818)r=J[p]J=Y(-11639)v=r[J]C=M/v n=C end else if S<8429185 then p,l=z(J,p)S=p and 1622996 or 10873426 else n={n}S=v S=A[Y(-12335)]end end else if S<8443510 then if S<8439517 then S=T S=x and 1845823 or 8912471 else S=Q S=8138534 w=E end else if S<8450426 then S=16064468 O=r else S=r r=Y(-11783)n=v or r S=n .. h M=S v=S J=S r=C S=C and 6936886 or 7732000 end end end else if S<8477596 then if S<8469557 then if S<8456574 then r=Y(-12486)v=B[f[1]]M=v[r]v=M(h)S=7348205 U=v else A3=nil S=5354813 Y3=nil Z=nil end else if S<8473336 then v=Y(-12840)M=A[v]v=Y(-12479)C=M[v]J=Y(-12840)M=Y(-11709)n=C[M]r=A[J]J=Y(-12413)v=r[J]r=Y(-11639)M=v[r]C=U*M S=n+C U=S S=4816805 else v,p=r(M,v)S=v and 6554647 or 15891919 end end else if S<8492384 then if S<8489505 then C=C+v n=~C n=C<=M J=not r n=J and n J=C>=M J=r and J n=J or n J=11573979 S=n and J n=12469180 S=S or n else z,l=J(p,z)S=z and 3742292 or 14091255 end else if S<8494199 then p=nil z=nil S=y Q=nil S=10232389 y=0 V=R or y r=nil E=nil l=nil J=nil w=nil b=u(U,O,m,V)else if S<8516656 then S=13759456 else m=Y(-12840)O=A[m]m=Y(-12853)b=O[m]O=Y(-12619)u=b[O]Q=p==u l=Q S=1589204 end end end end end end else if S<8668131 then if S<8566088 then if S<8546335 then if S<8538138 then if S<8532464 then S=false n={S}S=A[Y(-12706)]else C=24.4 U=C S=12777238 end else if S<8543674 then H3=I3  .. q3 I3=H3 S=10171161 else S=Y(-12458)n=false h[S]=n J=Y(-11868)U=B[f[2]]S=Y(-12206)p=Y(-12133)C=Y(-12058)n=U[C]r=B[f[2]]v=r[J]J=B[f[2]]r=J[p]M=v|r r=B[f[2]]J=Y(-12572)v=r[J]C=M|v v=Y(-12540)M=j[v]U=n(C,M)h[S]=U S={}U=S S=14950381 n=0 C=21 M=C C=1 v=C C=0 r=v<C C=n-v end end else if S<8549678 then if S<8546544 then Z=Y(-12363)K=O==Z L=K s=S S=K and 14779154 or 707893 else b,O=Q(u,b)S=b and 5094868 or 8497506 end else if S<8563102 then Q3={}S=2619165 J3[u3]=Q3 else r=Y(-12840)v=A[r]r=Y(-12826)M=v[r]v=Y(-11968)C=M[v]M=Y(-11577)U=C[M]j=U<=h S=j and 14042048 or 7270254 n=j end end end else if S<8613281 then if S<8598583 then if S<8572014 then x=Y(-12177)Z=J[p]S=4498167 s=Y(-11789)K=Z .. x L=s .. K y=L else l=Y(-11972)V=Y(-12840)w=Y(-12840)Q=Y(-11725)O=Y(-12840)z=A[w]w=Y(-12803)p=z[w]w=A[l]R=Y(-12840)b=A[O]O=Y(-11725)u=b[O]b=Y(-12863)m=A[V]V=Y(-12863)O=m[V]a=A[R]z=Y(-11390)R=Y(-12739)V=a[R]m=Y(-12739)a=Y(-11587)W=Y(-12840)y=A[W]W=Y(-11587)R=y[W]S=12203168 E={[Q]=u;[b]=O,[m]=V;[a]=R}z=p[z]l={w(E)}z=z(p,N(l))end else if S<8604045 then S=14461280 W=nil else z=S l=Y(-12727)l=j[l]l=l(j)w=not l S=w and 1261704 or 14572221 p=w end end else if S<8631773 then if S<8622428 then j=g[2]h=i()B[h]=g[1]S=not j S=S and 5837560 or 8123962 else r=not v C=C+M n=~C n=C<=U n=r and n r=C>=U r=v and r n=r or n r=1030363 S=n and r n=726301 S=S or n end else if S<8640604 then S=n and 12292561 or 5798870 else if S<8666625 then v=Y(-12174)h=g[1]M=Y(-12620)U=Y(-12655)n=A[U]U=Y(-12274)j={F(2,N(g))}S=n[U]C=h[M]r=j[1]M=v .. r U=C .. M C=Y(-12362)n=S(U,C)C=Y(-11837)S=Y(-12803)S=h[S]U=n S=S(h,U)n=A[C]C=Y(-11782)S=n[C]n=S(U)n=Y(-11390)S=A[n]n=S(U)n={}S=A[Y(-12570)]h=nil U=nil else C=1 n=U&C C=1 S=n==C C=S n=1 S=U>>n U=S S=C and 2078710 or 10407381 end end end end end else if S<8763729 then if S<8691891 then if S<8679839 then if S<8677854 then M,J=v(C,M)S=M and 9198498 or 4854907 else R=S W=Y(-12727)W=r[W]W=W(r)y=not W S=y and 783025 or 10541826 a=y end else if S<8687529 then I3=Y(-11686)X3=A[I3]v3=Y(-12655)I3=Y(-12193)e=X3[I3]k3=A[v3]v3=Y(-12274)I3=k3[v3]S=9551969 J3=Y(-12439)v3=Y(-12345)r3=T[J3]k3={I3(v3,r3)}X3=e(v,N(k3))else C=Y(-11837)U=A[C]C=Y(-11896)j=U[C]C=Y(-12813)M=0 U=j(C)C=#U j=C==M S=j and 14235051 or 8264930 end end else if S<8718649 then if S<8714347 then w=Y(-12385)z=J[w]S=z and 14801071 or 14593091 p=z else h3=not x s=s+Z L=~s L=s<=K L=h3 and L h3=s>=K h3=x and h3 L=h3 or L h3=16461306 S=L and h3 L=9973069 S=S or L end else if S<8723915 then U=12 j=h==U S=j and 2593253 or 10980423 else if S<8750943 then S=13408463 l=nil O=nil else n={j;U}S=A[Y(-11754)]end end end end else if S<8781233 then if S<8771296 then if S<8765870 then z,l=J(p,z)S=z and 405018 or 749503 else h=g[1]j=g[2]U=Y(-12061)n=h[U]S=j>=n S=S and 5604433 or 16338489 end else if S<8779446 then S=A[Y(-12506)]n={n}else C=Y(-11968)h=g[1]U=h[C]C=Y(-12205)n=U[C]j=g[2]r=Y(-12840)v=A[r]r=Y(-11395)M=v[r]v=Y(-11639)C=M[v]U=j*C S=n+U U=S C=Y(-12840)n=A[C]C=Y(-11395)S=n[C]n={S(U)}S=A[Y(-12649)]n={N(n)}end end else if S<8789566 then if S<8788363 then J=Y(-12298)L=Y(-12298)h=g[1]C=g[4]c3=Y(-12298)U=g[3]x=Y(-12298)B3=Y(-11461)s=Y(-11461)s3=22 n3=Y(-12298)j=g[2]a=Y(-12298)p=Y(-11461)r=Y(-11722)z=Y(-12298)u=Y(-11461)v={r,J}W=Y(-11461)O=Y(-11461)n=Y(-11766)N3=Y(-11461)g3=Y(-12298)V=Y(-11461)K3=22 f3=Y(-11461)J=Y(-12296)j3=Y(-11461)a3=27.2 E=Y(-11461)r={J,p}p=Y(-11578)Q=Y(-12298)J={p,z}F3=Y(-11461)w=Y(-11461)l=Y(-12298)z=Y(-11820)p={z;w}w=Y(-11796)z={w;l}l=Y(-12865)w={l;E}q3=Y(-12296)E=Y(-11467)Y3=Y(-11461)h3=Y(-11461)A3=Y(-12298)m=Y(-12298)l={E;Q}Q=Y(-11757)T=Y(-12298)E={Q,u}b=Y(-12298)b3=27.2 S3=Y(-12298)l3=24.5 u=Y(-11770)Q={u;b}b=Y(-11689)Yg=24 u={b;O}O=Y(-12195)y=Y(-12298)G3=Y(-11461)R=Y(-11461)b={O,m}m=Y(-12794)O={m;V}Z=Y(-11461)V=Y(-12004)m={V;a}o3=24.1 K=Y(-12298)a=Y(-11528)r3=Y(-11678)H3=Y(-12029)V={a,R}E3=24.5 R=Y(-12621)a={R;y}x3=23 W3=29 u3=20 i3=Y(-12298)T3=23 y=Y(-11671)R={y;W}W=Y(-12812)y={W,L}L=Y(-11430)W={L;s}s=Y(-12580)L={s;K}K=Y(-12496)s={K,Z}e=Y(-11461)Z=Y(-11511)K={Z;x}x=Y(-12040)Z={x;h3}X3=Y(-12298)h3=Y(-12143)x={h3,T}T=Y(-11870)h3={T,e}e=Y(-12851)T={e;A3}A3=Y(-11653)e={A3;Y3}Y3=Y(-12271)U3=Y(-12298)A3={Y3,S3}S3=Y(-11945)m3=21 Y3={S3,N3}V3=27.2 N3=Y(-11434)J3=19 I3=Y(-11461)R3=27.2 S3={N3;g3}g3=Y(-11885)N3={g3;f3}f3=Y(-11635)g3={f3;c3}c3=Y(-11723)d3={[H3]=o3}f3={c3,F3}F3=Y(-11994)c3={F3;n3}P3=24.1 n3=Y(-12200)F3={n3;B3}B3=Y(-12866)n3={B3,i3}i3=Y(-11479)t3=Y(-12298)o3=Y(-12029)B3={i3,j3}j3=Y(-11784)i3={j3,U3}C3=Y(-11461)p3=Y(-12029)U3=Y(-11846)k3=Y(-12298)j3={U3;C3}C3=Y(-11571)U3={C3;X3}M3=Y(-12296)X3=Y(-12408)C3={X3;I3}I3=Y(-11673)X3={I3,t3}t3=Y(-12264)I3={t3;G3}G3=Y(-11691)t3={G3;k3;[q3]=d3}k3=Y(-11963)H3={[o3]=P3}z3=24.5 y3=29 d3=Y(-12296)q3=Y(-11461)P3=Y(-11461)G3={k3,q3;[d3]=H3}D3=Y(-12298)v3={[r3]=J3,[p3]=z3}z3=Y(-12029)q3=Y(-11657)d3=Y(-12298)H3=Y(-11461)k3={q3,d3}d3=Y(-12301)q3={d3,H3}H3=Y(-12542)Ag=27 o3=Y(-12298)J3=Y(-11678)d3={H3,o3}o3=Y(-12448)H3={o3,P3}P3=Y(-11833)o3={P3;D3;[M3]=v3}v3=Y(-12296)D3=Y(-11745)p3=19 e3=27 M3=Y(-11461)r3={[J3]=p3,[z3]=E3}O3=Y(-12029)E3=Y(-12029)P3={D3,M3,[v3]=r3}M3=Y(-11499)r3=Y(-12296)z3=19 w3=24.5 v3=Y(-12298)p3=Y(-11678)J3={[p3]=z3;[E3]=l3}D3={M3,v3;[r3]=J3}Q3=20 z3=Y(-11678)v3=Y(-12821)E3=19 r3=Y(-11461)J3=Y(-12296)l3=Y(-12029)p3={[z3]=E3,[l3]=w3}M3={v3,r3;[J3]=p3}l3=19 p3=Y(-12296)J3=Y(-12298)E3=Y(-11678)z3={[E3]=l3}w3=19 r3=Y(-11813)v3={r3,J3;[p3]=z3}p3=Y(-11461)Z3=22 z3=Y(-12296)J3=Y(-12796)l3=Y(-11678)E3={[l3]=w3}r3={J3,p3,[z3]=E3}p3=Y(-11554)E3=Y(-12296)z3=Y(-12298)w3=Y(-11678)l3={[w3]=u3}J3={p3,z3,[E3]=l3}E3=Y(-11461)u3=Y(-11678)z3=Y(-12704)l3=Y(-12296)w3={[u3]=Q3}p3={z3,E3;[l3]=w3}Q3=Y(-11678)u3={[Q3]=m3;[O3]=b3}E3=Y(-12630)O3=21 m3=Y(-11678)b3=Y(-12029)l3=Y(-12298)w3=Y(-12296)z3={E3;l3,[w3]=u3}w3=Y(-11461)u3=Y(-12296)l3=Y(-11419)Q3={[m3]=O3,[b3]=V3}E3={l3,w3,[u3]=Q3}V3=Y(-12029)b3=21 w3=Y(-12365)u3=Y(-12298)O3=Y(-11678)Q3=Y(-12296)m3={[O3]=b3,[V3]=R3}b3=Y(-11678)l3={w3,u3;[Q3]=m3}R3=Y(-12029)u3=Y(-11950)Q3=Y(-11461)V3=21 m3=Y(-12296)O3={[b3]=V3;[R3]=a3}w3={u3;Q3,[m3]=O3}Sg=24 R3=29 Q3=Y(-12142)m3=Y(-12298)V3=Y(-11678)O3=Y(-12296)b3={[V3]=R3}u3={Q3;m3,[O3]=b3}a3=29 b3=Y(-12296)R3=Y(-11678)V3={[R3]=a3}m3=Y(-11904)O3=Y(-11461)a3=Y(-11678)Q3={m3,O3,[b3]=V3}R3={[a3]=y3}b3=Y(-12298)O3=Y(-12071)V3=Y(-12296)y3=Y(-11678)m3={O3,b3;[V3]=R3}L3=22 R3=Y(-12296)a3={[y3]=W3}V3=Y(-11461)b3=Y(-12773)W3=Y(-11678)y3={[W3]=L3}O3={b3;V3;[R3]=a3}L3=Y(-11678)R3=Y(-12298)a3=Y(-12296)V3=Y(-11449)b3={V3;R3,[a3]=y3}a3=Y(-11461)W3={[L3]=s3}y3=Y(-12296)R3=Y(-11428)V3={R3,a3;[y3]=W3}W3=Y(-12296)y3=Y(-12298)a3=Y(-12538)s3=Y(-11678)L3={[s3]=K3}R3={a3,y3,[W3]=L3}L3=Y(-12296)W3=Y(-11461)y3=Y(-12107)K3=Y(-11678)s3={[K3]=Z3}a3={y3;W3,[L3]=s3}L3=Y(-12298)W3=Y(-12064)s3=Y(-12296)Z3=Y(-11678)K3={[Z3]=x3}x3=Y(-11678)Z3={[x3]=T3}y3={W3;L3,[s3]=K3}L3=Y(-12053)s3=Y(-11461)K3=Y(-12296)W3={L3;s3;[K3]=Z3}K3=Y(-12298)T3=Y(-11678)Z3=Y(-12296)x3={[T3]=e3}s3=Y(-12689)L3={s3,K3;[Z3]=x3}e3=Y(-11678)x3=Y(-12296)T3={[e3]=Ag}Z3=Y(-11461)K3=Y(-11748)s3={K3;Z3;[x3]=T3}T3=Y(-12296)Ag=Y(-11678)x3=Y(-12298)e3={[Ag]=Yg}Z3=Y(-11425)Yg=Y(-11678)Ag={[Yg]=Sg}K3={Z3;x3;[T3]=e3}T3=Y(-11461)e3=Y(-12296)x3=Y(-11641)Z3={x3,T3,[e3]=Ag}M={v;r,J;p,z;w;l;E;Q;u;b;O;m;V;a;R,y,W,L,s;K;Z;x,h3,T,e;A3;Y3,S3,N3,g3;f3,c3;F3;n3,B3;i3;j3,U3,C3;X3;I3,t3;G3,k3,q3,d3,H3,o3,P3,D3;M3,v3,r3;J3,p3,z3;E3,l3,w3,u3,Q3,m3,O3,b3,V3,R3,a3;y3;W3,L3,s3;K3;Z3}z=Y(-12091)l=Y(-12091)p=Y(-12612)K=Y(-12091)R=Y(-12296)J={p,z}u=Y(-12091)w=Y(-12091)E=Y(-12091)v=Y(-11992)z=Y(-12561)p={z,w}O=Y(-12091)S3=24.5 w=Y(-12483)m=Y(-12091)T=19 L=16 z={w;l}Q=Y(-12091)b=Y(-12091)l=Y(-11556)w={l,E}Z=Y(-12296)E=Y(-12051)s=16 W=Y(-12029)l={E,Q}B3=23 Q=Y(-11709)E={Q,u}u=Y(-11392)Q={u,b}b=Y(-11983)J3=Y(-11483)y={[W]=L}f3=22 a=Y(-12091)e=19 u={b;O}V=Y(-12091)O=Y(-11630)b={O,m}h3=Y(-11678)m=Y(-11923)x={[h3]=T}i3=23 O={m;V}V=Y(-11959)I3=Y(-12298)m={V,a;[R]=y}R=Y(-12091)y=Y(-12296)t3=Y(-12296)L=Y(-12029)N3=21 A3=Y(-12029)a=Y(-11670)C3=24.2 g3=Y(-12029)W={[L]=s}V={a,R,[y]=W}T=Y(-11678)y=Y(-12091)R=Y(-11826)a={R,y}s=Y(-12091)y=Y(-11943)W=Y(-12091)L=Y(-12091)R={y;W}W=Y(-12696)h3={[T]=e}y={W,L}L=Y(-12030)W={L;s}s=Y(-11688)L={s,K,[Z]=x}K=Y(-11674)p3=Y(-11483)x=Y(-12296)Z=Y(-12091)s={K,Z;[x]=h3}n3=29.1 X3=24.2 r={J;p,z;w,l,E;Q;u,b,O;m,V,a,R,y;W,L;s}w=Y(-12098)J=Y(-12635)y=22 l3=Y(-12694)O=24.1 u=Y(-12029)R=22 E=Y(-12296)V=21 l=Y(-12091)h3=22 s=22 x=22 W=22 b=24.1 Q={[u]=b}z3=Y(-12694)z={w;l;[E]=Q}L=22 E=Y(-12091)m=21 l=Y(-12507)K=21 b=Y(-12029)Y3=24.5 Q=Y(-12296)u={[b]=O}w={l;E,[Q]=u}E=Y(-12156)u=Y(-12296)O=Y(-12029)Q=Y(-12091)b={[O]=m}l={E;Q;[u]=b}u=Y(-12091)b=Y(-12296)Q=Y(-12422)m=Y(-12029)q3=19 U3=24.3 O={[m]=V}V=Y(-11678)j3=24.3 E={Q;u;[b]=O}e=24.5 O=Y(-12296)b=Y(-12091)u=Y(-11840)a=22 m={[V]=a}Q={u,b;[O]=m}m=Y(-12296)d3=Y(-12298)O=Y(-12091)b=Y(-12453)a=Y(-11678)V={[a]=R}R=Y(-12029)u={b;O;[m]=V}V=Y(-12296)O=Y(-12355)Z=Y(-12029)a={[R]=y}m=Y(-12091)b={O;m;[V]=a}V=Y(-12091)a=Y(-12296)y=Y(-12029)m=Y(-11520)R={[y]=W}W=Y(-12029)O={m,V;[a]=R}a=Y(-12091)R=Y(-12296)y={[W]=L}V=Y(-12382)L=Y(-12029)m={V;a,[R]=y}W={[L]=s}y=Y(-12296)a=Y(-11584)R=Y(-12091)E3=Y(-12694)V={a;R;[y]=W}s=Y(-11678)R=Y(-12282)y=Y(-12091)L={[s]=K;[Z]=x}c3=22 x=Y(-12029)W=Y(-12296)a={R;y;[W]=L}L=Y(-12296)y=Y(-11649)K=Y(-11678)W=Y(-12091)Z=21 s={[K]=Z,[x]=h3}R={y;W,[L]=s}W=Y(-12162)s=Y(-12091)L=Y(-12091)y={W;L}K=Y(-12091)L=Y(-12049)Z=Y(-12296)W={L;s}s=Y(-11626)T=Y(-11678)h3={[T]=e;[A3]=Y3}e=Y(-11678)A3=27.1 T={[e]=A3}x={h3,T}L={s,K;[Z]=x}Y3=24.5 Z=Y(-12091)K=Y(-12425)A3=Y(-12029)e={[A3]=Y3}x=Y(-12091)s={K;Z}Z=Y(-12108)K={Z;x}x=Y(-11450)h3=Y(-12091)T=Y(-12296)Z={x,h3;[T]=e}T=Y(-12091)Y3=Y(-12029)A3={[Y3]=S3}e=Y(-12296)h3=Y(-12185)x={h3;T;[e]=A3}e=Y(-12091)T=Y(-12400)A3=Y(-12296)S3=Y(-11678)Y3={[S3]=N3;[g3]=f3}h3={T,e;[A3]=Y3}A3=Y(-12091)f3=Y(-12029)Y3=Y(-12296)g3=21 e=Y(-11594)N3=Y(-11678)S3={[N3]=g3;[f3]=c3}T={e;A3;[Y3]=S3}A3=Y(-12211)Y3=Y(-12091)S3=Y(-12296)g3=Y(-11678)f3=22 N3={[g3]=f3}e={A3,Y3,[S3]=N3}f3=Y(-11678)c3=22 g3={[f3]=c3}N3=Y(-12296)Y3=Y(-12465)c3=Y(-11678)F3=29.1 m3=Y(-12694)S3=Y(-12091)A3={Y3;S3;[N3]=g3}N3=Y(-12091)f3={[c3]=F3}S3=Y(-12171)g3=Y(-12296)Y3={S3,N3,[g3]=f3}F3=Y(-11678)f3=Y(-12296)g3=Y(-12091)N3=Y(-12644)c3={[F3]=n3}o3=Y(-11483)S3={N3,g3,[f3]=c3}g3=Y(-11933)c3=Y(-12296)f3=Y(-12091)n3=Y(-11678)F3={[n3]=B3}N3={g3,f3;[c3]=F3}F3=Y(-12296)B3=Y(-11678)c3=Y(-12091)f3=Y(-12745)n3={[B3]=i3}i3=Y(-11678)g3={f3,c3;[F3]=n3}c3=Y(-12693)F3=Y(-12091)B3={[i3]=j3}n3=Y(-12296)f3={c3;F3,[n3]=B3}k3=Y(-11678)F3=Y(-12129)B3=Y(-12296)n3=Y(-12091)j3=Y(-11678)i3={[j3]=U3}c3={F3;n3;[B3]=i3}i3=Y(-12296)U3=Y(-11678)B3=Y(-12091)j3={[U3]=C3}n3=Y(-11606)F3={n3;B3;[i3]=j3}C3=Y(-11678)U3={[C3]=X3}j3=Y(-12296)B3=Y(-12558)i3=Y(-12091)n3={B3;i3,[j3]=U3}p={z;w,l;E;Q,u;b;O,m;V,a,R;y,W;L,s;K;Z;x;h3;T,e,A3;Y3,S3;N3,g3;f3;c3;F3,n3}u=Y(-12298)V=Y(-12029)Q=Y(-12298)E=Y(-12070)b=Y(-11461)n3=Y(-11483)l={E,Q}z=Y(-11818)f3=Y(-11461)Q=Y(-11932)H3=Y(-12298)a=24 Y3=22 E={Q,u}m={[V]=a}R=Y(-12029)O=Y(-12296)j3=Y(-11483)u=Y(-11798)Q={u;b,[O]=m}g3=Y(-11461)G3={[k3]=q3}b=Y(-12028)y=24.5 m=Y(-11461)V=Y(-12296)O=Y(-11461)c3=Y(-11483)W=Y(-12296)u={b,O}A3=Y(-12029)a={[R]=y}R=Y(-11461)O=Y(-12682)s=Y(-12029)b={O;m;[V]=a}V=Y(-11461)m=Y(-12832)h3=22 a=Y(-11461)K=24.1 L={[s]=K}y=Y(-11461)O={m,V}V=Y(-11746)m={V,a}a=Y(-12548)K=Y(-12029)V={a;R}R=Y(-11698)a={R,y,[W]=L}q3=Y(-11461)W=Y(-11461)L=Y(-12296)Z=24.1 r3=Y(-11483)T=22 N3=Y(-11461)s={[K]=Z}y=Y(-11440)R={y,W,[L]=s}L=Y(-11461)e=21 s=Y(-11461)K=Y(-12296)W=Y(-11915)y={W,L}X3=Y(-12298)L=Y(-12394)x=Y(-12029)Z={[x]=h3}W={L;s,[K]=Z}s=Y(-11694)K=Y(-11461)Z=Y(-12296)h3=Y(-12029)x={[h3]=T}L={s;K,[Z]=x}T=Y(-11678)Z=Y(-11461)h3={[T]=e;[A3]=Y3}x=Y(-12296)S3=22 K=Y(-11900)s={K,Z;[x]=h3}Y3=Y(-12029)e=Y(-11678)F3=Y(-11483)Z=Y(-11492)h3=Y(-12296)A3=21 U3=Y(-11483)x=Y(-11461)T={[e]=A3,[Y3]=S3}K={Z,x,[h3]=T}h3=Y(-12298)x=Y(-11568)e=Y(-11461)Z={x,h3}h3=Y(-12072)A3=Y(-11461)T=Y(-11461)x={h3;T}Y3=Y(-11461)T=Y(-12219)S3=Y(-11461)h3={T;e}i3=Y(-11483)e=Y(-12755)C3=Y(-11483)T={e;A3}A3=Y(-12471)e={A3;Y3}Y3=Y(-12127)A3={Y3,S3}B3=Y(-11483)S3=Y(-12135)Y3={S3,N3}N3=Y(-12627)S3={N3,g3}g3=Y(-12076)N3={g3,f3}k3=Y(-12298)f3=Y(-11669)g3={f3;c3}c3=Y(-12318)f3={c3,F3}F3=Y(-12474)c3={F3;n3}n3=Y(-12270)F3={n3,B3}B3=Y(-12724)n3={B3,i3}i3=Y(-11615)B3={i3;j3}j3=Y(-12118)i3={j3;U3}U3=Y(-11821)j3={U3;C3}C3=Y(-11938)U3={C3,X3}X3=Y(-12681)C3={X3;I3;[t3]=G3}X3=Y(-11740)G3=D(7282983,{})t3=Y(-12727)I3=k(16586883,{})w={l;E,Q;u,b;O,m,V;a;R;y;W;L;s;K,Z,x;h3,T,e;A3,Y3,S3,N3;g3;f3,c3;F3,n3,B3,i3;j3;U3;C3,[X3]=I3;[t3]=G3}V=Y(-12298)Z=Y(-12091)m=Y(-12091)a=Y(-12091)Q3=Y(-12694)u=Y(-11618)O=Y(-12091)l=Y(-12680)b=Y(-12091)Q={u;b}b=Y(-12010)u={b,O}E={Q,u}Q=Y(-12412)O=Y(-12309)y=Y(-12091)b={O;m}m=Y(-12021)O={m,V}m=Y(-11575)g3=Y(-12296)h3=Y(-11461)V=k(4171165,{})u={b;O;[m]=V}L=Y(-12091)R=Y(-12091)s=Y(-11461)V=Y(-12151)b=Y(-12366)K=Y(-12091)Y3=24.1 m={V,a}a=Y(-11405)x=Y(-12091)V={a;R}W=Y(-12639)O={m,V}m=Y(-12625)U3=24.2 R=Y(-12748)a={R,y}y={W;L}V={a}L=Y(-11643)N3=Y(-12091)W={L,s}A3=24.0 T=Y(-12298)R={y,W}e=Y(-12029)a=Y(-12628)s=Y(-12620)y=Y(-11562)L={s;K}K=Y(-12314)s={K,Z}Z=Y(-12275)K={Z;x}x=Y(-11643)Z={x;h3}h3=Y(-12681)x={h3;T}W={L,s,K;Z;x}T={[e]=A3}L=Y(-11703)I3=24.0 h3=Y(-12296)x=Y(-11461)Z=Y(-12069)K={Z,x;[h3]=T}T=Y(-12296)A3=Y(-11678)i3=Y(-12029)e={[A3]=Y3}x=Y(-12069)h3=Y(-12428)A3=Y(-12091)n3=24.1 Z={x;h3,[T]=e}T=Y(-11461)h3=Y(-12266)x={h3;T}s={K,Z;x}S={[n]=M,[v]=r;[J]=p,[z]=w;[l]=E,[Q]=u,[b]=O,[m]=V,[a]=R;[y]=W;[L]=s}M=S S=Y(-12324)a=Y(-12091)J=Y(-12091)p=Y(-12091)z=Y(-12091)u=Y(-12029)r=Y(-11580)v={r;J}F3=24.2 J=Y(-12702)r={J,p}b=24.0 p=Y(-12620)Q={[u]=b}c3=Y(-11678)w=Y(-12091)y=Y(-12296)C3=24.5 Z=24.5 J={p;z}z=Y(-11771)E=Y(-12296)p={z,w}m=24.0 w=Y(-12533)w3=Y(-12694)b=Y(-11678)l=Y(-12091)O=24.1 z={w;l;[E]=Q}Q=Y(-12412)f3={[c3]=F3}E=M[Q]u={[b]=O}V=24.1 Q=Y(-12296)l=Y(-12533)L=Y(-11678)Y3=Y(-12091)w={l;E,[Q]=u}O=Y(-12029)Q=Y(-12091)u=Y(-12296)E=Y(-12852)F3=Y(-11678)b={[O]=m}l={E,Q,[u]=b}b=Y(-12412)Q=Y(-12852)S3=Y(-12091)u=M[b]b=Y(-12296)m=Y(-11678)O={[m]=V}R=Y(-12091)E={Q,u,[b]=O}b=Y(-12091)u=Y(-11423)x=24.2 s=24.1 O=Y(-12091)Q={u;b}u3=Y(-12694)t3=Y(-11678)b=Y(-11667)u={b;O}T=Y(-12091)O=Y(-11892)j3=24.1 V=Y(-12091)K=Y(-12029)m=Y(-12091)W={[L]=s;[K]=Z}Z=Y(-11678)c3={[F3]=n3}h3=Y(-12091)X3=27 b={O;m}M3=Y(-11483)m=Y(-12275)O={m,V}s=Y(-11678)V=Y(-12280)K=27 m={V;a}L={[s]=K}a=Y(-11459)V={a,R,[y]=W}y=Y(-12091)R=Y(-11787)W=Y(-12296)a={R;y;[W]=L}s=Y(-12296)K={[Z]=x}W=Y(-12091)B3={[i3]=j3}y=Y(-12745)x=Y(-12091)R={y;W}L=Y(-12091)W=Y(-12151)e=Y(-12091)y={W;L,[s]=K}L=Y(-12205)s=Y(-12091)K=Y(-12091)W={L,s}s=Y(-12217)F3=Y(-11768)D3=Y(-11483)L={s;K}Z=Y(-12091)K=Y(-12642)s={K;Z}Z=Y(-12113)K={Z,x}x=Y(-11824)Z={x,h3}h3=Y(-12279)x={h3;T}T=Y(-12011)h3={T,e}e=Y(-11400)n3=Y(-12296)T={e;A3}G3=29.1 A3=Y(-12175)e={A3,Y3}Y3=Y(-12737)A3={Y3,S3}S3=Y(-11679)Y3={S3,N3;[g3]=f3}N3=Y(-12119)f3=Y(-12296)g3=Y(-12298)S3={N3,g3,[f3]=c3}f3=Y(-12298)P3=Y(-11483)g3=Y(-12297)N3={g3,f3}c3=Y(-12298)f3=Y(-12738)g3={f3,c3}c3=Y(-12409)j3=Y(-11678)f3={c3;F3,[n3]=B3}n3=Y(-12428)F3=Y(-12409)B3=Y(-12296)i3={[j3]=U3}c3={F3,n3;[B3]=i3}n3=Y(-11915)i3=Y(-12296)B3=Y(-11461)U3=Y(-12029)j3={[U3]=C3}F3={n3,B3,[i3]=j3}C3=Y(-11678)j3=Y(-12296)U3={[C3]=X3}X3=Y(-12029)B3=Y(-12573)i3=Y(-12091)v3=Y(-11483)n3={B3,i3,[j3]=U3}j3=Y(-11461)C3={[X3]=I3}U3=Y(-12296)i3=Y(-11798)B3={i3,j3;[U3]=C3}j3=Y(-11906)I3={[t3]=G3}U3=Y(-12298)i3={j3;U3}C3=Y(-12298)X3=Y(-12296)U3=Y(-12016)j3={U3,C3,[X3]=I3}I3=Y(-12298)C3=Y(-12854)X3=Y(-12298)U3={C3,X3}O3=Y(-12694)G3=Y(-12298)X3=Y(-12437)C3={X3;I3}I3=Y(-11590)t3=Y(-11461)X3={I3,t3}t3=Y(-11535)I3={t3,G3}G3=Y(-12236)t3={G3;k3}k3=Y(-11465)G3={k3,q3}q3=Y(-11568)k3={q3;d3}d3=Y(-12681)q3={d3;H3}H3=Y(-11669)d3={H3;o3}o3=Y(-12318)H3={o3;P3}P3=Y(-12474)o3={P3,D3}D3=Y(-12270)P3={D3;M3}M3=Y(-12724)D3={M3;v3}v3=Y(-11615)M3={v3,r3}r3=Y(-12118)v3={r3;J3}J3=Y(-11821)r3={J3;p3}p3=Y(-12711)J3={p3,z3}z3=Y(-11934)p3={z3;E3}E3=Y(-12707)z3={E3,l3}l3=Y(-11458)E3={l3,w3}w3=Y(-11753)l3={w3;u3}u3=Y(-12651)w3={u3,Q3}Q3=Y(-12809)u3={Q3;m3}m3=Y(-12288)Q3={m3,O3}n={v;r;J,p,z;w;l;E,Q;u;b;O,m,V,a,R,y;W;L;s;K,Z;x;h3,T,e;A3;Y3;S3;N3,g3,f3;c3;F3,n3;B3;i3;j3;U3;C3,X3;I3;t3,G3,k3;q3,d3;H3,o3;P3,D3,M3,v3;r3,J3;p3,z3;E3,l3;w3;u3,Q3}z=Y(-12296)M[S]=n E=29 J=Y(-12091)S=Y(-11429)l=Y(-11678)r=Y(-12540)v={r;J}w={[l]=E}E=Y(-12296)a=24.5 R=24.5 V=Y(-12029)J=Y(-12459)u=Y(-11678)l=Y(-12091)p=Y(-12091)r={J,p,[z]=w}p=Y(-12578)z=Y(-12091)b=24.1 J={p;z}Q={[u]=b}z=Y(-12620)O=24.0 b=Y(-12029)y=27 w=Y(-12091)s=Y(-12694)p={z;w}w=Y(-12151)z={w,l;[E]=Q}u={[b]=O}m={[V]=a}E=Y(-12091)W=27 Q=Y(-12296)l=Y(-11957)w={l;E;[Q]=u}E=Y(-12339)Q=Y(-12091)u=Y(-12091)b=Y(-12091)l={E;Q}Q=Y(-12822)E={Q;u}u=Y(-12629)O=Y(-12296)a=Y(-12029)Q={u;b,[O]=m}O=Y(-12091)b=Y(-11489)m=Y(-12296)V={[a]=R}u={b,O;[m]=V}R=Y(-11678)a={[R]=y}m=Y(-12091)O=Y(-11882)V=Y(-12296)b={O;m,[V]=a}m=Y(-12573)a=Y(-12296)V=Y(-12091)y=Y(-11678)R={[y]=W}O={m,V;[a]=R}V=Y(-11798)R=Y(-12296)L=24.0 a=Y(-11461)W=Y(-12029)y={[W]=L}L=Y(-11483)m={V,a,[R]=y}R=Y(-12298)W=Y(-11483)a=Y(-12681)V={a;R}y=Y(-11483)R=Y(-11568)K=Y(-12694)a={R,y}y=Y(-11471)R={y,W}W=Y(-12439)y={W,L}L=Y(-12792)W={L,s}s=Y(-12535)L={s;K}n={v,r;J;p;z;w,l,E;Q;u,b,O;m;V,a;R,y,W,L}M[S]=n z=Y(-12091)r=Y(-12275)p=Y(-12091)L=Y(-11483)J=Y(-12091)E=Y(-12298)v={r,J}S=Y(-11525)J=Y(-12620)w=Y(-12091)r={J;p}p=Y(-12320)l=Y(-12298)J={p;z}z=Y(-11812)p={z;w}w=Y(-12659)z={w;l}l=Y(-12681)w={l;E}n={v,r;J,p,z,w}M[S]=n p=Y(-11461)r=Y(-12070)J=Y(-12298)u=Y(-12029)v={r;J}S=Y(-12750)J=Y(-12320)r={J;p}w=Y(-12298)z=Y(-11461)p=Y(-11812)E=Y(-12296)J={p,z}b=24 Q={[u]=b}z=Y(-12659)l=Y(-11461)b=Y(-11678)p={z,w}w=Y(-11798)z={w,l,[E]=Q}E=Y(-12298)l=Y(-12681)Q=Y(-12296)O=19 u={[b]=O}w={l;E;[Q]=u}n={v,r,J;p,z;w}r=Y(-12265)M[S]=n w=Y(-12029)J=Y(-12091)p=Y(-12091)S=Y(-11628)v={r,J}J=Y(-12656)r={J,p}R=24.1 n={v;r}J=Y(-12091)a=24.1 u=31 M[S]=n S=Y(-12276)p=Y(-12296)l=24.5 W=24.1 r=Y(-12868)z={[w]=l}v={r,J;[p]=z}b=Y(-12029)J=Y(-12314)l=Y(-11678)p=Y(-12091)z=Y(-12296)E=27 w={[l]=E}r={J;p,[z]=w}w=Y(-11628)z=M[w]w=Y(-12091)p=Y(-11513)J={p;z}m=Y(-12029)z=Y(-11561)p={z;w}n={v;r;J,p}M[S]=n J=Y(-12091)S=Y(-12312)w=Y(-12050)r=Y(-11406)O=24 p=Y(-12091)v={r,J}J=Y(-12121)r={J;p}p=Y(-12050)z=Y(-12050)J=Y(-12091)l=Y(-12091)n={v,r}M[S]=n S=Y(-12241)r=Y(-12078)v={r;J}J=Y(-12707)r={J,p}p=Y(-12600)E=Y(-12091)J={p,z}z=Y(-12289)y=24.1 p={z;w}w=Y(-11640)z={w,l}l=Y(-12358)w={l,E}n={v;r,J;p;z,w}z=Y(-11437)E=Y(-11483)p=Y(-12298)J=Y(-11461)M[S]=n r=Y(-12094)S=Y(-12668)v={r;J}J=Y(-12070)r={J;p}l=Y(-11483)p=Y(-12597)J={p;z}V=24.1 z=Y(-12568)w=Y(-11437)p={z;w}w=Y(-12188)z={w,l}l=Y(-11568)w={l;E}n={v;r;J;p,z,w}J=Y(-11461)M[S]=n r=Y(-12094)p=Y(-11461)z=Y(-11461)w=Y(-11461)v={r;J}J=Y(-11406)r={J;p}S=Y(-12725)p=Y(-11622)J={p;z}z=Y(-11550)p={z,w}Q=Y(-11678)z=Y(-11461)w=Y(-11461)n={v,r,J,p}M[S]=n J=Y(-12298)l=Y(-12296)S=Y(-12647)r=Y(-12070)p=Y(-11461)v={r,J}J=Y(-11892)r={J;p}p=Y(-11488)E={[Q]=u}J={p;z}Q=Y(-12296)z=Y(-12761)p={z,w,[l]=E}l=Y(-11461)u={[b]=O}b=Y(-12296)w=Y(-11814)E=Y(-11461)z={w,l}l=Y(-11798)w={l,E;[Q]=u}Q=Y(-11461)E=Y(-11915)O={[m]=V}V=Y(-12029)u=Y(-11461)l={E,Q}Q=Y(-11505)E={Q;u,[b]=O}m={[V]=a}b=Y(-11461)O=Y(-12296)u=Y(-11852)Q={u;b,[O]=m}b=Y(-11383)a=Y(-12029)m=Y(-12296)V={[a]=R}R=Y(-12029)O=Y(-11461)u={b,O;[m]=V}m=Y(-11461)a={[R]=y}V=Y(-12296)O=Y(-11698)b={O,m;[V]=a}m=Y(-11440)y=Y(-12029)a=Y(-12296)V=Y(-11461)R={[y]=W}O={m,V,[a]=R}W=Y(-11483)R=Y(-11483)a=Y(-12298)V=Y(-12681)m={V,a}y=Y(-11483)a=Y(-11568)V={a;R}R=Y(-11471)a={R,y}y=Y(-12439)R={y;W}W=Y(-12410)y={W;L}n={v;r,J,p,z,w,l,E,Q;u;b,O,m,V,a;R,y}J=Y(-12298)E=Y(-12029)b=Y(-12029)r=Y(-12070)M[S]=n v={r;J}w=Y(-12296)Q=24 J=Y(-12681)u=24.5 S=Y(-12501)z=Y(-11461)p=Y(-12298)l={[E]=Q}r={J;p}p=Y(-11798)J={p,z,[w]=l}w=Y(-11461)z=Y(-11713)p={z,w}O=24.5 n={v;r;J;p}w=Y(-12296)p=Y(-11461)J=Y(-11461)M[S]=n S=Y(-12777)r=Y(-11505)v={r;J}J=Y(-11852)Q=Y(-11678)E={[Q]=u,[b]=O}u=Y(-11678)z=Y(-11461)b=27.1 r={J,p}Q={[u]=b}p=Y(-12007)l={E,Q}J={p,z;[w]=l}n={v,r;J}M[S]=n r=Y(-12209)S=Y(-12413)J=Y(-11461)z=Y(-12777)v={r;J}J=Y(-12263)p=M[z]r={J,p}n={v;r}J=Y(-11461)p=Y(-11461)M[S]=n z=Y(-11461)S=Y(-12172)r=Y(-11565)E=Y(-12029)v={r,J}J=Y(-11998)r={J;p}p=Y(-11940)w=Y(-12296)J={p,z}n={v;r,J}M[S]=n r=Y(-11877)S=Y(-12128)J=Y(-11461)v={r;J}p=Y(-11461)J=Y(-11713)r={J,p}p=Y(-12441)z=Y(-11461)J={p;z}n={v,r;J}p=Y(-11461)z=Y(-11461)r=Y(-11386)M[S]=n S=Y(-12608)J=Y(-11461)v={r;J}J=Y(-11713)r={J;p}Q=24 p=Y(-12441)J={p,z}n={v;r;J}M[S]=n z=Y(-11461)r=Y(-12070)J=Y(-12298)v={r;J}S=Y(-11395)J=Y(-11713)u=19 p=Y(-11461)r={J;p}l={[E]=Q}Q=Y(-11678)p=Y(-11798)E={[Q]=u}J={p;z,[w]=l}w=Y(-12298)z=Y(-12681)l=Y(-12296)p={z,w;[l]=E}n={v,r;J;p}M[S]=n p=Y(-12407)n=Y(-12717)S=A[n]J={h(p)}p={S(N(J))}r=p[3]n=p[1]v=p[2]J=n S=2938920 else m3=Y(-11686)S=11997438 Q3=A[m3]m3=Y(-12193)u3=Q3[m3]m3=Y(-11811)Q3=u3(v,m3)end else if S<8803087 then J=r z=Y(-12586)n=p[z]S=673076 C[J]=n p=nil J=nil else if S<8812329 then M=S U=g[3]C=U h=g[1]j=g[2]S=U and 5526833 or 14915815 else S=13951617 l=nil end end end end end end end else if S<9166493 then if S<8973634 then if S<8897726 then if S<8858334 then if S<8853019 then if S<8844630 then l=Y(-12337)w=A[l]l=Y(-12283)E=.5 z=w[l]u=Y(-11893)l=M+E w=z(l)E=Y(-11893)O=Y(-11893)M=w l=A[E]E=Y(-12226)z=l[E]Q=A[u]u=Y(-12247)E=Q[u]b=A[O]O=Y(-12427)u=b[O]O=0xFF b=u(v,O)u=23 Q=E(b,u)b=Y(-11893)S=A[Y(-12723)]u=A[b]b=Y(-12427)E=u[b]b=0x7FFFFF u={E(M,b)}l={z(U,Q,N(u))}n={N(l)}else C=S r=Y(-12080)v=h[r]r=Y(-11552)M=v[r]U=M S=M and 10401847 or 11126036 end else if S<8857174 then n={h}S=A[Y(-12456)]else S=J Q=Y(-12081)S[n]=r S=B[v]J=S n=Y(-12081)z=S E=B[v]l=E[Q]E=Y(-12060)w=l[E]p=w S=w and 5937965 or 14304142 end end else if S<8891829 then if S<8860986 then r,z=J(v,r)S=r and 2367605 or 7594666 else S=418187 p=nil end else if S<8893341 then p=Y(-12840)J=A[p]l=Y(-12840)p=Y(-12849)n=J[p]w=Y(-11861)z=h[w]r=U p=z+r w=A[l]l=Y(-12253)z=w[l]J=p*z S=n+J p=Y(-12840)J=S n=A[p]p=Y(-12610)S=n[p]n=S(J)p=n n=0 S=p~=n S=S and 11747414 or 3739194 else n=Y(-12087)S=1 A[n]=S S=12250147 end end end else if S<8938819 then if S<8920641 then if S<8915256 then S=6087937 h3=nil else v=not M j=j+C n=~j n=j<=U n=v and n v=j>=U v=M and v n=v or n v=2158366 S=n and v n=6323558 S=S or n end else if S<8931519 then S=U n=j S=j and 14389306 or 13434451 else h=Y(-12840)n=A[h]h=Y(-12278)S=n[h]n=S()h=n n=Y(-12223)S=A[n]C={S(h)}U=C[3]S=6381693 n=C[1]j=C[2]C=n end end else if S<8952570 then if S<8948951 then h=g[1]j=g[2]C=Y(-12840)U=A[C]C=Y(-12213)n=U[C]U=Y(-11848)S=n[U]n=S(j)U=n n=Y(-11459)n=U[n]S={n(U,h)}n={N(S)}S=A[Y(-12685)]else E=nil l=nil w=nil S=9418700 end else if S<8961235 then S=8912471 T=nil e=nil else if S<8965979 then J=nil S=w p=nil S[n]=z S=8479041 else S=L S=W and 14243010 or 2466168 end end end end end else if S<9077217 then if S<9010123 then if S<8991856 then if S<8981071 then C=Y(-11837)U=Y(-12840)h=g[1]j=A[U]U=Y(-12826)n=j[U]j=Y(-12077)S=n[j]U=A[C]C=Y(-11539)j=U[C]n={S(h,j)}S=A[Y(-11732)]n={N(n)}else a=Y(-11837)b=Y(-12060)O=Y(-11568)V=A[a]a=Y(-12512)m=V[a]R=S W=S V=Y(-12586)L=B[f[1]]S=L and 8567360 or 4498167 y=L end else if S<9004461 then J=Y(-12005)S={}U=g[3]p=D(1986393,{})z=Y(-12520)C=g[4]M=S h=g[1]r=Y(-11975)S=d(3883843,{})j=g[2]v=S n={[r]=v;[J]=p}p=t(6159599,{})J=Y(-12734)S=Y(-11395)M[S]=n w=D(7608099,{})r=Y(-11975)n={[r]=v;[J]=p;[z]=w}S=Y(-12647)r=Y(-11975)l=t(15581778,{})z=G(8947659,{})p=Y(-11719)w=Y(-12488)M[S]=n J=I(6398695,{})n={[r]=J;[p]=z;[w]=l}S=Y(-11818)M[S]=n n={M}S=A[Y(-12397)]else Q=Y(-12620)S=14459984 E=h[w]u=Y(-12840)n=E[Q]Q=A[u]u=Y(-12701)E=Q[u]m=Y(-12620)O=h[w]b=O[m]u=r[b]Q=E(u)r[n]=Q end end else if S<9049371 then if S<9036537 then U=Y(-12840)h=g[1]j=A[U]U=Y(-12826)n=j[U]j=Y(-12703)S=n[j]U={S(h)}j=U[2]n=U[1]U=n n=0xffffffff S=U==n S=S and 141837 or 8666874 else Y3=S F3=Y(-12314)f3=A[F3]j3=Y(-12113)B3=h[j3]N3=S Z=x F3=f3(B3)f3=Y(-12562)g3=F3==f3 S3=g3 S=g3 and 8403764 or 13004800 end else if S<9050935 then M=Y(-12840)r=Y(-12840)C=A[M]M=Y(-12826)U=C[M]p=Y(-12690)C=Y(-11968)n=U[C]U=Y(-12033)S=n[U]U=S v=A[r]r=Y(-12826)M=v[r]r=Y(-12840)v=Y(-11968)C=M[v]M=Y(-11430)n=C[M]v=A[r]r=Y(-12608)M=v[r]v=Y(-11639)C=M[v]v=Y(-12364)S=n/C l=Y(-12840)C=S M=Y(-12840)n=A[M]M=Y(-12803)S=n[M]w=A[l]l=Y(-11477)z=w[l]w=z(U)n=Y(-12419)J=p .. w p=Y(-12840)r=C .. J n=S[n]M=v .. r n=n(S,M)S=Y(-12033)n={}h[S]=n n=Y(-12223)S=A[n]J=A[p]p=Y(-12560)w=Y(-12840)r=J[p]z=A[w]w=Y(-12608)p=z[w]J={r(U,C,p)}r={S(N(J))}n=r[1]M=r[2]v=r[3]r=n S=1639113 else if S<9055426 then S=3519063 else h=g[1]j={F(2,N(g))}U=Y(-12080)n=h[U]U=Y(-12136)S=n[U]S=S and 4224869 or 1258396 end end end end else if S<9134701 then if S<9096758 then if S<9078461 then b=#w O=0 S=14981736 u=b==O E=u else S=561089 M=Y(-12791)n=U .. M U=n end else if S<9109298 then S=J M=r S=11334122 else r=Y(-12840)J=Y(-12287)n=A[r]r=Y(-12803)z=Y(-12144)S=n[r]p=h[z]n=Y(-12673)n=S[n]r=J .. p n=n(S,r)J=Y(-12144)n=Y(-11797)S=A[n]r=h[J]n=S(r)S=n()r=S n=Y(-12717)S=A[n]z={S(r)}n=z[1]J=z[2]p=z[3]S=8427394 z=n end end else if S<9141082 then if S<9136997 then z=S h=g[1]C=Y(-11837)U=A[C]l=S u=Y(-12840)C=Y(-12486)v=Y(-12060)p=Y(-12060)j=U[C]J=h[p]l=0x6 Q=A[u]u=Y(-12616)E=Q[u]Q=0xA w=E and Q p=w or l r=J+p w=Y(-11837)J=Y(-11568)z=A[w]w=Y(-12551)p=z[w]M={[v]=r,[J]=p}C={M}U=j(C)j=1 n=U[j]j=Y(-12586)S=n[j]n={S}S=A[Y(-11880)]else S=U[C]n={S}S=A[Y(-11879)]end else if S<9150455 then h3=Y(-11686)x=A[h3]h3=Y(-12193)Z=x[h3]T=Y(-12474)h3=Y(-11504)x=Z(M,h3)S=15128737 h3=h[T]Z=0 T=1 x=h3-T h3=x x=1 T=x x=0 e=T<x x=Z-T else if S<9162516 then p,w=r(J,p)S=p and 2974283 or 9051486 else e3=nil T3=K3~=e3 S=T3 and 2087747 or 10640244 end end end end end end else if S<9332687 then if S<9222624 then if S<9196437 then if S<9184608 then if S<9182533 then L=4 a=1 S=14227733 Q=u R=Y(-12060)V=Q+a K=Y(-11837)W=Q*L Q=nil y=j+W s=A[K]K=Y(-12512)L=s[K]W=Y(-11568)a={[R]=y,[W]=L}E[V]=a else v=Y(-11686)M=A[v]r=1 v=Y(-12406)S=M[v]z=1 v=Y(-12331)p=#U J=p-z M=S(U,v,r,J)J=Y(-12840)r=A[J]n={M}J=Y(-12847)v=r[J]r=Y(-12701)S=v[r]v=M S[h]=v S=A[Y(-11969)]end else if S<9187964 then p=0x80 w=2 J=~p r=M&J J=8 v=r<<J j=v z=C[w]w=Y(-12586)p=z[w]z=0xFF J=p&z p=1 r=j|J S=8761171 j=r J=U+p U=J else U=nil h=nil j=nil S=A[Y(-11762)]n={}C=nil end end else if S<9216152 then if S<9198560 then r=M z=1 p=#U r=nil l=Y(-12060)S=p+z w=J[l]l=Y(-11568)Q=Y(-11568)z=Y(-12060)E=J[Q]b=Y(-12586)O=true Q=Y(-12586)u=J[b]b=Y(-11794)J=nil p={[z]=w;[l]=E;[Q]=u,[b]=O}U[S]=p S=8673356 else m=Y(-12803)S=j[m]S=S and 10254145 or 3351340 end else if S<9220165 then h=g[1]C=g[4]j=g[2]M=Y(-12840)J=Y(-12620)U=g[3]n=A[M]M=Y(-12803)S=n[M]r=B[f[1]]v=r[J]r=Y(-11427)n=Y(-12673)n=S[n]M=v .. r n=n(S,M,j)S={}v=S r=Y(-12331)v=i()B[v]=S n={}M=C or r J=Y(-12717)r=n n=A[J]w={n(h)}p=w[2]z=w[3]S=8490512 J=w[1]else Q=Y(-12314)E=A[Q]Q=E(l)w=p E=Y(-12562)S=Q==E S=S and 10727707 or 5678354 end end end else if S<9268494 then if S<9233635 then if S<9227039 then S=p and 13242317 or 12351671 else b=B[f[3]]S=3228134 Q=b end else if S<9254054 then u,O=E(Q,u)S=u and 10259284 or 393707 else S=6477841 w=Y(-11774)z=B[f[1]]p=z[w]J=C==p v=J end end else if S<9268957 then if S<9268653 then C=24.1 U=j==C S=U and 261676 or 15395872 else S=A[Y(-12577)]n={j}end else if S<9305061 then u=Y(-11972)Q=A[u]u=Q(p)l=u S=5610159 else if S<9311686 then n=Y(-11390)j=Y(-11579)S=A[n]n=S(j)S=7461079 else U=Y(-11837)n=A[U]U=Y(-11896)S=n[U]U=Y(-12798)n=S(U)S=9622910 j=n end end end end end else if S<9382522 then if S<9346520 then if S<9334956 then if S<9334789 then C=Y(-12840)U=A[C]C=Y(-12739)n=U[C]S=not n S=S and 623837 or 9929919 else K=Y(-12840)s=A[K]K=Y(-12826)L=s[K]K=S s=Y(-12563)s=L[s]s=s(L,j)L=s S=s and 4925327 or 3132780 end else if S<9335618 then Q=l(u)S=b S=4369605 else O=Y(-12840)R=Y(-12840)w=l b=A[O]O=Y(-12610)S=b[O]a=A[R]R=Y(-12253)V=a[R]m=w*V O=J+m b=S(O)a=Y(-12840)S=B[f[1]]V=A[a]a=Y(-12610)m=V[a]V={m(b)}O=S(N(V))S=O and 12871266 or 2236117 end end else if S<9372735 then if S<9352061 then r=Y(-11686)n=Y(-12754)v=A[r]r=Y(-12406)M=v[r]r=Y(-12715)v=M(U,r)M=Y(-11603)C=v .. M S=n .. C n={S}S=A[Y(-12238)]else S=7375525 r=nil v=nil end else if S<9374078 then E=Y(-12840)l=A[E]S=13321427 E=Y(-12173)w=l[E]p=w else if S<9378340 then U=Y(-12643)n=Y(-11390)S=A[n]n=S(U)S=5580087 else z=Y(-12840)b=Y(-12840)E=Y(-12840)J=A[z]z=Y(-12647)l=A[E]E=Y(-11518)w=l[E]u=A[b]b=Y(-12509)Q=u[b]S=246988 u=Y(-12647)E=Q[u]u=Y(-12354)Q=h[u]l=w(E,Q)J[z]=l end end end end else if S<9415853 then if S<9389948 then if S<9388928 then O=Y(-12727)O=j[O]O=O(j)S=O and 3561745 or 3483145 else T=Y(-12081)h3=h[T]T=h3(a)h3=Y(-11719)h3=T[h3]S=7397917 h3=h3(T,v)Z=h3 end else if S<9398709 then S=r S=7325638 r=0 C=v or r r=Y(-11837)v=A[r]U=C r=Y(-12083)M=v[r]v=M()else v=Y(-11837)J=Y(-11837)M=A[v]S=6938206 v=Y(-12026)C=M[v]r=A[J]J=Y(-12637)v=r[J]r={v()}M=C(N(r))J=Y(-11837)C={}r=A[J]J=Y(-12083)v=r[J]r=v()r=Y(-12223)v=A[r]l=Y(-11837)w=A[l]l=Y(-12554)z=w[l]w={z(M)}z={v(N(w))}J=z[2]r=z[1]p=z[3]end end else if S<9424935 then if S<9421335 then z,l=J(p,z)S=z and 2391982 or 13131602 else M=Y(-12840)n=A[M]J=Y(-11975)v=Y(-12309)M=Y(-12241)S=n[M]M=h[v]n=S(M)S=B[f[1]]r=Y(-12078)M=n l=Y(-12655)v=M[r]n=Y(-12541)n=S[n]n=n(S,v)r=B[f[1]]v=n n=r[J]J=Y(-11612)u=Y(-12707)r=n(v)w=A[l]l=Y(-11533)z=w[l]l=Y(-11769)Q=M[u]u=1 E=Q-u w=z(l,E)z=Y(-12399)p=w .. z n=J .. p S=r .. n n={S}S=A[Y(-11867)]end else if S<9425650 then E=Y(-12754)O=Y(-11686)b=A[O]O=Y(-12406)u=b[O]O=Y(-12715)b=u(l,O)u=Y(-11603)Q=b .. u n=E .. Q S=r .. n n={S}S=A[Y(-12782)]else if S<9432767 then S=3826091 n=29.1 U=n else L=Y(-12268)T=Y(-12314)h3=A[T]a=L T=h3(Z)h3=Y(-12655)x=T==h3 S=x and 391881 or 12809585 end end end end end end end end else if S<9884773 then if S<9657614 then if S<9581433 then if S<9523114 then if S<9489359 then if S<9456540 then if S<9445939 then K=Y(-11669)s=Y(-11686)L=A[s]s=Y(-12193)W=L[s]s=Y(-11497)L=W(v,s)s=Y(-12219)L=j[s]s=j[K]W=L+s K=Y(-12219)s=j[K]K=0 L=s+K K=1 S=8714353 s=W-K K=s s=1 Z=s s=0 x=Z<s s=L-Z else u=Y(-12840)z=Y(-12840)S=A[z]Q=Y(-12840)E=A[Q]Q=Y(-11725)l=E[Q]z=Y(-12739)w=p-l S[z]=w w=Y(-12840)z=A[w]l=Y(-12779)w=Y(-12803)S=z[w]Q=A[u]z=Y(-12673)z=S[z]u=Y(-12739)E=Q[u]w=l .. E z=z(S,w)S=5171655 end else if S<9487177 then M=Y(-12099)j={F(2,N(g))}C=Y(-11501)n=1 U=A[C]C=U(M,N(j))U=C S=8630772 C=1 M=C h=g[1]C=0 v=M<C C=n-M else h=g[1]U=Y(-12840)j=A[U]U=Y(-12826)n=j[U]C=Y(-11837)j=Y(-12077)S=n[j]U=A[C]C=Y(-12551)j=U[C]n={S(h,j)}S=A[Y(-12764)]n={N(n)}end end else if S<9503591 then if S<9493679 then O=Y(-11893)m=Y(-11568)S=814608 b=A[O]O=Y(-12427)a=Y(-12145)u=b[O]O=j[m]V=B[f[1]]m=V[a]b=u(O,m)u=0 Q=b~=u l=Q else J=Y(-12576)C=B[f[1]]r=h[J]J=Y(-12720)v=r[J]M=C(j,v)C=0 n=M>=C S=n and 9432416 or 3826091 end else if S<9508674 then h=g[1]M=Y(-12840)C=A[M]M=Y(-12847)j=g[2]U=C[M]C=Y(-12494)n=U[C]S=n[j]S=S and 13183055 or 10902837 else r=S w=Y(-11716)z=B[f[1]]p=z[w]J=C==p v=J S=J and 6477841 or 9267769 end end end else if S<9542401 then if S<9536194 then if S<9524487 then S=4501940 r=not C v=r else S=false n={S}S=A[Y(-12231)]end else if S<9540474 then j=g[2]h=g[1]U=not j S=U and 14026487 or 12464309 n=U else r=Y(-12840)v=A[r]r=Y(-12826)M=v[r]v=Y(-11968)r=Y(-12309)S=M[v]M=Y(-11974)v=C[r]S[M]=v S=1886691 end end else if S<9547243 then if S<9543561 then v=Y(-11860)M=B[f[1]]S=M[v]M=S(j)r=Y(-12840)v=A[r]r=Y(-12324)S=v[r]w=Y(-11793)V=Y(-11771)v=S(M,U)r=M S=Y(-12060)v[S]=r p=Y(-11658)r=Y(-11410)S=A[r]Q=S b=S z=B[f[1]]m=v[V]V=Y(-12331)O=m~=V S=O and 12890104 or 10873863 u=O else J=Y(-12622)r=h[J]U=S M=S p=Y(-12622)J=j[p]M=1 v=r<J r=-1 C=v and r n=C or M n={n}S=A[Y(-11407)]end else if S<9562889 then S=8235002 C3=nil else if S<9566268 then n=B[f[1]]U=Y(-12081)S=n[U]n=Y(-12148)n=S[n]n=n(S)S=6333168 else v=B[f[1]]r=Y(-12058)M=v[r]w=Y(-11868)S=10612927 l=Y(-12133)z=B[f[1]]p=z[w]w=B[f[1]]z=w[l]w=Y(-12572)J=p|z z=B[f[1]]p=z[w]r=J|p p=Y(-12540)J=h[p]v=M(r,J)n=v end end end end end else if S<9614849 then if S<9589944 then if S<9587139 then if S<9584146 then M=Y(-12205)v=j n={j}S=A[Y(-11620)]h[M]=v else O=Y(-12046)Q=S b=r[O]O=Y(-11452)u=b==O E=u S=u and 4497143 or 11112203 end else if S<9589893 then K3=nil s3=nil S=16408461 else j=g[2]S=Y(-12180)h=g[1]S=h[S]S=S(h,j)n=Y(-11916)U=S S=U[n]C=S M=Y(-12332)n=h[M]S=n[j]S=S and 10579451 or 15783287 end end else if S<9601048 then if S<9590600 then C=Y(-12314)j=Y(-12314)h=g[1]n=A[j]U=h[C]j=n(U)n=Y(-11686)S=j==n S=S and 14260840 or 1519201 else M=Y(-12620)C=h[M]n=C S=3747009 end else if S<9602994 then v=Y(-12840)M=A[v]v=Y(-12314)n=M[v]S=n[U]U=S S=9893998 else if S<9609047 then j=g[2]v=Y(-12541)S={}h=g[1]M=i()U=g[3]B[M]=S C=g[4]n=B[M]S=k(12497158,{M})n[v]=S n=B[M]v=Y(-11975)S=P(9696202,{})n[v]=S S=P(2478262,{})n=B[M]v=Y(-11538)n[v]=S v=Y(-12383)n=B[M]S=H(2846720,{})n[v]=S v=Y(-12166)n=B[M]S=d(1075163,{})n[v]=S S=k(13853640,{})n=B[M]v=Y(-11604)w=Y(-12541)n[v]=S S=P(11852480,{})v=Y(-12811)n=B[M]n[v]=S S=d(8766325,{})v=Y(-12005)n=B[M]n[v]=S v=Y(-12348)S=P(16383448,{M})J=Y(-12389)n=B[M]n[v]=S v=Y(-12565)S=k(15104123,{M})n=B[M]n[v]=S S=H(11067445,{M})n=B[M]v=Y(-12081)n[v]=S S=t(10518834,{M})v=Y(-11952)n=B[M]n[v]=S S=D(8938561,{M})v=Y(-12325)n=B[M]n[v]=S v=Y(-11720)n=B[M]S=P(7762853,{M})n[v]=S n=B[M]v=Y(-12564)S=k(6130702,{})n[v]=S v=Y(-11605)n=B[M]S=t(5752940,{})n[v]=S S=P(3950423,{})n=B[M]v=Y(-11755)n[v]=S v=Y(-12830)S=k(1181509,{M})n=B[M]n[v]=S v=Y(-12831)S=d(5641450,{M})n=B[M]n[v]=S n=B[M]S=d(7348315,{})v=Y(-12181)n[v]=S v=Y(-12555)S=D(4783450,{})n=B[M]n[v]=S n=Y(-11410)S=A[n]v=B[M]z=B[M]p=z[w]r={[J]=p}n={S(v,r)}S=A[Y(-12304)]n={N(n)}else L=Y(-12161)S=940704 L=h[L]L=L(h,v)y=L end end end end else if S<9623926 then if S<9617262 then if S<9616049 then F3,B3=g3(f3,F3)S=F3 and 5458828 or 2651027 else S=false n={S}S=A[Y(-11890)]end else if S<9617758 then m=Y(-12659)O=Y(-11893)b=A[O]O=Y(-12427)u=b[O]R=Y(-12840)O=v[m]a=A[R]R=Y(-12853)V=a[R]a=Y(-12623)m=V[a]b=u(O,m)u=0 Q=b~=u S=Q and 16876 or 3577737 else U=Y(-11897)U=h[U]U=U(h,j)S=not U S=S and 108050 or 7684293 end end else if S<9630446 then if S<9627177 then S=true S=S and 6951570 or 729213 else S=16350290 end else if S<9642678 then h=g[1]C=Y(-11909)U=B[f[1]]j=g[2]n=U[C]U=n(h)S=not U S=S and 13202288 or 6849105 else if S<9646186 then s=nil Z=nil S=3376750 K=nil else Q=Y(-11788)S=7630456 E=U .. Q U=E end end end end end end else if S<9778917 then if S<9711879 then if S<9679096 then if S<9668996 then if S<9666303 then S=nil n={S}S=A[Y(-12048)]else z=nil w=nil S=3739194 end else if S<9676074 then S=7336987 w=Y(-12392)z=j[w]J=z else m=Y(-12005)S=Y(-12314)m=O[m]m=m(O)O[S]=m S=8248635 end end else if S<9696912 then if S<9688211 then b=Y(-12586)u=l[b]S=10182088 E=u else h=g[1]n=Y(-12620)S=h[n]n={S}S=A[Y(-11847)]end else if S<9701224 then S=B[v]n=Y(-11493)z=Y(-12544)p=h[z]J=S z=p(M)r=z S=z and 5365820 or 13039428 else u=Y(-12840)Q=A[u]u=Y(-12314)E=Q[u]u=Y(-12314)V=Y(-12337)b=Y(-12840)Q=w[u]l=E[Q]y=S E=U u=A[b]b=Y(-11744)Q=u[b]a=S m=A[V]V=Y(-11678)R=l S=l and 7504639 or 15848503 b=m[V]end end end else if S<9745213 then if S<9730121 then if S<9721781 then c3=Y(-11971)N3=Y(-12655)S3=A[N3]N3=Y(-12274)F3=Y(-12613)Y3=S3[N3]f3=Y(-11949)S=6240516 F3=e[F3]N3=Y(-12322)g3={F3(e,f3,c3)}S3=Y3(N3,N(g3))A3=Z .. S3 Z=A3 else l=l+Q w=~l b=not u w=l<=E w=b and w b=l>=E b=u and b w=b or w b=9337356 S=w and b w=11980703 S=S or w end else if S<9740451 then v=j n={j}M=Y(-12279)S=A[Y(-12765)]h[M]=v else S=n and 13527721 or 8178091 end end else if S<9764263 then if S<9761457 then j=Y(-12840)h=g[1]w=Y(-12840)v=Y(-11837)J=Y(-12060)n=A[j]j=Y(-11546)S=n[j]M=A[v]v=Y(-12486)C=M[v]z=A[w]w=Y(-11546)p=z[w]z=p(h)p=Y(-11568)E=Y(-12840)l=A[E]E=Y(-12173)w=l[E]r={[J]=z,[p]=w}v={r}M=C(v)C=1 U=M[C]C=Y(-12586)j=U[C]n={S(j)}n={N(n)}S=A[Y(-12184)]else l=Y(-12840)w=A[l]l=Y(-12853)z=w[l]r=S w=Y(-11716)p=z[w]J=C==p v=J S=J and 5080786 or 14907779 end else if S<9771554 then C3={}S3[j3]=C3 S=10512445 else if S<9776018 then E=E+u O=not b l=~E l=E<=Q l=O and l O=E>=Q O=b and O l=O or l O=12900983 S=l and O l=7068315 S=S or l else S=Y(-11988)U=Y(-12060)M=Y(-12060)C=j[M]r=Y(-12540)v=j[r]J=B[f[1]]r=Y(-11568)M=Y(-12586)n={[U]=C,[M]=v;[r]=J}h[S]=n S=Y(-12540)C=Y(-11988)U=h[C]C=Y(-12586)n=U[C]U=Y(-12540)h[S]=n n=h[U]U=0 S=n==U S=S and 4315538 or 8544874 end end end end end else if S<9836076 then if S<9809384 then if S<9784749 then if S<9780344 then j3=Y(-11686)B3=A[j3]j3=Y(-12193)F3=B3[j3]X3=Y(-12655)G3=Y(-11686)Z=nil C3=A[X3]X3=Y(-12274)j3=C3[X3]Y3=nil t3=A[G3]S=42853 G3=Y(-12406)X3=Y(-11684)A3=nil I3=t3[G3]t3={I3(f3)}C3={j3(X3,S3,g3,N3,N(t3))}g3=nil S3=nil N3=nil B3=F3(M,N(C3))f3=nil else U=Y(-12819)n=h[U]S=480032 M=Y(-12061)C=h[M]M=1 U=C-M C=U U=1 M=U U=0 v=M<U U=n-M end else if S<9804694 then S=24.5 U=S S=12366692 else M=Y(-12223)S=A[M]J={S(C)}v=J[2]M=J[1]S=5567903 r=J[3]end end else if S<9813736 then if S<9811215 then r=Y(-12642)M=Y(-12840)w=Y(-12840)n=A[M]M=Y(-11525)S=n[M]v=h[r]z=A[w]w=Y(-11525)p=z[w]z=Y(-11639)J=p[z]r=U*J M=v+r n=S(M)C=n v=1 M=#j S=M+v M=C j[S]=M M=1 S=U+M U=S S=5894957 else Q=1 V=Y(-12314)b=2 l=Y(-12620)E=p[Q]u=p[b]Q=Y(-12314)w={[l]=E,[Q]=u}b=Y(-12314)E=S u=A[b]m=w[V]b=u(m)u=Y(-11686)Q=b==u S=Q and 16488455 or 16757806 l=Q end else if S<9820437 then E=Y(-12840)l=A[E]E=Y(-12739)S=14684135 w=l[E]z=not w p=z else if S<9834926 then h=g[1]j=g[2]U=Y(-11910)C=Y(-11910)n=h[U]U=j[C]S=n~=U S=S and 16208341 or 3531046 else W=Y(-12314)y=w[W]W=Y(-11639)S=2759614 R=y[W]V=R end end end end else if S<9857008 then if S<9842798 then if S<9840010 then j={F(2,N(g))}U=Y(-11837)n=Y(-12384)S=A[n]h=g[1]n=S(N(j))n=A[U]U=Y(-11895)S=n[U]U=Y(-11686)n=S(N(j))C=Y(-11916)n=A[U]U=Y(-12193)S=n[U]U=h[C]h=nil n=S(U,N(j))S=A[Y(-11476)]n={}else v=Y(-12840)n=A[v]r=4 v=Y(-11536)S=n[v]J=16 v=C+r r=4 n=S(v,r)v=n n=v S=Y(-12354)h[S]=n r=v<J n=r S=r and 242012 or 4570321 end else if S<9845273 then S=7977626 else w=Y(-12118)z=Y(-12118)n=h[z]z=r[w]S=n==z S=S and 7631419 or 10312683 end end else if S<9875751 then if S<9861497 then E=Y(-12620)J=w Q=J b=Y(-12840)l[E]=Q Q=Y(-12840)E=A[Q]u=A[b]b=Y(-11518)Q=u[b]S=2595092 u=Q(l,j)E[J]=u l=nil J=nil else v=U S=11495821 end else if S<9880388 then z=B[v]w=Y(-12081)p=z[w]S=3308036 r=p else if S<9881005 then w=Y(-11917)z=r[w]p=h<z S=1918774 J=p else f3=1 S=10872680 g3=Y(-12113)N3=h[g3]g3=Z+f3 S3=N3[g3]A3=S3 end end end end end end end else if S<10230011 then if S<10056006 then if S<9953722 then if S<9913997 then if S<9902306 then if S<9899915 then v=1 n=0 S=11125151 M=j-v v=M M=1 r=M M=0 J=r<M M=n-r else J=C p=Y(-11550)n=j[p]S=n+J p=S S=Y(-12788)S=h[S]w=Y(-12070)S=S(h,p)z=S n=z[w]S=Y(-12657)p=nil z=nil S=h[S]S=S(h,n)U[J]=S J=nil S=749344 end else if S<9913385 then L=Y(-12586)W=J[L]R=W S=8493584 else S=R R=nil m=a or R l=S(Q,E,u,b,O,m)Q=Y(-11837)b=Y(-11837)E=A[Q]Q=Y(-12026)l=E[Q]u=A[b]b=Y(-12637)Q=u[b]u={Q()}E=l(N(u))u=Y(-11837)Q=A[u]u=Y(-12083)l=Q[u]u=0 Q=l()Q=#E l=Q~=u S=l and 6453022 or 13759456 end end else if S<9926283 then if S<9917580 then M=Y(-12840)n={U}C=A[M]M=Y(-12176)S=C[M]C=S(U)S=A[Y(-12588)]else h=g[1]U=g[3]M=Y(-11837)C=A[M]M=Y(-12512)j=g[2]n=C[M]S=U==n S=S and 5551050 or 5010544 end else if S<9931253 then S=0 U=S C=Y(-12840)n=A[C]Q=Y(-12060)l=Y(-11837)C=Y(-11725)S=n[C]C=S v=S w=A[l]l=Y(-12486)z=w[l]V=Y(-12840)m=A[V]V=Y(-12253)O=m[V]m=3 b=O*m u=C+b b=Y(-11568)O=4 E={[Q]=u,[b]=O}l={E}w=z(l)z=1 p=w[z]z=Y(-12586)J=p[z]p=0 r=J==p M=r S=r and 5229271 or 14268193 else J=0xC0 r=M&J J=0x80 v=r==J S=v and 9185189 or 10322808 end end end else if S<9991374 then if S<9974267 then if S<9959016 then h=g[1]r=Y(-12840)U=Y(-11568)j=h[U]v=A[r]r=Y(-12116)M=v[r]v=Y(-12544)C=M[v]M=Y(-12273)U=C[M]n=j&U j=0 S=n~=j n={S}S=A[Y(-11935)]else W=nil S=16624409 end else if S<9989110 then u=Y(-12840)Q=A[u]u=Y(-12803)S=Q[u]b=Y(-12286)Q=Y(-11390)V=Y(-12840)m=A[V]V=Y(-11477)O=m[V]Q=S[Q]m=O(C)u=b .. m Q=Q(S,u)S=5955088 else n=Y(-12458)h=g[1]S=h[n]S=S and 670314 or 1892563 end end else if S<10015044 then if S<10003092 then b3=S y3=Y(-11893)a3=A[y3]y3=Y(-12427)R3=a3[y3]W3=Y(-12659)y3=u3[W3]L3=B[f[1]]s3=Y(-11482)W3=L3[s3]a3=R3(y3,W3)R3=0 V3=a3~=R3 S=V3 and 15511989 or 16621646 O3=V3 else p=Y(-12840)C=S J=A[p]p=Y(-12032)r=J[p]J=Y(-12000)v=r[J]M=j==v S=M and 13390059 or 3412743 U=M end else if S<10024089 then p=Y(-11837)v=Y(-12077)M=j[v]J=A[p]p=Y(-12512)r=J[p]v=M(h,r)S=8235459 U=v else if S<10038224 then l=nil S=10371854 b=nil else v=Y(-12336)h=g M=A[v]S=d(207405,{})v={S(M)}U=v[3]C=v[4]n=v[1]M=n n=Y(-11586)j=v[2]v=t(6168848,{})S=U(n,v)n=Y(-12641)v=o(13169122,{})S=U(n,v)n=Y(-11416)v=k(3386276,{})S=U(n,v)n=Y(-12192)v=q(12856287,{})S=U(n,v)n=Y(-12295)v=q(8786886,{})S=U(n,v)n=Y(-12407)v=o(9003777,{})S=U(n,v)n=Y(-12374)v=G(13944708,{})S=U(n,v)n=Y(-11776)v=o(12127879,{})S=U(n,v)n=Y(-12430)v=G(5247181,{})S=U(n,v)v=P(12931190,{})n=Y(-11764)S=U(n,v)v=P(14460501,{})n=Y(-12369)S=U(n,v)v=G(12425735,{})n=Y(-11995)S=U(n,v)v=k(3907975,{})n=Y(-12140)S=U(n,v)v=t(5469941,{})n=Y(-11633)S=U(n,v)v=P(12838563,{})n=Y(-11862)S=U(n,v)n=Y(-11412)v=G(5239568,{})S=U(n,v)v=G(6249142,{})n=Y(-11878)S=U(n,v)n=Y(-11564)v=P(11927060,{})S=U(n,v)n=Y(-12592)v=k(13868516,{})S=U(n,v)v=o(9603441,{})n=Y(-11408)S=U(n,v)n=Y(-11519)v=o(12021242,{})S=U(n,v)n=Y(-11586)S={M(n)}n={N(S)}S=A[Y(-11976)]end end end end end else if S<10171358 then if S<10084442 then if S<10070743 then if S<10061326 then S=M n=S(C)C=Y(-12083)n=B[f[1]]S=n[C]C=Y(-12503)v=0 n=S()n=B[f[1]]S=n[C]C=B[f[2]]n=S(j,C)C=Y(-12637)n=B[f[1]]S=n[C]n=S()C=n M=C==v n=M S=M and 7120040 or 6822295 else S=W S=y and 3145427 or 10411144 end else if S<10081866 then M=Y(-11568)n=U[M]S=n and 2707155 or 13624800 else V=Y(-11837)Q=Y(-12223)l=A[Q]m=A[V]V=Y(-11896)O=m[V]m={O()}O={l(N(m))}b=O[3]u=O[2]S=13408463 Q=O[1]end end else if S<10092084 then if S<10088141 then p=Y(-12717)J=A[p]l={J(h)}z=l[2]S=2595092 p=l[1]w=l[3]else r=Y(-12357)v=B[f[1]]M=v[r]n=C==M S=n and 9079477 or 10278749 end else if S<10136231 then S=n and 12817472 or 15044953 else if S<10155966 then Q=1 l=0 S={}E=p-Q w=S Q=E E=1 u=E S=9773323 E=0 b=u<E E=l-u else S=6732705 end end end end else if S<10182521 then if S<10179140 then if S<10171727 then n=Y(-12151)S=h[n]n={S}S=A[Y(-11765)]else w=w+E J=~w J=w<=l u=not Q J=u and J u=w>=l u=Q and u J=u or J u=10297097 S=J and u J=12262876 S=S or J end else if S<10181277 then Z=Y(-11893)W=S K=A[Z]x=Y(-12659)Z=Y(-12427)s=K[Z]e=Y(-12840)Z=a[x]T=A[e]e=Y(-12853)h3=T[e]T=Y(-11482)x=h3[T]K=s(Z,x)s=0 L=K~=s n=L S=L and 14398291 or 834723 else S=Q b=Y(-11568)r[n]=E u=l[b]E=S m=Y(-12840)O=A[m]m=Y(-11805)b=O[m]Q=u==b n=Q S=Q and 13428574 or 357122 end end else if S<10190662 then if S<10187294 then C=Y(-12187)h=g[1]U=h[C]C=0 j=U~=C n=j S=j and 13212138 or 13190600 else S=B[f[1]]C=n S=S and 10621069 or 15390001 end else if S<10203907 then V=R S=y S=R and 15706460 or 2729702 else if S<10216088 then z=Y(-11887)J=h[z]S=J and 16132439 or 4603196 else h=g[1]j=g[2]U=0 n=#j S=n~=U S=S and 2386619 or 6143780 end end end end end end else if S<10335793 then if S<10291466 then if S<10255969 then if S<10242607 then if S<10237534 then M,J=v(C,M)S=M and 6665627 or 4310562 else S=A[Y(-11781)]n=true n={n;J}end else if S<10247107 then r3=Y(-11812)v3=T[r3]r3=0 k3=v3>=r3 S=k3 and 2579443 or 5904877 else V=Y(-12840)m=A[V]V=Y(-12803)S=m[V]m=Y(-12419)m=S[m]m=m(S,w,l)S=3351340 end end else if S<10280660 then if S<10260169 then S=Y(-12716)S=w[S]b=u V=Y(-12023)m=V .. O S=S(w,m)S=S and 9215077 or 13456101 else r=B[f[1]]J=Y(-12067)v=r[J]M=C==v S=M and 14622810 or 9521797 end else if S<10287193 then v=Y(-11837)S=Y(-11536)M=A[v]v=Y(-12512)S=h[S]n=M[v]S=S(h,j,n)M=S p=B[f[1]]v=S r=p J=S S=p and 8323689 or 11057833 else J=Y(-12840)r=A[J]J=Y(-12847)v=r[J]r=Y(-12544)S=v[r]v=C S[j]=v S=A[Y(-12222)]n={C}end end end else if S<10317450 then if S<10307156 then if S<10304318 then O=Y(-12840)J=w b=A[O]O=Y(-12081)u=b[O]b=u(J)V=Y(-11915)O=S u=Y(-11719)u=b[u]u=u(b)m=b[V]S=m and 15203434 or 16438044 u=m else J=Y(-12576)C=B[f[1]]r=h[J]J=Y(-12334)v=r[J]M=C(j,v)C=0 n=M>=C S=n and 6202586 or 15166457 end else if S<10309390 then S={}j=S S=0 U=S S=nil C=S S=199566 else w=Y(-11686)E=Y(-12655)z=A[w]w=Y(-12193)S=z[w]l=A[E]u=Y(-11750)u=h[u]E=Y(-12274)w=l[E]E=Y(-11478)Q={u(h)}l={w(E,N(Q))}w=Y(-11893)z=S(M,N(l))l=Y(-11568)z=A[w]E=Y(-12539)w=Y(-12427)S=z[w]w=r[l]l=U[E]z=S(w,l)u=Y(-12146)S=Y(-12331)w=S Q=U[u]E=z==Q l=E S=E and 5685778 or 10760441 end end else if S<10321836 then if S<10320844 then S=6022557 v=nil r=nil else p=Y(-12840)S=J h[S]=r J=A[p]l=Y(-11968)p=Y(-12701)r=J[p]w=h[l]l=Y(-11467)z=w[l]p=C+z z=100 J=r(p,z)r=Y(-12716)r=J[r]p=Y(-12669)r=r(J,p)S=not r S=S and 427631 or 4067130 end else if S<10325306 then w=0xE0 z=M&w w=0xC0 p=z==w S=p and 2363038 or 8131587 else if S<10334548 then C=Y(-11993)n=Y(-11390)S=A[n]n=S(C)S=7811003 else S=15325732 end end end end end else if S<10411198 then if S<10394544 then if S<10373754 then if S<10355049 then C=Y(-12626)J=Y(-12840)r=A[J]J=Y(-12826)v=r[J]r=Y(-12766)M=v[r]z=Y(-12840)v=Y(-12010)p=A[z]z=Y(-12826)J=p[z]p=Y(-12601)r=J[p]S=2545760 U={[C]=M;[v]=r}n=U else u,b=E(Q,u)S=u and 12733254 or 9628456 end else if S<10384260 then j3=Y(-11812)B3=A3[j3]j3=0 F3=B3~=j3 S=F3 and 15603641 or 9780299 else M=C(v)S=r n=M S=4433471 end end else if S<10402113 then if S<10401459 then p,l=z(J,p)S=p and 9220345 or 14287010 else n=U S=C S=12888096 end else if S<10404130 then S=nil n={S}S=A[Y(-12675)]else if S<10409207 then n={U,j}S=A[Y(-11710)]else s=Y(-12331)K=not J S=K and 2955176 or 16527680 end end end end else if S<10443163 then if S<10423908 then if S<10417564 then S=M S=n and 4606862 or 6393822 else S=z J=p S=6067442 end else if S<10431654 then U=Y(-12840)h=g[1]j=A[U]U=Y(-12826)n=j[U]j=Y(-12077)C=Y(-11837)S=n[j]U=A[C]C=Y(-12034)j=U[C]n={S(h,j)}S=A[Y(-11825)]n={N(n)}else S=3743173 N3=Y(-11695)Y3=N3 end end else if S<10467582 then if S<10465471 then S=M S=C and 11804525 or 9401239 else p=Y(-12840)J=A[p]p=Y(-11514)r=J[p]J=Y(-12480)v=r[J]r=30 M=v>=r U=M S=4891641 end else if S<10469803 then j3=Y(-11812)i3=Y(-12840)B3=A[i3]i3=Y(-12544)F3=B3[i3]i3=A3[j3]B3=F3(i3)i3=Y(-12840)F3=A[i3]i3=Y(-11553)i3=F3[i3]i3=i3(F3,B3)U3=1 F3=Y(-12520)S3=i3 F3=B3[F3]F3=F3(B3)j3=F3[U3]U3=Y(-12005)B3=nil S=821186 F3=nil U3=j3[U3]U3=U3(j3)Y3=U3 else if S<10475979 then l=not U w=S z=l S=l and 4607152 or 12324343 else z=Y(-12826)p=h[z]z=Y(-12284)S=14709993 z=p[z]z=z(p,j)r=z end end end end end end end end end else if S<11455920 then if S<10945007 then if S<10737384 then if S<10619801 then if S<10551435 then if S<10528678 then if S<10504154 then if S<10500378 then n=#U C=0 S=n>C S=S and 6489652 or 12174627 else j=Y(-12840)h=g[1]n=A[j]J=Y(-12840)j=Y(-12826)S=n[j]r=A[J]J=Y(-12354)j=S C=S v=r[J]r=29 M=v<r U=M S=M and 4673445 or 935768 end else if S<10514709 then I3=Y(-11686)X3=A[I3]S=9615877 I3=Y(-12193)C3=X3[I3]I3=S3[j3]j3=nil N3=nil X3=C3(I3,B3)B3=nil else r=Y(-12620)U=g[3]M=Y(-11942)j=g[2]C=j[M]h=g[1]v=j[r]M=Y(-12331)n=C or M M=S C=n r=Y(-12331)n=v or r v=B[f[1]]M=n r=Y(-12081)n=v[r]v=n(h,C,M)n=not v S=n and 7807042 or 4521076 end end else if S<10542122 then if S<10539170 then J=Y(-12840)r=A[J]S=13764193 J=Y(-12081)v=r[J]r=v(U)C=r else S=R S=3319278 m=a end else if S<10545996 then Z=Y(-12318)K=j[Z]Z=0 s=K>Z W=s S=12436341 else U=Y(-12060)j=Y(-12840)h=g[1]n=A[j]j=Y(-11541)S=n[j]j=h[U]U=Y(-12591)U=S[U]n={U(S,j)}n={N(n)}S=A[Y(-12303)]end end end else if S<10587304 then if S<10570425 then if S<10562762 then M=nil S=10287592 else O=V S=a S=16001720 end else if S<10580695 then M=Y(-12332)n=h[M]S=n[j]n={S}S=A[Y(-11991)]else S={}h=g[1]J=Y(-12081)n=Y(-12223)U=S S=A[n]r=B[f[1]]j=g[2]v=r[J]r={S(v)}M=r[3]n=r[1]C=r[2]S=14064602 v=n end end else if S<10606813 then if S<10588933 then r=Y(-12840)v=A[r]r=Y(-12847)M=v[r]v=Y(-12169)C=M[v]S=C[U]S=S and 7912025 or 15340515 else u=Y(-12401)Q=U[u]E=z==Q S=E and 14732346 or 16224301 end else if S<10610770 then S=3490929 else if S<10615386 then S=C h[S]=n n=0 S={}M=9 C=S S=13358777 v=M M=1 r=M M=0 J=r<M M=n-r else p=1 S=J-p J=S S=363482 end end end end end else if S<10695460 then if S<10638268 then if S<10629608 then if S<10621405 then r=Y(-11837)v=A[r]r=Y(-11537)M=v[r]n=Y(-11536)n=h[n]n=n(h,j,M)S=C .. n n={S}S=A[Y(-12082)]else z=Y(-12224)S=h[z]J=v J=nil w=Y(-11877)z=p[w]w=p p=nil S[z]=w S=3839242 end else if S<10636952 then S=p and 5805321 or 13574994 else S=10171161 D3=Y(-12856)P3=I3  .. D3 I3=P3 end end else if S<10656274 then if S<10639817 then S=16023665 p=nil M=nil else Ag=Y(-12856)S=3987525 e3=y3  .. Ag y3=e3 end else if S<10688814 then r=Y(-12179)n=A[r]r=Y(-11529)S=n[r]p=Y(-12144)J=Y(-12144)r=h[J]J=h[p]n=S(r,J)S=n and 9128354 or 4148402 else if S<10692170 then S=5808647 V=Y(-11568)m=U[V]b=m else C=Y(-12846)U=B[f[1]]C=U[C]h=g[1]j=g[2]r=Y(-12060)C=C(U,j)v=B[f[2]]U=Y(-12315)U=C[U]M=v[r]U=U(C,M)C=1 n=U[C]U=Y(-12586)S=n[U]n={S}S=A[Y(-12378)]end end end end else if S<10723328 then if S<10718653 then if S<10704311 then c3=Y(-12337)f3=A[c3]c3=Y(-12283)g3=f3[c3]f3=g3(e)N3=f3==e S=3685962 Y3=N3 else j=g[2]U=not j h=g[1]n=U S=U and 11067101 or 16002610 end else if S<10721542 then h=g[1]S=31 j=g[2]n={S}S=A[Y(-11563)]else r=S p=Y(-12670)J=j[p]n=J S=J and 320120 or 3334065 end end else if S<10730831 then if S<10729310 then E=Y(-12223)S=A[E]b={S(M)}S=9237598 Q=b[2]E=b[1]u=b[3]else O=S c3=Y(-12169)r=n E=Y(-11776)w=B[v]J=r z=S O=Y(-11805)r3=0x15 z=4 K=Y(-11514)l=8 u=Y(-11677)Q=Y(-11922)p=w and l n=p or z T3=0x40 b3=Y(-12000)I3=Y(-11568)s={}w=Y(-12295)e3=Y(-11581)p=n l=Y(-12374)L=Y(-12049)n=B[h]e={}L3=Y(-11849)z=n(w)S3=Y(-12544)i3=Y(-11568)n=B[h]w=n(l)l=i()B[l]=w y=Y(-12038)Y3={}tg[2]=0x0010 a3=0x1e W={}n=B[h]x=Y(-12847)g3=Y(-12075)f3={}k3=S w=n(E)n=H(12876980,{})N3={}k3=Y(-11568)M3=0x14 E=Y(-11686)E=A[E]E[Q]=n n3=Y(-12701)V=S A3=Y(-12494)E=Y(-11686)B3={}n=t(15162576,{})Q=Y(-12062)E=A[E]R=6 E[Q]=n E=Y(-12616)Q=B[v]V=4 a=B[v]U3=Y(-11568)Z=B[M]m=a and R T=Y(-12081)R={}a=Y(-12065)Yg=Y(-12350)b=m or V F3={}h3={[T]=e,[A3]=Y3;[S3]=N3;[g3]=f3,[c3]=F3;[n3]=B3}V=Y(-12253)m=Y(-12173)n={[E]=Q;[u]=b;[O]=r;[m]=J;[V]=p,[a]=R;[y]=W;[L]=s;[K]=Z,[x]=h3}x=Y(-11568)T=Y(-11568)R=1 L=Y(-11568)A3=Y(-11568)fg=Y(-11926)h3=1 b=Y(-11718)E=Y(-12840)V=1 A[E]=n Q3=0x1b s=1 S3=Y(-11568)W=1 x3=Y(-11704)Q=Y(-12840)a=Y(-11568)E=A[Q]t3=Y(-11639)g3=Y(-11568)d3=S Q=Y(-12314)N3=4 y=Y(-11568)m=Y(-11639)n3=Y(-11568)O={[m]=V;[a]=R}a=Y(-11639)m=Y(-11559)R=1 V={[a]=R;[y]=W}B3=32 a=Y(-11947)D3=Y(-12746)W=1 y=Y(-11639)K=Y(-11568)C3=64 R={[y]=W,[L]=s}F3=32 j3=16 P3=Y(-12840)L=Y(-11639)y=Y(-12050)Z=1 s=1 W={[L]=s,[K]=Z}e=2 Z=1 f3=4 K=Y(-11639)ig=Y(-12802)s={[K]=Z,[x]=h3}x=Y(-11639)K=Y(-11437)L=Y(-12694)Y3=2 h3=2 Z={[x]=h3;[T]=e}o3=A[P3]Ag=0x41 T=Y(-11639)Xg=Y(-11482)x=Y(-11483)P3=Y(-12616)m3=Y(-12293)hg=0x00000100 c3=Y(-11568)e=2 h3={[T]=e;[A3]=Y3}Y3=4 T=Y(-11461)A3=Y(-11639)Z3=0x21 e={[A3]=Y3;[S3]=N3}S3=Y(-11639)A3=Y(-12298)S=A[Y(-11570)]N3=4 H3=o3[P3]Y3={[S3]=N3;[g3]=f3}f3=8 g3=Y(-11639)N3={[g3]=f3;[c3]=F3}c3=Y(-11639)F3=8 v3=Y(-11701)f3={[c3]=F3,[n3]=B3}g3=Y(-11768)S3=Y(-11508)n3=Y(-11639)B3=4 c3=Y(-12343)F3={[n3]=B3,[i3]=j3}z3=Y(-11647)n3=Y(-11522)X3=Y(-11639)i3=Y(-11639)j3=8 B3={[i3]=j3;[U3]=C3}U3=Y(-11639)o3=0x10 i3=Y(-12091)W3=0x1f d3=0x8 C3=Y(-11568)j3={[U3]=p,[C3]=r}Ng=Y(-12537)U3=Y(-12428)C3={[X3]=p;[I3]=r}X3=Y(-11541)q3=H3 and o3 G3=q3 or d3 I3={[t3]=G3,[k3]=r}u={[b]=O,[m]=V,[a]=R;[y]=W;[L]=s;[K]=Z,[x]=h3;[T]=e,[A3]=Y3,[S3]=N3;[g3]=f3,[c3]=F3,[n3]=B3;[i3]=j3;[U3]=C3,[X3]=I3}y=6 E[Q]=u j3=0x0d K=8 b=2 m=4 q3=0x11 Q=Y(-12840)T=12 E=A[Q]Z=4 E3=0x18 Q=Y(-12055)O=1 K3=Y(-12141)h3=4 x=9 i3=Y(-11735)e=16 V=1 R=1 W=2 Y3=64 L=7 A3=13 s=2 Sg=0x45 a=5 u={[b]=O,[m]=V,[a]=R,[y]=W;[L]=s;[K]=Z;[x]=h3;[T]=e,[A3]=Y3}E[Q]=u E=t(11577838,{})Q=Y(-12840)Q=A[Q]u=Y(-12330)Q[u]=E L=Y(-12475)tg[1]=Y(-12440)u=Y(-11477)E=d(222693,{})C3=0x0e b=Y(-12544)cg=0xff Q=Y(-12840)Q=A[Q]Q[u]=E E=k(9747532,{})Q=Y(-12840)c3=Y(-12461)S3=Y(-11727)a=Y(-12013)V3=0x1d ng=0x00000080 N3=0x09 s=Y(-11883)Q=A[Q]gg=0x55 d3=Y(-12596)J3=Y(-11964)u=Y(-12610)t3=Y(-12466)s3=0x20 m=Y(-11767)Q[u]=E o3=Y(-11507)E=H(2302134,{v})Q=Y(-12840)x=Y(-12313)Q=A[Q]A3=Y(-12654)u=Y(-11546)Q[u]=E Q=Y(-12840)u=Y(-11536)P3=0x13 Fg=Y(-12387)Q=A[Q]E=d(5686839,{})I3=0x0f Q[u]=E K=Y(-12313)E=q(6719808,{})u=Y(-12176)Q=Y(-12840)Q=A[Q]f3=0x0a Q[u]=E Q=Y(-12840)E=P(15304642,{})Q=A[Q]B3=0x0c u=Y(-11744)h3=Y(-11898)Q[u]=E w3=0x19 Q=Y(-12840)E=A[Q]k3=Y(-11542)u=t(9537769,{})Q=Y(-12701)E[Q]=u p3=0x16 u=Y(-12560)Q=Y(-12840)W=Y(-12475)E=k(1732596,{})y=Y(-12411)R3=Y(-12801)Q=A[Q]V=0x0007 Q[u]=E Q=Y(-12840)Q=A[Q]Z=Y(-11898)u3=Y(-11595)E=k(14639827,{})X3=Y(-12818)u=Y(-11518)Q[u]=E R={y;W,L,s;K,Z}n3=Y(-12167)U3=Y(-12019)L=Y(-11385)y=Y(-12273)H3=0x12 Q=Y(-12840)Z=Y(-11883)e=0x07 s=0x0400 T=Y(-11592)E=A[Q]W=0x0010 Q=Y(-12116)O={[m]=V,[a]=R;[y]=W;[L]=s}s=Y(-12475)l3=Y(-11654)y3=Y(-12667)L=Y(-12411)K=Y(-12475)W={L;s;K;Z,x,h3}s=0x0010 a=Y(-12666)L=Y(-12848)y=Y(-12013)R=0x0007 m=Y(-12494)Z=0x0040 h3=0x06 K=Y(-12623)V={[a]=R;[y]=W,[L]=s;[K]=Z}u={[b]=O,[m]=V}G3=0x10 O=0x00 Ig=0x0002 F3=0x0b E[Q]=u K=Y(-11600)W=0x03 x=Y(-12742)g3=Y(-12015)a=Y(-12417)Q=Y(-12840)O3=0x1c E=A[Q]s=0x04 Q=Y(-12032)b=Y(-12380)m=Y(-11569)R=0x02 V=0x01 Y3=0x08 Z=0x05 y=Y(-12838)L=Y(-11822)u={[b]=O;[m]=V;[a]=R,[y]=W;[L]=s,[K]=Z,[x]=h3,[T]=e,[A3]=Y3;[S3]=N3;[g3]=f3,[c3]=F3,[n3]=B3,[i3]=j3,[U3]=C3;[X3]=I3,[t3]=G3;[k3]=q3;[d3]=H3,[o3]=P3,[D3]=M3;[v3]=r3,[J3]=p3;[z3]=E3,[l3]=w3,[u3]=Q3,[m3]=O3,[b3]=V3,[R3]=a3,[y3]=W3,[L3]=s3,[K3]=Z3,[x3]=T3;[e3]=Ag;[Yg]=Sg;[Ng]=gg;[fg]=cg}y3=Y(-12146)q3=0x0005 x3=Y(-12864)Ug=Y(-12041)G3=0x0004 fg=Y(-12191)Ng=Y(-12531)Sg=0x00000006 k3=Y(-12164)i3=Y(-12805)Ag=0x00000005 W=0x0002 Y3=0x0010 M3=0x0020 J3=Y(-12648)F3=0x0007 s3=0x00000002 z3=Y(-12599)h3=0x0005 U3=Y(-11774)K3=Y(-12401)Z3=0x00000003 X3=Y(-11716)V3=0x00000007 e3=Y(-11436)m=Y(-12514)E[Q]=u x=Y(-12393)N3=0x0020 P3=0x0010 H3=0x0006 O3=0x2000 A3=Y(-12848)I3=0x0003 cg=0x00000020 jg=0x00002000 t3=Y(-12067)O=0x0007 K=Y(-11668)Q=Y(-12840)V=0x0000 C3=0x0002 Bg=Y(-12145)l3=Y(-12342)E=A[Q]e=0x0006 gg=0x00000007 j3=0x0001 n3=Y(-12047)v3=Y(-12042)R=0x0001 m3=Y(-12741)B3=0x0000 a3=0x00000000 T=Y(-11752)Z=0x0004 Yg=Y(-12290)E3=0x0000 W3=0x00000001 L=Y(-11845)r3=0x0040 D3=Y(-12611)S3=Y(-12477)s=0x0003 w3=0x0100 p3=0x0100 T3=0x00000004 Q=Y(-12853)d3=Y(-12357)f3=0x0040 y=Y(-12619)u3=Y(-11385)a=Y(-12321)Q3=0x0400 g3=Y(-12623)c3=Y(-11767)R3=Y(-11738)Cg=0x0001 b3=Y(-12539)o3=Y(-12273)L3=Y(-12228)b=Y(-12666)u={[b]=O,[m]=V,[a]=R;[y]=W;[L]=s;[K]=Z;[x]=h3;[T]=e;[A3]=Y3;[S3]=N3;[g3]=f3,[c3]=F3;[n3]=B3;[i3]=j3,[U3]=C3,[X3]=I3;[t3]=G3,[k3]=q3;[d3]=H3;[o3]=P3,[D3]=M3;[v3]=r3;[J3]=p3;[z3]=E3,[l3]=w3,[u3]=Q3;[m3]=O3,[b3]=V3,[R3]=a3,[y3]=W3,[L3]=s3;[K3]=Z3,[x3]=T3,[e3]=Ag;[Yg]=Sg,[Ng]=gg;[fg]=cg,[Fg]=ng,[Bg]=hg,[ig]=jg,[Ug]=Cg,[Xg]=Ig;[tg[1]]=tg[2]}E[Q]=u W=I(9064315,{})Q=Y(-12840)E=A[Q]L=Y(-12360)Q=Y(-11531)u={}V={}y=Y(-12620)E[Q]=u Q=Y(-12840)Q=A[Q]u=Y(-11553)E=G(6749294,{})s=I(4704838,{})K=Y(-12419)a=Y(-12620)Q[u]=E u=Y(-12257)Q=Y(-12840)E=I(15100381,{M})Q=A[Q]T=Y(-12803)e=I(9838449,{})h3=I(8651851,{})Q[u]=E x=Y(-11390)O={}E=o(4398224,{})Z=I(13655727,{})u=Y(-11540)Q=Y(-12840)Q=A[Q]Q[u]=E m=Y(-12080)Q=Y(-12840)E=A[Q]b=Y(-11916)R=w[y]y=Y(-12673)Q=Y(-12803)u={[b]=O,[m]=V;[a]=R;[y]=W;[L]=s;[K]=Z;[x]=h3,[T]=e}E[Q]=u b=Y(-12389)u=Y(-11557)E=t(5115560,{})Q=Y(-12840)Q=A[Q]Q[u]=E O=P(12709138,{l,h})Q=Y(-12840)u=Y(-11970)E=H(7019397,{})Q=A[Q]Q[u]=E Q=Y(-11410)E=A[Q]u={[b]=O}Q={E(z,u)}n={N(Q)}end else if S<10731494 then m=Y(-11568)O=Y(-11893)R=Y(-12840)b=A[O]O=Y(-12427)u=b[O]O=j[m]a=A[R]R=Y(-12853)V=a[R]a=Y(-12741)m=V[a]b=u(O,m)u=0 Q=b~=u S=Q and 13644524 or 11272051 else if S<10733087 then S=16585595 M=Y(-11643)C=h[M]n=C else S=A[Y(-11391)]n={v}end end end end end end else if S<10849087 then if S<10776649 then if S<10761984 then if S<10747166 then if S<10744298 then S=v n=M S=8033147 else S=12041100 l=nil w=nil end else if S<10759203 then v,p=r(M,v)S=v and 14719052 or 11469202 else u=Y(-12228)Q=U[u]E=z==Q S=5685778 l=E end end else if S<10771817 then if S<10770698 then W=Y(-12850)V=W S=14299018 else S=w p=z S=1601657 end else if S<10773265 then U=Y(-12840)j=g[2]h=i()B[h]=g[1]n=A[U]U=Y(-12405)S=n[U]v=Y(-12734)M=Y(-12540)C=B[h]U=C[M]M=B[h]n=Y(-11548)v=M[v]v=v(M)n=S[n]M=Y(-12314)C=v[M]n=n(S,U,j,C)C=Y(-12571)U=i()j=nil B[U]=n n=B[h]S=k(5267698,{U;h})h=X(h)U=X(U)n[C]=S S=A[Y(-11705)]n={}else C=Y(-12620)U=h[C]S=11078611 C=Y(-12169)j=U==C n=j end end end else if S<10814525 then if S<10781387 then if S<10780839 then J=Y(-12026)r=B[f[1]]v=r[J]r=v(C)S=r and 8118690 or 11717303 M=r else S=6143780 end else if S<10805509 then X3=Y(-11686)C3=A[X3]X3=Y(-12193)J3=Y(-11387)e=C3[X3]k3=Y(-11725)r3=Y(-12681)I3=A[k3]J3=h[J3]v3=Y(-11798)S=6027861 k3=T[v3]v3=T[r3]r3=Y(-12606)X3={J3(h,I3,k3,v3,r3)}C3=e(v,N(X3))else S=n and 14127996 or 11113058 end end else if S<10830759 then if S<10819469 then S=13624800 else n=Y(-11548)C=Y(-12385)S=A[n]U=h[C]M=Y(-11548)M=U[M]C={M(U,j)}n=S(N(C))S=Y(-12458)n=true h[S]=n n={h}S=A[Y(-11509)]end else if S<10837711 then j=g[2]h=g[1]n=Y(-12223)S=A[n]r=Y(-12732)U=g[3]r=h[r]v={r(h)}r={S(N(v))}n=r[1]S=1333691 C=r[2]M=r[3]v=n else if S<10840227 then M=M+r p=not J C=~M C=M<=v C=p and C p=M>=v p=J and p C=p or C p=11843424 S=C and p C=3921915 S=S or C else n={}S=A[Y(-11778)]U=nil h=nil C=nil j=nil end end end end end else if S<10883990 then if S<10870842 then if S<10861883 then if S<10859472 then S=A[Y(-11850)]n={n}else n=B[f[2]]p=M z=Y(-11681)S=n[z]E=4 l=Y(-12206)w=h[l]l=p*E z=w+l w=4 p=nil l=B[f[3]]n=S(C,z,w,l)S=13358777 end else if S<10869912 then n=Y(-12641)j={F(2,N(g))}h=g[1]n=h[n]S={n(h,N(j))}n={N(S)}S=A[Y(-12615)]else r=Y(-11837)p=Y(-12060)l=S v=A[r]S=j and 13790507 or 4423394 z=Y(-11568)r=Y(-12486)w=j M=v[r]end end else if S<10873651 then if S<10872901 then S=Y3 g3=Y(-12491)N3=Y(-11686)S3=A[N3]N3=Y(-12193)Y3=S3[N3]N3=Y(-12331)f3=Y(-12840)S3=Y3(M,N3)N3=Y(-11686)S3=A[N3]N3=Y(-12193)g3=A3[g3]Y3=S3[N3]N3={g3(A3)}S3=Y3(M,N(N3))Y3=0 g3=A[f3]f3=Y(-12038)N3=g3[f3]S3=N3[Y3]S=S3 and 3474175 or 8458853 else r=nil S=4148402 end else if S<10876623 then S=b b=Y(-12331)E=u or b u=Y(-12620)M=nil Q=v[u]l=E .. Q J={[p]=z,[w]=l}r=S(v,J)S=2631627 v=nil C=r else if S<10882398 then J=Y(-12830)z=Y(-12840)n=B[f[1]]S=n[J]p=A[z]z=Y(-12463)J=p[z]p={J(r)}n=S(h,r,N(p))S=11511884 else C=4 j=S U=h>=C n=U S=U and 3923493 or 4538369 end end end end else if S<10896289 then if S<10886489 then if S<10884391 then p=Y(-12840)J=A[p]p=Y(-12032)r=J[p]J=Y(-11507)v=r[J]M=U==v n=M S=M and 13083890 or 16287906 else Q,b=l(E,Q)S=Q and 15761917 or 310184 end else if S<10894006 then h=g[1]n=Y(-11464)n=h[n]j=Y(-11975)n=n(h)j=n[j]j=j(n)n=Y(-12489)S=j==n n={S}S=A[Y(-11999)]else z=l S=E S=5397726 end end else if S<10927521 then if S<10902878 then S={}n=Y(-12314)U=S v=Y(-12655)S=A[n]n=S(j)C=n M=C==v n=M S=M and 7278437 or 16078192 else n=Y(-12840)E=nil S=A[n]w=nil n=Y(-12863)Q=z l=nil z=nil S[n]=Q S=6473922 end else if S<10935544 then S=1671138 M=Y(-12822)C=h[M]n=C else if S<10936824 then n=Y(-11464)j=Y(-11975)h=g[1]n=h[n]n=n(h)j=n[j]j=j(n)n=Y(-12837)S=j==n n={S}S=A[Y(-12395)]else h3=Y(-11686)x=A[h3]h3=Y(-12193)T=Y(-12318)Z=x[h3]h3=Y(-12003)x=Z(M,h3)Z=0 h3=h[T]T=1 x=h3-T h3=x x=1 T=x x=0 e=T<x x=Z-T S=42853 end end end end end end end else if S<11143876 then if S<11059125 then if S<10997740 then if S<10967882 then if S<10964112 then if S<10954833 then Q=B[f[1]]u=Y(-11605)E=Q[u]Q=E(J)l=not Q z=l S=8045979 else s=Y(-11686)L=A[s]s=Y(-12193)K=Y(-12474)W=L[s]s=Y(-11504)L=W(v,s)s=Y(-12072)L=j[s]s=j[K]W=L+s K=Y(-12072)s=j[K]K=0 L=s+K K=1 s=W-K K=s s=1 Z=s S=4555328 s=0 x=Z<s s=L-Z end else if S<10966243 then r=Y(-12840)v=A[r]r=Y(-12032)M=v[r]v=Y(-11701)n=M[v]S=U==n S=S and 7469462 or 347327 else z=Y(-12223)J=A[z]Q=Y(-11446)E=A[Q]Q={J(E)}z=Q[1]S=13047581 w=Q[2]l=Q[3]end end else if S<10982053 then if S<10980762 then C=13 U=h==C S=U and 14959931 or 266804 else r3=J3 u3=Y(-12840)w3=A[u3]u3=Y(-12075)l3=w3[u3]m3=Y(-11814)Q3=T[m3]m3=false O3=false u3=Q3+r3 w3=l3(u3)u3=Y(-12005)V3=Y(-12721)l3=Y(-11975)l3=w3[l3]Q3=Y(-11975)l3=l3(w3)u3=w3[u3]u3=u3(w3)Q3=u3[Q3]Q3=Q3(u3,m3,O3)b3=u3[V3]m3=Y(-12331)V3=1 O3=b3==V3 S=O3 and 9991446 or 4543150 end else if S<10992213 then j=g[2]h=g[1]S=24 n={S}S=A[Y(-12603)]else Q=Y(-12564)E=B[f[1]]l=E[Q]z=S E=l(r)w=not E S=w and 5354116 or 12736607 p=w end end end else if S<11032228 then if S<11018322 then if S<11010824 then s3=Y(-12429)x3=Y(-11814)L3=s3  .. l3 W3=Q3  .. L3 s3=Y(-12840)y3=m3  .. W3 L3=A[s3]s3=Y(-12826)W3=L3[s3]L3=Y(-12859)Z3=T[x3]K3=Z3+r3 L3=W3[L3]Z3=0 s3=K3-Z3 L3=L3(W3,s3)s3=S W3=L3 S=L3 and 3038399 or 7424291 else v=B[f[1]]r=Y(-12565)M=v[r]v=M(C)n=v S=3051541 end else if S<11027308 then f3=Y(-11686)g3=A[f3]S=8458853 S3=nil f3=Y(-12193)N3=g3[f3]f3=Y(-12672)g3=N3(M,f3)else E=S S=w and 8202009 or 15424203 l=w end end else if S<11036415 then if S<11035963 then V=Y(-11568)m=Y(-11568)O=h[m]m=J[V]b=O[m]S=13329765 Q=b else S=561089 J=Y(-11775)r=U .. J U=r end else if S<11043863 then M=Y(-12314)U=Y(-11893)h=g[1]j=A[U]U=Y(-12427)n=j[U]C=h[M]M=Y(-12659)U=C[M]C=0x0010 j=n(U,C)S=not j S=S and 15467817 or 5027366 else if S<11052628 then n=Y(-12613)n=C[n]v=Y(-12068)M=Y(-12254)n=n(C,M,v)S=n .. j n={S}S=A[Y(-12731)]else S=J S=r and 12849199 or 13281572 n=r end end end end end else if S<11112559 then if S<11081788 then if S<11069532 then if S<11067388 then S=n and 7815057 or 11883976 else C=S h=g[1]U=g[3]j=g[2]J=Y(-11905)M=Y(-12331)n=j or M M=Y(-11759)C=M .. U S=n .. C r=h[J]M=S v=not r n=v C=S S=v and 10417405 or 5210277 end else if S<11078656 then n={n}S=A[Y(-11873)]else C=Y(-11837)U=A[C]C=Y(-12499)v=Y(-11837)z=1 S=U[C]M=A[v]v=Y(-12543)C=M[v]U=S(C)r=Y(-11837)C=Y(-11837)U=A[C]C=Y(-12083)S=U[C]C=Y(-11837)U=S()U=A[C]C=Y(-12503)S=U[C]v=A[r]r=Y(-12551)C=Y(-12671)M=v[r]p=Y(-11837)J=A[p]v=false p=Y(-11589)r=J[p]p=nil J=nil U=S(C,M,v,r,J,p,z)M=Y(-11837)C=A[M]M=Y(-12637)U=C[M]C=U()U=0 S=C==U S=S and 1889542 or 14521327 end end else if S<11085768 then if S<11085526 then r=Y(-12840)v=A[r]r=Y(-12032)S=5990403 M=v[r]v=Y(-12746)C=M[v]U=j==C n=U else h=g[1]j=g[2]S=not h S=S and 1193650 or 3332518 end else if S<11105232 then M=nil S=10884083 else if S<11110722 then l=nil S=10398949 w=nil else V=Y(-12046)m=r[V]b=S V=Y(-11707)O=m==V u=O S=O and 5756674 or 14351513 end end end end else if S<11125375 then if S<11115957 then if S<11113290 then C=Y(-12840)U=A[C]C=Y(-11392)n=U[C]S=j<=n S=S and 76373 or 8350265 else v=Y(-11681)J=Y(-11988)p=Y(-11988)M=B[f[4]]C=M[v]r=h[J]J=Y(-12060)S=2646863 v=r[J]J=h[p]p=Y(-11568)r=J[p]p=Y(-12206)J=h[p]M=C(U,v,r,J)M=true C=Y(-12458)h[C]=M end else if S<11121951 then v=Y(-12079)M=U .. v S=16666869 U=M else p=not J M=M+r n=~M n=M<=v n=p and n p=M>=v p=J and p n=p or n p=14031435 S=n and p n=10079659 S=S or n end end else if S<11127162 then if S<11126402 then r=Y(-12080)v=h[r]r=Y(-12136)S=10401847 M=v[r]U=M else q3=Y(-12840)k3=A[q3]q3=Y(-12826)j3=I3 H3=Y(-11686)P3=Y(-12655)j3=nil G3=k3[q3]d3=Y(-12432)d3=G3[d3]d3={d3(G3,t3)}q3=d3[2]t3=nil k3=d3[1]d3=A[H3]H3=Y(-12193)G3=d3[H3]o3=A[P3]P3=Y(-12274)H3=o3[P3]P3=Y(-12518)o3={H3(P3,k3,q3)}k3=nil q3=nil d3=G3(M,N(o3))S=3939064 end else if S<11130763 then v=C w=Y(-11876)z=r[w]p=z>h S=p and 9880683 or 1918774 J=p else if S<11139379 then n=Y(-11493)S=C[n]S=S and 9697730 or 903862 else C=Y(-12224)U=h[C]S=U[j]n={S}S=A[Y(-11956)]end end end end end end else if S<11317129 then if S<11224110 then if S<11195916 then if S<11167306 then if S<11160747 then U=Y(-11893)j=A[U]h=g[1]U=Y(-12427)C=Y(-11568)n=j[U]U=h[C]C=0x0010 j=n(U,C)n=0 S=j==n n={S}S=A[Y(-12816)]else T=Y(-12659)Y3=Y(-12840)h3=Y(-11893)x=A[h3]h3=Y(-12427)Z=x[h3]h3=a[T]A3=A[Y3]Y3=Y(-12853)e=A3[Y3]A3=Y(-11482)T=e[A3]x=Z(h3,T)Z=0 K=x~=Z S=K and 16645582 or 8184397 end else if S<11183496 then E=Y(-11608)l=U .. E U=l S=7021687 else h=g[1]j=g[2]U=j M=Y(-11968)C=h[M]M=Y(-11974)n=C[M]S=n>U S=S and 8339774 or 3183459 end end else if S<11219505 then if S<11203985 then J=v z=Y(-11427)S=z .. p l=Y(-11837)w=A[l]l=Y(-12499)z=S S=w[l]l=-1 w=S(l)l=Y(-11837)w=A[l]Q=Y(-11837)l=Y(-12083)S=w[l]w=S()l=Y(-11837)w=A[l]l=Y(-12503)S=w[l]E=A[Q]Q=Y(-12551)l=E[Q]E=false b=Y(-11837)O=Y(-12840)u=A[b]b=Y(-11589)Q=u[b]b=A[O]O=Y(-12726)u=b[O]O=Y(-11907)b=h[O]w=S(z,l,E,Q,u,b)l=Y(-11837)Q=2 E=1 w=A[l]l=Y(-11913)u=Y(-11837)S=w[l]l=Y(-11696)l=z[l]l=l(z,E,Q)Q=A[u]u=Y(-12551)E=Q[u]w=S(l,E)l=Y(-11837)w=A[l]l=Y(-12026)S=w[l]Q=Y(-11837)E=A[Q]Q=Y(-12637)l=E[Q]E={l()}w=S(N(E))E=Y(-11837)l=A[E]E=Y(-12083)S=l[E]l=S()l=Y(-12717)S=A[l]u={S(w)}S=10884465 l=u[1]E=u[2]Q=u[3]else h=g[1]U=Y(-12005)j=B[f[1]]n=j[U]j=n(h)n=Y(-12659)C=Y(-11893)S=j[n]U=A[C]C=Y(-12427)j=S n=U[C]C=0x0010 U=n(j,C)n=0 S=U==n n={S}S=A[Y(-11984)]end else if S<11222558 then j=g[2]S=j and 15607322 or 12199487 h=g[1]n=j else L=S Z=Y(-11776)K=h[Z]Z=Y(-11638)s=K[Z]W=s S=s and 10544535 or 12436341 end end end else if S<11269241 then if S<11229429 then if S<11227392 then S=0x80000000 U=S n=-j j=n S=13954293 else R=Y(-11893)a=A[R]R=Y(-12427)y=Y(-11568)V=a[R]L=Y(-12145)R=j[y]S=6542211 W=B[f[1]]y=W[L]a=V(R,y)V=0 m=a~=V b=m end else if S<11243034 then W=Y(-11678)y=b[W]R=j<y V=R S=5484519 else M=Y(-12845)C=h[M]n=C S=10188913 end end else if S<11273719 then if S<11271963 then E=u S=b S=u and 6490720 or 13875849 else b=Y(-11531)u=h[b]b=U S=A[Y(-12018)]n={U}u[j]=b end else if S<11291140 then n={r}S=A[Y(-11786)]else if S<11298161 then M,J=v(C,M)S=M and 80263 or 9916779 else S=6716931 end end end end end else if S<11382127 then if S<11335899 then if S<11328501 then if S<11324716 then U=Y(-12541)n=Y(-11806)j=B[f[1]]U=j[U]v=true M=Y(-12309)C=h[M]U=U(j,C)j=Y(-12707)C=1 M=Y(-12718)S={[n]=U,[j]=C;[M]=v}n={S}S=A[Y(-12470)]else S=m u=O S=O and 5194149 or 15268880 end else if S<11329221 then Q=Y(-12079)w=Q S=13311336 else U=M S=v S=13390059 end end else if S<11348309 then if S<11347377 then v,p=r(M,v)S=v and 7001402 or 9805307 else v=Y(-12840)M=A[v]v=Y(-11692)C=M[v]S=5859814 M=C()n=M end else if S<11351725 then U=nil S=4502984 r=nil else if S<11360847 then S=6357298 else C=v S=r S=v and 365228 or 15229311 end end end end else if S<11406042 then if S<11387227 then if S<11385299 then h=Y(-11837)n=A[h]h=Y(-11548)S=n[h]h=B[f[1]]n=S(h)S=A[Y(-11491)]n={}else n={n}S=A[Y(-11435)]end else if S<11399385 then z=Y(-11837)p=A[z]z=Y(-12109)S=A[Y(-11384)]J=p[z]z=Y(-11837)l=Y(-11837)p=J(r)p=A[z]z=Y(-12026)J=p[z]w=A[l]l=Y(-12637)z=w[l]w={z()}p=J(N(w))w=Y(-11837)z=A[w]w=Y(-12083)J=z[w]z=J()z=Y(-12332)n={p,U}J=h[z]z=p J[j]=z else S=n and 669344 or 5512360 end end else if S<11435490 then if S<11413740 then S=16332197 n=j else S=4521076 end else if S<11440784 then S=L L=Y(-12331)R=W or L W=S s=S x=Y(-11776)Z=h[x]x=Y(-12529)K=Z[x]L=K S=K and 2350814 or 6424471 else if S<11447114 then S=4404975 C=Y(-12314)r=Y(-12840)U=h[C]v=A[r]r=Y(-12032)M=v[r]v=Y(-12801)C=M[v]j=U==C n=j else p=r S=M[p]S=S and 274298 or 12201129 end end end end end end end end else if S<12083275 then if S<11812249 then if S<11609737 then if S<11539792 then if S<11488055 then if S<11461985 then if S<11458141 then z=Y(-12450)b=Y(-12648)p=U .. z E=Y(-11893)U=p l=A[E]Q=Y(-11568)E=Y(-12427)w=l[E]E=j[Q]u=B[f[1]]Q=u[b]l=w(E,Q)E=B[f[1]]Q=Y(-12599)w=E[Q]z=l==w S=z and 6122196 or 11358335 else z=Y(-11837)w=Y(-12153)U=nil E=2 p=A[z]z=Y(-11913)l=1 J=p[z]z=h[w]w=Y(-11696)w=z[w]S=12436464 w=w(z,l,E)E=Y(-11837)l=A[E]E=Y(-12551)z=l[E]p=J(w,z)z=Y(-11837)l=Y(-11837)r=nil p=A[z]z=Y(-12026)J=p[z]w=A[l]l=Y(-12637)z=w[l]w={z()}p=J(N(w))J=Y(-11446)A[J]=p w=Y(-11837)z=A[w]w=Y(-12083)J=z[w]z=J()end else if S<11472979 then v=Y(-12840)M=A[v]v=Y(-12176)S=M[v]M=S(C)S=B[f[1]]n={S}S=A[Y(-11393)]else r=Y(-12840)h=g[1]C=Y(-11968)U=h[C]j=g[2]C=Y(-12113)n=U[C]v=A[r]r=Y(-12647)M=v[r]v=Y(-11639)C=M[v]U=j*C S=n+U C=Y(-12840)n=A[C]C=Y(-12647)U=S S=n[C]n={S(U)}S=A[Y(-12302)]n={N(n)}end end else if S<11506728 then if S<11498896 then S=r r=nil n=v or r S[h]=n v=B[f[1]]S=A[Y(-12066)]r=Y(-12662)M=v[r]n=M[h]n={n}else S=m S=O and 5714715 or 13103529 end else if S<11527528 then r=nil v=nil S=8917641 else O,V=Q(b,O)S=O and 449120 or 4049699 end end end else if S<11569583 then if S<11560436 then if S<11558310 then n=M S=v S=M and 3232035 or 638022 else v=M .. r S=A[Y(-11763)]n={v}end else if S<11561964 then S={}U=Y(-12060)r=Y(-11837)C=Y(-11568)v=A[r]r=Y(-12551)M=v[r]n={[U]=h;[C]=M}C=n U=S S=not j S=S and 399639 or 4654301 else m=Y(-11436)O=U[m]b=z==O Q=b S=6214516 end end else if S<11578354 then if S<11576654 then J=C p=Y(-12840)w=Y(-11814)n=A[p]p=Y(-12075)S=n[p]l=j z=U[w]p=z+J n=S(p)p=n n=Y(-12822)z=1 S=h[n]n=J+z E=S w=S S=j and 9298350 or 5610159 else h=g[1]n=2 S=h==n S=S and 8893500 or 10883942 end else if S<11587140 then S=C n=S(U)U=n S=Y(-12822)n={}h[S]=n v=B[f[1]]n=0 r=Y(-12020)M=v[r]v=M(h)M=1 S=8479041 C=v-M M=C C=1 v=C C=0 r=v<C C=n-v else if S<11600806 then h3=Y(-11837)x=A[h3]h3=Y(-11941)Z=x[h3]x=Z()S=1007667 s=x else Q3=Y(-12093)u3=h[Q3]Q3=Y(-12665)Q3=u3[Q3]s3=Y(-12655)y3=Y(-11686)Q3=Q3(u3,p3)S=11997438 m3=A[y3]y3=Y(-12193)u3=m3[y3]L3=A[s3]s3=Y(-12274)y3=L3[s3]s3=Y(-11389)L3={y3(s3,Q3,Q3,p3)}m3=u3(v,N(L3))Q3=nil end end end end end else if S<11725911 then if S<11710713 then if S<11640932 then if S<11618118 then a=Y(-12314)m=Y(-12620)V=Y(-12314)S=12353575 b=w[m]m=w[V]C[b]=m V=U m=Y(-12314)b=w[m]m=Y(-12060)b[m]=V V=w[a]a=Y(-11639)m=V[a]b=U+m U=b else O=not b E=E+u l=~E l=E<=Q l=O and l O=E>=Q O=b and O l=O or l O=14164180 S=l and O l=12341570 S=S or l end else if S<11675749 then S=n and 10882071 or 11511884 else l=l+Q b=not u w=~l w=l<=E w=b and w b=l>=E b=u and b w=b or w b=4056560 S=w and b w=12994221 S=S or w end end else if S<11715774 then if S<11713397 then j=Y(-12840)n=A[j]j=Y(-11546)S=n[j]v=Y(-11837)M=A[v]w=Y(-12840)v=Y(-12486)J=Y(-12060)C=M[v]z=A[w]w=Y(-11546)E=Y(-12840)p=z[w]z=p(h)l=A[E]p=Y(-11568)E=Y(-11805)w=l[E]r={[J]=z,[p]=w}w=Y(-12060)v={r}M=C(v)C=1 U=M[C]C=Y(-12586)j=U[C]n=S(j)j=n u=Y(-12840)U=Y(-12840)n=A[U]U=Y(-12701)S=n[U]M=Y(-12840)C=A[M]M=Y(-11546)U=C[M]p=Y(-11837)J=A[p]p=Y(-12486)l=Y(-11568)r=J[p]Q=A[u]u=Y(-11805)E=Q[u]z={[w]=j;[l]=E}p={z}J=r(p)r=1 v=J[r]r=Y(-12586)M=v[r]C={U(M)}n=S(N(C))U=n v=Y(-12655)M=A[v]v=Y(-12716)C=M[v]v=Y(-12785)M=C(U,v)n=M S=M and 2969481 or 12764951 else U=Y(-12840)n=A[U]U=Y(-12647)S=n[U]v=Y(-11882)M=h[v]C=S U=M S=M and 11581579 or 15866772 end else if S<11720730 then v={}S=8118690 M=v else if S<11721448 then E=Y(-11837)m=Y(-11876)u=Y(-12060)l=A[E]E=Y(-12486)w=l[E]O=j[J]b=O[m]O=Y(-11568)m=4 Q={[u]=b,[O]=m}E={Q}l=w(E)w=1 z=l[w]w=Y(-12586)p=z[w]z=0x464C457F S=p==z S=S and 5118936 or 10617696 else M=Y(-12840)C=n n=A[M]M=Y(-11536)S=n[M]M=4 n=S(C,M)M=n n=-89056337 S=M~=n S=S and 5749399 or 9840692 end end end end else if S<11758071 then if S<11743656 then if S<11741719 then O=Y(-11740)u=S O=j[O]O=O(j)b=not O Q=b S=b and 1754129 or 4889476 else M=0 S=C==M S=S and 12966348 or 10777967 end else if S<11748081 then l=Y(-12840)z=Y(-12840)n=A[z]z=Y(-12701)S=n[z]w=A[l]b=Y(-12840)l=Y(-12610)z=w[l]u=A[b]b=Y(-12253)O=Y(-12840)Q=u[b]u=3 E=Q*u l=p+E w={z(l)}n=S(N(w))w=Y(-12840)z=A[w]w=Y(-12701)S=z[w]E=Y(-12840)l=A[E]E=Y(-12610)w=l[E]b=A[O]O=Y(-12253)u=b[O]b=2 Q=u*b E=p+Q l={w(E)}z=S(N(l))S=Y(-12613)S=z[S]l=Y(-12331)w=Y(-12632)S=S(z,w,l)w=S z=n n=Y(-11905)S=h[n]E=Y(-11759)l=E .. w n=z .. l l=p S[n]=l S=Y(-12819)l=1 n=r+l l=Y(-11905)h[S]=n n=h[l]S=n[j]S=S and 14142245 or 9666734 else h=g[1]U=g[3]j=g[2]S=not j S=S and 10334288 or 7811003 end end else if S<11773647 then if S<11768588 then I3=Y(-11893)X3=A[I3]t3=Y(-12659)k3=Y(-12477)I3=Y(-12427)C3=X3[I3]I3=h3[t3]G3=B[f[1]]t3=G3[k3]X3=C3(I3,t3)C3=0 U3=X3~=C3 S=U3 and 6571983 or 986986 else h=g[1]j=g[2]v=Y(-12840)U=j M=A[v]v=Y(-12479)C=M[v]M=Y(-11630)n=C[M]S=n>U S=S and 4040238 or 971746 end else if S<11802814 then n=B[f[1]]J=0xB400000000000000 M=Y(-12503)S=n[M]v=Y(-11972)M=A[v]r=j|J v=M(r)M=B[f[2]]n=S(v,M)M=Y(-12637)n=B[f[1]]S=n[M]n=S()S=11742011 C=n else if S<11810346 then C={}v=Y(-12223)M=A[v]p={M(j)}J=p[3]S=7789306 v=p[1]r=p[2]else S=nil n={S}S=A[Y(-12756)]end end end end end end else if S<11939343 then if S<11858772 then if S<11842850 then if S<11830520 then if S<11817843 then C,r=M(U,C)S=C and 3833928 or 2823633 else S=Y(-11464)S=h[S]S=S(h)z=S S=Y(-11975)S=z[S]l=not p n=l S=S(z)w=S S=l and 16071443 or 10094342 end else if S<11841326 then i3=Y(-12642)n3=Y(-12840)F3=A[n3]n3=Y(-11525)c3=F3[n3]B3=h[i3]X3=Y(-12840)C3=A[X3]X3=Y(-11525)U3=C3[X3]C3=Y(-11639)j3=U3[C3]i3=Z*j3 n3=B3+i3 F3=c3(n3)A3=F3 F3=Y(-11886)c3=C[F3]S=c3 and 15026383 or 6679292 else S=w S=10636928 p=z end end else if S<11848389 then if S<11843421 then Z=x S3=Y(-12642)Y3=h[S3]S3=0 A3=Y3==S3 S=A3 and 7506881 or 11840540 else z=Y(-12840)p=A[z]C=M z=Y(-11546)S=p[z]w=U[C]l=Y(-12586)z=w[l]p=S(z)l=Y(-12840)w=A[l]l=Y(-12081)z=w[l]w=Y(-12446)S=z[w]z=S(p)S=z and 9137319 or 1294683 end else if S<11849523 then v=j p=0 r=Y(-12840)n=A[r]r=Y(-12757)S=n[r]n=S(h,v)r=n J=r~=p S=J and 7135118 or 5702657 n=J else n=Y(-12061)h=g[1]S=h[n]n={S}S=A[Y(-12052)]end end end else if S<11894138 then if S<11869725 then if S<11862865 then w=Y(-11837)z=A[w]w=Y(-12026)p=z[w]E=Y(-11837)l=A[E]E=Y(-12637)w=l[E]l={w()}S=13268816 z=p(N(l))r=z else S=j and 1535463 or 4788569 end else if S<11885191 then U=Y(-12458)n=h[U]S=not n S=S and 3854676 or 10822923 else S=2554615 M=Y(-11837)r=Y(-11837)C=A[M]M=Y(-12208)U=C[M]v=Y(-11837)M=A[v]v=Y(-12210)C=M[v]v=A[r]r=Y(-11614)M=v[r]j={U;C,M}n=j end end else if S<11929333 then if S<11923351 then S=4473169 c3=Y(-12840)U3=Y(-12840)n3=Y(-12205)f3=A[c3]c3=Y(-12494)g3=f3[c3]F3=h[n3]j3=A[U3]U3=Y(-11562)i3=j3[U3]j3=Y(-11639)B3=i3[j3]n3=Z*B3 c3=F3+n3 f3=g3(c3)S3=f3 else U=g[3]j=g[2]M=i()v=Y(-11975)S={}B[M]=S C=g[4]n=B[M]w=Y(-12541)J=Y(-12389)h=g[1]S=k(15333822,{})n[v]=S S=d(6558719,{})n=B[M]v=Y(-12753)n[v]=S n=B[M]S=H(7831907,{})v=Y(-12005)n[v]=S S=t(6131224,{M})v=Y(-12541)n=B[M]n[v]=S S=P(1601422,{M})v=Y(-12491)n=B[M]n[v]=S n=Y(-11410)S=A[n]v=B[M]z=B[M]p=z[w]r={[J]=p}n={S(v,r)}n={N(n)}S=A[Y(-11510)]end else if S<11931865 then b=Y(-12399)w=Y(-12202)Q=Y(-12379)u=M .. b E=Q .. u l=v .. E z=w .. l S=1668069 J=z else if S<11935393 then E=Y(-11608)S=7630456 l=U .. E U=l else Z=Y(-11861)S3=Y(-11427)K=O[Z]x=Y(-12235)f3=Y(-12399)F3=Y(-12464)s=a-K e=Y(-11612)Z=s-l B3=Y(-12640)K=Z/l n3=K .. B3 c3=F3  .. n3 g3=f3  .. c3 N3=w .. g3 Y3=S3  .. N3 A3=s .. Y3 T=e .. A3 h3=V .. T Z=x .. h3 T=C(Z)h3=S S=T and 12879832 or 1640364 x=T end end end end end else if S<12005236 then if S<11985204 then if S<11966118 then if S<11952381 then n=r S=J S=12554547 else S={}n=1 j=g[2]M=Y(-11406)h=g[1]U=S C=j[M]M=C C=1 v=C C=0 S=749344 r=v<C C=n-v end else if S<11978010 then h=nil U=nil n={}j=nil S=A[Y(-11835)]else l=5 w=#z S=w>=l S=S and 5127406 or 3429227 end end else if S<11997596 then if S<11996378 then C,r=M(U,C)S=C and 951540 or 12557721 else Q3=Y(-12223)u3=A[Q3]L3={u3(w3)}m3=L3[2]S=15269494 y3=L3[3]Q3=L3[1]end else if S<12000572 then z=J E=Y(-11837)l=A[E]E=Y(-12083)S=l[E]W=0 l=S()Q=Y(-11972)E=Y(-11837)O=Y(-12060)l=A[E]E=Y(-12503)S=l[E]E=A[Q]b=w[O]O=0xB400000000000000 u=b|O b=Y(-12840)m=S Q=E(u)u=A[b]a=S b=Y(-12173)E=u[b]u=nil b=nil y=#M R=y~=W S=R and 4608054 or 12717697 V=R else if S<12004806 then w3=nil p3=nil S=4808621 else n=Y(-12846)h=g[1]U=g[3]j=g[2]S=B[f[1]]n=S[n]n=n(S,j)M=B[f[2]]j=nil v=Y(-12060)h=nil S=Y(-11802)S=n[S]C=M[v]S=S(n,C,U)U=nil n={}S=A[Y(-11979)]end end end end else if S<12033388 then if S<12019378 then if S<12015801 then n=false S=Y(-12458)h[S]=n S=A[Y(-12733)]n={h}else J=Y(-12576)C=B[f[1]]r=h[J]J=Y(-11743)v=r[J]M=C(j,v)C=0 n=M>=C S=n and 2621327 or 7559071 end else if S<12021896 then C=g[4]h=g[1]M=i()j=g[2]U=g[3]S={}B[M]=S v=Y(-12541)S=G(3521199,{M})n=B[M]n[v]=S v=Y(-12525)n=B[M]S=D(13745510,{})n[v]=S n=B[M]S=H(105017,{M})v=Y(-11411)n[v]=S S=k(13409631,{M})n=B[M]v=Y(-12727)n[v]=S v=Y(-11740)S=k(3569865,{})n=B[M]n[v]=S S=k(15585504,{})v=Y(-11791)n=B[M]n[v]=S S=k(3508357,{})n=B[M]v=Y(-12569)n[v]=S S=H(12663979,{})v=Y(-12804)n=B[M]n[v]=S v=Y(-11532)n=B[M]S=k(13947852,{})n[v]=S v=Y(-11433)n=B[M]S=P(387026,{})n[v]=S v=Y(-11975)n=B[M]S=G(3696241,{M})n[v]=S n=B[M]v=Y(-12605)J=Y(-12389)S=k(12970138,{})n[v]=S S=H(18866,{M})n=B[M]v=Y(-12753)n[v]=S v=Y(-12476)n=B[M]S=H(2083967,{})n[v]=S v=Y(-11823)S=D(12755927,{})n=B[M]n[v]=S S=k(60313,{M})n=B[M]v=Y(-12194)n[v]=S n=B[M]v=Y(-11457)S=d(4759458,{M})n[v]=S v=Y(-12867)n=B[M]S=H(12231338,{M})n[v]=S n=B[M]v=Y(-11523)S=P(3303521,{M})n[v]=S n=B[M]S=P(1084915,{M})v=Y(-11607)n[v]=S v=Y(-12633)S=k(15210845,{})n=B[M]n[v]=S v=Y(-12793)n=B[M]S=P(1111188,{M})n[v]=S w=Y(-12541)v=Y(-12097)S=t(14112333,{M})n=B[M]n[v]=S S=t(9136566,{})n=B[M]v=Y(-12691)n[v]=S v=Y(-12491)S=H(5154907,{M})n=B[M]n[v]=S n=Y(-11410)S=A[n]v=B[M]z=B[M]p=z[w]r={[J]=p}n={S(v,r)}n={N(n)}S=A[Y(-12790)]else S={}r=Y(-12314)v=A[r]C=S r=v(j)v=Y(-12655)M=r==v n=M S=M and 1163837 or 1382478 end end else if S<12056178 then if S<12041525 then w=not z r=r+p n=~r n=r<=J n=w and n w=r>=J w=z and w n=w or n w=13593868 S=n and w n=11414475 S=S or n else S=3081051 end else if S<12059600 then M=Y(-12791)n=U .. M S=16666869 U=n else if S<12073442 then M=Y(-12840)C=A[M]M=Y(-12803)U=C[M]M=Y(-12484)C=Y(-11390)C=U[C]j=nil C=C(U,M,h)S=8691719 else S=M n=C S=C and 11385893 or 13293515 end end end end end end end else if S<12309301 then if S<12198267 then if S<12159303 then if S<12129832 then if S<12125526 then if S<12107846 then S=z r=p S=p and 7289781 or 13340155 else O=Y(-11837)E=Y(-12060)b=A[O]O=Y(-12512)Q=Y(-11568)u=b[O]b=Y(-12586)O=Y(-12436)l={[E]=j,[Q]=u;[b]=O}a=Y(-11661)Q=Y(-12060)S=5397726 b=4 V=Y(-11837)u=j+b b=Y(-11568)m=A[V]V=Y(-12512)O=m[V]V=h[a]m=Y(-12586)E={[Q]=u,[b]=O,[m]=V}w={l;E}z=w end else if S<12127838 then C=Y(-11837)U=Y(-12840)j=A[U]h=g[1]U=Y(-12826)n=j[U]j=Y(-12077)S=n[j]U=A[C]C=Y(-12034)j=U[C]n={S(h,j)}S=A[Y(-12114)]n={N(n)}else r=Y(-11838)j=g[2]l=Y(-12316)E=Y(-11660)Q=Y(-12618)v=Y(-12296)h=g[1]U=g[3]C=g[4]M=Y(-11586)u=Y(-11500)z=Y(-12125)J=Y(-12267)p=Y(-12698)n=Y(-12620)w={[l]=E;[Q]=u}S={[n]=M;[v]=r;[J]=p;[z]=w}n={S}S=A[Y(-11987)]end end else if S<12150416 then if S<12143771 then n={}S=A[Y(-12589)]else h=g[1]n=Y(-12620)S=h[n]n=Y(-12375)j=S S=Y(-12716)S=j[S]S=S(j,n)U=S S=U and 16626830 or 9268820 end else if S<12157216 then T=Y(-12429)h3=T .. V e=Y(-12840)x=R .. h3 Z=y .. x T=A[e]e=Y(-12544)h3=T[e]T=Y(-11481)x=h3[T]S=x and 13204891 or 6087937 else C=Y(-11837)n=A[C]C=Y(-12083)S=n[C]n=S()n={U}S=A[Y(-12012)]end end end else if S<12179238 then if S<12171673 then if S<12163580 then p=B[f[1]]z=Y(-11823)J=p[z]S=14886403 p=J(C)v=p else h=g[1]n=Y(-12792)S=h[n]n={S}S=A[Y(-12155)]end else if S<12174665 then S=A[Y(-12398)]n={j}else p=4 l=8 J=10 n=B[f[2]]r=Y(-12206)M=Y(-11681)S=n[M]v=h[r]r=J*p M=v+r z=4 v=B[f[4]]p=10 r=B[f[5]]n=S(C,M,v,r)M=Y(-11681)J=Y(-12206)n=B[f[2]]S=n[M]r=h[J]J=p*z v=r+J z=S z=4 w=B[f[6]]p=w and l J=S r=p or z M=v+r v=B[f[4]]n=S(C,M,v,j)M=Y(-11548)S=A[Y(-11790)]n=A[M]M=n(C)n={h}end end else if S<12185845 then if S<12181354 then S=n and 16602625 or 10884083 else S=Q and 3018388 or 1450926 end else if S<12187571 then j=g[2]h=g[1]M=Y(-11837)r=Y(-12060)C=A[M]M=Y(-12486)U=C[M]J=Y(-11568)v={[r]=h,[J]=j}M={v}C=U(M)U=1 n=C[U]U=Y(-12586)S=n[U]n={S}S=A[Y(-12368)]else if S<12189628 then R=Y(-11568)S=5404826 V=Y(-12770)y=Y(-11568)m=B[f[2]]O=m[V]a=h[R]R=J[y]V=a[R]a=B[f[1]]m=O(r,w,V,a)u=m else w=Y(-11837)S=7401779 z=A[w]w=Y(-12034)p=z[w]r=p end end end end end else if S<12233358 then if S<12206808 then if S<12201935 then if S<12199718 then S=15607322 M=Y(-12840)C=A[M]M=Y(-12826)U=C[M]n=U else S=2938920 z=nil p=nil end else if S<12203704 then S=2712742 z=1 p=r+z J=nil r=p else r=Y(-12575)n=A[r]p={n(v,C)}J=p[2]r=p[1]n=not r S=n and 6403549 or 10240101 end end else if S<12213161 then if S<12211216 then E=E+u n=~E n=E<=Q O=not b n=O and n O=E>=Q O=b and O n=O or n O=15806381 S=n and O n=9425379 S=S or n else O=Y(-12840)b=A[O]O=Y(-12853)u=b[O]b=Y(-12393)Q=u[b]E=p==Q S=E and 13256857 or 9617354 end else if S<12228268 then n=B[f[4]]S=not n S=S and 13959708 or 754917 else if S<12229244 then U=Y(-12224)h=g[1]n=h[U]j=g[2]S=not n S=S and 13739719 or 11143205 else h=g[1]j=Y(-12721)n=h[j]j=0 S=n~=j S=S and 7996557 or 5558049 end end end end else if S<12257518 then if S<12249473 then if S<12236450 then n={U}S=v C=S(M)S=A[Y(-11989)]else n=B[f[1]]U=Y(-11493)S=n[U]S=S and 3830945 or 6711902 end else if S<12251673 then h=nil S=A[Y(-12307)]n={}else u=Y(-12060)Q=l[u]E=Q+j b=Y(-11759)S=12043131 u=w .. b Q=M .. u n=l(E,U,Q)r[w]=n end end else if S<12274641 then if S<12260843 then Q=Y(-11893)E=A[Q]Q=Y(-12427)l=E[Q]u=Y(-11568)m=Y(-12840)Q=j[u]O=A[m]m=Y(-12853)b=O[m]O=Y(-12648)u=b[O]b=Y(-12840)E=l(Q,u)u=A[b]b=Y(-12853)Q=u[b]u=Y(-12599)l=Q[u]w=E==l S=w and 12930173 or 13966491 else l=Y(-12840)w=A[l]l=Y(-12803)m=Y(-11968)E=Y(-11402)S=4603196 J=w[l]b=Y(-12840)u=A[b]b=Y(-11477)Q=u[b]O=h[m]m=Y(-12022)b=O[m]m=Y(-11968)w=Y(-12360)w=J[w]u=Q(b)l=E .. u w=w(J,l)l=Y(-12840)w=A[l]l=Y(-12803)J=w[l]b=Y(-12840)E=Y(-11901)u=A[b]b=Y(-11477)Q=u[b]O=h[m]m=Y(-11974)b=O[m]w=Y(-12360)z=nil w=J[w]u=Q(b)l=E .. u w=w(J,l)end else if S<12278904 then J=Y(-12840)r=A[J]J=Y(-12253)v=r[J]r=3 M=v*r n=M S=2839842 else if S<12287887 then n=nil S=Y(-12178)v[S]=n n=Y(-12381)S=h[n]n=S(v)r=n S=not r S=S and 4780364 or 13711313 else z=not j n=z S=z and 2687515 or 6100447 end end end end end end else if S<12421602 then if S<12350846 then if S<12333225 then if S<12327003 then if S<12322468 then S=n and 16581357 or 3184685 else Q=Y(-12792)E=J[Q]l=E==U S=4607152 z=l end else if S<12332885 then n={M}S=A[Y(-11517)]else S=z and 1217987 or 8068539 end end else if S<12342252 then if S<12337357 then z=l S=E S=10771671 else J=nil w=nil z=nil S=5567903 p=nil end else if S<12344879 then F3=B[f[1]]n3=Y(-11668)c3=F3[n3]f3=S3==c3 S=f3 and 1911263 or 13420831 else M=Y(-12840)C=A[M]n={U}M=Y(-12176)S=C[M]C=S(U)S=A[Y(-12124)]end end end else if S<12370449 then if S<12358157 then if S<12351781 then r=nil J=nil S=1333691 else w=nil S=188455 l=nil E=nil Q=nil end else if S<12364242 then Q=Y(-12840)E=A[Q]Q=Y(-12463)n=E[Q]u={n(l)}E=u[1]Q=u[2]O=S u=S S=U and 60962 or 7738056 b=U else n={U}S=A[Y(-12602)]end end else if S<12381465 then if S<12374248 then A3=Y(-12856)e=a .. A3 a=e S=4225707 else S=Y(-11464)M=Y(-11975)j=g[2]h=g[1]M=h[M]S=h[S]S=S(h)C={M(h)}U=S M=Y(-12846)M=U[M]M={M(U,N(C))}n=M[2]S=M[1]C=S M=n S=j and 1385286 or 2288283 n=j end else if S<12387308 then h=g[1]U=Y(-12074)j=h[U]n=j S=j and 2554615 or 11890863 else if S<12399973 then r=r+J M=~r z=not p M=r<=v M=z and M z=r>=v z=p and z M=z or M z=1923389 S=M and z M=15847413 S=S or M else U=B[f[1]]h=g[1]j=g[2]n=U[h]S=not n S=S and 4612392 or 16354097 end end end end end else if S<12468915 then if S<12436375 then if S<12434411 then if S<12429620 then C=g[4]r=134217729 v=Y(-12824)n=Y(-12153)z=Y(-12827)E=Y(-11837)U=g[3]V=P(633066,{})m=Y(-11992)M=Y(-11967)u=Y(-11837)l=A[E]h=g[1]E=Y(-12210)j=g[2]w=l[E]O=Y(-11837)l=Y(-12652)J=Y(-12074)Q=A[u]u=Y(-12543)E=Q[u]Q=Y(-11800)b=A[O]O=Y(-11614)u=b[O]p={[z]=w;[l]=E;[Q]=u}Q=Y(-12478)E=P(10229387,{})b=Y(-12381)w=d(6255092,{})z=Y(-11672)l=Y(-11897)O=d(12385009,{})u=k(3064019,{})S={[n]=M;[v]=r,[J]=p;[z]=w;[l]=E,[Q]=u;[b]=O,[m]=V}M=S n={M}S=A[Y(-12242)]else n3=Y(-12205)N3=S Y3=S Z=x c3=Y(-12314)f3=A[c3]F3=h[n3]c3=f3(F3)f3=Y(-12562)g3=c3==f3 S3=g3 S=g3 and 11914320 or 4473169 end else if S<12436340 then z=B[v]w=Y(-12836)p=z[w]S=1939677 r=p else S=L S=W and 6857613 or 14461280 end end else if S<12441181 then if S<12438930 then C=Y(-12223)U=A[C]z=Y(-11837)J=A[z]z=Y(-11896)S=1813996 r=J[z]J={r()}r={U(N(J))}M=r[2]C=r[1]v=r[3]else S={}j=S S=0 U=S S=nil C=S S=5894957 end else if S<12459730 then h=nil S=A[Y(-12736)]n={}else if S<12464221 then n={}h=nil S=A[Y(-12497)]else S=n and 5233926 or 11561249 end end end end else if S<12494127 then if S<12476869 then if S<12470338 then M=S C=j S=j and 2934245 or 14932379 else j=Y(-12314)M=Y(-12840)n=h[j]C=A[M]M=Y(-12032)U=C[M]C=Y(-12746)j=U[C]S=n==j S=S and 16281191 or 7155558 end else if S<12484879 then z=Y(-12840)p=Y(-12840)J=A[p]p=Y(-12826)r=J[p]J=Y(-11968)v=r[J]r=Y(-11577)M=v[r]p=A[z]z=Y(-12826)J=p[z]S=10814095 p=Y(-11968)r=J[p]J=Y(-12264)v=r[J]C=M+v U=C>=j n=U else n=Y(-12458)S=B[h]U=false S[n]=U S=D(2344302,{h,f[2]})n={S}S=A[Y(-11651)]end end else if S<12506236 then if S<12500230 then j=g[2]h=g[1]U=Y(-12847)n=h[U]S=not n S=S and 9334703 or 40281 else h=g[1]U=Y(-12840)j=g[2]n=A[U]U=Y(-12853)S=n[U]U=S S=j and 15846168 or 452940 n=j end else if S<12522004 then p=24.3 J=j==p r=S S=J and 1916848 or 13078253 v=J else if S<12527145 then X3=Y(-11686)N3=F3 C3=A[X3]X3=Y(-12193)j3=C3[X3]X3=Y(-12139)C3=j3(M,X3)C3=0 j3=N3>C3 S=j3 and 2627847 or 2025684 else S=L S=W and 13321087 or 10191698 R=W end end end end end end end end end end else if S<14680530 then if S<13600581 then if S<13060214 then if S<12833875 then if S<12736469 then if S<12641215 then if S<12584029 then if S<12559080 then if S<12557648 then S=n and 16086898 or 15490829 else M=Y(-11604)C=B[f[1]]U=C[M]C={U()}n={N(C)}S=A[Y(-12585)]end else if S<12578501 then z=Y(-12840)n=A[z]z=Y(-12463)S=n[z]w={S(v)}n=w[1]r=n z=w[2]J=z z=Y(-12729)n=z .. J S=C .. n J=nil p=S n=Y(-11905)w=Y(-11759)S=h[n]z=w .. p n=r .. z z=v S[n]=z n=B[f[1]]z=Y(-12830)S=n[z]n=S(h,v,r,p)n=1 p=nil r=nil v=nil S=M+n M=S S=9625138 else v=Y(-12331)S=A[Y(-12828)]n={v}end end else if S<12621863 then if S<12585568 then m=Y(-12734)m=O[m]S=Y(-11488)m=m(O)O[S]=m S=8248635 else S=V3 S=b3 and 4466590 or 12892058 end else if S<12637158 then u=Y(-11893)b=Y(-11568)Q=A[u]u=Y(-12427)E=Q[u]u=j[b]V=Y(-12840)m=A[V]V=Y(-12853)O=m[V]m=Y(-12648)b=O[m]O=Y(-12840)Q=E(u,b)b=A[O]O=Y(-12853)u=b[O]b=Y(-12342)E=u[b]l=Q==E S=l and 11934841 or 9650198 else l=Y(-12840)E=Y(-12314)w=A[l]l=Y(-12610)z=w[l]l=M[E]w=z(l)J=w S=7855026 end end end else if S<12679581 then if S<12656197 then if S<12647855 then J=v J=nil z=Y(-12033)S=h[z]w=Y(-11386)z=p[w]w=p S[z]=w S=1639113 p=nil else h3=Y(-11686)T=Y(-11669)S=5354813 x=A[h3]h3=Y(-12193)Z=x[h3]h3=Y(-11497)x=Z(M,h3)Z=0 h3=r[T]T=1 x=h3-T h3=x x=1 T=x x=0 e=T<x x=Z-T end else if S<12667159 then h=g[1]M=Y(-12314)C=h[M]J=Y(-12840)r=A[J]J=Y(-12032)v=r[J]j=g[2]r=Y(-12596)M=v[r]U=C==M S=U and 12868594 or 3164613 n=U else V=#C a=1 R=Y(-11568)Z=Y(-12620)m=V+a a=Y(-12060)W=Y(-11568)y=l[W]s=Y(-12314)S=12353575 W=Y(-12314)L=w[s]K=w[Z]s=Y(-12620)V={[a]=U,[R]=y,[W]=L;[s]=K}C[m]=V a=Y(-11639)V=l[a]m=U+V U=m end end else if S<12709670 then if S<12706320 then M=Y(-12840)j=Y(-12314)n=h[j]C=A[M]M=Y(-12032)U=C[M]C=Y(-12801)j=U[C]S=n==j S=S and 6447636 or 15583801 else n=Y(-12840)h=g[1]S=A[n]j=B[f[1]]U=j()n=Y(-12354)j=Y(-12840)S[n]=U n=A[j]j=Y(-12354)S=n[j]n=22 j=S S=j==n S=S and 357741 or 682723 end else if S<12718274 then W=#M S=a a=nil L=0 R=S O=V or a V=S y=W~=L S=y and 3906279 or 9913477 a=y else if S<12724385 then S={}j=S S=0 U=S S=nil C=S S=6698389 else y=Y(-11678)m=S a=S R=b[y]V=R S=R and 11242237 or 5484519 l=u end end end end end else if S<12764898 then if S<12750132 then if S<12747752 then if S<12744635 then J=p S=z S=3433840 else S=10088117 r=29.1 j=r end else if S<12749765 then h=g[1]n=h S=h and 6437702 or 4490224 else z=nil S=b p=nil b=Y(-12586)w={[l]=E,[Q]=u;[b]=U}M[S]=w S=13831371 end end else if S<12756498 then if S<12756123 then h=g[1]C=Y(-12314)U=h[C]r=Y(-12840)v=A[r]r=Y(-12032)M=v[r]v=Y(-11507)C=M[v]j=U==C n=j S=j and 4404975 or 11444268 else J=nil S=V V=0 z=nil r=nil w=nil b=m or V p=nil l=nil E=S(U,Q,u,b)S=1642805 end else if S<12758298 then U=Y(-11837)n=A[U]U=Y(-12083)S=n[U]n=S()S=true n={S}S=A[Y(-11596)]else if S<12760770 then x=Y(-11893)Z=A[x]x=Y(-12427)h3=Y(-12659)K=Z[x]x=a[h3]S=8966621 A3=Y(-12840)e=A[A3]A3=Y(-12853)T=e[A3]e=Y(-12041)h3=T[e]Z=K(x,h3)K=0 s=Z~=K W=s else n=Y(-12328)S=h[n]n=S()C=n S=not C S=S and 2367063 or 5626474 end end end end else if S<12812392 then if S<12774402 then if S<12769043 then v=Y(-12655)M=A[v]S=2969481 v=Y(-12716)C=M[v]v=Y(-12581)M=C(U,v)n=M else r=Y(-12845)J=0 v=h[r]r=Y(-12613)r=v[r]S=7863770 r=r(v,J,U)C=r end else if S<12806530 then S=A[Y(-12661)]n={U}else T=S Y3=Y(-12314)A3=A[Y3]Y3=A3(Z)A3=Y(-12562)e=Y3==A3 S=e and 6675199 or 6136098 h3=e end end else if S<12823724 then if S<12815996 then S=p and 5575131 or 5168322 else l=Y(-11686)n=A[l]l=Y(-12193)S=n[l]n=S(v,w)S=15044953 end else if S<12828414 then S=D3 S=q3 and 5916732 or 3032294 else if S<12831582 then j=g[2]h=g[1]S=not j S=S and 7447662 or 9776570 else a=Y(-11693)S=14299018 V=a end end end end end end else if S<12909766 then if S<12869503 then if S<12855596 then if S<12845853 then if S<12838493 then S=n and 5858507 or 15874693 else v=Y(-11975)U=g[3]C=g[4]h=g[1]j=g[2]n=Y(-11914)M=true S={[n]=M}M=i()B[M]=S S=t(13371931,{})n=B[M]n[v]=S n=B[M]v=Y(-11464)S=P(5219314,{})n[v]=S S=q(14851304,{})n=B[M]v=Y(-12158)n[v]=S S=P(9590287,{})v=Y(-12005)n=B[M]n[v]=S n=B[M]v=Y(-12634)S=D(11207593,{M})n[v]=S S=t(11036416,{})n=B[M]w=Y(-12541)v=Y(-11909)n[v]=S S=t(2884910,{M})v=Y(-12315)n=B[M]n[v]=S n=B[M]v=Y(-11802)S=H(555656,{M})J=Y(-12389)n[v]=S S=t(6270293,{M})n=B[M]v=Y(-11851)n[v]=S S=k(9639681,{M})v=Y(-11863)n=B[M]n[v]=S n=B[M]S=d(12374696,{})v=Y(-11547)n[v]=S v=Y(-12148)n=B[M]S=d(3217733,{})n[v]=S n=B[M]v=Y(-12491)S=k(14124578,{})n[v]=S v=Y(-12541)n=B[M]S=t(9504898,{M})n[v]=S n=Y(-11410)S=A[n]v=B[M]z=B[M]p=z[w]r={[J]=p}n={S(v,r)}n={N(n)}S=A[Y(-12120)]end else if S<12854071 then S=v S=C .. n n={S}S=A[Y(-11733)]else x=Y(-12840)Z=A[x]T=1 x=Y(-11546)K=Z[x]h3=E[T]T=Y(-12060)x=h3[T]Z=K(x)h3=Y(-12840)x=A[h3]T=Y(-11917)h3=Y(-11546)S=1276761 K=x[h3]h3=O[T]x=K(h3)s=Z<x W=s end end else if S<12857562 then if S<12856126 then S=L S=W and 10960162 or 11223976 else l=Y(-11837)s=Y(-12686)j=g[2]C=g[4]U=g[3]E=Y(-12620)M=Y(-11837)n=A[M]A3=Y(-12616)M=Y(-12487)h=g[1]R=Y(-11729)r=Y(-12616)S=n[M]n=S()y=Y(-11961)M=n Q=Y(-11401)v=M[r]p=Y(-12233)n=Y(-11466)J=M[p]p=Y(-12402)w=A[l]m=Y(-11837)r=Y(-12480)l=Y(-11881)z=w[l]x=S w=z()z=Y(-12620)T=S l=M[E]O=A[m]m=Y(-12547)E=Y(-11911)b=O[m]a=M[R]L=M[s]e=M[A3]K=Y(-11961)A3=Y(-12160)T=Y(-12593)h3=e and A3 Z=h3 or T m=Y(-12729)s=K .. Z W=L .. s R=y .. W V=a .. R O=m .. V u=b .. O S={[n]=v,[r]=J,[p]=w,[z]=l,[E]=M;[Q]=u}v=S n={v}S=A[Y(-12567)]end else if S<12867614 then v=J S=p S=J and 7219385 or 4567885 else S=n and 2278934 or 10402395 end end end else if S<12889178 then if S<12879274 then if S<12875091 then O=#z m=1 S=O+m y=Y(-12840)m=Y(-12060)R=A[y]V=Y(-11568)y=Y(-12173)a=R[y]O={[m]=b,[V]=a}z[S]=O S=2236117 else n=Y(-12223)S={}U=S S=A[n]h=g[1]v={S(h)}C=v[2]S=1276037 j=g[2]M=v[3]n=v[1]v=n end else if S<12885688 then S3=Y(-11468)Y3=Y(-11837)A3=A[Y3]Y3=Y(-11782)f3=Y(-12729)e=A3[Y3]F3=Y(-12676)S=1640364 c3=w .. F3 g3=f3  .. c3 N3=a .. g3 Y3=S3  .. N3 N3=Y(-12331)g3=Y(-12351)S3=Y(-11741)A3=e(Y3,S3,N3,g3)e=3 T=A3==e x=T else S=n and 5817451 or 5626939 end end else if S<12891967 then if S<12890278 then S=10873863 V=Y(-11771)m=v[V]V=Y(-11759)O=m .. V u=O else h=g[1]C=1000 S={}M=C n=1 C=1 v=C j=h U=S S=7525710 C=0 r=v<C C=n-v end else if S<12892769 then S=5318609 V3=Y(-12871)m3=V3 else if S<12905268 then l=E V=Y(-12840)m=A[V]V=Y(-12826)O=m[V]m=z+l S=J(O,m)O=S S=Y(-12620)m=Y(-11975)m=O[m]m=m(O)O[S]=m m=Y(-11488)S=O[m]S=S and 12585364 or 9679081 else n3=true i3=Y(-12373)A3=n3 B3=Y3  .. i3 Y3=B3 S=14527244 end end end end end else if S<12982665 then if S<12941637 then if S<12926139 then if S<12925098 then v=nil S=16557523 r=nil else n={}S=Y(-12822)h[S]=n C=Y(-12410)n=0 U=h[C]C=1 S=15181022 j=U-C U=j j=1 C=j j=0 M=C<j j=n-C end else if S<12930531 then l=Y(-12473)w=U .. l U=w S=13966491 else h=g[1]E=Y(-11837)j=g[2]R=9 n=Y(-12144)U=g[3]p=Y(-12840)y=k(10503236,{})C=g[4]u=Y(-11837)J=A[p]p=Y(-11514)w=Y(-11837)r=J[p]K=D(10426593,{})J=Y(-11401)v=r[J]J=Y(-12827)r=Y(-12536)b=D(8974535,{})L=k(12127658,{})M=v .. r v=Y(-12074)a=D(7042397,{})z=A[w]w=Y(-12210)p=z[w]l=A[E]z=Y(-12652)E=Y(-12543)w=l[E]l=Y(-11800)T=k(3593543,{})Q=A[u]u=Y(-11614)W=10 E=Q[u]r={[J]=p,[z]=w;[l]=E}e=14 V=8 z=H(1155382,{})m=P(7279110,{})w=4 S={[n]=M;[v]=r}u=6 v=i()J=d(15468899,{})E=5 M=S S=H(15039008,{})l=D(9488247,{})p=3 O=7 B[v]=S A3=P(4584314,{})n=Y(-12641)h3=13 S=P(2099485,{v})s=11 Z=12 x=H(5916503,{})Q=P(1428739,{})M[n]=S r=2 n={[r]=J;[p]=z,[w]=l;[E]=Q;[u]=b;[O]=m,[V]=a,[R]=y,[W]=L,[s]=K;[Z]=x;[h3]=T,[e]=A3}S=Y(-12434)M[S]=n n=H(2554021,{})S=Y(-12703)M[S]=n S=Y(-12636)n=d(9010643,{})M[S]=n n=k(12187373,{})S=Y(-12077)M[S]=n S=Y(-11951)n={}M[S]=n J={}S=H(16623640,{})n=Y(-12180)M[n]=S S=Y(-12332)n={}E=Y(-12641)M[S]=n S=H(9589931,{})n=Y(-12284)M[n]=S w=Y(-12389)n=Y(-11828)S=G(11219624,{})M[n]=S S=G(4563484,{})n=Y(-12657)M[n]=S n=Y(-12590)S=d(15752409,{})M[n]=S S=k(11188311,{})z=Y(-11658)n=Y(-12788)M[n]=S n=Y(-11747)S=G(11965907,{})M[n]=S S=k(8143931,{})n=Y(-11927)M[n]=S n=Y(-12415)S=t(7661465,{})M[n]=S S=k(7469606,{})n=Y(-12762)M[n]=S n=Y(-12749)S=G(3117547,{})M[n]=S S=d(11480905,{})n=Y(-12601)M[n]=S n=Y(-12766)S=t(8779980,{})M[n]=S S=P(152809,{})n=Y(-12317)M[n]=S n=Y(-11884)S=P(410121,{})M[n]=S S=G(11771928,{})n=Y(-12751)M[n]=S n=Y(-12563)S=P(1694239,{})M[n]=S n=Y(-12859)S=k(12228983,{})M[n]=S n=Y(-11912)S=G(2458898,{})M[n]=S S={}r=S S=q(8291066,{})n=Y(-12752)M[n]=S n=Y(-11410)S=A[n]l=M[E]p={[z]=M;[w]=l}n={S(J,p)}S=A[Y(-11978)]n={N(n)}end end else if S<12965485 then if S<12963943 then w=Y(-12840)z=A[w]w=Y(-11766)p=z[w]z=p(C)S=10321614 r=z else S=J S[n]=r Q=Y(-12836)S=B[v]z=S E=B[v]n=Y(-12836)J=S l=E[Q]E=Y(-12060)w=l[E]S=w and 4334772 or 6715103 p=w end else if S<12966648 then M=Y(-12384)p=Y(-11972)S=A[M]J=A[p]p=J(j)r=Y(-12420)v=r .. p M=S(v)S={}n={S}S=A[Y(-12105)]else if S<12979826 then v=Y(-12832)U=g[3]C=g[4]j=g[2]n=j[v]h=g[1]S=Y(-12331)v=-1 M=S S=n~=v S=S and 159798 or 3938051 else O3=Y(-12492)m3=O3 S=5318609 end end end end else if S<13017749 then if S<12996391 then if S<12991542 then y=a==l S=15567924 n=y else E=Y(-11686)l=A[E]E=Y(-12406)w=l[E]E=Y(-11714)S=A[Y(-12230)]l={w(z,E)}n={N(l)}end else if S<13004356 then l=B[f[1]]p=S E=Y(-11738)w=l[E]z=r==w S=z and 568334 or 6196508 n=z else A3=S3 S=N3 S=S3 and 10872680 or 9883123 end end else if S<13044940 then if S<13027601 then S=4800221 M=j else p={}S=5365820 r=p end else if S<13057682 then l,E=z(w,l)S=l and 14024476 or 13819959 else if S<13059269 then S=2351328 else p=nil S=15428652 end end end end end end end else if S<13317373 then if S<13192178 then if S<13132306 then if S<13102500 then if S<13077138 then if S<13065140 then Q=Y(-12840)E=A[Q]S=8165250 Q=Y(-12173)l=E[Q]z=l else S=A[Y(-12246)]Q=nil n={Q}end else if S<13083318 then p=S w=24.4 z=j==w J=z S=z and 15981649 or 3122101 else S=n and 6831956 or 10965510 end end else if S<13118914 then if S<13117858 then R=Y(-11740)R=r[R]V=S R=R(r)a=not R m=a S=a and 8677897 or 3319278 else C=Y(-11681)n=B[f[1]]S=n[C]v=Y(-11988)M=h[v]v=Y(-12060)r=Y(-11988)C=M[v]v=h[r]r=Y(-11568)M=v[r]r=Y(-12206)v=h[r]n=S(U,C,M,v)n=true S=Y(-12458)h[S]=n S=13896459 end else if S<13129652 then S=Y(-12060)m=S u=Y(-12060)Q=z[u]b=S y=Y(-12840)R=A[y]y=Y(-12354)a=R[y]R=29 V=a<R S=V and 6641945 or 11327020 O=V else S=A[Y(-11551)]n={v}end end end else if S<13173775 then if S<13154016 then if S<13135834 then M=U J=Y(-12010)r=v[J]J=Y(-12151)S=r[J]z=Y(-11580)r=S p=r[z]S=p and 10992865 or 3433840 J=p else l=Y(-12401)w=B[f[1]]z=w[l]p=r==z S=p and 3515670 or 7818124 end else if S<13172624 then U=g[3]n=Y(-12840)h=i()j=g[2]j=nil B[h]=g[1]S=P(2070594,{h})U=nil A[n]=S C=g[4]h=X(h)C=nil n={}S=A[Y(-11646)]else l=Y(-12795)z=l S=9617354 end end else if S<13176777 then if S<13174109 then E=E+u n=~E O=not b n=E<=Q n=O and n O=E>=Q O=b and O n=O or n O=16215040 S=n and O n=4375613 S=S or n else S=11010190 end else if S<13178147 then S=11223976 W=nil else if S<13190424 then M=Y(-12840)C=A[M]M=Y(-12847)U=C[M]C=Y(-12494)n=U[C]S=n[j]n={S}S=A[Y(-12452)]else S=A[Y(-12239)]n={n}end end end end end else if S<13247807 then if S<13207650 then if S<13197750 then if S<13194054 then U=g[3]M=1 C=g[4]j=g[2]h=g[1]v=Y(-11568)n=#h S=n+M r=Y(-12586)M=Y(-12060)n={[M]=j;[v]=U;[r]=C}h[S]=n S=A[Y(-11920)]U=nil j=nil C=nil h=nil n={}else K=Y(-12714)s=y .. K y=s S=11162518 end else if S<13202353 then n=Y(-11390)U=Y(-11579)S=A[n]n=S(U)S=6849105 else Y3=Y(-11814)T=Y(-12840)h3=A[T]T=Y(-12826)x=h3[T]A3=C[Y3]e=A3+O A3=1 h3=Y(-12859)h3=x[h3]T=e-A3 h3=h3(x,T)x=h3 T=S S=h3 and 16576668 or 8435749 end end else if S<13227790 then if S<13213334 then C=Y(-12085)U=h[C]C=0 j=U==C S=13190600 n=j else u=Y(-12840)b=l S=A[u]u=Y(-12310)S[u]=b R=Y(-12840)m=Y(-12840)u=Y(-12840)S=A[u]l=nil O=A[m]m=Y(-12610)u=Y(-12449)b=O[m]a=A[R]R=Y(-12253)V=a[R]E=nil m=w-V Q=nil O=b(m)w=nil S[u]=O S=14546191 end else if S<13233258 then S=T3 S=x3 and 16659694 or 9165545 else if S<13242320 then n={J}S=A[Y(-12695)]else S=3409323 i3=B[f[1]]j3=Y(-12619)B3=i3[j3]n3=S3==B3 c3=n3 end end end end else if S<13270900 then if S<13267380 then if S<13265241 then E=Y(-11775)z=E S=9617354 else n=M S=v S=M and 8245723 or 4061058 end else if S<13270109 then S=J z=Y(-11837)p=A[z]z=Y(-12083)J=p[z]p=J()p=#r z=0 J=p==z S=J and 14117711 or 11394807 else p=Y(-12840)J=A[p]p=Y(-12853)r=J[p]J=Y(-12067)v=r[J]M=C==v S=M and 11121190 or 9763944 end end else if S<13280432 then if S<13275072 then S=6156333 else Q=Y(-11681)a=Y(-11568)b=Y(-12206)E=B[f[4]]S=E[Q]u=h[b]Q=u+z O=Y(-12206)u=4 E=S(U,Q,u,l)Q=Y(-11681)E=B[f[4]]S=E[Q]b=h[O]u=b+z b=S V=Y(-12314)Q=u+w m=h[V]V=J[a]R=Y(-11568)O=m[V]a=J[R]m=32 u=O or m O=S V=S m=a S=a and 2171919 or 12756335 end else if S<13288912 then z=65535 S=12849199 p=Y(-12337)J=A[p]p=Y(-12283)r=J[p]p=M/z J=r(p)n=J else if S<13297858 then v=Y(-11837)w=S M=A[v]v=Y(-12414)p=Y(-11568)C=M[v]S=U and 8165250 or 13063892 J=Y(-12060)z=U else W=Y(-12387)y=Y(-11568)R=Y(-11893)a=A[R]R=Y(-12427)O=S V=a[R]R=r[y]y=U[W]a=V(R,y)V=0 m=a~=V b=m S=m and 3817217 or 6676496 end end end end end end else if S<13425994 then if S<13370839 then if S<13329895 then if S<13321140 then if S<13320584 then n=Y(-12795)S=14641929 J=n else s=Y(-11837)L=A[s]s=Y(-12512)W=L[s]S=10191698 R=W end else if S<13324414 then S=z l=Y(-12620)w=h[l]z=Y(-12620)M={[v]=r;[J]=p;[z]=w}C[S]=M S=898371 else S=u u=Y(-11783)l=Q or u m=Y(-11568)S=l .. r O=J[m]Q=S b=S l=S S=O and 12188029 or 5404826 u=O end end else if S<13355951 then if S<13347938 then z=B[v]w=Y(-11493)p=z[w]r=p S=7289781 else J=-1 r=U~=J S=r and 7699030 or 2543210 end else if S<13358274 then S=O S=b and 3228134 or 9228890 Q=b else p=not J M=M+r n=~M n=M<=v n=p and n p=M>=v p=J and p n=p or n p=10861577 S=n and p n=12179139 S=S or n end end end else if S<13399457 then if S<13393768 then if S<13385249 then h=g[1]n=Y(-12620)S=h[n]n={S}S=A[Y(-12683)]else S=C S=5020321 n=U end else if S<13396439 then S=8450841 v=U else S=p and 4754278 or 8692039 end end else if S<13409623 then if S<13405770 then u=Y(-11893)Q=A[u]u=Y(-12427)E=Q[u]b=Y(-11568)m=Y(-12042)u=j[b]O=B[f[1]]b=O[m]Q=E(u,b)E=0 l=Q~=E S=l and 5805783 or 6357298 else b,O=Q(u,b)S=b and 960934 or 425715 end else if S<13417989 then h=g[1]n=Y(-12314)S=h[n]M=Y(-12840)j=S C=A[M]M=Y(-12032)U=C[M]C=Y(-11542)n=U[C]S=j==n S=S and 16122189 or 14652783 else if S<13419113 then n=Y(-11390)S=A[n]U=Y(-12712)n=S(U)S=1421589 else F3=S j3=Y(-11845)i3=B[f[1]]B3=i3[j3]n3=S3==B3 c3=n3 S=n3 and 3409323 or 13242584 end end end end end else if S<13497753 then if S<13439097 then if S<13434166 then if S<13427405 then M=Y(-12118)n=h[M]S=U<n S=S and 14604879 or 9738618 else m=h[w]u=S V=Y(-12620)O=m[V]m=Y(-12620)b=O==m Q=b S=b and 8051538 or 14000896 end else if S<13434632 then U=0xFFFFFFFF S=14389306 j=h&U n=j else J=Y(-12840)r=A[J]J=Y(-12853)v=r[J]r=Y(-12357)M=v[r]n=C==M S=n and 12057108 or 13270505 end end else if S<13450585 then if S<13445712 then n=Y(-12223)S=A[n]J={S(j)}v=J[2]n=J[1]r=J[3]J=n S=13831371 else S={}l=10 E=l w=0 l=1 Q=l l=0 u=Q<l l=w-Q z=S S=9723556 end else if S<13454483 then S=z and 9812767 or 188455 else if S<13481107 then S=9237598 O=nil b=nil else p=Y(-11686)n=A[p]p=Y(-12193)S=n[p]n=S(M,J)S=4832136 end end end end else if S<13542370 then if S<13518755 then if S<13500716 then C=Y(-11543)n=h[C]C=1 S=n==C S=S and 265021 or 10491772 else c3=B[f[1]]F3=Y(-11752)f3=c3[F3]g3=S3==f3 S=g3 and 7365137 or 12342814 end else if S<13531432 then p=Y(-12363)M=Y(-12521)r=Y(-11730)J=Y(-11736)w=Y(-12550)z=Y(-11463)n=Y(-12579)v=Y(-11431)S={n,M;v,r;J,p,z,w}M=S n=U S=U and 6242443 or 3771777 else C=Y(-11972)U=Y(-11837)n=A[U]r=Y(-12359)U=Y(-12503)S=n[U]U=A[C]v=A[r]r=v(j)v=0xB400000000000000 M=r|v v=Y(-11837)C=U(M)M=A[v]v=Y(-12034)U=M[v]n=S(C,U)S=15485447 end end else if S<13570313 then if S<13551186 then S=0x50000 p=S S=1 z=S S=1614671 else S=O S=16356518 n=b end else if S<13586862 then p=Y(-11643)S=J[p]w=1 z=r-w p=S E=Y(-11643)w=4 S=z*w l=h[E]z=S E=Y(-12586)w=l[E]S=w+z b=B[f[1]]Q=b E=S w=S u=S S=b and 11035914 or 13329765 else if S<13593803 then p=Y(-12529)S=J n=S(r)r=n J=C[p]S=J and 282431 or 5004219 n=J else w=r E=Y(-12840)l=A[E]E=Y(-12757)n=l[E]l=n(h,w)E=0 n=l~=E S=n and 12364033 or 10745130 end end end end end end end end else if S<14110489 then if S<13821223 then if S<13724732 then if S<13643367 then if S<13622844 then if S<13620318 then if S<13602694 then W=Y(-12319)y=W .. l a=y S=6061471 else M=1 w=Y(-11837)C=j[M]M=Y(-11876)S=2062701 z=A[w]w=Y(-12026)J=z[w]w=1 z=J(w)J=1 r=z[J]J=Y(-12060)v=r[J]C[M]=v end else if S<13621630 then l=S u=Y(-12046)Q=r[u]u=Y(-12827)E=Q==u w=E S=E and 3635188 or 9585130 else S=11975071 v=nil C=nil end end else if S<13634824 then if S<13631538 then S=A[Y(-12025)]n={C}else w=nil v=nil z=nil S=15088271 end else if S<13637135 then S={}C=n M=S S={}r=Y(-11746)n=j[r]v=S r=0 S=n>=r S=S and 16439634 or 15712342 else p=Y(-12455)J=Y(-12455)r=h[J]M=S U=S J=j[p]v=r<J r=-1 C=v and r M=1 n=C or M n={n}S=A[Y(-11515)]end end end else if S<13664649 then if S<13656387 then if S<13652537 then u=Y(-12245)Q=U .. u U=Q S=11272051 else j={F(2,N(g))}M=Y(-12080)h=g[1]C=h[M]M=Y(-12101)U=C[M]n=U S=U and 6585608 or 4941748 end else if S<13661474 then M,J=v(C,M)S=M and 7240672 or 16160062 else S=v S[C]=M M=Y(-12840)C=A[M]M=Y(-12803)S=C[M]M=Y(-12855)C=Y(-12419)C=S[C]C=C(S,M)M=Y(-11807)C=Y(-11432)S=U[C]C=U[M]M=S r=not M v=r S=r and 9523679 or 4501940 end end else if S<13686246 then if S<13672626 then R=Y(-12727)R=r[R]R=R(r)S=R and 38467 or 2698904 else v=v+J n=~v n=v<=r z=not p n=z and n z=v>=r z=p and z n=z or n z=7505050 S=n and z n=6473922 S=S or n end else if S<13695660 then n=Y(-11390)v=Y(-12655)S=A[n]M=A[v]v=Y(-12274)J=1 C=M[v]r=j[J]v=Y(-11708)U=nil j=nil M={C(v,r)}n=S(N(M))n={}S=A[Y(-11832)]else if S<13711199 then H3=Y(-12441)d3=G3[H3]S=6883841 H3=-1 q3=d3~=H3 t3=q3 else S=6413933 end end end end end else if S<13757994 then if S<13744280 then if S<13732093 then if S<13728852 then M=S J=Y(-12314)r=A[J]J=r(j)r=Y(-11686)v=J==r S=v and 8335531 or 7015806 C=v else r=nil v=nil S=15380893 end else if S<13735172 then C=Y(-12113)j=Y(-12314)h=g[1]n=A[j]U=h[C]j=n(U)n=Y(-11686)S=j==n S=S and 5703128 or 10308278 else M=Y(-12840)C=A[M]M=Y(-12826)U=C[M]C=Y(-11968)n=U[C]U=Y(-12224)S=n[U]U=S r=Y(-12840)v=A[r]r=Y(-12826)M=v[r]v=Y(-11968)r=Y(-12840)p=Y(-12690)l=Y(-12840)C=M[v]M=Y(-11671)n=C[M]v=A[r]r=Y(-12128)M=v[r]v=Y(-11639)C=M[v]S=n/C C=S M=Y(-12840)v=Y(-11785)n=A[M]M=Y(-12803)S=n[M]w=A[l]l=Y(-11477)z=w[l]w=z(U)J=p .. w r=C .. J M=v .. r n=Y(-12419)p=Y(-12840)n=S[n]n=n(S,M)S=Y(-12224)n={}h[S]=n n=Y(-12223)S=A[n]w=Y(-12840)J=A[p]p=Y(-12560)r=J[p]z=A[w]w=Y(-12128)p=z[w]J={r(U,C,p)}r={S(N(J))}v=r[3]n=r[1]S=3839242 M=r[2]r=n end end else if S<13745729 then if S<13745305 then S=x e=Y(-12529)x=Y(-12331)s=Z or x Z=S T=C[e]h3=S S=T and 3120884 or 171618 x=T else h=g[1]n=Y(-12314)r=Y(-12840)S=h[n]v=A[r]r=Y(-12032)M=v[r]j=S v=Y(-12019)C=M[v]U=j==C S=U and 5020321 or 10014317 n=U end else if S<13751362 then j=Y(-12840)n=A[j]j=Y(-12253)S=n[j]n={S}S=A[Y(-12760)]else if S<13752867 then Q=1 S=13633707 E=#j l=E+Q E=z j[l]=E else S=true n={S}S=A[Y(-11930)]end end end end else if S<13789463 then if S<13758134 then if S<13758046 then n={r}S=A[Y(-12490)]else v=#M r=1 z=Y(-11643)S=v+r p=h[z]w=S E=S J=j+p r=Y(-12060)p=Y(-11568)l=C S=C and 16670047 or 7311167 end else if S<13760436 then E=nil S=2520514 z=nil w=nil else S=M S=A[Y(-12089)]M=nil n=C or M n={n}end end else if S<13801983 then if S<13801147 then S=l J={[p]=h,[z]=w}r={J}v=M(r)M=1 C=v[M]M=Y(-12586)U=C[M]S=7493351 n=U else a=1 L=S V=#M m=V+a e=1 x=Y(-12840)h3=Y(-11876)Z=A[x]x=Y(-11546)y=S K=Z[x]a=S x=O[h3]Z=K(x)h3=Y(-12840)x=A[h3]h3=Y(-11546)K=x[h3]T=E[e]e=Y(-12060)h3=T[e]x=K(h3)s=Z<=x W=s S=s and 12855287 or 1276761 end else if S<13802375 then w=Y(-12557)u=Y(-12359)z=J .. w p=Y(-12735)p=U[p]p=p(U,z)z=p()S=J .. z p=S w=Y(-12655)z=A[w]O=Y(-12359)w=Y(-12735)S=z[w]w=Y(-11454)z=S(p,w)E={z()}l=E[3]S=E[1]V=Y(-12359)z=S Q=A[u]u=Q(z)w=E[2]E=Y(-11910)b=A[O]O=b(w)Q=Y(-12455)m=A[V]b=Y(-12622)V=m(l)m=Y(-12620)S={[E]=u;[Q]=O,[b]=V,[m]=p}n={S}S=A[Y(-11675)]else if S<13815188 then S=Y(-12791)w=S S=13311336 else S=14492243 end end end end end end else if S<13942830 then if S<13863006 then if S<13849413 then if S<13839389 then if S<13832779 then r,z=J(v,r)S=r and 3176807 or 15385453 else E=Y(-12061)l=Y(-11861)J=r S=Y(-11975)S=p[S]S=S(p)w=p[l]l=p[E]Q=Y(-11861)z=S S=w+l w=S E=p[Q]Q=1 l=E+Q Q=1 E=w-Q S=11639409 Q=E E=1 u=E E=0 b=u<E E=l-u end else if S<13846931 then S=12855661 Z=Y(-12474)K=j[Z]Z=0 s=K>Z W=s else z=Y(-12840)p=A[z]z=Y(-12610)S=p[z]l=Y(-12840)w=A[l]l=Y(-11587)z=w[l]p=S(z)z=Y(-11887)S=h[z]S=S and 3968138 or 5736763 end end else if S<13857538 then if S<13852068 then h=g[1]M=Y(-12655)U=g[3]C=g[4]n=A[M]M=Y(-12274)S=n[M]M=Y(-11739)j=g[2]v=S r=C n=S(M,j)J=S M=n S=C and 7587456 or 15964935 else h=Y(-12840)n=A[h]h=Y(-12252)S=n[h]n={S()}n={N(n)}S=A[Y(-12784)]end else if S<13858366 then z=Y(-12840)p=A[z]z=Y(-12610)S=p[z]p=S(J)S=B[f[1]]E=Y(-12840)l=A[E]E=Y(-12610)w=l[E]l={w(p)}z=S(N(l))S=z and 4845103 or 13446388 else S=13658975 r=nil J=nil end end end else if S<13877327 then if S<13871891 then if S<13870159 then J=Y(-12591)r=Y(-11837)n=Y(-12190)h=g[1]p=P(5406191,{})U=g[3]C=g[4]j=g[2]z=Y(-12541)v=A[r]r=Y(-12210)M=v[r]E=D(12890943,{})w=d(2368775,{})v=Y(-12294)r=P(1143866,{})l=Y(-12086)S={[n]=M,[v]=r,[J]=p,[z]=w;[l]=E}n=Y(-11410)p=Y(-12541)M=S S=A[n]r=Y(-12389)J=M[p]v={[r]=J}n={S(M,v)}S=A[Y(-11973)]n={N(n)}else j=g[2]h=g[1]U=not h S=U and 4535709 or 7608541 n=U end else if S<13875759 then z=Y(-12840)p=A[z]z=Y(-12803)J=p[z]p=Y(-12080)r=J[p]M=r S=13663422 else m=Y(-12029)O=w[m]b=S S=O and 2664144 or 2759849 u=O end end else if S<13916564 then if S<13907448 then n=Y(-11548)S=A[n]n=S(U)n={h}S=A[Y(-12232)]else h=g[1]r=Y(-12840)v=A[r]r=Y(-12116)M=v[r]v=Y(-12544)C=M[v]v=Y(-11568)M=Y(-12013)U=C[M]z=Y(-12840)M=h[v]p=A[z]z=Y(-12116)J=p[z]p=Y(-12544)r=J[p]S=A[Y(-11724)]J=Y(-11767)v=r[J]C=M&v j=U[C]U=Y(-12331)n=j or U n={n}end else if S<13924297 then C=Y(-12703)U=j[C]S=8073814 C=U(h)n=C else if S<13928930 then n=Y(-11548)U=Y(-11916)S=A[n]j=h[U]n=S(j)S=Y(-12458)n=false h[S]=n S=12460574 else b=Y(-11531)n={U}u=h[b]b=U u[j]=b S=A[Y(-11690)]end end end end end else if S<14025499 then if S<13959524 then if S<13947960 then if S<13947487 then v=i()C=g[4]j=g[2]M=i()J=Y(-11871)S=d(9822345,{})h3=0 u=0 V=15 U=g[3]Q=Y(-12622)h=g[1]w=2018 B[M]=S s=0 O=21 n=Y(-12576)L=Y(-12622)z=Y(-11910)S=0x11 m=Y(-12622)B[v]=S E=3 l=Y(-12455)p={[z]=w;[l]=E,[Q]=u}R=7 b=Y(-12622)l=Y(-11910)E=2019 u=4 Q=Y(-12455)w={[l]=E,[Q]=u,[b]=O}Q=Y(-11910)A3=Y(-12622)b=Y(-12455)z=Y(-11396)Z=11 K=Y(-12622)l=Y(-12334)O=4 u=2019 x=Y(-12622)E={[Q]=u,[b]=O,[m]=V}V=3 a=Y(-12622)O=2019 b=Y(-11910)m=Y(-12455)u={[b]=O;[m]=V;[a]=R}b=Y(-12421)V=2020 R=2 y=Y(-12622)Q=Y(-12697)W=4 a=Y(-12455)m=Y(-11910)O={[m]=V;[a]=R;[y]=W}y=Y(-12455)W=2 a=Y(-11910)R=2020 m=Y(-11743)V={[a]=R,[y]=W;[L]=s}s=1 e=0 W=2020 Y3=41 T=Y(-12622)L=Y(-12455)a=Y(-12546)y=Y(-11910)R={[y]=W,[L]=s,[K]=Z}L=Y(-11910)y=Y(-11388)Z=2 s=2021 K=Y(-12455)W={[L]=s,[K]=Z,[x]=h3}h3=2 Z=2022 K=Y(-11910)L=Y(-12720)x=Y(-12455)s={[K]=Z;[x]=h3;[T]=e}K=Y(-12329)e=3 x=Y(-11910)h3=2022 T=Y(-12455)Z={[x]=h3;[T]=e,[A3]=Y3}r={[J]=p,[z]=w;[l]=E;[Q]=u;[b]=O,[m]=V,[a]=R,[y]=W;[L]=s,[K]=Z}m=2021 J=Y(-12783)u=k(1080992,{M})w=k(10989286,{})Q=2019 W=t(10721350,{})V=H(1162080,{M})R=k(5299108,{M})O=t(4075223,{M})b=2020 E=P(4246472,{M})a=2022 l=2018 y=2023 z=2017 p={[z]=w,[l]=E;[Q]=u;[b]=O;[m]=V,[a]=R,[y]=W}l=Y(-11815)w=P(14354199,{v})z=Y(-12328)E=P(1085535,{})S={[n]=r,[J]=p,[z]=w;[l]=E}n=Y(-11410)p=Y(-12389)r=S z=I(15380551,{})J={[p]=z}S=A[n]n={S(r,J)}S=A[Y(-12650)]n={N(n)}else h=g[1]U=Y(-12840)j=A[U]U=Y(-12354)n=j[U]j=27 S=n<=j S=S and 8192040 or 6187129 end else if S<13952240 then l=not w J=J+z n=~J n=J<=p n=l and n l=J>=p l=w and l n=l or n l=4494402 S=n and l n=14085015 S=S or n else v=Y(-12337)M=A[v]v=Y(-11982)C=M[v]r={C(j)}v=r[2]M=r[1]r=0 C=j==r S=C and 5546193 or 4517411 end end else if S<13975725 then if S<13963531 then r=Y(-12314)C=S v=A[r]r=v(h)v=Y(-12655)M=r==v U=M S=M and 14556813 or 528078 else S=10730845 end else if S<14013272 then m=h[w]V=Y(-12620)O=m[V]m=Y(-11771)b=O==m S=8051538 Q=b else if S<14024422 then M=Y(-12840)C=A[M]M=Y(-12032)U=C[M]C=Y(-11701)n=U[C]S=j==n S=S and 2584257 or 2499009 else b=1 u=#j a=S s=Y(-11876)K=Y(-12060)Q=u+b b=S L=Y(-12840)m=S J=l W=A[L]L=Y(-11546)y=W[L]L=r[s]s=Y(-12840)W=y(L)L=A[s]s=Y(-11546)y=L[s]s=E[K]L=y(s)R=W<=L S=R and 14176030 or 5581332 V=R end end end end else if S<14054327 then if S<14032787 then if S<14030777 then r=Y(-12840)v=A[r]r=Y(-12847)M=v[r]v=Y(-12701)C=M[v]S=12464309 U=C[h]n=U else w=Y(-11686)p=M z=A[w]w=Y(-12193)n=z[w]l=S b=Y(-11568)u=U[b]Q=S S=u and 4591946 or 16369266 E=u end else if S<14041328 then P3=Y(-12655)v3=Y(-11971)M3=Y(-11949)o3=A[P3]P3=Y(-12274)r3=Y(-12613)r3=q3[r3]H3=o3[P3]S=10171161 P3=Y(-12322)D3={r3(q3,M3,v3)}o3=H3(P3,N(D3))d3=I3  .. o3 I3=d3 else J=Y(-12840)r=A[J]J=Y(-12826)v=r[J]S=7270254 r=Y(-11968)M=v[r]v=Y(-11577)C=M[v]p=Y(-12840)J=A[p]p=Y(-12826)r=J[p]J=Y(-11968)v=r[J]r=Y(-12264)M=v[r]U=C+M j=U>=h n=j end end else if S<14080142 then if S<14071726 then M,J=v(C,M)S=M and 7001371 or 12346202 else w=Y(-11568)z=U[w]J=z S=12860047 end else if S<14089534 then w=Y(-11837)z=A[w]w=Y(-12512)E=Y(-11837)p=z[w]z=Y(-12835)l=A[E]u=Y(-11837)E=Y(-11537)w=l[E]l=Y(-11779)Q=A[u]u=Y(-12527)E=Q[u]Q=Y(-11908)J={[p]=z;[w]=l,[E]=Q}p=M z=S S=M and 2004019 or 746721 else if S<14096001 then n=B[f[1]]J=Y(-12148)S=U and 3608908 or 1891195 p=P(5634743,{v})n[J]=p else M=Y(-12840)C=A[M]r=Y(-12005)M=Y(-12314)n=C[M]r=h[r]M=Y(-11972)C=A[M]v={r(h)}M=C(N(v))S=n[M]C=S v=Y(-12314)n=A[v]S={}M=S v=n(j)n=Y(-11686)S=v==n S=S and 13445416 or 13758054 end end end end end end end else if S<14417068 then if S<14254832 then if S<14176187 then if S<14141888 then if S<14121393 then if S<14113819 then U=Y(-11791)h=g[1]j=B[f[1]]n=j[U]j=n(h)S=not j S=S and 11811980 or 15565308 else S=A[Y(-12524)]J=false n={J}end else if S<14127559 then U=g[3]j=g[2]h=g[1]S={}M=h C=S S=Y(-12005)z=Y(-12659)E=Y(-12840)S=M[S]S=S(M)v=S S=false r=S S=false p=Y(-11893)J=S n=A[p]p=Y(-12427)S=n[p]p=v[z]l=A[E]E=Y(-12853)w=l[E]E=Y(-12840)l=Y(-12666)z=w[l]n=S(p,z)p=n l=A[E]E=Y(-12853)S=Y(-12331)z=S w=l[E]l=Y(-12321)n=w[l]S=p==n S=S and 5738708 or 4140432 else r=Y(-12840)v=A[r]r=Y(-12826)M=v[r]v=Y(-11968)C=M[v]M=Y(-11577)U=C[M]n=j-U M=Y(-12840)C=A[M]M=Y(-11486)U=C[M]S=n/U n={S}S=A[Y(-11685)]end end else if S<14159109 then if S<14148284 then n={p}S=A[Y(-11634)]else S=z and 14394970 or 3378785 end else if S<14170237 then m=Y(-12840)O=A[m]m=Y(-12826)S=O[m]V=Y(-11459)O=Y(-12415)O=S[O]V=h[V]l=E O=O(S,l)m={V(h,O,l)}S=Y(-12513)O=nil l=nil S=U[S]S=S(U,N(m))S=11639409 else L=Y(-12840)K=Y(-11917)s=Y(-12060)W=A[L]L=Y(-11546)y=W[L]L=E[s]s=Y(-12840)W=y(L)L=A[s]s=Y(-11546)y=L[s]s=r[K]L=y(s)R=W<L S=5581332 V=R end end end else if S<14234322 then if S<14227859 then if S<14217490 then S=10639808 else V=not m u=u+O Q=~u Q=u<=b Q=V and Q V=u>=b V=m and V Q=V or Q V=9177746 S=Q and V Q=954926 S=S or Q end else if S<14232676 then p=Y(-12869)S=7543993 J=U .. p U=J else n={j}S=A[Y(-12504)]end end else if S<14237062 then if S<14236069 then M=Y(-11837)C=A[M]w=Y(-11837)M=Y(-11896)j=C[M]M=Y(-11780)z=Y(-11837)C=j(M)U=C j={}r=Y(-11837)v=A[r]r=Y(-12499)M=v[r]p=A[z]z=Y(-11761)J=p[z]z=A[w]w=Y(-12027)p=z[w]r=J|p v=M(r)v=Y(-12223)M=A[v]p={M(U)}J=p[3]S=16023665 v=p[1]r=p[2]else A3=false e=Y(-12840)T=A[e]L=s e=Y(-12826)N3=Y(-11776)h3=T[e]T=Y(-12766)T=h3[T]T=T(h3,L)e=false h3=Y(-12005)h3=T[h3]h3=h3(T)S3=h[N3]N3=Y(-11886)Y3=S3[N3]S=Y3 and 3914246 or 1096233 end else if S<14238666 then S=15490829 else if S<14242454 then r3=Y(-11686)v3=A[r3]r3=Y(-12193)k3=v3[r3]S=10246309 r3=Y(-12523)v3=k3(I3,r3)else S=1419541 W=Y(-11610)y=W end end end end end else if S<14327214 then if S<14275077 then if S<14271446 then if S<14266034 then n=Y(-12314)S=h[n]n={S}S=A[Y(-12482)]else n=M S=v S=M and 2839842 or 12277857 end else if S<14274298 then S=A[Y(-12839)]n={n}else r=Y(-12840)v=A[r]r=Y(-12847)n={U}M=v[r]v=Y(-12494)S=M[v]M=U S[j]=M S=A[Y(-12388)]end end else if S<14295662 then if S<14285107 then S=A[Y(-12532)]j=nil U=nil n={}h=nil else z=not C J=z p=S S=z and 9672777 or 7336987 end else if S<14301204 then L=Y(-11975)L=h[L]L=L(h)T=#v x=S e=0 K=S h3=T>e S=h3 and 7841240 or 13744722 Z=h3 else if S<14303804 then I3=Y(-11686)X3=A[I3]S=16449567 I3=Y(-12193)e=X3[I3]I3=Y(-11953)X3=e(v,I3)else S=z r=p S=p and 3308036 or 9878172 end end end end else if S<14352569 then if S<14349388 then if S<14345585 then W=Y(-12655)y=A[W]W=Y(-11498)L=Y(-12655)R=y[W]y=R(Q)W=A[L]L=Y(-11498)R=W[L]W=R(M)a=y==W S=3622872 m=a else L=Y(-12046)W=O[L]L=Y(-11800)y=W==L a=y S=1329493 end else if S<14351844 then R=Y(-12046)a=r[R]m=S R=Y(-11399)V=a==R O=V S=V and 7463278 or 3150060 else j=Y(-12724)h=g[1]n=h[j]j=0 S=n~=j n={S}S=A[Y(-11804)]end end else if S<14380553 then if S<14375206 then M=2022 h=2018 j=2019 v=2023 C=2021 r=2024 n=2017 U=2020 S={n;h;j;U;C;M;v;r}h=S j=Y(-11837)n=A[j]U=0 j=Y(-11896)S=n[j]j=Y(-12418)n=S(j)j=n n=#j S=n>U S=S and 4973388 or 11079278 else S=13311336 l=Y(-12795)w=l end else if S<14390243 then n={n}S=A[Y(-12778)]else if S<14397154 then z=#C w=1 S=z+w z=p C[S]=z S=3378785 else Z=Y(-11893)x=Y(-12659)K=A[Z]Z=Y(-12427)s=K[Z]Z=a[x]S=834723 e=Y(-12840)T=A[e]e=Y(-12853)h3=T[e]T=Y(-12041)x=h3[T]K=s(Z,x)s=0 L=K==s n=L end end end end end end else if S<14529968 then if S<14460797 then if S<14442979 then if S<14426108 then if S<14422587 then w=0xFF z=v>=w S=z and 16195816 or 8833265 else n=Y(-12205)S=h[n]n={S}S=A[Y(-12485)]end else if S<14436025 then D3=Y(-11972)P3=A[D3]D3=P3(q3)o3=I3  .. D3 I3=o3 S=10171161 else h=g[1]j=Y(-12085)n=h[j]j=0 S=n~=j n={S}S=A[Y(-11981)]end end else if S<14455489 then if S<14447129 then n=true S=14085015 l=nil r=n else n=Y(-12265)S=J[n]p=S S=p and 665947 or 13059650 end else if S<14460359 then l=nil S=8765187 w=nil else U=g[3]j=g[2]h=g[1]C=g[4]M=Y(-12840)n=A[M]M=Y(-12853)v=Y(-11837)S=n[M]M=i()B[M]=S n=A[v]v=Y(-12487)S=n[v]v=i()n=S()r=i()B[v]=n S={}B[r]=S S=B[r]n=Y(-11658)J=B[r]S[n]=J n=B[r]J=Y(-11848)S=H(12749618,{v,r})n[J]=S n=B[r]J=Y(-11859)S=t(1389588,{})n[J]=S S=k(6139317,{})J=Y(-11387)n=B[r]n[J]=S S=H(4516188,{M})n=B[r]J=Y(-11459)n[J]=S J=Y(-11473)n=B[r]S=P(16508134,{M})n[J]=S S=B[r]n={S}S=A[Y(-11799)]end end end else if S<14488630 then if S<14475758 then if S<14466853 then L=S Z=Y(-11776)K=h[Z]Z=Y(-12544)s=K[Z]W=s S=s and 15474936 or 6948052 else n=j v=S S=j and 899455 or 5100169 end else if S<14481273 then S=31 U=S S=3826091 else h3=a .. Z a=h3 S=4225707 end end else if S<14521103 then if S<14509447 then U=nil r=nil S=1813996 else O=Y(-12869)S=4029203 b=w .. O w=b end else if S<14524538 then v=S z=Y(-11837)C=S p=A[z]z=Y(-12637)J=p[z]p=J()J=0 r=p>J S=r and 15699322 or 3912137 M=r else if S<14526834 then v3=Y(-12337)M3=A[v3]v3=Y(-12283)D3=M3[v3]M3=D3(q3)P3=M3==q3 S=5862608 H3=P3 else C3=Y(-11975)C3=T[C3]C3=C3(T)I3=false t3=false X3=Y(-11975)X3=h3[X3]X3=X3(h3,I3,t3)I3=Y(-12331)k3=Y(-12840)G3=A[k3]k3=Y(-12826)t3=G3[k3]k3=S G3=Y(-12563)G3=t3[G3]G3=G3(t3,L)S=G3 and 13708073 or 6883841 t3=G3 end end end end end else if S<14614068 then if S<14555064 then if S<14540962 then if S<14538193 then U=Y(-12314)j=g[2]M=Y(-12822)h=g[1]n=A[U]C=h[M]U=n(C)n=Y(-11686)S=U==n S=S and 8346835 or 11714342 else z,w=J(p,z)S=z and 3490158 or 13758012 end else if S<14544393 then v=Y(-12840)M=A[v]v=Y(-12647)r=S p=Y(-11882)C=M[v]J=U[p]S=J and 10387673 or 16653669 v=J else V=Y(-12840)E=Y(-12840)l=A[E]E=Y(-12803)w=l[E]Q=Y(-11394)O=Y(-12840)b=A[O]n={}O=Y(-11477)p=nil u=b[O]m=A[V]V=Y(-12310)l=Y(-12419)O=m[V]b=u(O)v=nil E=Q .. b r=nil l=w[l]l=l(w,E)M=nil O=Y(-12840)Q=Y(-12218)E=Y(-12840)l=A[E]V=Y(-12840)E=Y(-12803)w=l[E]l=Y(-12419)b=A[O]O=Y(-11477)u=b[O]m=A[V]l=w[l]V=Y(-12449)S=A[Y(-12057)]O=m[V]b=u(O)O=Y(-12840)E=Q .. b j=nil l=l(w,E)l=Y(-12840)u=Y(-12840)w=A[l]Q=A[u]l=Y(-12479)J=nil h=nil u=Y(-11992)E=Q[u]C=nil z=nil b=A[O]U=nil O=Y(-12310)u=b[O]Q=E(u)w[l]=Q O=Y(-12840)l=Y(-12840)u=Y(-12840)w=A[l]l=Y(-11573)Q=A[u]u=Y(-12635)E=Q[u]b=A[O]O=Y(-12449)u=b[O]Q=E(u)w[l]=Q end end else if S<14587183 then if S<14565426 then S=528078 J=Y(-11495)r=h .. J v=Y(-11495)M=v .. r U=M else S=z S=5043215 n=p end else if S<14597431 then S=14801071 p=r else if S<14605684 then M=Y(-12840)r=Y(-12279)n=A[M]M=Y(-12610)z=Y(-12840)S=n[M]v=h[r]p=A[z]z=Y(-12253)J=p[z]r=U*J M=v+r n=S(M)C=n M=#j v=1 S=M+v M=B[f[1]]v=M(C)j[S]=v M=1 S=U+M U=S S=13426672 else h=g[1]C=g[4]U=g[3]M=g[5]v=Y(-12641)j=g[2]J=Y(-11837)r=i()v=h[v]v={v(h,j,U,C,M)}n=v[2]S=v[1]v=S B[r]=n n=A[J]J=Y(-12486)p=Y(-11837)S=n[J]J=B[r]n=S(J)B[r]=n J=A[p]p=Y(-11548)S=J[p]J=S(v)S=D(11383645,{r})n={S}S=A[Y(-12311)]end end end end else if S<14642476 then if S<14636318 then if S<14621397 then v=S p=Y(-12314)J=A[p]p=J(j)J=Y(-11686)r=p==J M=r S=r and 5244819 or 11558057 else S=561089 v=Y(-12079)M=U .. v U=M end else if S<14641020 then h=i()S=0 n=Y(-12223)j=g[2]B[h]=g[1]U=S S={}C=S S=A[n]r=B[h]J={S(r)}v=J[3]M=J[2]n=J[1]r=n S=8477195 else O=Y(-11893)b=A[O]E=S a=Y(-12387)O=Y(-12427)m=Y(-11568)u=b[O]O=j[m]V=B[f[1]]m=V[a]b=u(O,m)u=0 Q=b~=u S=Q and 9490893 or 814608 l=Q end end else if S<14662562 then if S<14650057 then S=p and 11868833 or 5687623 else M=Y(-12840)C=A[M]M=Y(-12032)U=C[M]C=Y(-11701)n=U[C]S=j==n S=S and 15417589 or 753705 end else if S<14669457 then v=Y(-12840)M=A[v]v=Y(-12847)C=M[v]M=Y(-12081)n=C[M]S=n[j]n={S}S=A[Y(-12722)]else if S<14675775 then s=Y(-12840)R=Y(-11893)a=A[R]R=Y(-12427)V=a[R]y=Y(-12659)R=v[y]L=A[s]s=Y(-12853)W=L[s]L=Y(-12477)y=W[L]a=V(R,y)V=0 m=a~=V S=m and 7577843 or 13057722 else S=16155856 end end end end end end end end end else if S<15784198 then if S<15246097 then if S<14953477 then if S<14826587 then if S<14717210 then if S<14700872 then if S<14697202 then if S<14687641 then S=p and 16730521 or 3912339 else S={}h=g[1]U=S n=Y(-12717)S=A[n]j=g[2]v={S(j)}n=v[1]C=v[2]M=v[3]S=10232389 v=n end else if S<14700496 then X3=Y(-12840)C3=A[X3]v3=Y(-11812)k3=Y(-12219)X3=Y(-12826)Y3=C3[X3]G3=j[k3]k3=T[v3]I3=G3+k3 G3=0 S=1521043 X3=I3+G3 C3=Y(-12601)G3=1 C3=Y3[C3]C3=C3(Y3,X3)Y3=Y(-11473)Y3=h[Y3]Y3=Y3(h,C3)X3=Y(-12520)e=Y3 X3=C3[X3]X3=X3(C3)I3=X3[G3]G3=Y(-12005)C3=nil G3=I3[G3]G3=G3(I3)X3=nil h3=G3 else u=Y(-11837)Q=A[u]u=Y(-12512)S=16023078 E=Q[u]w=E end end else if S<14710643 then if S<14701163 then p=Y(-12868)J=M[p]S=16612125 v=J else M=r S=J S=r and 6994718 or 15899279 end else if S<14714075 then k3=0 S=6245034 I3=C3>k3 e=I3 else S=3743173 F3=Y(-11775)Y3=F3 end end end else if S<14762282 then if S<14726047 then if S<14722150 then Q=Y(-11568)z=Y(-12060)O=Y(-12620)J=v l=Y(-12060)w=p[l]l=Y(-11568)E=p[Q]b=p[O]u=U .. b p=nil Q=Y(-12620)S={[z]=w;[l]=E;[Q]=u}C[J]=S S=10755332 J=nil else h=g[1]C=Y(-11459)j=g[2]U=h[C]S=U and 8052221 or 7354067 n=U end else if S<14747145 then S=13311336 E=Y(-11695)w=E else S=false n={S}S=A[Y(-11891)]end end else if S<14796296 then if S<14768792 then n=Y(-12840)S=A[n]w=Y(-12573)n=Y(-11553)n=S[n]n=n(S,U)r=n S=Y(-12734)S=U[S]S=S(U)J=S S=Y(-11975)S=U[S]S=S(U)p=S z=U[w]S=z and 15120377 or 16123364 n=z else y=L S=s S=3028133 end else if S<14809221 then w=1 b=Y(-11568)z=p-w w=4 S=z*w E=Y(-11643)l=h[E]z=S E=Y(-12586)w=l[E]S=w+z Q=S w=S u=J[b]E=u S=u and 15224573 or 6905359 else if S<14810860 then C=Y(-11893)n=A[C]S=Y(-12331)r=Y(-11767)C=Y(-12427)U=S S=n[C]M=Y(-11568)C=j[M]v=B[f[1]]M=v[r]n=S(C,M)v=Y(-12805)C=n M=B[f[1]]n=M[v]S=C==n S=S and 16101720 or 10090681 else C3=Y(-11893)t3=Y(-12848)U3=A[C3]C3=Y(-12427)X3=Y(-12659)j3=U3[C3]C3=h3[X3]I3=B[f[1]]X3=I3[t3]U3=j3(C3,X3)j3=0 i3=U3~=j3 S=i3 and 6972642 or 11763162 end end end end end else if S<14907279 then if S<14886333 then if S<14851421 then if S<14842668 then S=J and 8207539 or 12924315 else U=g[3]j=g[2]M=S h=g[1]v=j r=S S=j and 6705212 or 11377199 end else if S<14859149 then n=U S=Y(-12206)C=S S=U and 10612927 or 9580343 else u=Y(-12245)Q=U .. u U=Q S=13942402 end end else if S<14900287 then if S<14889924 then S=r M=v S=3773517 else S=Y(-12043)n={S}S=A[Y(-12014)]end else if S<14902840 then l=Y(-11837)w=A[l]Q=Y(-12060)l=Y(-12486)O=1 z=w[l]b=j[O]O=Y(-11876)u=b[O]b=Y(-11568)O=4 E={[Q]=u;[b]=O}l={E}w=z(l)z=1 J=w[z]z=Y(-12586)r=J[z]S=4189642 v=r~=U C=v else if S<14903701 then r={}S=16095628 M=r else S=1810913 Q=Y(-12450)E=J .. Q J=E end end end end else if S<14925585 then if S<14909379 then if S<14907852 then l=Y(-12840)w=A[l]l=Y(-12853)z=w[l]w=Y(-11774)p=z[w]J=C==p v=J S=5080786 else M=27 S=10088117 j=M end else if S<14914985 then S=5210869 else n=C S=M S=C and 10188913 or 11245238 end end else if S<14944899 then if S<14927433 then i3=Y(-11812)B3=A3[i3]i3=0 F3=B3~=i3 S=F3 and 10469202 or 821186 else n=C S=M S=C and 1671138 or 10931126 end else if S<14947567 then S=y S=8724173 y=nil V=R or y M[m]=V else if S<14953032 then C=C+v n=~C J=not r n=C<=M n=J and n J=C>=M J=r and J n=J or n J=3048271 S=n and J n=5640308 S=S or n else S=v S=M and 14908106 or 15602217 end end end end end end else if S<15097005 then if S<15022588 then if S<14967845 then if S<14958128 then if S<14957169 then h=g[1]j=g[2]n=Y(-12223)J=Y(-12836)S={}U=S S=A[n]r=B[f[1]]v=r[J]r={S(v)}n=r[1]v=n M=r[3]C=r[2]S=2474886 else S=763143 end else if S<14962487 then U=4 C=Y(-12087)A[C]=U S=12250147 else L=Y(-12046)W=O[L]R=S L=Y(-12827)y=W==L a=y S=y and 1329493 or 14348941 end end else if S<14986246 then if S<14973031 then s=1 L=l-s y=L S=16588951 else l=E S=Q S=E and 2690868 or 6231121 end else if S<15016642 then M=Y(-12845)S=1028583 C=h[M]n=C else S={}j=S S=0 U=S S=nil C=S S=13426672 end end end else if S<15041913 then if S<15025902 then if S<15023337 then v,p=r(M,v)S=v and 11200191 or 1008325 else U=n r=Y(-12508)n=Y(-11390)M=Y(-11899)S=A[n]v=U .. r C=M .. v U=nil n=S(C)S=11304026 end else if S<15030366 then C3=Y(-12681)U3=Y(-11798)n3=Y(-11686)F3=A[n3]n3=Y(-12193)S=6679292 B3=Y(-12781)c3=F3[n3]j3=Y(-11725)n3=A[B3]i3=A[j3]X3=Y(-11387)j3=A3[U3]X3=n3[X3]U3=A3[C3]C3=Y(-12606)B3={X3(n3,i3,j3,U3,C3)}F3=c3(M,N(B3))else h=g[1]j=Y(-12840)n=A[j]C=Y(-12840)j=Y(-12701)S=n[j]U=A[C]C=Y(-12610)M=Y(-12655)j=U[C]U={j(h)}n=S(N(U))j=n C=A[M]M=Y(-12716)U=C[M]M=Y(-12785)C=U(j,M)S=C and 3577055 or 15431163 n=C end end else if S<15050033 then if S<15045720 then S=9847591 z=nil w=nil else S=m S=O and 12750114 or 5633067 u=O end else if S<15059100 then n=Y(-12314)S=h[n]n={S}S=A[Y(-11830)]else if S<15077617 then O=Y(-12840)Q=Y(-12840)w=Y(-12840)z=A[w]w=Y(-12610)S=z[w]E=A[Q]Q=Y(-12610)l=E[Q]V=S b=A[O]O=Y(-11725)u=b[O]W=Y(-12840)V=0x8 y=A[W]W=Y(-11514)R=y[W]y=Y(-11466)O=S a=R[y]R=0x10 m=a and R b=m or V Q=u+b a=Y(-12840)b=S E=l(Q)V=A[a]a=Y(-11514)m=V[a]Q=S V=Y(-11466)O=m[V]m=0x18 u=O and m b=0x10 l=u or b w=E+l z=S(w)l=Y(-12840)E=z O=Y(-12840)w=A[l]l=Y(-12726)Q=Y(-11958)w[l]=E E=Y(-12840)l=A[E]V=Y(-12840)E=Y(-12803)w=l[E]b=A[O]O=Y(-11477)z=nil u=b[O]m=A[V]S=8890745 V=Y(-12726)l=Y(-12360)O=m[V]l=w[l]b=u(O)E=Q .. b l=l(w,E)else p,z=r(J,p)S=p and 5143900 or 15687817 end end end end end else if S<15162820 then if S<15126622 then if S<15107598 then if S<15103518 then U=Y(-11837)v=Y(-11837)h={F(1,N(g))}S={N(h)}n=A[U]U=Y(-12083)j=S S=n[U]U=Y(-11837)n=S()n=A[U]U=Y(-12503)S=n[U]n=S(N(h))M=A[v]v=Y(-12637)C=M[v]M=C()C=0 U=M==C n=U S=U and 15565673 or 11400803 else h=g[1]j=Y(-12081)n=A[j]j=Y(-11442)S=n[j]U=Y(-11893)n=S(h)j=n n=A[U]U=Y(-12427)S=n[U]U=0x0007 n=S(j,U)U=n n=0x0001 S=U==n S=S and 729969 or 15885275 end else if S<15119892 then S=11535846 V=nil m=nil a=nil else z=n n=0 S=z~=n S=S and 3484442 or 3945869 end end else if S<15147291 then if S<15136002 then x=x+T A3=not e Z=~x Z=x<=h3 Z=A3 and Z A3=x>=h3 A3=e and A3 Z=A3 or Z A3=12432654 S=Z and A3 Z=5750528 S=S or Z else E3=Y(-11686)z3=A[E3]E3=Y(-12193)S=334356 p3=z3[E3]E3=Y(-12672)z3=p3(v,E3)J3=nil end else if S<15149038 then S=x S=Z and 9142186 or 1137421 else if S<15158447 then v=31 C=j>v S=C and 4875633 or 16671167 else n=Y(-12223)j=g[2]S=A[n]h=g[1]M={S(h)}n=M[1]S=7375525 U=M[2]C=M[3]M=n end end end end else if S<15208628 then if S<15182450 then if S<15170525 then p=Y(-12576)M=B[f[1]]J=h[p]p=Y(-12697)r=J[p]v=M(j,r)M=0 C=v>=M S=C and 5725496 or 12366692 else j=j+C v=not M n=~j n=j<=U n=v and n v=j>=U v=M and v n=v or n v=4911978 S=n and v n=9843314 S=S or n end else if S<15198520 then u=Y(-12001)Q=J .. u S=1810913 J=Q else S=O m=0 O=u>m S=O and 7642748 or 3687348 end end else if S<15211105 then if S<15210236 then x=Y(-11893)A3=Y(-12840)Z=A[x]x=Y(-12427)K=Z[x]h3=Y(-12659)x=a[h3]e=A[A3]A3=Y(-12853)T=e[A3]e=Y(-12041)h3=T[e]Z=K(x,h3)K=0 s=Z~=K S=s and 13194069 or 11162518 else h=g[1]j=g[2]C=Y(-12060)U=Y(-12060)n=h[U]U=j[C]S=n==U S=S and 706560 or 9535910 end else if S<15220421 then S=9587690 Ng=Y(-12655)Sg=A[Ng]Ng=Y(-12274)Yg=Sg[Ng]Ng=Y(-12092)Sg=Yg(Ng,K3)Ag=y3  .. Sg y3=Ag else if S<15226304 then O=Y(-12770)b=B[f[1]]S=6905359 u=b[O]V=Y(-11568)a=Y(-11568)m=h[V]V=J[a]O=m[V]m=B[f[2]]b=u(p,w,O,m)E=b else n=C S=M S=C and 16585595 or 10731526 end end end end end end end else if S<15512142 then if S<15380640 then if S<15295502 then if S<15263897 then if S<15253274 then if S<15251405 then j={F(2,N(g))}M=Y(-11686)h=g[1]U={}n=Y(-11410)S=A[n]C=A[M]n=S(U,C)U=Y(-12009)U=n[U]S={U(n,N(j))}n={N(S)}S=A[Y(-12583)]else p=w S=l S=w and 13321427 or 9373633 end else if S<15257585 then M=Y(-12840)U=n C=A[M]M=Y(-12826)n=C[M]C=Y(-12415)S=n[C]n=S(U)C=n n=Y(-12681)S=C[n]n={S}S=A[Y(-12088)]else R=false Z=0 a=Y(-11975)L=S a=j[a]y=true a=a(j,R,y)y=S K=#M s=K>Z W=s S=s and 867764 or 11439566 end end else if S<15272887 then if S<15269283 then a=Y(-12840)V=A[a]a=Y(-12253)S=5194149 m=V[a]V=3 O=m*V u=O else y3,L3=Q3(m3,y3)S=y3 and 1714745 or 12001142 end else if S<15292825 then Z3=Y(-12268)W3=y3  .. Z3 y3=W3 T3=Y(-12314)x3=A[T3]T3=x3(K3)x3=Y(-12655)Z3=T3==x3 S=Z3 and 768075 or 7793812 else Q,b=l(E,Q)S=Q and 3370239 or 16340887 end end end else if S<15334051 then if S<15313560 then if S<15304230 then b=Y(-12840)u=A[b]S=12334233 b=Y(-11587)Q=u[b]l=Q else M=1 j=g[2]h=g[1]C=h+j U=C-M n=U/j S=n*j n={S}S=A[Y(-11795)]end else if S<15333126 then S=A[Y(-12130)]n={}j=nil h=nil else h=g[1]j=Y(-12620)n=h[j]S=not n S=S and 16678877 or 1678227 end end else if S<15348993 then if S<15340537 then M=Y(-12840)C=A[M]M=Y(-12412)S=C[M]C=S(U)S=Y(-11575)S=C[S]M=U S=S(C)S=Y(-12060)C[S]=M p=Y(-12840)J=A[p]p=Y(-12826)r=J[p]J=Y(-11887)v=r[J]M=v S=v and 1700763 or 3773517 else z=Y(-12840)w=Y(-11627)p=A[z]z=Y(-12803)Q=Y(-12840)S=p[z]E=A[Q]Q=Y(-11477)p=Y(-12360)l=E[Q]E=l(J)p=S[p]z=w .. E p=p(S,z)z=Y(-12840)p=A[z]z=Y(-12826)l=Y(-12840)S=p[z]w=A[l]p=Y(-11968)l=Y(-11766)z=w[l]w=z(J)S[p]=w S=13551134 end else if S<15352192 then w=Y(-12620)z=r[w]l=Y(-12669)w=j .. l p=z==w J=p S=14827513 else if S<15374324 then r=Y(-12840)n=A[r]J=Y(-11443)r=Y(-12803)S=n[r]n=Y(-12360)r=J .. v J=Y(-12840)n=S[n]n=n(S,r)r=A[J]J=Y(-12354)S=Y(-12354)n=r[J]r=Y(-12840)J=Y(-11937)h[S]=n n=A[r]r=Y(-12803)w=Y(-12840)S=n[r]z=A[w]w=Y(-12354)n=Y(-12360)p=z[w]r=J .. p n=S[n]n=n(S,r)S=10665756 else h=g[1]j={F(2,N(g))}n=Y(-11815)n=h[n]S={n(h,N(j))}n={N(S)}S=A[Y(-11839)]end end end end end else if S<15429969 then if S<15412076 then if S<15388301 then if S<15384453 then C,r=M(U,C)S=C and 662989 or 4378428 else S=16770872 end else if S<15395240 then v=Y(-11837)M=A[v]v=Y(-11537)S=Y(-11536)n=M[v]S=h[S]S=S(h,j,n)M=S S=C .. M n={S}S=A[Y(-12243)]else r=24.2 M=S v=j==r C=v S=v and 8113750 or 12511491 end end else if S<15421980 then if S<15418693 then v=Y(-12309)U=Y(-12727)n=B[f[1]]S=n[U]U=B[f[1]]M=h[v]v=Y(-12541)v=U[v]C={v(U,M)}n={S(N(C))}S=A[Y(-12460)]n={N(n)}else S=3630885 w=Y(-12840)z=A[w]w=Y(-12826)E=Y(-11915)p=z[w]l=j[E]E=1 z=Y(-12590)z=p[z]w=l+E E=Y(-12840)z=z(p,w)l=A[E]E=Y(-12826)w=l[E]l=Y(-11747)l=w[l]l=l(w,z)p=r .. l r=p z=nil end else if S<15426362 then S=E S=l and 7498808 or 16350290 else if S<15428812 then S=A[Y(-12006)]n={r}else J=nil S=5826597 end end end end else if S<15472920 then if S<15454406 then if S<15436242 then S=3577055 M=Y(-12655)C=A[M]M=Y(-12716)U=C[M]M=Y(-12581)C=U(j,M)n=C else j=g[2]n=B[f[1]]h=g[1]U=Y(-12081)S=n[U]S=S and 9565661 or 6333168 end else if S<15468889 then S=false n={S}S=A[Y(-12522)]else U=Y(-12840)h=g[1]C=Y(-11837)j=A[U]U=Y(-12826)n=j[U]j=Y(-12077)S=n[j]U=A[C]C=Y(-12551)j=U[C]n={S(h,j)}n={N(n)}S=A[Y(-11715)]end end else if S<15488554 then if S<15484625 then Z=Y(-11669)K=j[Z]Z=0 s=K>Z S=6948052 W=s else U=Y(-11837)n=A[U]U=Y(-12026)S=n[U]M=Y(-11837)C=A[M]M=Y(-12637)U=C[M]C={U()}n=S(N(C))U=n C=Y(-11837)n=A[C]C=Y(-12083)S=n[C]n=S()S={}n=Y(-12223)C=S S=A[n]r={S(U)}n=r[1]v=r[3]S=6267522 M=r[2]r=n end else if S<15495635 then E=0 z=S l=#v J=S w=l>E p=w S=w and 6569298 or 3538247 else if S<15501279 then J=Y(-12840)p=Y(-12070)r=A[J]J=Y(-12826)v=r[J]J=j[p]p=Y(-11915)r=Y(-12657)r=v[r]r=r(v,J)J=j[p]p=0 v=J>=p S=v and 6578717 or 11558730 else S=16621646 y3=Y(-11893)a3=A[y3]y3=Y(-12427)s3=Y(-12041)R3=a3[y3]W3=Y(-12659)y3=u3[W3]L3=B[f[1]]W3=L3[s3]a3=R3(y3,W3)R3=0 V3=a3==R3 O3=V3 end end end end end end else if S<15592190 then if S<15554412 then if S<15524374 then if S<15520037 then if S<15514202 then J=Y(-11837)r=A[J]J=Y(-12414)S=12079337 v=r[J]r=v(h)C=r else r=Y(-11686)p=Y(-11725)w=Y(-12681)n=A[r]r=Y(-12193)S=n[r]J=A[p]z=Y(-11798)p=j[z]z=j[w]w=Y(-11387)w=h[w]r={w(h,J,p,z)}n=S(v,N(r))S=7363654 end else if S<15522843 then w=S Q=Y(-11568)E=J[Q]l=not E S=l and 11841647 or 7785123 z=l else Q=Y(-11493)E=B[v]l=E[Q]w={l}S=12098398 p=w end end else if S<15542483 then if S<15532298 then S=A[Y(-12221)]n={U}else r=Y(-12840)w=Y(-12840)S=A[r]z=A[w]w=Y(-12479)Q=Y(-12840)p=z[w]z=Y(-11392)r=Y(-11392)w=Y(-11968)J=p[z]S[r]=J z=Y(-12840)r=Y(-12840)S=A[r]p=A[z]r=Y(-11486)z=Y(-11818)J=p[z]l=Y(-12840)p=Y(-12793)p=J[p]p=p(J)S[r]=p r=Y(-12840)S=A[r]z=h[w]w=Y(-12264)p=z[w]w=A[l]r=Y(-12261)l=Y(-11486)z=w[l]J=p/z z=Y(-11968)S[r]=J r=Y(-12840)S=A[r]r=Y(-12726)p=h[z]z=Y(-12655)J=p[z]S[r]=J J=Y(-12840)l=Y(-12840)r=A[J]p=Y(-12220)J=Y(-12803)S=r[J]w=A[l]l=Y(-12261)z=w[l]l=Y(-12840)r=Y(-12673)J=p .. z r=S[r]p=Y(-11711)r=r(S,J)J=Y(-12840)r=A[J]J=Y(-12803)S=r[J]w=A[l]l=Y(-11486)z=w[l]J=p .. z r=Y(-12673)r=S[r]l=Y(-12840)r=r(S,J)J=Y(-12840)p=Y(-11549)r=A[J]J=Y(-12803)S=r[J]w=A[l]l=Y(-11477)z=w[l]E=A[Q]r=Y(-12673)Q=Y(-12726)r=S[r]l=E[Q]w=z(l)J=p .. w r=r(S,J)S=1 r=S S=2712742 end else if S<15550730 then S=10745130 E=nil Q=nil else J=Y(-11932)r=Y(-12840)v=A[r]r=Y(-12826)n=v[r]v=Y(-12657)r=j[J]v=n[v]v=v(n,r)r=Y(-12331)n=v~=r S=n and 7422850 or 1539448 end end end else if S<15575557 then if S<15565647 then if S<15558320 then S=10088117 v=29 j=v else M=Y(-12840)j=Y(-12314)n=h[j]C=A[M]M=Y(-12032)U=C[M]C=Y(-12000)j=U[C]S=n==j S=S and 11322582 or 12474922 end else if S<15565741 then v=B[f[1]]C=S r=Y(-11466)M=v[r]S=M and 16070573 or 4684765 U=M else S=R S=n and 2244786 or 15116201 end end else if S<15579377 then if S<15577876 then n=z S=w S=568334 else S=4377282 C={}n=C end else if S<15582817 then j=g[2]h=g[1]n=j S=j and 2545760 or 10340889 else if S<15584294 then S=nil n={S}S=A[Y(-12305)]else n=Y(-12314)h=g[1]S=h[n]j=S r=Y(-12840)v=A[r]r=Y(-12032)M=v[r]v=Y(-12000)C=M[v]U=j==C n=U S=U and 5990403 or 11083454 end end end end end else if S<15693381 then if S<15611505 then if S<15606389 then if S<15603269 then r=29 v=j==r S=v and 15555980 or 7963623 else j3=Y(-11686)B3=A[j3]j3=Y(-12193)F3=B3[j3]j3=Y(-11403)S=9780299 B3=F3(f3,j3)end else if S<15607408 then C=Y(-11837)U=n r=Y(-11837)n=A[C]C=Y(-12083)S=n[C]n=S()C=Y(-11837)p=Y(-11837)v=Y(-12655)n=A[C]C=Y(-12499)z=Y(-11907)S=n[C]C=-1 n=S(C)C=Y(-11837)n=A[C]C=Y(-12503)S=n[C]M=A[v]v=Y(-12274)C=M[v]v=Y(-12182)M=C(v,h)v=A[r]r=Y(-12551)C=v[r]v=false J=A[p]p=Y(-11589)r=J[p]p=Y(-11997)J=U[p]p=U[z]n=S(M,C,v,r,J,p)C=Y(-11837)n=A[C]C=Y(-12026)S=n[C]C=1 M=1 n=S(C,M)C=n n=#C M=0 S=n==M S=S and 3433268 or 94393 else r=Y(-12439)n=U[r]r=-1 S=n~=r S=S and 8381625 or 14765086 end end else if S<15630447 then if S<15622467 then w=Y(-12655)S={}U=S z=Y(-12655)n={}C=n n=Y(-12717)u=1 S=A[n]p=A[z]z=Y(-11498)J=p[z]p=J(j)z=A[w]w=Y(-12534)E=Y(-12655)J=z[w]z=J(j)b=Y(-11696)l=A[E]Q=1 b=j[b]E=Y(-12534)w=l[E]E={b(j,Q,u)}l=w(N(E))Q=#j E=2 w=Y(-11696)w=j[w]w=w(j,E,Q)J=l .. w r={p,z;J;j}J={S(r)}M=J[2]v=J[3]S=15023104 n=J[1]r=n else j=Y(-12840)C=Y(-12868)n=A[j]j=Y(-12276)U=Y(-12309)S=n[j]j=h[U]n=S(j)j=n U=j[C]n=U S=U and 15256758 or 1549678 end else if S<15674478 then S=A[Y(-12371)]j=nil h=nil n={}else if S<15687719 then o3=S M3=Y(-12314)D3=A[M3]M3=D3(q3)D3=Y(-12562)P3=M3==D3 H3=P3 S=P3 and 14524918 or 5862608 else J=#j v=1 r=j[J]j=nil U[v]=r S=6930364 end end end end else if S<15748621 then if S<15701321 then if S<15697275 then j=B[f[1]]U=Y(-12662)n=j[U]S=n[h]n={S}S=A[Y(-11494)]else S=3912137 l=Y(-11837)w=A[l]l=Y(-12026)z=w[l]l=1 w=z(l)z=1 p=w[z]z=Y(-12060)J=p[z]p=B[f[1]]r=J+p M=r end else if S<15707857 then S=a W=S s=Y(-12579)L=O==s y=L R=S S=L and 14969331 or 16588951 else r=Y(-12118)n=j[r]r=0 S=n>r S=S and 746210 or 5210869 end end else if S<15757451 then if S<15756151 then M=Y(-11968)j=g[2]h=g[1]C=h[M]M=Y(-12022)U=j n=C[M]S=n>U S=S and 1896318 or 5504513 else p=Y(-12655)J=A[p]p=Y(-12274)v=J[p]p=Y(-11816)J={v(p,M)}S=A[Y(-11530)]n={N(J)}end else if S<15761507 then z=Y(-11837)M=n S={}v=S J=Y(-11700)r=Y(-11837)n=A[r]r=Y(-12083)S=n[r]r=Y(-11837)n=S()n=A[r]r=Y(-12499)S=n[r]r=h[J]n=S(r)r=Y(-11837)n=A[r]r=Y(-12109)S=n[r]r=Y(-11837)n=S(C)n=A[r]r=Y(-11644)S=n[r]r=0 n=S(r)p=A[z]z=Y(-12637)J=p[z]p=J()J=0 r=p==J n=r S=r and 16547707 or 12554547 else if S<15777895 then O=#C y=Y(-12620)u=Q m=1 S=O+m m=1 R=1 O=p C[S]=O a=Y(-12060)O=#U S=O+m V=b[a]m=Y(-12060)a=Y(-11568)O={[m]=V;[a]=R;[y]=p}a=Y(-12060)U[S]=O V=b[a]O=Y(-12060)a=1 m=V+a V=Y(-11568)a=1 S={[O]=m;[V]=a}O=S S=3490929 else v=Y(-12203)M=A[v]n=M S=M and 15757830 or 3578473 end end end end end end end end else if S<16247100 then if S<16023398 then if S<15893062 then if S<15845006 then if S<15812779 then if S<15805908 then if S<15793511 then p=Y(-12840)Q=Y(-12840)l=Y(-12840)J=A[p]p=Y(-12610)S=J[p]w=A[l]l=Y(-11583)z=w[l]E=A[Q]Q=Y(-12253)l=E[Q]w=r*l p=z+w E=Y(-12840)J=S(p)l=A[E]E=Y(-12863)w=l[E]z=not w p=z S=z and 8148826 or 12815130 else Z=Y(-12655)x=Y(-12655)K=A[Z]Z=Y(-11498)s=K[Z]K=s(a)Z=A[x]x=Y(-11498)s=Z[x]Z=s(l)S=5103157 L=K==Z y=L end else if S<15811921 then a=Y(-12840)S=B[f[1]]y=Y(-12121)O=E V=A[a]s=Y(-12840)a=Y(-12610)m=V[a]R=z[y]L=A[s]s=Y(-12253)W=L[s]y=O*W a=R+y n=Y(-12541)n=S[n]V={m(a)}a=Y(-11972)n=n(S,N(V))m=n V=Y(-11686)n=A[V]V=Y(-12193)S=n[V]O=nil V=A[a]a={V(m)}n=S(l,N(a))S=12206926 m=nil else b=Y(-12179)E=Y(-12467)E=J[E]m=Y(-12655)E=E(J)u=A[b]b=Y(-12763)Q=u[b]u=Q()E=u-p u=Y(-12803)Q=h[u]O=A[m]m=Y(-12274)b=O[m]u=Y(-12419)m=Y(-12291)u=Q[u]O={b(m,E)}u=u(Q,N(O))u=Y(-11401)S=A[Y(-11560)]Q=A[u]n={Q}end end else if S<15834996 then if S<15822058 then K=Y(-11480)K=h[K]S=554652 K=K(h,v)L=K else w=Y(-12840)S=A[w]l=z E=Y(-12594)w=Y(-11725)S[w]=l m=Y(-12840)l=Y(-12840)w=A[l]l=Y(-12803)b=Y(-12840)S=w[l]u=A[b]b=Y(-11477)Q=u[b]O=A[m]m=Y(-11725)b=O[m]w=Y(-12673)u=Q(b)l=E .. u w=S[w]w=w(S,l)S=5296195 end else if S<15840863 then p=Y(-12840)C=Y(-12840)J=Y(-12840)n=A[C]C=Y(-11536)S=n[C]r=A[J]J=Y(-12479)v=r[J]r=Y(-11983)M=v[r]J=A[p]p=Y(-12253)r=J[p]v=U*r r=Y(-12840)C=M+v v=A[r]r=Y(-11805)M=v[r]n=S(C,M)S=10588057 U=n else e=Y(-12474)T=h[e]e=0 S=15147946 h3=T>e Z=h3 end end end else if S<15865287 then if S<15847563 then if S<15846732 then C=n S={}r=Y(-12840)M=S S={}n=A[r]r=Y(-11818)z=Y(-11787)v=S S=n[r]J=S p=h[z]r=p S=p and 13593791 or 505079 else v=Y(-11686)M=A[v]v=Y(-12406)S=M[v]M=S(U)n={M}S=A[Y(-12787)]end else if S<15850171 then S=y S=R and 2759614 or 9835590 V=R else C=Y(-11686)n=A[C]C=Y(-12193)S=n[C]C=Y(-12721)n=S(U,C)S=13498576 end end else if S<15875340 then if S<15866994 then v=Y(-12629)M=h[v]S=11581579 U=M else r=Y(-11686)n=A[r]r=Y(-12193)S=n[r]r=Y(-11953)n=S(j,r)S=15610754 end else if S<15885251 then S=1905427 v=Y(-12573)M=h[v]n=M else if S<15890178 then n=0x0004 S=U==n S=S and 7287415 or 14757417 else v=U M=Y(-11639)p=G(9217912,{h})C[M]=v v=k(8185539,{})S=A[Y(-11758)]J=Y(-12389)M=Y(-12793)C[M]=v r={[J]=p}v=Y(-11410)M=A[v]v={M(C,r)}n={N(v)}end end end end end else if S<15969957 then if S<15914213 then if S<15898349 then if S<15895079 then j=Y(-12060)h=g[1]n=h[j]j=0 S=n==j S=S and 14896894 or 5325124 else U=Y(-12275)S=B[f[1]]h=g[1]j=h[U]n={S(j)}n={N(n)}S=A[Y(-12820)]end else if S<15899667 then p=Y(-12826)J=h[p]S=6994718 p=Y(-11828)r=J[p]J=r(j)M=J else E=Y(-12840)S=9107087 l=A[E]E=Y(-12032)w=l[E]l=Y(-12746)z=w[l]p=j==z r=p end end else if S<15953852 then if S<15916571 then p=Y(-11837)J=A[p]p=Y(-12026)w=Y(-11837)S=J[p]z=A[w]w=Y(-12637)p=z[w]z={p()}J=S(N(z))z=Y(-11837)p=A[z]z=Y(-12083)S=p[z]z=0 p=S()p=#J S=p>z S=S and 3397118 or 7438812 else J=j(r)v=C S=not J S=S and 8520858 or 9372156 end else if S<15958031 then z=29.1 p=j==z r=p S=3446138 else if S<15964611 then C=S J=Y(-12840)r=A[J]J=Y(-11514)v=r[J]r=Y(-11466)M=v[r]S=M and 10465505 or 4891641 U=M else S=J J=Y(-11783)n=r or J J=C S=n .. h r=S p=S v=S S=C and 11930029 or 1668069 end end end end else if S<16001558 then if S<15984842 then if S<15971608 then S=6357298 else v=J S=p S=1916848 end else if S<15996597 then g3=Y(-12205)N3=h[g3]f3=1 g3=Z+f3 S=16144890 S3=N3[g3]A3=S3 else S=x S=Z and 10936871 or 6156333 end end else if S<16015097 then if S<16002392 then S=m S=O and 7880992 or 10025996 else S=11067101 M=Y(-11619)C=A[M]M=C(j)C=nil U=M==C n=U end else if S<16021086 then U=Y(-12847)S=h[U]n={S}S=A[Y(-12106)]else if S<16021495 then v=S J=27 r=j==J S=r and 14953234 or 3268086 M=r else p=w S=l S=2004019 end end end end end end else if S<16124085 then if S<16085940 then if S<16069967 then if S<16030470 then if S<16023672 then J,p=v(r,J)S=J and 3712022 or 1990367 else S=7752058 z=nil r=nil J=nil p=nil end else if S<16064403 then U=Y(-11893)v=Y(-12021)j=A[U]S=Y(-11929)U=Y(-12427)M=Y(-11893)n=j[U]C=A[M]M=Y(-12147)U=C[M]M=h[v]v=24 C=U(M,v)M=Y(-11893)v=Y(-12021)U=0x1f j=n(C,U)h[S]=j S=Y(-12721)U=Y(-11893)j=A[U]U=Y(-12427)n=j[U]C=A[M]M=Y(-12147)U=C[M]M=h[v]v=29 C=U(M,v)U=1 j=n(C,U)h[S]=j M=Y(-11893)S=Y(-11543)v=Y(-12021)U=Y(-11893)j=A[U]U=Y(-12427)n=j[U]C=A[M]M=Y(-12147)U=C[M]M=h[v]v=30 C=U(M,v)U=1 j=n(C,U)U=Y(-11893)h[S]=j j=A[U]S=Y(-12468)U=Y(-12147)n=j[U]C=Y(-12021)U=h[C]C=31 j=n(U,C)h[S]=j S=1583744 else S=m E=nil m=nil u=O or m j[Q]=u S=13047581 J=nil end end else if S<16072662 then if S<16071116 then J=Y(-12480)r=B[f[1]]S=4684765 v=r[J]r=30 M=v>=r U=M else E=S u=Y(-12727)u=r[u]u=u(r)Q=not u l=Q S=Q and 7463722 or 503286 end else if S<16079547 then S=7278437 v=Y(-11686)M=C==v n=M else U=Y(-12223)S=A[U]r=Y(-12847)v=h[r]r={S(v)}U=r[1]C=r[2]S=16557523 M=r[3]end end end else if S<16103733 then if S<16094164 then if S<16088303 then n=Y(-12717)S=A[n]p={S(C)}J=p[3]n=p[1]S=2520514 r=p[2]p=n else S=w w=Y(-12586)v={[r]=J,[p]=z,[w]=U}M[S]=v S=16770872 end else if S<16099941 then J=Y(-12819)S=v h[n]=M r=h[J]J=0 M=r or J n=Y(-12819)v=S v=Y(-11755)h[n]=M M=B[f[1]]S=6393822 n=M[v]M=n(h,C)else n=Y(-11695)S=U .. n U=S S=561089 end end else if S<16108549 then if S<16107727 then r=nil v=nil p=nil J=nil S=729213 else S=n and 7572525 or 5928220 end else if S<16121563 then w=Y(-12093)z=h[w]w=Y(-12424)p=z[w]z=Y(-12296)J=p[z]p=29 v=J<p S=v and 64989 or 15756327 else if S<16122240 then v=0x1 C=Y(-12840)U=A[C]C=Y(-12826)w=Y(-12840)n=U[C]U=Y(-12415)C=Y(-12309)S=n[U]U=h[C]n=S(U)U=n C=Y(-11938)n=U[C]C=Y(-11576)z=A[w]w=Y(-12826)p=z[w]z=Y(-12687)J=p[z]p=1 C=n[C]r=J-p M=v<<r C=C(n,M)n=0 S=C~=n n={S}S=A[Y(-11676)]else w=Y(-11489)z=U[w]S=15120377 n=z end end end end end else if S<16195220 then if S<16153986 then if S<16137933 then if S<16126154 then U=Y(-12662)h=g[1]j=B[f[1]]n=j[U]S=n[h]S=S and 15695912 or 11713203 else w=Y(-12840)E=Y(-11968)z=A[w]w=Y(-12501)J=z[w]l=h[E]E=Y(-12822)w=l[E]z=J(w)l=Y(-12681)w=z[l]l=134217729 J=w~=l S=J and 7102602 or 3976205 end else if S<16145687 then S=Y3 S=15128737 N3=Y(-11686)S3=A[N3]N3=Y(-12193)Y3=S3[N3]c3=Y(-12072)f3=r[c3]g3=f3+Z f3=Y(-12491)Z=nil f3=A3[f3]N3={f3(A3,g3,p)}A3=nil S3=Y3(M,N(N3))else M=Y(-12294)M=h[M]S={M(h,C)}n={N(S)}S=A[Y(-12199)]end end else if S<16159444 then if S<16156154 then S=true S=S and 5518051 or 9183376 else A3=Y(-12268)S3=Y(-12314)x=Z .. A3 Y3=A[S3]S3=Y3(e)Z=x Y3=Y(-12655)A3=S3==Y3 S=A3 and 9716493 or 16571398 end else if S<16165399 then S=11079278 U=nil else if S<16183601 then S=15258465 V=Y(-12850)u=V else w=B[f[1]]l=Y(-12228)z=w[l]S=3777721 p=r==z n=p end end end end else if S<16214715 then if S<16204249 then if S<16198060 then l=Y(-11893)w=A[l]S=A[Y(-12333)]l=Y(-12226)z=w[l]l=0x7F800000 w={z(U,l)}n={N(w)}else O=Y(-12531)b=U[O]u=z==b S=u and 7475992 or 13311336 end else if S<16214210 then J=Y(-11910)C=S r=Y(-11910)v=h[r]r=j[J]M=v<r S=A[Y(-11980)]C=1 v=-1 U=M and v n=U or C n={n}else S=12827332 v3=not A3 q3=v3 end end else if S<16220693 then if S<16217137 then V=Y(-12840)m=A[V]V=Y(-12075)O=E L=Y(-12721)n=m[V]R=Y(-11814)a=C[R]V=a+O m=n(V)n=Y(-11975)n=m[n]n=n(m)V=n n=Y(-12005)n=m[n]n=n(m)a=n n=Y(-11975)n=a[n]n=n(a)W=a[L]R=n n=Y(-12331)y=n L=1 n=W==L S=n and 10180128 or 15209052 else M=j S=5820799 end else if S<16223516 then J=Y(-11775)S=16666869 r=U .. J U=r else if S<16240240 then b=Y(-12864)u=U[b]Q=z==u S=Q and 11328991 or 16203273 else K=Y(-12521)S=12541664 s=O==K W=s end end end end end end end else if S<16546223 then if S<16358325 then if S<16331199 then if S<16292899 then if S<16278712 then if S<16270833 then l=Y(-12840)w=A[l]l=Y(-11514)z=w[l]w=Y(-12480)p=z[w]z=30 J=p>=z v=J S=7804478 else C=Y(-12622)U=h[C]M=Y(-12622)C=j[M]n=U~=C S=n and 9546879 or 3572984 end else if S<16285730 then j=Y(-12840)n=A[j]j=Y(-12241)S=n[j]w=false U=Y(-12309)j=h[U]n=S(j)j=n n=Y(-11806)U=B[f[1]]C=Y(-12541)J=Y(-11640)v=Y(-12078)C=U[C]M=j[v]z=Y(-12358)v=Y(-12707)C=C(U,M)U=Y(-12707)M=j[v]r=j[J]v=Y(-11640)J=Y(-12358)p=j[z]z=Y(-12718)S={[n]=C,[U]=M,[v]=r;[J]=p,[z]=w}n={S}S=A[Y(-12256)]else S=13083890 p=Y(-12840)J=A[p]p=Y(-12032)r=J[p]J=Y(-12801)v=r[J]M=U==v n=M end end else if S<16295783 then if S<16294745 then C=nil w=Y(-12033)v=Y(-11837)M=A[v]r=Y(-12224)p=Y(-12224)v=Y(-12556)S=M[v]J=h[p]p=Y(-12033)z=h[w]v={[r]=J,[p]=z}J=Y(-12144)r=h[J]U=nil M=S(v,r)S=11143205 else p=Y(-12216)u=8 Q=M-u u=Y(-12399)E=Q .. u l=Y(-12379)w=l .. E z=v .. w J=p .. z n=J S=3410109 end else if S<16319830 then L=Y(-12387)S=11500494 y=Y(-11893)W=Y(-11568)R=A[y]y=Y(-12427)a=R[y]y=r[W]W=U[L]R=a(y,W)a=0 V=R~=a O=V else w=Y(-12840)z=A[w]w=Y(-11894)p=z[w]S=11640967 z=p(r)J=not z n=J end end end else if S<16345471 then if S<16338314 then if S<16335373 then z=Y(-11837)C=n M=Y(-12840)n=A[M]M=Y(-11432)S=n[M]n=Y(-12060)v=Y(-12074)p=A[z]M=S z=Y(-12208)J=p[z]w=Y(-11837)z=A[w]w=Y(-12210)p=z[w]l=Y(-11837)w=A[l]l=Y(-11614)z=w[l]r={J,p,z}J=Y(-11593)z=Y(-12178)p=1 S={[n]=C,[v]=r,[J]=p;[z]=M}n=Y(-12381)v=S S=h[n]n=S(v)r=n S=not r S=S and 12280390 or 6413933 else y=#r S=R s=Y(-11568)W=1 R=y+W L=Y(-12620)W=Y(-12060)y={[W]=a,[L]=m,[s]=V}m=nil a=nil V=nil S=13456101 r[R]=y end else if S<16338593 then U=Y(-12840)n=A[U]U=Y(-12610)S=n[U]v=Y(-12840)M=A[v]v=Y(-12849)p=Y(-12840)C=M[v]J=Y(-11861)r=h[J]v=r+j J=A[p]p=Y(-12253)r=J[p]M=v*r U=C+M r=0 M=S n=S(U)U=n v=U~=r C=v S=v and 10529317 or 13764193 else m=100 Q=S Q=Y(-12223)O=w>m b=S b=10 m=100 u=O and m E=u or b l=w/E S=4348765 E=A[Q]O={E(z)}b=O[3]u=O[2]Q=O[1]end end else if S<16350360 then if S<16348591 then j=Y(-12804)n=B[f[1]]S=n[j]n=S(h)j=n n=Y(-12681)S=j[n]n={S}S=A[Y(-11948)]else S=13451935 w=nil end else if S<16352579 then w=#j S=14176447 l=1 z=w+l w=p j[z]=w l=Y(-11837)w=A[l]l=Y(-12083)z=w[l]w=z()else if S<16354326 then n={}h=nil j=nil S=A[Y(-12044)]else S=u S=n and 6228191 or 15547584 end end end end end else if S<16440094 then if S<16388895 then if S<16374866 then if S<16367363 then S=U r=Y(-12840)v=A[r]r=Y(-12826)M=v[r]v=Y(-11968)C=M[v]M=Y(-12113)U=C[M]n=j-U M=Y(-12840)C=A[M]M=Y(-12647)U=C[M]C=Y(-11639)j=U[C]S=n/j n={S}S=A[Y(-11623)]else w=E S=Q S=E and 3658325 or 8296720 end else if S<16382981 then n=B[f[2]]S=j==n S=S and 7410411 or 1499746 else S={}U=S j=g[2]n=0 v=Y(-12061)h=g[1]M=h[v]S=1772414 v=1 C=M-v M=C C=1 v=C C=0 r=v<C C=n-v end end else if S<16421624 then if S<16411122 then Yg=Y(-11686)K3=A[Yg]r3=nil Yg=Y(-12193)u3=nil Q3=nil l3=nil s3=K3[Yg]m3=nil w3=nil S=95168 K3=s3(v3,y3)y3=nil L3=nil else c3=Y(-12795)Y3=c3 S=3743173 end else if S<16438701 then V=Y(-12573)m=b[V]S=15203434 u=m else if S<16439106 then S3=Y(-12655)Y3=A[S3]S3=Y(-12274)S=6002480 A3=Y3[S3]S3=Y(-12092)Y3=A3(S3,Z)a=Y3 else p=Y(-11746)r=Y(-12840)n=A[r]z=Y(-11740)r=Y(-12169)S=n[r]J=j[p]p=0 r=J+p n=S(r)r=n S=Y(-11975)z=j[z]n=false S=r[S]S=S(r,n)J=S z=z(j)p=not z n=p S=p and 8607047 or 5043215 end end end end else if S<16488487 then if S<16457737 then if S<16449379 then U=Y(-11604)j=B[f[1]]S=j[U]j={S()}n={N(j)}S=A[Y(-12237)]else I3=Y(-12439)X3=T[I3]I3=0xffff e=X3~=I3 S=e and 8680747 or 9551969 end else if S<16479484 then e=Y(-11686)X3=Y(-11893)T=A[e]e=Y(-12193)I3=Y(-11568)h3=T[e]L=s e=Y(-12331)T=h3(v,e)e=Y(-12840)T=A[e]e=Y(-12826)h3=T[e]T=Y(-12601)T=h3[T]T=T(h3,L)C3=A[X3]v3=Y(-11385)X3=Y(-12427)e=C3[X3]X3=T[I3]k3=B[f[1]]I3=k3[v3]C3=e(X3,I3)e=0 h3=C3~=e X3=Y(-11776)C3=h[X3]X3=Y(-11886)e=C3[X3]S=e and 10795532 or 6027861 else m=Y(-12314)b=w[m]m=Y(-11639)u=b[m]Q=not u S=16757806 l=Q end end else if S<16494083 then if S<16488602 then M=B[f[1]]S=M and 3695144 or 2516414 n=M else F3,B3=g3(f3,F3)S=F3 and 12522650 or 11023803 end else if S<16516987 then h=g[1]U=Y(-11531)n=h[U]j=g[2]S=n[j]S=S and 6995336 or 14810081 else if S<16538052 then K=Y(-12207)s=K S=2784121 else n=Y(-12275)S=h[n]n={S}S=A[Y(-12498)]end end end end end end else if S<16626362 then if S<16591394 then if S<16580457 then if S<16565329 then if S<16553974 then l=Y(-12840)w=A[l]l=Y(-11514)J=S z=w[l]w=Y(-11466)p=z[w]r=p S=p and 3210809 or 11947542 else M,r=U(C,M)S=M and 4611248 or 10334992 end else if S<16571476 then f3=Y(-12314)g3=A[f3]f3=g3(e)g3=Y(-12562)S3=S N3=f3==g3 S=N3 and 10695544 or 3685962 Y3=N3 else Y3=Y(-12441)S=8435749 A3=h3[Y3]Y3=-1 e=A3~=Y3 x=e end end else if S<16585791 then if S<16584214 then p=Y(-12314)J=A[p]v=S p=J(j)J=Y(-11686)r=p==J S=r and 13025386 or 4800221 M=r else S=A[Y(-12444)]n={n}end else if S<16587437 then U=Y(-11893)C=Y(-11938)h=g[1]j=A[U]U=Y(-12427)n=j[U]U=h[C]C=0x1 j=n(U,C)n=1 S=j==n n={S}S=A[Y(-12699)]else a=y S=W S=y and 16337966 or 692063 end end end else if S<16610049 then if S<16594118 then if S<16591998 then S=4348765 V=nil E=nil O=nil m=nil else n=false n={n,C}S=A[Y(-12646)]end else if S<16600292 then j=Y(-12840)n=A[j]U=Y(-12309)j=Y(-12276)S=n[j]j=h[U]n=S(j)C=Y(-12314)S=B[f[1]]j=n U=j[C]C=Y(-12541)C=S[C]n={C(S,U)}S=A[Y(-12829)]n={N(n)}else n=B[f[1]]M=Y(-11532)S=n[M]n=S(h)M=n S=M and 6698762 or 11095417 end end else if S<16615481 then if S<16612486 then S=r n=S(v)J=Y(-12331)v=n n=Y(-12620)r=Y(-12582)S=v[n]n=Y(-12613)n=S[n]n=n(S,r,J)r=n n=Y(-11513)S=M[n]J=S S=J and 14449545 or 15428652 else S=12838344 J=0 r=v>J n=r end else if S<16622549 then S=b3 S=O3 and 12981967 or 7460297 else if S<16624041 then h=g[1]j=g[2]U=Y(-11951)n=h[U]S=n[j]S=S and 6361425 or 15614327 else s=Y(-11686)L=A[s]s=Y(-12193)W=L[s]s=Y(-11737)S=A[Y(-12817)]L=W(v,s)s=Y(-11686)L=A[s]s=Y(-12406)W=L[s]s=Y(-11714)L={W(v,s)}n={N(L)}end end end end end else if S<16678518 then if S<16647984 then if S<16629300 then if S<16627313 then n=1 S=Y(-11696)M=1 S=j[S]C=U-M v=Y(-11915)S=S(j,n,C)C=S M=h[v]n=M j=S S=M and 1905427 or 15885182 else w=nil z=nil S=9154791 E=nil l=nil end else if S<16644642 then S=Y(-11700)u=Y(-11837)l=Y(-12074)w=h[l]Q=A[u]u=Y(-12554)O=Y(-12060)E=Q[u]b={[O]=p}u={b}Q=E(u)E=1 l=Q[E]p=nil z=w[l]h[S]=z S=583723 else Z=Y(-11829)S=8184397 K=y .. Z y=K end end else if S<16661835 then if S<16658124 then p=Y(-12629)J=U[p]S=10387673 v=J else S=3987525 x3=y3  .. K3 y3=x3 end else if S<16667171 then w=Y(-11893)z=A[w]u=Y(-12840)w=Y(-12427)p=z[w]l=Y(-11568)w=j[l]Q=A[u]u=Y(-12853)E=Q[u]Q=Y(-12273)l=E[Q]z=p(w,l)p=0 J=z~=p S=J and 3492104 or 7670127 else if S<16670840 then u=Y(-11568)Q=C[u]l=Q S=7311167 else n={j}S=A[Y(-12617)]end end end end else if S<16712258 then if S<16696885 then if S<16686851 then U=Y(-12840)j=A[U]C=Y(-12070)S=Y(-12620)U=Y(-12826)n=j[U]j=Y(-12657)U=h[C]j=n[j]j=j(n,U)h[S]=j S=1678227 else U=g[3]r=S h=g[1]M=S C=g[4]j=g[2]v=C S=C and 13395061 or 8450841 end else if S<16709657 then v=B[f[1]]r=Y(-12486)z=Y(-11568)S=5266940 M=v[r]p=Y(-12060)J={[p]=h;[z]=j}r={J}v=M(r)M=1 C=v[M]M=Y(-12586)U=C[M]n=U else E=B[f[1]]Q=Y(-12531)l=E[Q]w=r==l S=w and 1178506 or 14641929 end end else if S<16738612 then if S<16734589 then E=Y(-12840)w=Y(-12840)z=A[w]w=Y(-11725)p=z[w]l=A[E]E=Y(-12253)w=l[E]z=r*w S=p+z p=S S=B[f[1]]z=S(p)S=z and 9454464 or 5171655 else p=nil O=Y(-12620)S=u u=Y(-12620)b=h[O]z={[w]=l,[E]=Q;[u]=b}J=nil C[S]=z S=7768610 end else if S<16749726 then p=#U z=1 S=p+z p=j[r]U[S]=p S=4854221 else if S<16757814 then S=E S=l and 838556 or 9708515 else r=Y(-11837)v=A[r]r=Y(-11548)S=v[r]n={M}v=S(M)S=A[Y(-12300)]end end end end end end end end end end end end end S=#c return N(n)end,{},function(A,Y)local N=U(Y)local g=function(g,f,c,F,n)return S(A,{g,f;c,F,n},Y,N)end return g end,function(A)local Y,S=1,A[1]while S do h[S],Y=h[S]-1,1+Y if h[S]==0 then h[S],B[S]=nil,nil end S=A[Y]end end,function(A,Y)local N=U(Y)local g=function(...)return S(A,{...},Y,N)end return g end,function(A,Y)local N=U(Y)local g=function(g)return S(A,{g},Y,N)end return g end,function(A,Y)local N=U(Y)local g=function(g,f,c)return S(A,{g,f;c},Y,N)end return g end,function(A,Y)local N=U(Y)local g=function(g,f,c,F,n,B)return S(A,{g,f,c,F,n;B},Y,N)end return g end,function(A)h[A]=h[A]-1 if 0==h[A]then h[A],B[A]=nil,nil end end,function(A,Y)local N=U(Y)local g=function(g,f,c,F,n,B,h,i,j)return S(A,{g,f,c;F,n;B,h,i;j},Y,N)end return g end,function(A,Y)local N=U(Y)local g=function(g,f,c,F)return S(A,{g,f,c,F},Y,N)end return g end,{},function()j=j+1 h[j]=1 return j end,0 return(I(10051477,{}))(N(n))end)(getfenv and getfenv()or _ENV,unpack or table[Y(-12017)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
-			
+
+local __bundle_require, __bundle_loaded, __bundle_register, __bundle_modules = (function(superRequire)
+	local loadingPlaceholder = {[{}] = true}
+
+	local register
+	local modules = {}
+
+	local require
+	local loaded = {}
+
+	register = function(name, body)
+		if not modules[name] then
+			modules[name] = body
+		end
+	end
+
+	require = function(name)
+		local loadedModule = loaded[name]
+
+		if loadedModule then
+			if loadedModule == loadingPlaceholder then
+				return nil
+			end
+		else
+			if not modules[name] then
+				if not superRequire then
+					local identifier = type(name) == 'string' and '\"' .. name .. '\"' or tostring(name)
+					error('Tried to require ' .. identifier .. ', but no such module has been registered')
+				else
+					return superRequire(name)
+				end
+			end
+
+			loaded[name] = loadingPlaceholder
+			loadedModule = modules[name](require, loaded, register, modules)
+			loaded[name] = loadedModule
+		end
+
+		return loadedModule
+	end
+
+	return require, loaded, register, modules
+end)(require)
+__bundle_register("Il2CppGG", function(require, _LOADED, __bundle_register, __bundle_modules)
+require("init")
+require("toolbox.main")
+end)
+__bundle_register("init", function(require, _LOADED, __bundle_register, __bundle_modules)
+---@module Il2Cpp
+--[[
+Il2CppGG/
+├── core/
+│   ├── Il2Cpp.lua (Core module, handles versioning and utilities)
+│   ├── Struct.lua (Defines version-specific Il2Cpp structures)
+│   ├── Version.lua (Version detection and structure selection)
+│   ├── Universalsearcher.lua (Module for locating metadata and key pointers)
+│   └── Meta.lua (Module for Il2Cpp metadata)
+├── api/
+│   ├── Class.lua (Module for Il2Cpp classes)
+│   ├── Field.lua (Module for Il2Cpp fields)
+│   ├── Method.lua (Module for Il2Cpp methods)
+│   ├── Type.lua (Module for Il2Cpp types)
+│   ├── Image.lua (Module for Il2Cpp images/assemblies)
+│   ├── Object.lua (Module for memory object manipulation)
+│   └── Param.lua (Parameter operations module)
+├── utils/
+│   ├── Androidinfo.lua (Helper for Android device information)
+│   ├── Hook.lua (Memory hooking for modification and reverse engineering)
+│   ├── Patch.lua (Memory Patch)
+│   └── Dump.lua (Class dumping to C# format)
+├── build/
+│   └── Il2CppGG.lua (Bundled, production-ready script)
+├── buildLT9.lua (Build script to bundle modules)
+├── init.lua (Entry point for development)
+└── test.lua (Usage examples for hooking and dumping)
+]]
+
+Il2Cpp = function(config)
+    local _path, config = package.path, config or {}
+    package.path = gg.getFile():match("(.*[/%\\])") .. "?.lua;" .. package.path;
+    
+    ---Main initialization module for Il2Cpp framework
+    Il2Cpp = setmetatable({}, {__index = require "core.Il2Cpp"(config)})
+    
+    package.path = _path
+    
+    Il2Cpp.log.level = config.log or Il2Cpp.log.level
+    
+    
+    -- Setup global metadata and Il2Cpp registration
+    Il2Cpp.log:info("Initializing il2cpp ...")
+    local il2cppStart, il2cppEnd = config.il2cppStart, config.il2cppEnd
+    if not il2cppStart and not il2cppEnd then
+        il2cppStart, il2cppEnd = Il2Cpp.Searcher.FindIl2cpp()
+    end
+    Il2Cpp.il2cppStart = il2cppStart
+    Il2Cpp.il2cppEnd = il2cppEnd
+    
+    Il2Cpp.log:info("Il2Cpp Version: " .. Il2Cpp.Version)
+    Il2Cpp.log:info("Il2Cpp Start Address: " .. Il2Cpp.ToHex(Il2Cpp.il2cppStart))
+    
+    
+    Il2Cpp.log:info("Initializing metadata...")
+    local metaStart, metaEnd = config.metaStart, config.metaEnd
+    if not metaStart and not metaEnd then
+        metaStart, metaEnd = Il2Cpp.Searcher:FindGlobalMetaData()
+    end
+    
+    Il2Cpp.Meta.metaStart = metaStart
+    Il2Cpp.Meta.metaEnd = metaEnd
+    
+    Il2Cpp.Searcher:Il2CppMetadataRegistration(metaStart)
+    
+    
+    Il2Cpp.Meta(metaStart, Il2Cpp.Version)
+    Il2Cpp.log:info("Metadata Version: " .. Il2Cpp.Meta.Version)
+    Il2Cpp.log:info("Metadata Start Address: " .. Il2Cpp.ToHex(metaStart))
+    
+    local il2cppStart, il2cppEnd = Il2Cpp.Searcher.FindIl2cpp(Il2Cpp.metaReg)
+    Il2Cpp.il2cppStart = il2cppStart
+    Il2Cpp.il2cppEnd = il2cppEnd
+    
+    Il2Cpp.log:info("Change Il2Cpp Start Address to: " .. Il2Cpp.ToHex(Il2Cpp.il2cppStart))
+    
+    --[[
+    Il2Cpp.Meta.Header = Il2Cpp.Il2CppGlobalMetadataHeader(metaStart)
+    
+    if (Il2Cpp.Meta.Header.version >= 31 or Il2Cpp.Meta.Header.version <= 0) or not Il2Cpp.Utf8ToString(metaStart + Il2Cpp.Meta.Header.stringOffset, 100):find(".dll") then 
+        Il2Cpp.Meta.Obf = true
+        Il2Cpp.log:info("Il2Cpp.Meta.Obf", true)
+    end
+    
+    Il2Cpp.Meta.Header.version = Il2Cpp.Meta.Obf and Il2Cpp.Version or Il2Cpp.Meta.Header.version
+    Il2Cpp.log:info("Il2Cpp.Meta.Header.version", Il2Cpp.Meta.Header.version)
+    --Il2Cpp.Meta.regionClass = (Il2Cpp.Version >= 29.1 and Il2Cpp.Meta.Header.version >= 29) and gg.REGION_ANONYMOUS or gg.REGION_C_ALLOC
+
+    if Il2Cpp.Meta.Header.version == 31 then
+        Il2Cpp.Il2CppMethodDefinition = Il2Cpp.classGG(Il2Cpp._Il2CppMethodDefinition, Il2Cpp.Meta.Header.version)
+    end
+    ]]
+    
+    
+    -- Calculate type size and initialize Type module properties
+    --Il2Cpp.typeSize = Il2Cpp.Meta.Header.typeDefinitionsSize / Il2Cpp.typeCount
+    --Il2Cpp.Type.typeCount = Il2Cpp.typeCount--Il2Cpp.gV(Il2Cpp.metaReg + ( 6 * Il2Cpp.pointSize), Il2Cpp.pointer)
+    --Il2Cpp.Type.type = Il2Cpp.pMetadataRegistration.types--Il2Cpp.gV(Il2Cpp.metaReg + ( 7 * Il2Cpp.pointSize), Il2Cpp.pointer)
+    --Il2Cpp.Type.typeSize = Il2Cpp.Type.type + ((Il2Cpp.Type.typeCount - 1) * Il2Cpp.pointSize)
+    
+    
+    
+    
+    --[[
+    Il2Cpp.genericMethodPointers = Il2Cpp.classArray(Il2Cpp.pCodeRegistration.genericMethodPointers, Il2Cpp.pCodeRegistration.genericMethodPointersCount, "Pointer")
+    Il2Cpp.genericMethodTable = Il2Cpp.classArray(Il2Cpp.pMetadataRegistration.genericMethodTable, Il2Cpp.pMetadataRegistration.genericMethodTableCount, Il2Cpp.Il2CppGenericMethodFunctionsDefinitions)
+    Il2Cpp.methodSpecs = Il2Cpp.classArray(Il2Cpp.pMetadataRegistration.methodSpecs, Il2Cpp.pMetadataRegistration.methodSpecsCount, Il2Cpp.Il2CppMethodSpec)
+    
+    for _, tab in ipairs(Il2Cpp.genericMethodTable) do
+        local methodSpec = Il2Cpp.methodSpecs[tab.genericMethodIndex + 1]
+        local methodDefinitionIndex = methodSpec.methodDefinitionIndex
+        if not Il2Cpp.methodDefinitionMethodSpecs[methodDefinitionIndex] then
+            Il2Cpp.methodDefinitionMethodSpecs[methodDefinitionIndex] = {}
+        end
+        table.insert(Il2Cpp.methodDefinitionMethodSpecs[methodDefinitionIndex], methodSpec)
+        Il2Cpp.methodSpecGenericMethodPointers[methodSpec] = Il2Cpp.genericMethodPointers[tab.indices.methodIndex + 1]
+    end
+    ]]
+    
+    
+    return Il2Cpp
+end
+
+end)
+__bundle_register("core.Il2Cpp", function(require, _LOADED, __bundle_register, __bundle_modules)
+---@class Il2Cpp
+---Main Il2Cpp module providing core functionality and type definitions
+local AndroidInfo = require "utils.Androidinfo"
+local x64 = AndroidInfo.platform
+local pointer = x64 and gg.TYPE_QWORD or gg.TYPE_DWORD
+local MainType = pointer
+local pointSize = x64 and 8 or 4
+local Struct = require "core.Struct"
+local Version = require "core.Version"
+local Config = require "config"
+
+
+
+-- Utility function to simulate Linq.ToDictionary
+function table.toDictionary(array, keySelector)
+    local dict = {}
+    for _, item in ipairs(array) do
+        --local item = item()
+        dict[keySelector(item)] = item
+    end
+    return dict
+end
+
+-- Utility function to simulate Linq.Any
+function table.all(array, predicate)
+    for _, item in ipairs(array) do
+        --local item = item()
+        if not predicate(item) then
+            return false
+        end
+    end
+    return true
+end
+
+---@class Il2CppTable
+---Main Il2Cpp table containing platform information and core functionality
+Il2Cpp = {
+    x64 = x64,
+    armType = x64 and 6 or 4,
+    pointer = pointer,
+    MainType = MainType,
+    pointSize = pointSize,
+    methodSpecGenericMethodPointers = {},
+    methodDefinitionMethodSpecs = {},
+    genericMethodPointers = {},
+    Info = AndroidInfo,
+    
+    __cache = {
+        Class = {},
+        Field = {},
+        Method = {},
+        Param = {},
+        Type = {},
+        Utf8ToString = {}
+    }
+}
+
+---@class TypeInfo
+---Table containing type information for various data types
+Il2Cpp.type = {
+    Boolean = { size = 1, flags = 1 },
+    Byte    = { size = 1, flags = 1 },
+    SByte   = { size = 1, flags = 1 },
+    Int8    = { size = 1, flags = 1 },
+    UInt8   = { size = 1, flags = 1 },
+    Int16   = { size = 2, flags = 2 },
+    UInt16  = { size = 2, flags = 2 },
+    Int32   = { size = 4, flags = 4 },
+    UInt32  = { size = 4, flags = 4 },
+    Int64   = { size = 8, flags = 32 },
+    UInt64  = { size = 8, flags = 32 },
+    Float   = { size = 4, flags = 16 },
+    Double  = { size = 8, flags = 64 },
+    Pointer = { size = pointSize, flags = pointer },
+    Size_t  = { size = pointSize, flags = pointer },
+    Object = { size = (Il2Cpp.x64 and 0x10 or 0x8), flags = pointer}
+}
+
+Il2Cpp.TypeFlag = {
+    --[1] = "void",
+    [2] = 1,--"bool",
+    --[3] = "char",
+    [4] = 1,--"sbyte",
+    [5] = 1,--"byte",
+    [6] = 2,--"short",
+    [7] = 2,--"ushort",
+    [8] = 4,--"int",
+    [9] = 4,--"uint",
+    --[10] = "long",
+    --[11] = "ulong",
+    [12] = 16,--"float",
+    [13] = 64,--"double",
+    --[14] = "string",
+    --[22] = "TypedReference",
+    --[24] = "IntPtr",
+    --[25] = "UIntPtr",
+    --[28] = "object",
+}
+
+function Il2Cpp.GetTypeToFlags(types)
+    if types == 2 then 
+        menu_item = 1
+    elseif types >= 4 and 9 <= types then 
+        menu_item = 2 
+    elseif types == 12 then 
+        menu_item = 3
+    elseif types == 13 then 
+        menu_item = 4
+    else 
+        menu_item = 5 
+    end
+end
+
+function Il2Cpp.ToHex(number)
+    return string.format("%X", number)
+end
+
+---Get pointer value from memory address
+-- @param address number Memory address to read from
+-- @return number Pointer value
+function Il2Cpp.GetPtr(address)
+    return Il2Cpp.FixValue(gg.getValues({{address = Il2Cpp.FixValue(address), flags = Il2Cpp.MainType}})[1].value)
+end
+
+---Fix value by masking platform-specific bits
+-- @param val number Value to fix
+-- @return number Fixed value
+function Il2Cpp.FixValue(val)
+	return (x64 and (val & 0x00FFFFFFFFFFFFFF)) or (val & 0xFFFFFFFF);
+end
+
+---Get value from memory address with optional flags
+-- @param address number|table Memory address or table of addresses
+-- @param flags number|nil Memory flags (optional)
+-- @return any Value or table of values
+function Il2Cpp.gV(address, flags)
+	return (type(address) == "table" and gg.getValues(address)) or gg.getValues({{address=address,flags=flags or Il2Cpp.MainType}})[1].value;
+end
+
+function Il2Cpp.aL(address, name, flags)
+	return (type(address) == "table" and gg.addListItems(address)) or gg.addListItems({{address=address,flags=flags or Il2Cpp.MainType, name = name}})
+end
+
+---Align offset to specified alignment
+-- @param offset number Offset to align
+-- @param align_to number Alignment value
+-- @return number Aligned offset
+function Il2Cpp.align(offset, align_to)
+    return ((offset + align_to - 1) / align_to) * align_to
+end
+
+
+---Convert UTF-8 encoded memory to string
+-- @param Address number Memory address of UTF-8 string
+-- @param length number|nil Length of string (optional, if not provided reads until null terminator)
+-- @return string Decoded string
+Il2Cpp.Utf8ToString = function(Address, length)
+    if not length and Il2Cpp.__cache.Utf8ToString[Address] then
+        return Il2Cpp.__cache.Utf8ToString[Address]
+    end
+    local chars, char = {}, {
+        address = Address,
+        flags = gg.TYPE_BYTE
+    }
+    if not length then
+        while true do
+            _char = string.char(gg.getValues({char})[1].value & 0xFF)
+            chars[#chars + 1] = _char
+            char.address = char.address + 0x1
+            if string.find(_char, "[%z%s]") then break end
+        end
+        local Text = table.concat(chars, "", 1, #chars - 1)
+        Il2Cpp.__cache.Utf8ToString[Address] = Text
+        return Text
+    else
+        for i = 1, length do
+            local _char = gg.getValues({char})[1].value
+            chars[i] = string.char(_char & 0xFF)
+            char.address = char.address + 0x1
+        end
+        local Text = table.concat(chars)
+        return Text
+    end
+end
+
+function Il2Cpp.classArray(addr, count, class)
+    local results = {}
+    if Il2Cpp.type[class] then
+        class = Il2Cpp.type[class]
+    end
+    for i = 0, count - 1 do
+        table.insert(results, class.flags and {address = addr + (i * class.size), flags = class.flags} or class(addr + (i * class.size)))
+    end
+    if class.flags then
+        for i, v in ipairs(gg.getValues(results)) do
+            results[i] = v.value
+        end
+    end
+    return results
+end
+            
+
+---Create a class structure for GameGuardian with proper field alignment
+-- @param fields table Table of field definitions
+-- @param version number Il2Cpp version
+-- @return table Class structure with proper alignment
+function Il2Cpp.classGG(fields, version) 
+    local offset = 0
+    local klass = {}
+    for _, field in ipairs(fields) do
+        local includeField = true
+        if field.version then
+            --[[
+            local v = field.version
+            if v.min and version < v.min then
+                includeField = false
+            end
+            if v.max and version > v.max then
+                includeField = false
+            end
+            ]]
+            --field.version.min = field.version.min or 0
+            --field.version.max = field.version.max or 99
+            local v = field.version
+            if (v and #v == 0) and ((v.min and version < v.min) or (v.max and version > v.max)) then
+                includeField = false
+            elseif v and #v > 0 then
+                for _, attr in ipairs(v) do
+                    if ((attr.min and version < attr.min) or (attr.max and version > attr.max)) then
+                        includeField = false
+                    end
+                end
+            end
+        end
+        if includeField then
+            local field = {
+                name = field[1],
+                type = field[2]
+            }
+            if type(field.type) == "table" and not field.type.size then
+                field.type = Il2Cpp.classGG(field.type, version)
+            end
+            local tInfo = Il2Cpp.type[field.type]
+            local o = offset
+            offset = Il2Cpp.align(offset, 
+                math.min(tInfo and tInfo.size or field.type.size, Il2Cpp.pointSize)
+            )
+            --print(tInfo and tInfo.size or field.type.size, math.min(tInfo and tInfo.size or field.type.size, Il2Cpp.pointSize) )
+            local oo = offset
+            if not tInfo then
+                klass[field.name] = field.type
+                field.type.address = offset
+                offset = offset + field.type.size
+            else
+                klass[#klass+1] = {
+                    address = offset,
+                    flags = tInfo.flags,
+                    type = field.type,
+                    name = field.name
+                }
+                offset = offset + tInfo.size
+            end
+            --print(field.name, o, oo, offset)
+        end
+    end
+    klass.size = offset
+    klass.GetSize = function(self)
+        return self.size 
+    end
+    --print(version, fields.name, offset)
+    return setmetatable(klass, {
+        __call = function(self, addr, addList, prefix)
+            Il2Cpp.log:debug(fields.name .. ":", addr)
+			local res, t, prefix = {}, {}, prefix or ''
+            for i, v in pairs(self) do
+                if type(v) == "table" then
+                    if v.size then
+                        t[i] = v(v.address + addr, addList, prefix .. i .. ".")
+                    else
+                        local address = v.address + addr
+                        res[#res+1] = {address = address, flags = v.flags, name = prefix .. v.name}
+                    end
+                end
+            end
+            fields.AddList = function(self, name)
+                local name, list = (name or self.name) .. ":\n", {}
+                for i, v in ipairs(res) do 
+                    list[i] = {address = v.address, flags = v.flags, name = name .. v.name}
+                end
+                Il2Cpp.aL(list)
+                return res
+            end
+            if addList then 
+                Il2Cpp.aL(res)
+            end
+            for i, v in ipairs(gg.getValues(res)) do 
+                t[self[i].name] = self[i].type == "Pointer" and Il2Cpp.FixValue(v.value) or v.value
+                if v.flags == Il2Cpp.pointer and (self[i].name == "name" or self[i].name == "namespaze") then
+                    t[self[i].name] = Il2Cpp.Utf8ToString(t[self[i].name])
+                end
+            end
+            return setmetatable(t, {
+                __index = fields,
+                __name = fields.name
+            })
+        end
+    })
+end
+--print(Il2Cpp.classGG(Struct.Il2CppClass, 24.3).size);os.exit()
+---@class Il2CppFlags
+---Il2Cpp flags and attributes for methods and fields
+Il2Cpp.Il2CppFlags = {
+    Method = {
+        METHOD_ATTRIBUTE_MEMBER_ACCESS_MASK = 0x0007,
+        Access = {
+            "private", -- METHOD_ATTRIBUTE_PRIVATE
+            "internal", -- METHOD_ATTRIBUTE_FAM_AND_ASSEM
+            "internal", -- METHOD_ATTRIBUTE_ASSEM
+            "protected", -- METHOD_ATTRIBUTE_FAMILY
+            "protected internal", -- METHOD_ATTRIBUTE_FAM_OR_ASSEM
+            "public", -- METHOD_ATTRIBUTE_PUBLIC
+        },
+        METHOD_ATTRIBUTE_STATIC = 0x0010,
+        METHOD_ATTRIBUTE_ABSTRACT = 0x0400,
+    },
+    Field = {
+        FIELD_ATTRIBUTE_FIELD_ACCESS_MASK = 0x0007,
+        Access = {
+            "private", -- FIELD_ATTRIBUTE_PRIVATE
+            "internal", -- FIELD_ATTRIBUTE_FAM_AND_ASSEM
+            "internal", -- FIELD_ATTRIBUTE_ASSEMBLY
+            "protected", -- FIELD_ATTRIBUTE_FAMILY
+            "protected internal", -- FIELD_ATTRIBUTE_FAM_OR_ASSEM
+            "public", -- FIELD_ATTRIBUTE_PUBLIC
+        },
+        FIELD_ATTRIBUTE_STATIC = 0x0010,
+        FIELD_ATTRIBUTE_LITERAL = 0x0040,
+    }
+}
+
+---@class Il2CppTypeEnum
+---Enumeration of Il2Cpp type values
+Il2Cpp.Il2CppTypeEnum = {
+    IL2CPP_TYPE_END = 0x00,
+    IL2CPP_TYPE_VOID = 0x01,
+    IL2CPP_TYPE_BOOLEAN = 0x02,
+    IL2CPP_TYPE_CHAR = 0x03,
+    IL2CPP_TYPE_I1 = 0x04,
+    IL2CPP_TYPE_U1 = 0x05,
+    IL2CPP_TYPE_I2 = 0x06,
+    IL2CPP_TYPE_U2 = 0x07,
+    IL2CPP_TYPE_I4 = 0x08,
+    IL2CPP_TYPE_U4 = 0x09,
+    IL2CPP_TYPE_I8 = 0x0a,
+    IL2CPP_TYPE_U8 = 0x0b,
+    IL2CPP_TYPE_R4 = 0x0c,
+    IL2CPP_TYPE_R8 = 0x0d,
+    IL2CPP_TYPE_STRING = 0x0e,
+    IL2CPP_TYPE_PTR = 0x0f,
+    IL2Cpp_TYPE_BYREF = 0x10,
+    IL2CPP_TYPE_VALUETYPE = 0x11,
+    IL2CPP_TYPE_CLASS = 0x12,
+    IL2CPP_TYPE_VAR = 0x13,
+    IL2CPP_TYPE_ARRAY = 0x14,
+    IL2CPP_TYPE_GENERICINST = 0x15,
+    IL2CPP_TYPE_TYPEDBYREF = 0x16,
+    IL2CPP_TYPE_I = 0x18,
+    IL2CPP_TYPE_U = 0x19,
+    IL2CPP_TYPE_FNPTR = 0x1b,
+    IL2CPP_TYPE_OBJECT = 0x1c,
+    IL2CPP_TYPE_SZARRAY = 0x1d,
+    IL2CPP_TYPE_MVAR = 0x1e,
+    IL2CPP_TYPE_CMOD_REQD = 0x1f,
+    IL2CPP_TYPE_CMOD_OPT = 0x20,
+    IL2CPP_TYPE_INTERNAL = 0x21,
+    IL2CPP_TYPE_MODIFIER = 0x40,
+    IL2CPP_TYPE_SENTINEL = 0x41,
+    IL2CPP_TYPE_PINNED = 0x45,
+    IL2CPP_TYPE_ENUM = 0x55,
+    IL2CPP_TYPE_IL2CPP_TYPE_INDEX = 0xff,
+}
+
+-- Il2CppConstants
+Il2Cpp.Il2CppConstants = {
+    -- Field Attributes
+    FIELD_ATTRIBUTE_FIELD_ACCESS_MASK = 0x0007,
+    FIELD_ATTRIBUTE_COMPILER_CONTROLLED = 0x0000,
+    FIELD_ATTRIBUTE_PRIVATE = 0x0001,
+    FIELD_ATTRIBUTE_FAM_AND_ASSEM = 0x0002,
+    FIELD_ATTRIBUTE_ASSEMBLY = 0x0003,
+    FIELD_ATTRIBUTE_FAMILY = 0x0004,
+    FIELD_ATTRIBUTE_FAM_OR_ASSEM = 0x0005,
+    FIELD_ATTRIBUTE_PUBLIC = 0x0006,
+    FIELD_ATTRIBUTE_STATIC = 0x0010,
+    FIELD_ATTRIBUTE_INIT_ONLY = 0x0020,
+    FIELD_ATTRIBUTE_LITERAL = 0x0040,
+
+    -- Method Attributes
+    METHOD_ATTRIBUTE_MEMBER_ACCESS_MASK = 0x0007,
+    METHOD_ATTRIBUTE_COMPILER_CONTROLLED = 0x0000,
+    METHOD_ATTRIBUTE_PRIVATE = 0x0001,
+    METHOD_ATTRIBUTE_FAM_AND_ASSEM = 0x0002,
+    METHOD_ATTRIBUTE_ASSEM = 0x0003,
+    METHOD_ATTRIBUTE_FAMILY = 0x0004,
+    METHOD_ATTRIBUTE_FAM_OR_ASSEM = 0x0005,
+    METHOD_ATTRIBUTE_PUBLIC = 0x0006,
+    METHOD_ATTRIBUTE_STATIC = 0x0010,
+    METHOD_ATTRIBUTE_FINAL = 0x0020,
+    METHOD_ATTRIBUTE_VIRTUAL = 0x0040,
+    METHOD_ATTRIBUTE_VTABLE_LAYOUT_MASK = 0x0100,
+    METHOD_ATTRIBUTE_REUSE_SLOT = 0x0000,
+    METHOD_ATTRIBUTE_NEW_SLOT = 0x0100,
+    METHOD_ATTRIBUTE_ABSTRACT = 0x0400,
+    METHOD_ATTRIBUTE_PINVOKE_IMPL = 0x2000,
+
+    -- Type Attributes
+    TYPE_ATTRIBUTE_VISIBILITY_MASK = 0x00000007,
+    TYPE_ATTRIBUTE_NOT_PUBLIC = 0x00000000,
+    TYPE_ATTRIBUTE_PUBLIC = 0x00000001,
+    TYPE_ATTRIBUTE_NESTED_PUBLIC = 0x00000002,
+    TYPE_ATTRIBUTE_NESTED_PRIVATE = 0x00000003,
+    TYPE_ATTRIBUTE_NESTED_FAMILY = 0x00000004,
+    TYPE_ATTRIBUTE_NESTED_ASSEMBLY = 0x00000005,
+    TYPE_ATTRIBUTE_NESTED_FAM_AND_ASSEM = 0x00000006,
+    TYPE_ATTRIBUTE_NESTED_FAM_OR_ASSEM = 0x00000007,
+    TYPE_ATTRIBUTE_INTERFACE = 0x00000020,
+    TYPE_ATTRIBUTE_ABSTRACT = 0x00000080,
+    TYPE_ATTRIBUTE_SEALED = 0x00000100,
+    TYPE_ATTRIBUTE_SERIALIZABLE = 0x00002000,
+
+    -- Param Flags
+    PARAM_ATTRIBUTE_IN = 0x0001,
+    PARAM_ATTRIBUTE_OUT = 0x0002,
+    PARAM_ATTRIBUTE_OPTIONAL = 0x0010,
+}
+
+Il2Cpp.methodModifiers = {}
+function Il2Cpp:GetModifiers(methodDef)
+    if self.methodModifiers[methodDef] then
+        return self.methodModifiers[methodDef]
+    end
+    local str = ""
+    local access = bit32.band(methodDef.flags, Il2Cpp.Il2CppConstants.METHOD_ATTRIBUTE_MEMBER_ACCESS_MASK)
+    if access == Il2Cpp.Il2CppConstants.METHOD_ATTRIBUTE_PRIVATE then
+        str = str .. "private "
+    elseif access == Il2Cpp.Il2CppConstants.METHOD_ATTRIBUTE_PUBLIC then
+        str = str .. "public "
+    elseif access == Il2Cpp.Il2CppConstants.METHOD_ATTRIBUTE_FAMILY then
+        str = str .. "protected "
+    elseif access == Il2Cpp.Il2CppConstants.METHOD_ATTRIBUTE_ASSEM or access == Il2Cpp.Il2CppConstants.METHOD_ATTRIBUTE_FAM_AND_ASSEM then
+        str = str .. "internal "
+    elseif access == Il2Cpp.Il2CppConstants.METHOD_ATTRIBUTE_FAM_OR_ASSEM then
+        str = str .. "protected internal "
+    end
+    if bit32.band(methodDef.flags, Il2Cpp.Il2CppConstants.METHOD_ATTRIBUTE_STATIC) ~= 0 then
+        str = str .. "static "
+    end
+    if bit32.band(methodDef.flags, Il2Cpp.Il2CppConstants.METHOD_ATTRIBUTE_ABSTRACT) ~= 0 then
+        str = str .. "abstract "
+        if bit32.band(methodDef.flags, Il2Cpp.Il2CppConstants.METHOD_ATTRIBUTE_VTABLE_LAYOUT_MASK) == Il2Cpp.Il2CppConstants.METHOD_ATTRIBUTE_REUSE_SLOT then
+            str = str .. "override "
+        end
+    elseif bit32.band(methodDef.flags, Il2Cpp.Il2CppConstants.METHOD_ATTRIBUTE_FINAL) ~= 0 then
+        if bit32.band(methodDef.flags, Il2Cpp.Il2CppConstants.METHOD_ATTRIBUTE_VTABLE_LAYOUT_MASK) == Il2Cpp.Il2CppConstants.METHOD_ATTRIBUTE_REUSE_SLOT then
+            str = str .. "sealed override "
+        end
+    elseif bit32.band(methodDef.flags, Il2Cpp.Il2CppConstants.METHOD_ATTRIBUTE_VIRTUAL) ~= 0 then
+        if bit32.band(methodDef.flags, Il2Cpp.Il2CppConstants.METHOD_ATTRIBUTE_VTABLE_LAYOUT_MASK) == Il2Cpp.Il2CppConstants.METHOD_ATTRIBUTE_NEW_SLOT then
+            str = str .. "virtual "
+        else
+            str = str .. "override "
+        end
+    end
+    if bit32.band(methodDef.flags, Il2Cpp.Il2CppConstants.METHOD_ATTRIBUTE_PINVOKE_IMPL) ~= 0 then
+        str = str .. "extern "
+    end
+    self.methodModifiers[methodDef] = str
+    return str
+end
+
+function Il2Cpp.searchPtr(...)
+    local config = {...}
+    gg.clearResults();
+    gg.searchNumber(...);
+    
+    -- Handle 64-bit Android SDK 30+ special case
+    if gg.getResultsCount() == 0 and AndroidInfo.platform and AndroidInfo.sdk >= 30 then
+        local addrs = config[1]
+        table.remove(config, 1)
+        gg.searchNumber(tostring(addrs | 0xB400000000000000), table.unpack(config));
+    end
+    
+    local t = gg.getResults(gg.getResultsCount())
+    if #t > 0 then
+        gg.clearResults();
+        return t
+    end
+    error(string.format("Không tìm thấy con trỏ tại địa chỉ: 0x%X", config[1]))
+end
+
+function Il2Cpp:Developer(config, list, result)
+    if config.addList or config.log then 
+        local nameList, list = {"End", "Start", "Def", "Reg", "Count", "Size", "Ptr", "ersion"}, list or self
+        local results = result or {}
+        for key, value in pairs(list) do 
+            if type(value) == "number" then
+                for i, v in ipairs(nameList) do
+                    if key:find(".*" .. v) then
+                        if config.log then 
+                            Il2Cpp.log:info(key, value)
+                        end
+                        local name = key .. ((v == "Count" or v == "Size" or v == "ersion") and (": " .. value) or "")
+                        local flags = (v == "End" or v == "Start") and gg.TYPE_DWORD or Il2Cpp.MainType
+                        local value = v == "End" and value - 1 or value
+                        results[#results+1] = {address = value, name = name, flags = flags}
+                    end
+                end
+            elseif key == "Meta" then
+                self:Developer(config, value, results)
+            end
+        end
+        if not result and config.addList then
+           gg.addListItems(results)
+        end
+        return results
+    elseif config.setUp then
+        for key, value in pairs(config.setUp) do
+            self[key] = value
+        end
+        return self
+    end
+end
+
+Il2Cpp.log = {
+    results = {},
+    level = {},
+    name = Config.name,
+    debug = function(self, ...)
+        if self.level.DEBUG then 
+            self:log(string.format(self.name .. ": [%s] " ..  ..., "Debug"))
+        end 
+    end,
+    warn = function(self, ...)
+        if self.level.WARN or self.level.INFO or self.level.DEBUG then 
+            self:log(string.format(self.name .. ": [%s] " ..  ..., "Warn"))
+        end 
+    end,
+    info = function(self, ...)
+        if self.level.WARN or self.level.INFO or self.level.DEBUG then 
+            self:log(string.format(self.name .. ": [%s] " ..  ..., "Info"))
+        end 
+    end,
+    error = function(self, ...)
+        local message = string.format(self.name .. ": [%s] " ..  ..., "Error")
+        self:log(message)
+        gg.alert(message)
+        error(message)
+    end,
+    log = function(self, ...)
+        print(...)
+        gg.toast(...)
+        table.insert(self.results, ...)
+    end
+        
+}
+
+function Il2Cpp:Dumper(config, target, callback)
+    local target = target or {}
+    if not target.path then 
+        local info = gg.getTargetInfo()
+        target.path = gg.EXT_STORAGE .. "/" .. info.packageName .. "-" .. info.versionCode .. "-" .. (info.x64 and "64" or "32") .. ".cs"
+    end
+    local config = config or {
+        Attribute = false,
+        Field = true,
+        Property = true,
+        Method = true,
+        FieldOffset = true,
+        MethodOffset = true,
+        TypeDefIndex = false,
+    }
+    self.log:info("Path: " .. target.path)
+    
+    local Decompiler = not target.runtime and self.Decompiler.new(config)
+    local output = io.open(target.path, "w")
+    local startTime = os.time();
+    -- Dump images
+    local imageDefs = target.image or self.Image()
+    local classCount = 0
+    for i, imageDef in ipairs(imageDefs) do
+        classCount = classCount + imageDef.typeCount
+        output:write(string.format("// Image %d: %s - %d\n", i - 1, imageDef:GetName(), imageDef.typeStart))
+    end
+    local scale = classCount / (classCount > 100 and 100 or 10)
+    -- Dump types
+    for _, imageDef in ipairs(imageDefs) do
+        local imageName = imageDef:GetName():gsub(".dll", "")
+        local typeEnd = imageDef.typeStart + imageDef.typeCount
+        for typeDefIndex = imageDef.typeStart + 0, typeEnd - 0 do
+            if callback and gg.isClickedUiButton() then
+                local index = typeDefIndex - imageDef.typeStart
+                local pct = (index - scale) / scale
+                local message =  " - " .. imageName .."[".. index .. ":" .. classCount .. "]" .. " -> " .. pct .. "%"
+                if callback(message) and gg.alert("Dumper Interrupted:\n\n- Done: " .. typeDefIndex .. "/" .. classCount .. " Class.\n- Continue?\n", "Ok", "", "Exit") == 3 then
+                    return
+                end
+            end
+            --local klass = Decompiler and Il2Cpp.Meta:GetTypeDefinition(typeDefIndex) or self.Class(typeDefIndex)
+            output:write((Decompiler and Decompiler:typeDefinition(Il2Cpp.Meta:GetTypeDefinition(typeDefIndex), typeDefIndex) or self.Class(typeDefIndex):Dump(config)) .. "\n")
+        end
+    end
+    output:close()
+    local dumpTimeDiff = os.time() - startTime;
+	self.log:info(string.format("Dumper Done in %.2f seconds", dumpTimeDiff));
+    return path
+end
+
+function Il2Cpp:searchName(searchParams, config)
+    local config = config or {}
+    local searchParams = type(searchParams) == "table" and searchParams or (config.Api and self.Meta:GetPointersToStringApi(searchParams) or self.Meta.GetPointersToString(searchParams))
+    local results = {}
+    if config.Class then
+        results.Class = self.Class(searchParams) or {}
+        results.Class = results.Class.address and {results.Class} or results.Class
+        function results.Class:AddList(self)
+            local result = {}
+            for i, v in ipairs(results.Class) do
+                result[i] = {address = v.address, flags = Il2Cpp.MainType, name = v:Dump()}
+            end
+            Il2Cpp.aL(result)
+            return result
+        end
+    end
+    if config.Fields then
+        results.Fields = self.Field(searchParams) or {}
+        results.Fields = results.Fields.address and {results.Fields} or results.Fields
+        function results.Fields:AddList(self)
+            local result = {}
+            for i, v in ipairs(results.Fields) do
+                local className = "class: " .. v:GetParent():GetName()
+                table.insert(result, {address = v.address, flags = Il2Cpp.MainType, name = className .. "\n" .. v:ToString()})
+            end
+            Il2Cpp.aL(result)
+            return result
+        end
+    end
+    if config.Methods then
+        results.Methods = self.Method(searchParams) or {}
+        results.Methods = results.Methods.address and {results.Methods} or results.Methods
+        function results.Methods:AddList(self)
+            local result = {}
+            for i, v in ipairs(results.Methods) do
+                local className = "class: " .. v:GetClass():GetName()
+                result[i] = {address = v.address, flags = Il2Cpp.MainType, name = className .. "\n" .. v:ToString()}
+            end
+            Il2Cpp.aL(result)
+            return result
+        end
+    end
+    function results:AddList(self)
+        if results.Class then
+            results.Class:AddList()
+        end
+        if results.Fields then
+            results.Fields:AddList()
+        end
+        if results.Methods then
+            results.Methods:AddList()
+        end
+    end
+    return results
+end
+
+return setmetatable(Struct, {
+    ---Metatable call handler for Struct
+    -- Initializes Il2Cpp structures based on version
+    -- @return table Il2Cpp API with all modules loaded
+    __call = function(self)
+        Il2Cpp.Version = Version()
+        local default = Il2Cpp.Version
+        
+        if default == 22 then
+          default = 22
+        elseif default == 23 or default == 24 then
+          default = 24.0
+        elseif default == 24.1 then
+          default = 24.1
+        elseif default == 24.2 or default == 24.3 or default == 24.4 or default == 24.5 then
+          default = 24.2
+        elseif default == 27 or default == 27.1 or default == 27.2 then
+          default = 27
+        elseif default == 29 then
+          default = 29
+        elseif default == 31 or default == 29.1 then
+            default = 29.1
+        end
+        --Il2Cpp._Version = default
+        --Il2Cpp._Il2CppMethodDefinition = self.Il2CppMethodDefinition
+        --Il2Cpp._Il2CppGlobalMetadataHeader = self.Il2CppGlobalMetadataHeader
+        -- Pass version to structs to filter fields
+        for k, v in pairs(self) do
+            v.name = k
+            Il2Cpp[k] = Il2Cpp.classGG(v, default)
+        end
+      
+        -- Load all Il2Cpp API modules
+        local api = {
+            Patch = require "utils.Patch",
+            
+            Meta = require "core.Meta",
+            
+            Decompiler = require "core.Decompiler",
+            
+            Searcher = require "core.Universalsearcher",
+            
+            Class = require "api.Class",
+            
+            Field = require "api.Field",
+            
+            Method = require "api.Method",
+            
+            Param = require "api.Param",
+            
+            Object = require "api.Object",
+            
+            Image = require "api.Image",
+           
+            Type = require "api.Type",
+            
+            
+            Struct = self
+        }
+        
+        return setmetatable(api, {
+            __index = Il2Cpp
+        })
+    end
+})
+
+
+end)
+__bundle_register("utils.Androidinfo", function(require, _LOADED, __bundle_register, __bundle_modules)
+---@class AndroidInfo
+---Table containing Android target information for the current application
+local info = gg.getTargetInfo()
+
+---@class AndroidInfoTable
+---Android target information structure containing platform architecture, SDK version, package details and cache path
+local AndroidInfo = {
+    ---@field platform boolean Whether the target platform is 64-bit (true) or 32-bit (false)
+    platform = info.x64,
+    
+    ---@field sdk number Target SDK version of the application
+    sdk = info.targetSdkVersion,
+    
+    ---@field pkg string Package name of the target application
+    pkg = gg.getTargetPackage(),
+    
+    name = info.name,
+    
+    targetInfo = info,
+    
+    ---@field path string Cache path for the application with format: 
+    -- "/cache/packageName-versionCode-architecture(64/32)"
+    path = gg.EXT_CACHE_DIR .. "/" .. info.packageName .. "-" .. info.versionCode .. "-" .. (info.x64 and "64" or "32")
+}
+
+return AndroidInfo
+end)
+__bundle_register("core.Struct", function(require, _LOADED, __bundle_register, __bundle_modules)
+---@class Structs
+---Table containing all Il2Cpp structure definitions for different versions
+local Structs = {
+    ---@class Il2CppGlobalMetadataHeader
+    ---Global metadata header structure containing offsets and sizes of various metadata sections
+    Il2CppGlobalMetadataHeader = {
+        { "sanity", "UInt32"}, -- Sanity check value
+        { "version", "Int32" }, -- Metadata version
+        { "stringLiteralOffset", "UInt32" }, -- Offset to string literals
+        { "stringLiteralSize", "Int32" }, -- Size of string literals section
+        { "stringLiteralDataOffset", "UInt32" }, -- Offset to string literal data
+        { "stringLiteralDataSize", "Int32" }, -- Size of string literal data
+        { "stringOffset", "UInt32" }, -- Offset to string table
+        { "stringSize", "Int32" }, -- Size of string table
+        { "eventsOffset", "UInt32" }, -- Offset to events table
+        { "eventsSize", "Int32" }, -- Size of events table
+        { "propertiesOffset", "UInt32" }, -- Offset to properties table
+        { "propertiesSize", "Int32" }, -- Size of properties table
+        { "methodsOffset", "UInt32" }, -- Offset to methods table
+        { "methodsSize", "Int32" }, -- Size of methods table
+        { "parameterDefaultValuesOffset", "UInt32" }, -- Offset to parameter default values
+        { "parameterDefaultValuesSize", "Int32" }, -- Size of parameter default values
+        { "fieldDefaultValuesOffset", "UInt32" }, -- Offset to field default values
+        { "fieldDefaultValuesSize", "Int32" }, -- Size of field default values
+        { "fieldAndParameterDefaultValueDataOffset", "UInt32" }, -- Offset to default value data
+        { "fieldAndParameterDefaultValueDataSize", "Int32" }, -- Size of default value data
+        { "fieldMarshaledSizesOffset", "UInt32" }, -- Offset to field marshaled sizes
+        { "fieldMarshaledSizesSize", "Int32" }, -- Size of field marshaled sizes
+        { "parametersOffset", "UInt32" }, -- Offset to parameters table
+        { "parametersSize", "Int32" }, -- Size of parameters table
+        { "fieldsOffset", "UInt32" }, -- Offset to fields table
+        { "fieldsSize", "Int32" }, -- Size of fields table
+        { "genericParametersOffset", "UInt32" }, -- Offset to generic parameters
+        { "genericParametersSize", "Int32" }, -- Size of generic parameters
+        { "genericParameterConstraintsOffset", "UInt32" }, -- Offset to generic parameter constraints
+        { "genericParameterConstraintsSize", "Int32" }, -- Size of generic parameter constraints
+        { "genericContainersOffset", "UInt32" }, -- Offset to generic containers
+        { "genericContainersSize", "Int32" }, -- Size of generic containers
+        { "nestedTypesOffset", "UInt32" }, -- Offset to nested types
+        { "nestedTypesSize", "Int32" }, -- Size of nested types
+        { "interfacesOffset", "UInt32" }, -- Offset to interfaces
+        { "interfacesSize", "Int32" }, -- Size of interfaces
+        { "vtableMethodsOffset", "UInt32" }, -- Offset to vtable methods
+        { "vtableMethodsSize", "Int32" }, -- Size of vtable methods
+        { "interfaceOffsetsOffset", "UInt32" }, -- Offset to interface offsets
+        { "interfaceOffsetsSize", "Int32" }, -- Size of interface offsets
+        { "typeDefinitionsOffset", "UInt32" }, -- Offset to type definitions
+        { "typeDefinitionsSize", "Int32" }, -- Size of type definitions
+        { "rgctxEntriesOffset", "UInt32", version = {max = 24.1} }, -- Offset to RGCTX entries (≤ v24.1)
+        { "rgctxEntriesCount", "Int32", version = {max = 24.1} }, -- Count of RGCTX entries (≤ v24.1)
+        { "imagesOffset", "UInt32" }, -- Offset to images table
+        { "imagesSize", "Int32" }, -- Size of images table
+        { "assembliesOffset", "UInt32" }, -- Offset to assemblies table
+        { "assembliesSize", "Int32" }, -- Size of assemblies table
+        { "metadataUsageListsOffset", "UInt32", version = {min = 19, max = 24.5} }, -- Offset to metadata usage lists (v19-v24.5)
+        { "metadataUsageListsCount", "Int32", version = {min = 19, max = 24.5} }, -- Count of metadata usage lists (v19-v24.5)
+        { "metadataUsagePairsOffset", "UInt32", version = {min = 19, max = 24.5} }, -- Offset to metadata usage pairs (v19-v24.5)
+        { "metadataUsagePairsCount", "Int32", version = {min = 19, max = 24.5} }, -- Count of metadata usage pairs (v19-v24.5)
+        { "fieldRefsOffset", "UInt32", version = {min = 19} }, -- Offset to field references (≥ v19)
+        { "fieldRefsSize", "Int32", version = {min = 19} }, -- Size of field references (≥ v19)
+        { "referencedAssembliesOffset", "UInt32", version = {min = 20} }, -- Offset to referenced assemblies (≥ v20)
+        { "referencedAssembliesSize", "Int32", version = {min = 20} }, -- Size of referenced assemblies (≥ v20)
+        { "attributesInfoOffset", "UInt32", version = {min = 21, max = 27.2} }, -- Offset to attributes info (v21-v27.2)
+        { "attributesInfoCount", "Int32", version = {min = 21, max = 27.2} }, -- Count of attributes info (v21-v27.2)
+        { "attributeTypesOffset", "UInt32", version = {min = 21, max = 27.2} }, -- Offset to attribute types (v21-v27.2)
+        { "attributeTypesCount", "Int32", version = {min = 21, max = 27.2} }, -- Count of attribute types (v21-v27.2)
+        { "attributeDataOffset", "UInt32", version = {min = 29} }, -- Offset to attribute data (≥ v29)
+        { "attributeDataSize", "Int32", version = {min = 29} }, -- Size of attribute data (≥ v29)
+        { "attributeDataRangeOffset", "UInt32", version = {min = 29} }, -- Offset to attribute data ranges (≥ v29)
+        { "attributeDataRangeSize", "Int32", version = {min = 29} }, -- Size of attribute data ranges (≥ v29)
+        { "unresolvedVirtualCallParameterTypesOffset", "UInt32", version = {min = 22} }, -- Offset to unresolved virtual call parameter types (≥ v22)
+        { "unresolvedVirtualCallParameterTypesSize", "Int32", version = {min = 22} }, -- Size of unresolved virtual call parameter types (≥ v22)
+        { "unresolvedVirtualCallParameterRangesOffset", "UInt32", version = {min = 22} }, -- Offset to unresolved virtual call parameter ranges (≥ v22)
+        { "unresolvedVirtualCallParameterRangesSize", "Int32", version = {min = 22} }, -- Size of unresolved virtual call parameter ranges (≥ v22)
+        { "windowsRuntimeTypeNamesOffset", "UInt32", version = {min = 23} }, -- Offset to Windows Runtime type names (≥ v23)
+        { "windowsRuntimeTypeNamesSize", "Int32", version = {min = 23} }, -- Size of Windows Runtime type names (≥ v23)
+        { "windowsRuntimeStringsOffset", "UInt32", version = {min = 27} }, -- Offset to Windows Runtime strings (≥ v27)
+        { "windowsRuntimeStringsSize", "Int32", version = {min = 27} }, -- Size of Windows Runtime strings (≥ v27)
+        { "exportedTypeDefinitionsOffset", "UInt32", version = {min = 24} }, -- Offset to exported type definitions (≥ v24)
+        { "exportedTypeDefinitionsSize", "Int32", version = {min = 24} }, -- Size of exported type definitions (≥ v24)
+    },
+    
+    Il2CppMetadataRegistration = {
+        { "genericClassesCount", "Pointer" },
+        { "genericClasses", "Pointer" },
+        { "genericInstsCount", "Pointer" },
+        { "genericInsts", "Pointer" },
+        { "genericMethodTableCount", "Pointer" },
+        { "genericMethodTable", "Pointer" },
+        { "typesCount", "Pointer" },
+        { "types", "Pointer" },
+        { "methodSpecsCount", "Pointer" },
+        { "methodSpecs", "Pointer" },
+        { "methodReferencesCount", "Pointer", version = { max = 16 } },
+        { "methodReferences", "Pointer", version = { max = 16 } },
+        { "fieldOffsetsCount", "Pointer" },
+        { "fieldOffsets", "Pointer" },
+        { "typeDefinitionsSizesCount", "Pointer" },
+        { "typeDefinitionsSizes", "Pointer" },
+        { "metadataUsagesCount", "Pointer", version = { min = 19 } },
+        { "metadataUsages", "Pointer", version = { min = 19 } }
+    },
+    
+    -- Il2CppCodeRegistration
+    Il2CppCodeRegistration = {
+        { "methodPointersCount", "Pointer", version = { max = 24.1} },
+        { "methodPointers", "Pointer", version = { max = 24.1} },
+        { "delegateWrappersFromNativeToManagedCount", "Pointer", version = { max = 21}},
+        { "delegateWrappersFromNativeToManaged", "Pointer", version = { max = 21} },
+        { "reversePInvokeWrapperCount", "Pointer", version = { min = 22}},
+        { "reversePInvokeWrappers", "Pointer", version = { min = 22}},
+        { "delegateWrappersFromManagedToNativeCount", "Pointer", version = { max = 22} },
+        { "delegateWrappersFromManagedToNative", "Pointer", version = { max = 22} },
+        { "marshalingFunctionsCount", "Pointer", version = { max = 22} },
+        { "marshalingFunctions", "Pointer", version = { max = 22} },
+        { "ccwMarshalingFunctionsCount", "Pointer", version = { min = 21, max = 22} },
+        { "ccwMarshalingFunctions", "Pointer", version = { min = 21, max = 22} },
+        { "genericMethodPointersCount", "Pointer" },
+        { "genericMethodPointers", "Pointer" },
+        { "genericAdjustorThunks", "Pointer", version = {{ min = 24.5, max = 24.5}, { min = 27.1}} },
+        { "invokerPointersCount", "Pointer" },
+        { "invokerPointers", "Pointer" },
+        { "customAttributeCount", "Pointer", version = { max = 24.5}},
+        { "customAttributeGenerators", "Pointer", version = { max = 24.5}},
+        { "guidCount", "Pointer", version = { min = 21, max = 22}},
+        { "guids", "Pointer", version = { min = 21, max = 22}},
+        { "unresolvedVirtualCallCount", "Pointer", version = { min = 22}},
+        { "unresolvedVirtualCallPointers", "Pointer", version = { min = 22}},
+        { "unresolvedInstanceCallPointers", "Pointer", version = { min = 29.1} },
+        { "unresolvedStaticCallPointers", "Pointer", version = { min = 29.1} },
+        { "interopDataCount", "Pointer", version = { min = 23} },
+        { "interopData", "Pointer", version = { min = 23}},
+        { "windowsRuntimeFactoryCount", "Pointer", version = { min = 24.3}},
+        { "windowsRuntimeFactoryTable", "Pointer", version = { min = 24.3} },
+        { "codeGenModulesCount", "Pointer", version = { min = 24.2 }},
+        { "codeGenModules", "Pointer", version = { min = 24.2 } }
+    },
+    
+    -- Il2CppTypeDefinition
+    Il2CppTypeDefinition = {
+        { "nameIndex", "UInt32" },
+        { "namespaceIndex", "UInt32" },
+        { "customAttributeIndex", "Int32", version = { max = 24}},
+        { "byvalTypeIndex", "Int32" },
+        { "byrefTypeIndex", "Int32", version = { max = 24.5} },
+        { "declaringTypeIndex", "Int32" },
+        { "parentIndex", "Int32" },
+        { "elementTypeIndex", "Int32" },
+        { "rgctxStartIndex", "Int32", version = { max = 24.1} },
+        { "rgctxCount", "Int32", version = { max = 24.1} },
+        { "genericContainerIndex", "Int32" },
+        { "delegateWrapperFromManagedToNativeIndex", "Int32", version = { max = 22} },
+        { "marshalingFunctionsIndex", "Int32", version = { max = 22 }},
+        { "ccwFunctionIndex", "Int32", version = { min = 21, max = 22} },
+        { "guidIndex", "Int32", version = { min = 21, max = 22} },
+        { "flags", "UInt32" },
+        { "fieldStart", "Int32" },
+        { "methodStart", "Int32" },
+        { "eventStart", "Int32" },
+        { "propertyStart", "Int32" },
+        { "nestedTypesStart", "Int32" },
+        { "interfacesStart", "Int32" },
+        { "vtableStart", "Int32" },
+        { "interfaceOffsetsStart", "Int32" },
+        { "method_count", "UInt16" },
+        { "property_count", "UInt16" },
+        { "field_count", "UInt16" },
+        { "event_count", "UInt16" },
+        { "nested_type_count", "UInt16" },
+        { "vtable_count", "UInt16" },
+        { "interfaces_count", "UInt16" },
+        { "interface_offsets_count", "UInt16" },
+        { "bitfield", "UInt32" },
+        { "token", "UInt32", version = { min = 19 } },
+        
+        IsValueType = function(this) return bit32.band(this.bitfield, 0x1) == 1 end,
+        IsEnum = function(this) return bit32.band(bit32.rshift(this.bitfield, 1), 0x1) == 1 end,
+    },
+
+    ---@class VirtualInvokeData
+    ---Virtual invocation data structure
+    VirtualInvokeData = {
+        { "methodPtr", "Pointer" }, -- Pointer to method
+        { "method", "Pointer" } -- Method pointer
+    },
+
+    ---@class Il2CppType
+    ---Il2Cpp type representation with bitfield decoding
+    Il2CppType = {
+        { "data", "Pointer" }, -- Type data pointer
+        { "bits", "UInt32" }, -- Bitfield containing type attributes
+        ---Initialize and decode type attributes from bitfield
+        -- @return self Initialized type object
+        Init = function(self)
+            self.attrs = bit32.band(self.bits, 0xffff)
+            self.type = bit32.rshift(bit32.band(self.bits, 0xff0000), 16)
+            if Il2Cpp.Version >= 27.2 then
+                self.num_mods = bit32.band(bit32.rshift(self.bits, 24), 0x1f)
+                self.byref = bit32.band(bit32.rshift(self.bits, 29), 1)
+                self.pinned = bit32.band(bit32.rshift(self.bits, 30), 1)
+                self.valuetype = bit32.rshift(self.bits, 31)
+            else
+                self.num_mods = bit32.band(bit32.rshift(self.bits, 24), 0x3f)
+                self.byref = bit32.band(bit32.rshift(self.bits, 30), 1)
+                self.pinned = bit32.rshift(self.bits, 31)
+            end
+            
+            return self
+        end
+    },
+    
+    ---@class Il2CppObject
+    ---Base Il2Cpp object structure
+    Il2CppObject = {
+        { "klass", "Pointer" }, -- Class pointer
+        { "monitor", "Pointer" } -- Monitor pointer for synchronization
+    },
+
+    ---@class Il2CppRGCTXData
+    ---Runtime Generic Context Data structure
+    Il2CppRGCTXData = {
+        { "rgctxDataDummy", "Pointer" } -- Dummy RGCTX data pointer
+    },
+
+    ---@class Il2CppRuntimeInterfaceOffsetPair
+    ---Runtime interface offset pair structure
+    Il2CppRuntimeInterfaceOffsetPair = {
+        { "interfaceType", "Pointer" }, -- Interface type pointer
+        { "offset", "Int32" } -- Interface offset
+    },
+
+    ---@class FieldInfo
+    ---Field information structure
+    FieldInfo = {
+        { "name", "Pointer" }, -- Field name pointer
+        { "type", "Pointer" }, -- Field type pointer
+        { "parent", "Pointer" }, -- Parent type pointer
+        { "offset", "Int32" }, -- Field offset
+        { "token", "UInt32" } -- Field token
+    },
+
+    ---@class Il2CppArrayBounds
+    ---Array bounds information structure
+    Il2CppArrayBounds = {
+        { "length", "Int32", version = { max = 24.0 } }, -- Array length (≤ v24.0)
+        { "length", "Size_t", version = { min = 24.1 } }, -- Array length (≥ v24.1)
+        { "lower_bound", "Int32" } -- Array lower bound
+    }
+}
+
+---@class Il2CppClass
+---Il2Cpp class structure with version-specific fields
+Structs.Il2CppClass = {
+    { "image", "Pointer" }, -- Image pointer
+    { "gc_desc", "Pointer" }, -- GC descriptor pointer
+    { "name", "Pointer"}, -- Class name pointer
+    { "namespaze", "Pointer" }, -- Class namespace pointer
+    
+    { "byval_arg", "Pointer", version = { max = 24.0 } }, -- ByVal argument pointer (≤ v24.0)
+    { "byval_arg", Structs.Il2CppType, version = { min = 24.1 } }, -- ByVal argument type (≥ v24.1)
+    { "this_arg", "Pointer", version = { max = 24.0 } }, -- This argument pointer (≤ v24.0)
+    { "this_arg", Structs.Il2CppType, version = { min = 24.1 } }, -- This argument type (≥ v24.1)
+    
+    { "element_class", "Pointer" }, -- Element class pointer
+    { "castClass", "Pointer" }, -- Cast class pointer
+    { "declaringType", "Pointer" }, -- Declaring type pointer
+    { "parent", "Pointer" }, -- Parent class pointer
+    { "generic_class", "Pointer" }, -- Generic class pointer
+    
+    { "typeDefinition", "Pointer", version = { min = 24.1, max = 24.5 } }, -- Type definition pointer (v24.1-v24.5)
+    { "typeMetadataHandle", "Pointer", version = { min = 27 } }, -- Type metadata handle (≥ v27)
+    
+    { "interopData", "Pointer" }, -- Interop data pointer
+    { "klass", "Pointer", version = { min = 24.2 } }, -- Class pointer (≥ v24.1)
+    
+    
+    { "fields", "Pointer" }, -- Fields pointer
+    { "events", "Pointer" }, -- Events pointer
+    { "properties", "Pointer" }, -- Properties pointer
+    { "methods", "Pointer" }, -- Methods pointer
+    { "nestedTypes", "Pointer" }, -- Nested types pointer
+    { "implementedInterfaces", "Pointer" }, -- Implemented interfaces pointer
+    { "interfaceOffsets", "Pointer" }, -- Interface offsets pointer
+    { "static_fields", "Pointer" }, -- Static fields pointer
+    { "rgctx_data", "Pointer" }, -- RGCTX data pointer
+    
+    { "typeHierarchy", "Pointer" }, -- Type hierarchy pointer
+    
+    { "unity_user_data", "Pointer", version = { min = 24.2 } }, -- Unity user data pointer (≥ v24.2)
+    
+    { "initializationExceptionGCHandle", "UInt32", version = { min = 24.1 } }, -- Initialization exception GC handle (≥ v24.1)
+    
+    { "cctor_started", "UInt32" }, -- Static constructor started flag
+    { "cctor_finished", "UInt32" }, -- Static constructor finished flag
+    
+    { "cctor_thread", "UInt64", version = { max = 24.1 } }, -- Static constructor thread ID (≤ v24.1)
+    { "cctor_thread", "Size_t", version = { min = 24.2 } }, -- Static constructor thread ID (≥ v24.2)
+    
+    { "genericContainerIndex", "Int32", version = { max = 24.5 } }, -- Generic container index (≤ v24.5)
+    { "genericContainerHandle", "Pointer", version = { min = 27 } }, -- Generic container handle (≥ v27)
+    { "customAttributeIndex", "Int32", version = { max = 24.0 } }, -- Custom attribute index (≤ v24.0)
+    { "instance_size", "UInt32" }, -- Instance size
+    { "stack_slot_size", "UInt32" , version = { min = 29.1 } }, -- Stack slot size (≥ v29.1)
+    { "actualSize", "UInt32" }, -- Actual size
+    { "element_size", "UInt32" }, -- Element size
+    { "native_size", "Int32" }, -- Native size
+    { "static_fields_size", "UInt32" }, -- Static fields size
+    { "thread_static_fields_size", "UInt32" }, -- Thread static fields size
+    { "thread_static_fields_offset", "Int32" }, -- Thread static fields offset
+    { "flags", "UInt32" }, -- Class flags
+    { "token", "UInt32" }, -- Class token
+    
+    { "method_count", "UInt16" }, -- Method count
+    { "property_count", "UInt16" }, -- Property count
+    { "field_count", "UInt16" }, -- Field count
+    { "event_count", "UInt16" }, -- Event count
+    { "nested_type_count", "UInt16" }, -- Nested type count
+    { "vtable_count", "UInt16" }, -- VTable count
+    { "interfaces_count", "UInt16" }, -- Interfaces count
+    { "interface_offsets_count", "UInt16" }, -- Interface offsets count
+    
+    { "typeHierarchyDepth", "UInt8" }, -- Type hierarchy depth
+    { "genericRecursionDepth", "UInt8" }, -- Generic recursion depth
+    { "rank", "UInt8" }, -- Array rank
+    { "minimumAlignment", "UInt8" }, -- Minimum alignment
+    { "naturalAligment", "UInt8" }, -- Natural alignment
+    { "packingSize", "UInt8" }, -- Packing size
+    
+    { "bitflags1", "UInt8" }, -- Bitflags 1
+    { "bitflags2", "UInt8" } -- Bitflags 2
+}
+
+---@class MethodInfo
+---Method information structure with version-specific fields
+Structs.MethodInfo = {
+    { "methodPointer", "Pointer" }, -- Method pointer
+    { "virtualMethodPointer", "Pointer", version = { min = 29 } }, -- Virtual method pointer (≥ v31)
+    { "invoker_method", "Pointer" }, -- Invoker method pointer
+    { "name", "Pointer" }, -- Method name pointer
+    { "klass", "Pointer", version = { min = 24.1 } }, -- Class pointer (≥ v24.1)
+    { "declaring_type", "Pointer", version = { max = 24.0 } }, -- Declaring type pointer (≤ v24.0)
+    { "return_type", "Pointer" }, -- Return type pointer
+    { "parameters", "Pointer" }, -- Parameters pointer
+    { "methodDefinition", "Pointer", version = { max = 24.5 } }, -- Method definition pointer (≤ v24.5)
+    { "genericContainer", "Pointer", version = { max = 24.5 } }, -- Generic container pointer (≤ v24.5)
+    { "methodMetadataHandle", "Pointer", version = { min = 27 } }, -- Method metadata handle (≥ v27)
+    { "genericContainerHandle", "Pointer", version = { min = 27 } }, -- Generic container handle (≥ v27)
+    { "customAttributeIndex", "Int32", version = { max = 24.0 } }, -- Custom attribute index (≤ v24.0)
+    { "token", "UInt32" }, -- Method token
+    { "flags", "UInt16" }, -- Method flags
+    { "iflags", "UInt16" }, -- Method interface flags
+    { "slot", "UInt16" }, -- Method slot
+    { "parameters_count", "UInt8" }, -- Parameters count
+    { "bitflags", "UInt8" } -- Method bitflags
+}
+
+Structs.PropertyInfo = {
+    { "parent", "Pointer" },
+    { "name", "Pointer" },
+    { "get", "Pointer" },
+    { "set", "Pointer" },
+    { "attrs", "UInt32" },
+    { "token", "UInt32" }
+}
+
+Structs.Il2CppPropertyDefinition = {
+    { "nameIndex", "UInt32"},
+    { "get", "Int32"},
+    { "set", "Int32"},
+    { "attrs", "UInt32"},
+    { "customAttributeIndex", "Int32", version = {max = 24}},
+    { "token", "UInt32", version = {min = 19}}
+}
+
+---@class Il2CppGenericContext
+---Generic context structure
+Structs.Il2CppGenericContext = {
+    { "class_inst", "Pointer"}, -- Class instance pointer
+    { "method_inst", "Pointer"}, -- Method instance pointer
+}
+
+---@class Il2CppGenericClass
+---Generic class structure with version-specific fields
+Structs.Il2CppGenericClass = {
+    { "typeDefinitionIndex", "Pointer", version = {max = 24.5}}, -- Type definition index (≤ v24.5)
+    { "type", "Pointer", version = {min = 27}}, -- Type pointer (≥ v27)
+    { "context", Structs.Il2CppGenericContext}, -- Generic context
+    { "cached_class", "Pointer"}, -- Cached class pointer
+}
+
+---@class Il2CppGenericInst
+---Generic instance structure
+Structs.Il2CppGenericInst = {
+    { "type_argc", "Pointer"}, -- Type argument count
+    { "type_argv", "Pointer"}, -- Type argument values
+}
+
+---@class Il2CppArrayType
+---Array type structure
+Structs.Il2CppArrayType = {
+    { "etype", "Pointer"}, -- Element type pointer
+    { "rank", "Int8"}, -- Array rank
+    { "numsizes", "Int8"}, -- Number of sizes
+    { "numlobounds", "Int8"}, -- Number of lower bounds
+    { "sizes", "Pointer"}, -- Sizes pointer
+    { "lobounds", "Pointer"}, -- Lower bounds pointer
+}
+
+---@class Il2CppGenericParameter
+---Generic parameter structure
+Structs.Il2CppGenericParameter = {
+    { "ownerIndex", "Int32" }, -- Owner index
+    { "nameIndex", "UInt32" }, -- Name index
+    { "constraintsStart", "Int16" }, -- Constraints start index
+    { "constraintsCount", "Int16" }, -- Constraints count
+    { "num", "UInt16" }, -- Parameter number
+    { "flags", "UInt16" } -- Parameter flags
+}
+
+---@class Il2CppGenericContainer
+---Generic container structure
+Structs.Il2CppGenericContainer = {
+    { "ownerIndex", "Int32" }, -- Owner index
+    { "type_argc", "Int32" }, -- Type argument count
+    { "is_method", "Int32" }, -- Is method flag
+    { "genericParameterStart", "Int32" } -- Generic parameter start index
+}
+
+---@class Il2CppMethodDefinition
+---Method definition structure with version-specific fields
+Structs.Il2CppMethodDefinition = {
+    { "nameIndex", "UInt32" }, -- Name index
+    { "declaringType", "Int32" }, -- Declaring type index
+    { "returnType", "Int32" }, -- Return type index
+    { "returnParameterToken", "Int32", version = {min = 31} }, -- Return parameter token (≥ v31)
+    { "parameterStart", "Int32" }, -- Parameter start index
+    { "customAttributeIndex", "Int32", version = {max = 24} }, -- Custom attribute index (≤ v24)
+    { "genericContainerIndex", "Int32" }, -- Generic container index
+    { "methodIndex", "Int32", version = {max = 24.1} }, -- Method index (≤ v24.1)
+    { "invokerIndex", "Int32", version = {max = 24.1} }, -- Invoker index (≤ v24.1)
+    { "delegateWrapperIndex", "Int32", version = {max = 24.1} }, -- Delegate wrapper index (≤ v24.1)
+    { "rgctxStartIndex", "Int32", version = {max = 24.1} }, -- RGCTX start index (≤ v24.1)
+    { "rgctxCount", "Int32", version = {max = 24.1} }, -- RGCTX count (≤ v24.1)
+    { "token", "UInt32" }, -- Method token
+    { "flags", "UInt16" }, -- Method flags
+    { "iflags", "UInt16" }, -- Method interface flags
+    { "slot", "UInt16" }, -- Method slot
+    { "parameterCount", "UInt16" } -- Parameter count
+}
+
+---@class Il2CppParameterDefinition
+---Parameter definition structure with version-specific fields
+Structs.Il2CppParameterDefinition = {
+    { "nameIndex", "UInt32" }, -- Name index
+    { "token", "UInt32" }, -- Parameter token
+    { "customAttributeIndex", "Int32", version = {max = 24} }, -- Custom attribute index (≤ v24)
+    { "typeIndex", "Int32" } -- Type index
+}
+
+
+-- Il2CppGenericMethodIndices
+Structs.Il2CppGenericMethodIndices = {
+    { "methodIndex", "Int32" },
+    { "invokerIndex", "Int32" },
+    { "adjustorThunk", "Int32", version = {{ min = 24.5, max = 24.5 }, { min = 27.1 }} }
+}
+
+-- Il2CppGenericMethodFunctionsDefinitions
+Structs.Il2CppGenericMethodFunctionsDefinitions = {
+    { "genericMethodIndex", "Int32" },
+    { "indices", Structs.Il2CppGenericMethodIndices }
+}
+
+
+-- Il2CppMethodSpec
+Structs.Il2CppMethodSpec = {
+    { "methodDefinitionIndex", "Int32" },
+    { "classIndexIndex", "Int32" },
+    { "methodIndexIndex", "Int32" }
+}
+
+
+Structs.Il2CppParameterDefaultValue = {
+    { "parameterIndex", "Int32" },
+    { "typeIndex", "Int32" },
+    { "dataIndex", "Int32" }
+}
+
+Structs.Il2CppFieldDefaultValue = {
+    { "fieldIndex", "Int32" },
+    { "typeIndex", "Int32" },
+    { "dataIndex", "Int32" }
+    
+}
+
+Structs.Il2CppFieldDefinition = {
+    { "nameIndex", "UInt32" },
+    { "typeIndex", "Int32"},
+    { "customAttributeIndex", "Int32", version = {max = 24}},
+    { "token", "UInt32", version = {min = 19}}
+}
+
+
+
+
+for key, value in pairs(require("api.Definition")) do
+    if Structs[key] then
+        for name, func in pairs(value) do
+            Structs[key][name] = func
+        end
+    end
+end
+
+
+
+return Structs
+end)
+__bundle_register("api.Definition", function(require, _LOADED, __bundle_register, __bundle_modules)
+local MetaDefInfo = {}
+
+local function GetName(def, index)
+    return Il2Cpp.Meta:GetStringFromIndex(index or def.nameIndex)
+end
+
+MetaDefInfo.Il2CppFieldDefinition = {
+    GetName = GetName,
+    
+    GetType = function(fieldDef)
+        return Il2Cpp.Type(fieldDef.typeIndex)
+    end
+}
+
+MetaDefInfo.Il2CppMethodDefinition = {
+    GetName = GetName,
+    
+    GetReturnType = function(methodDef)
+        return Il2Cpp.Type(methodDef.returnType)
+    end,
+    
+    GetParam  = function(methodDef)
+        if not methodDef.parameters then
+            methodDef.parameters = {}
+            for index = 0, methodDef.parameterCount - 1 do
+                local paramDef = Il2Cpp.Param(methodDef.parameterStart + index)
+                methodDef.parameters[index + 1] = paramDef
+            end
+        end
+        return methodDef.parameters
+    end
+}
+
+
+MetaDefInfo.Il2CppTypeDefinition = {
+    
+    GetName = function(typeDef, ...)
+        return Il2Cpp.Type:GetTypeDefName(typeDef, ...)
+    end,
+    
+    Dump = function(typeDef, config)
+        local Decompiler = Il2Cpp.Decompiler.new(config)
+        return Decompiler:typeDefinition(typeDef)
+    end,
+    
+    GetInfo = function(typeDef, obj)
+        local obj = obj or {
+            field = Il2Cpp.Meta.GetFieldDefinition,
+            method = Il2Cpp.Meta.GetMethodDefinition
+        }
+        for name, func in pairs(obj) do
+            local count = typeDef[name .. "_count"]
+            local start = typeDef[name .. "Start"]
+            if count > 0 then
+                local defs = {}
+                for idx = 0, count - 1 do
+                    local f = func(Il2Cpp.Meta, start + idx)
+                    f.name = f:GetName()
+                    if f.returnType then 
+                        f.returnType = f:GetReturnType()
+                    else
+                        f.type = f:GetType()
+                    end
+                    defs[idx + 1] = f
+                end
+                typeDef[name .. "s"] = defs
+            end
+        end
+        return typeDef 
+    end
+    
+}
+
+    
+
+
+return MetaDefInfo
+end)
+__bundle_register("core.Version", function(require, _LOADED, __bundle_register, __bundle_modules)
+---@class VersionEngine
+---Module for detecting and handling Unity engine version compatibility with Il2Cpp
+
+---Compare two semantic version numbers
+-- @param v1 table First version table with major, minor, patch fields
+-- @param v2 table Second version table with major, minor, patch fields
+-- @return number -1 if v1 < v2, 1 if v1 > v2, 0 if equal
+local function compareVersions(v1, v2)
+    if v1.major ~= v2.major then
+        return v1.major < v2.major and -1 or 1
+    end
+    if v1.minor ~= v2.minor then
+        return v1.minor < v2.minor and -1 or 1
+    end
+    if v1.patch ~= v2.patch then
+        return v1.patch < v2.patch and -1 or 1
+    end
+    return 0
+end
+
+-- OS-specific Unity version string offset
+local osUV = 0x11
+
+local VersionEngine = {
+    ---@class ConstSemVer
+    ---Table of constant semantic version numbers for known Unity versions
+    ConstSemVer = {
+        ['2018_3'] = { major = 2018, minor = 3, patch = 0 },
+        ['2019_4_21'] = { major = 2019, minor = 4, patch = 21 },
+        ['2019_4_15'] = { major = 2019, minor = 4, patch = 15 },
+        ['2019_3_7'] = { major = 2019, minor = 3, patch = 7 },
+        ['2020_2_4'] = { major = 2020, minor = 2, patch = 4 },
+        ['2020_2'] = { major = 2020, minor = 2, patch = 0 },
+        ['2020_1_11'] = { major = 2020, minor = 1, patch = 11 },
+        ['2021_2'] = { major = 2021, minor = 2, patch = 0 },
+        ['2022_2'] = { major = 2022, minor = 2, patch = 0 },
+        ['2022_3_41'] = { major = 2022, minor = 3, patch = 41 },
+    },
+    
+    ---@class YearMapping
+    ---Mapping of Unity release years to Il2Cpp versions with conditional logic
+    Year = {
+        ---Get Il2Cpp version for Unity 2017
+        -- @param unityVersion table The Unity version table
+        -- @return number Il2Cpp version (24)
+        [2017] = function(self, unityVersion)
+            return 24
+        end,
+        ---Get Il2Cpp version for Unity 2018
+        -- @param unityVersion table The Unity version table
+        -- @return number Il2Cpp version (24 or 24.1)
+        [2018] = function(self, unityVersion)
+            return compareVersions(unityVersion, self.ConstSemVer['2018_3']) >= 0 and 24.1 or 24
+        end,
+        ---Get Il2Cpp version for Unity 2019
+        -- @param unityVersion table The Unity version table
+        -- @return number Il2Cpp version (24.2 to 24.5)
+        [2019] = function(self, unityVersion)
+            local version = 24.2
+            if compareVersions(unityVersion, self.ConstSemVer['2019_4_21']) >= 0 then
+                version = 24.5
+            elseif compareVersions(unityVersion, self.ConstSemVer['2019_4_15']) >= 0 then
+                version = 24.4
+            elseif compareVersions(unityVersion, self.ConstSemVer['2019_3_7']) >= 0 then
+                version = 24.3
+            end
+            return version
+        end,
+        ---Get Il2Cpp version for Unity 2020
+        -- @param unityVersion table The Unity version table
+        -- @return number Il2Cpp version (24.3 to 27.1)
+        [2020] = function(self, unityVersion)
+            local version = 24.3
+            if compareVersions(unityVersion, self.ConstSemVer['2020_2_4']) >= 0 then
+                version = 27.1
+            elseif compareVersions(unityVersion, self.ConstSemVer['2020_2']) >= 0 then
+                version = 27
+            elseif compareVersions(unityVersion, self.ConstSemVer['2020_1_11']) >= 0 then
+                version = 24.4
+            end
+            return version
+        end,
+        ---Get Il2Cpp version for Unity 2021
+        -- @param unityVersion table The Unity version table
+        -- @return number Il2Cpp version (27.2 or 29)
+        [2021] = function(self, unityVersion)
+            return compareVersions(unityVersion, self.ConstSemVer['2021_2']) >= 0 and 29 or 27.2
+        end,
+        ---Get Il2Cpp version for Unity 2022
+        -- @param unityVersion table The Unity version table
+        -- @return number Il2Cpp version (29, 29.1 or 31)
+        [2022] = function(self, unityVersion)
+            local version = 29
+            if compareVersions(unityVersion, self.ConstSemVer['2022_3_41']) >= 0 then
+                version = 31
+            elseif compareVersions(unityVersion, self.ConstSemVer['2022_2']) >= 0 then
+                version = 29.1
+            end
+            return version
+        end,
+        ---Get Il2Cpp version for Unity 2023
+        -- @param unityVersion table The Unity version table
+        -- @return number Il2Cpp version (30)
+        [2023] = function(self, unityVersion)
+            return 31
+        end,
+    },
+    
+    ---Read Unity version from memory or libmain.so
+    -- Attempts to detect the Unity version using multiple methods
+    -- @return table|nil Table with major, minor, patch version numbers or nil if not found
+    ReadUnityVersion = function()
+        local version = {2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024}
+        local lm = gg.getRangesList('libmain.so')
+        if #lm > 0 then
+            local libMain = io.open(lm[1].name, "rb"):read("*a")
+            for i, v in pairs(version) do
+                if libMain:find(v) then
+                    local versionName = v .. libMain:gmatch(v .. "(.-)_")()
+                    local major, minor, patch = string.gmatch(versionName, "(%d+)%p(%d+)%p(%d+)")()
+                    return { major = tonumber(major), minor = tonumber(minor), patch = tonumber(patch), name = versionName}
+                end
+            end
+        end
+        gg.setRanges(gg.REGION_C_ALLOC)
+        gg.clearResults()
+        gg.searchNumber("Q 'X-Unity-Version:'", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, nil, nil, 1)
+        if gg.getResultsCount() == 0 then
+           gg.setRanges(gg.REGION_JAVA_HEAP)
+           gg.searchNumber("Q 'SDK_UnityVersion'", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, nil, nil, 1)
+           osUV = 0x20
+        end
+        local result = gg.getResultsCount() > 0 and gg.getResults(1)[1].address + osUV or 0
+        if gg.getResultsCount() == 0 then
+            gg.setRanges(gg.REGION_ANONYMOUS)
+            gg.clearResults()
+            gg.searchNumber("00h;32h;30h;0~~0;0~~0;2Eh;0~~0;2Eh::9", gg.TYPE_BYTE, false, gg.SIGN_EQUAL, nil, nil, 1)
+            result = gg.getResultsCount() > 0 and gg.getResults(3)[3].address or 0
+            gg.clearResults()
+        end
+        gg.clearResults()
+        local major, minor, patch = string.gmatch(Il2Cpp.Utf8ToString(result), "(%d+)%p(%d+)%p(%d+)")()
+        return { major = tonumber(major), minor = tonumber(minor), patch = tonumber(patch) }
+    end,
+    
+    ---Choose appropriate Il2Cpp version based on Unity version
+    -- @param version number|nil Optional forced version number
+    -- @param globalMetadataHeader table|nil Optional global metadata header
+    -- @return number Selected Il2Cpp version
+    ChooseVersion = function(self, version, globalMetadataHeader)
+        if not version then
+            local unityVersion = self.ReadUnityVersion()
+            if not unityVersion then
+                gg.alert("Cannot determine Unity version", "", "")
+                version = 31
+            else
+                version = self.Year[unityVersion.major] or 31
+                if type(version) == 'function' then
+                    version = version(self, unityVersion)
+                end
+            end
+        end
+        if version > 31 then
+            gg.alert("Not support this il2cpp version", "", "")
+            version = 31
+        end
+        return version
+    end,
+}
+
+
+return setmetatable(VersionEngine, {
+    ---Metatable call handler for VersionEngine
+    -- Allows VersionEngine to be called as a function
+    -- @return number Selected Il2Cpp version
+    __call = function(self, ...)
+        return self:ChooseVersion(...)
+    end
+})
+end)
+__bundle_register("config", function(require, _LOADED, __bundle_register, __bundle_modules)
+return {
+   name = "Il2CppGG",
+   version = '1.0.4',
+   author = "LeThi9GG",
+   
+   build = {
+      input = "Toolbox",
+      output = "build/Il2CppGG-Tool.lua", -- nil then output = Name + build.lua
+   }
+}
+end)
+__bundle_register("utils.Patch", function(require, _LOADED, __bundle_register, __bundle_modules)
+local x64 = Il2Cpp.x64
+
+
+local asmLT9 = {
+    type = {
+        [2] = 4,
+        [4] = 4,
+        [5] = 4,
+        [6] = 4,
+        [7] = 4,
+        [8] = 4,
+        [9] = 4,
+        [12] = 16,
+        [13] = 64,
+    },
+    op_int = x64 and "~A8 MOV W0, #" or "~A MOVT R0, #",
+    op_return = (x64 and "~A8 RET" or "~A BX	 LR"),
+    
+    gV = function(self, value, flags)
+        -- Xử lý giá trị bằng bit32 thay vì sử dụng bộ nhớ
+        if flags == gg.TYPE_DWORD then
+            -- Xử lý giá trị DWORD
+            local high16 = bit32.rshift(value, 16)
+            high16 = bit32.band(high16, 0xFFFF)
+            high16 = high16 + 1
+            return bit32.band(bit32.lshift(high16, 16), 0xFFFFFFFF)
+        elseif flags == gg.TYPE_FLOAT then
+            -- Xử lý giá trị FLOAT
+            local int_val = self:floatToInt(value)
+            local high16 = bit32.rshift(int_val, 16)
+            high16 = bit32.band(high16, 0xFFFF)
+            high16 = high16 + 1
+            int_val = bit32.band(bit32.lshift(high16, 16), 0xFFFFFFFF)
+            if x64 then
+                return int_val
+            else
+                return high16
+            end
+        else
+            -- Xử lý các loại dữ liệu khác
+            error("Unsupported flags type in gV")
+        end
+    end,
+    
+    floatToInt = function(self, f)
+        -- Chuyển đổi float sang integer representation
+        local sign = 0
+        if f < 0 then
+            sign = 0x80000000
+            f = -f
+        end
+        
+        local mantissa, exponent = math.frexp(f)
+        
+        if f == 0 then
+            return 0
+        elseif f == math.huge then
+            return bit32.bor(sign, 0x7F800000)
+        end
+        
+        mantissa = (mantissa * 2 - 1) * math.ldexp(0.5, 24)
+        exponent = exponent + 126
+        
+        if exponent <= 0 then
+            mantissa = math.ldexp(mantissa, exponent - 1)
+            exponent = 0
+        elseif exponent >= 0xFF then
+            return bit32.bor(sign, 0x7F800000)
+        end
+        
+        mantissa = math.floor(mantissa + 0.5)
+        
+        return bit32.bor(sign, bit32.lshift(bit32.band(exponent, 0xFF), 23), 
+                         bit32.band(mantissa, 0x7FFFFF))
+    end,
+    
+    getInt = function(self, value, param)
+        local param = (param and self.op_int:gsub(0, param) or self.op_int)
+        if value > 0 and value < 65535 and not x64 then
+            return param:gsub("T", "W") .. value
+        elseif x64 and value > -65535 and value < 65535 then
+            return param .. value
+        end
+        local value = self:gV(value, gg.TYPE_DWORD)
+        return param .. (x64 and value or math.floor(value / 65535))
+    end,
+    
+    getFloat = function(self, value, param)
+        local param = (param and self.op_int:gsub(0, param) or self.op_int)
+        if x64 then
+            return param .. self:gV(value, gg.TYPE_FLOAT)
+        else
+            local high16 = self:gV(value, gg.TYPE_FLOAT)
+            return param .. high16
+        end
+    end,
+    
+    setValues = function(self, address, value, types, flags)
+        local results, result = self:init(address, value, types, flags)
+        result = gg.getValues(result)
+        gg.setValues(results)
+        return function() gg.setValues(result) end
+    end,
+    
+    init = function(self, address, value, types, flags)
+        local value = value or 0
+        local fix
+        for i = 0, 4 do
+            if gg.disasm(Il2Cpp.armType, 0, Il2Cpp.gV(address + (i * 4), gg.TYPE_DWORD)):find(x64 and "RET" or "BX	 LR") then
+                fix = true
+                break
+            end
+        end
+        local Flags = {[gg.TYPE_DWORD] = "X",[gg.TYPE_FLOAT] = "S",[gg.TYPE_DOUBLE] = "D"}
+        local flags = flags or (self.type[types] or gg.TYPE_DWORD)
+        local results
+        if x64 and (value == 0 or not value) then
+            results = {{address = address, flags = gg.TYPE_DWORD, value = "~A8 MOV W0, WZR"}, {address = address + 4, flags = gg.TYPE_DWORD, value = self.op_return}}
+        else
+            results = fix and {{address = address, flags = gg.TYPE_DWORD, value = flags == gg.TYPE_DWORD and self:getInt(value) or self:getFloat(value)}, {address = address + 4, flags = gg.TYPE_DWORD, value = self.op_return}} 
+            or {{address = address, flags = gg.TYPE_DWORD, value = (x64 and "~A8 LDR	 "..(Flags[flags]).."0, [PC,#0x8]" or "~A LDR	 R0, [PC]")},
+                {address = address + 4, flags = gg.TYPE_DWORD, value = (x64 and "~A8 RET" or "~A BX	 LR")},
+                {address = address + 8, flags = flags, value = value}}
+        end
+        local result = {}
+        for i = 0, 4 do
+            result[i+1] = {address = address + (i * 4), flags = gg.TYPE_DWORD}
+        end
+        return results, gg.getValues(result)
+    end
+}
+
+
+
+
+
+return setmetatable({}, {
+    __index = asmLT9,
+    __call = asmLT9.init 
+})
+
+end)
+__bundle_register("core.Meta", function(require, _LOADED, __bundle_register, __bundle_modules)
+---@class Meta
+---Module for handling metadata operations in Il2Cpp
+local Meta = {
+    dataPath = Il2Cpp.Info.path .. "-Il2CppGG.lua",
+    ranges = {
+        A = gg.REGION_ANONYMOUS,
+        Ca = gg.REGION_C_ALLOC,
+        O = gg.REGION_OTHER
+    }
+}
+
+---Check if an address points to a valid image name
+-- @param addr number Memory address to check
+-- @return string|boolean Image name if valid, false otherwise
+local function isImage(addr)
+    local imageStr = Il2Cpp.Utf8ToString(Il2Cpp.GetPtr(addr))
+    local check = string.find(imageStr, ".-%.dll") or string.find(imageStr, "__Generated")
+    return check and imageStr
+end
+
+function Meta:init(globalMetadataHeader, Version)
+    local globalMetadataHeader = globalMetadataHeader or Il2Cpp.Meta.metaStart
+    -- Validate metadata file
+    local sanity = Il2Cpp.gV(globalMetadataHeader, 4)
+    if sanity ~= -89056337 then
+        Il2Cpp.log:warn("Metadata supplied is not valid metadata sanity: " .. sanity)
+    end
+
+    local version = Il2Cpp.gV(globalMetadataHeader + 4, 4)
+    self.Version = version
+    
+    if version < 16 or version > 31 then
+        Il2Cpp.log:warn("Metadata supplied is not a supported version: " .. version)
+        self.Version = Il2Cpp.Version
+        Il2Cpp.log:warn("The Metadata version is set according to the Il2Cpp version.: " .. Il2Cpp.Version)
+    end
+    
+    if os.rename(self.dataPath, self.dataPath) then
+        Il2Cpp.log:debug("Load data Metadata in path: " .. self.dataPath)
+        local data = loadfile(self.dataPath)()
+        for k, v in pairs(data) do
+            self[k] = v
+            Il2Cpp.log:debug("Load Meta." .. k)
+        end 
+    end
+    
+    
+    -- Read header
+    self.Header = self.Header or Il2Cpp.Il2CppGlobalMetadataHeader(globalMetadataHeader)
+    
+    -- Obfuscator
+    if not Il2Cpp.Utf8ToString(globalMetadataHeader + self.Header.stringOffset, 100):find(".dll") --[[and (version < 0 or version > 1000)]] then
+        self.Obf = true
+        Il2Cpp.log:warn("Metadata Obfuscator.")
+        --Il2Cpp.log:warn("Metadata version: " .. Version)
+    end
+    
+    -- Adjust metadata header offsets by adding the globalMetadataHeader address
+    if not self.Obf then
+        Il2Cpp.log:debug("Meta.Header Load")
+        for k, v in pairs(self.Header) do
+            local _, __ = k:find("Offset")
+            if __ == #k then
+                local name = k:sub(1, _ - 1)
+                local address = globalMetadataHeader + v
+                self.Header[name] = address
+                self.Header[k] = nil
+                Il2Cpp.log:debug("Header." .. name .. ": " .. Il2Cpp.ToHex(address))
+            end
+        end
+    end
+    
+    if Il2Cpp.gV(Il2Cpp.pMetadataRegistration.types) == 0 then
+        Il2Cpp.pMetadataRegistration.typesCount = Il2Cpp.gV(Il2Cpp.metaReg + ( 8 * Il2Cpp.pointSize), Il2Cpp.pointer)
+        Il2Cpp.pMetadataRegistration.types = Il2Cpp.gV(Il2Cpp.metaReg + ( 9 * Il2Cpp.pointSize), Il2Cpp.pointer)
+        Il2Cpp.log:warn("Il2Cpp.pMetadataRegistration.types Invalid has been auto changed to: 0x" .. Il2Cpp.ToHex(Il2Cpp.pMetadataRegistration.types))
+        Il2Cpp.log:warn("Il2Cpp.pMetadataRegistration.typesCount: " .. Il2Cpp.pMetadataRegistration.typesCount)
+    end
+    
+    --os.exit()
+    Il2Cpp.typesCount = Il2Cpp.pMetadataRegistration.typesCount
+    Il2Cpp.typeDefSize = Il2Cpp.Il2CppTypeDefinition:GetSize()
+    
+    Il2Cpp.typeDefCount = self.Header.typeDefinitionsSize / Il2Cpp.typeDefSize
+    
+    Il2Cpp.stringDef = self.Header.string
+    
+    Il2Cpp.log:debug("typeDefinitionsCount: " .. Il2Cpp.typeDefCount)
+    Il2Cpp.log:debug("typeDefinitionsSize: " .. Il2Cpp.typeDefSize)
+    Il2Cpp.log:debug("stringDef: " .. Il2Cpp.ToHex(Il2Cpp.stringDef))
+    
+    
+    
+    local i = 1
+    while true do 
+        local addrs = Il2Cpp.GetPtr(Il2Cpp.metaPtr + (i * Il2Cpp.pointSize))
+        if not Il2Cpp.imageCount and addrs < 1000 then 
+            Il2Cpp.imageCount = addrs 
+        end
+        
+        if not Il2Cpp.classPointer then 
+            local klass = Il2Cpp.GetPtr(addrs)
+            if isImage(Il2Cpp.GetPtr(klass)) then
+                Il2Cpp.classPointer = addrs
+                Il2Cpp.log:debug("Il2Cpp.classPointer: " .. Il2Cpp.ToHex(Il2Cpp.classPointer))
+            else
+                local kls = {}
+                for key = 0, 10 do
+                   local klass = Il2Cpp.GetPtr(addrs + (key * Il2Cpp.pointSize))
+                   if isImage(Il2Cpp.GetPtr(klass)) then
+                       kls[#kls+1] = {address = klass, flags = Il2Cpp.MainType}
+                   end
+                end
+                if #kls >= 5 then
+                    Il2Cpp.classPointer = addrs
+                    Il2Cpp.log:debug("Il2Cpp.classPointer: " .. Il2Cpp.ToHex(Il2Cpp.classPointer))
+                    local imageAddrs = Il2Cpp.GetPtr(kls[1].address)
+                    if isImage(imageAddrs) then
+                        Il2Cpp.imageDef = imageAddrs
+                        Il2Cpp.log:debug("Il2Cpp.imageDef: " .. Il2Cpp.ToHex(Il2Cpp.imageDef))
+                    end
+                end
+            end
+        end 
+        if Il2Cpp.classPointer then
+            local klass = Il2Cpp.GetPtr(Il2Cpp.classPointer)
+            if self.Obf then
+                local klass1 = Il2Cpp.Class(klass)
+                local klass2 = Il2Cpp.Class(Il2Cpp.GetPtr(Il2Cpp.classPointer + Il2Cpp.pointSize))
+                local klassEnd = Il2Cpp.Class(Il2Cpp.GetPtr(Il2Cpp.classPointer + ((Il2Cpp.pMetadataRegistration.fieldOffsetsCount - 1) * Il2Cpp.pointSize)))
+                
+                --Il2Cpp.typeSize = klass2:GetTypeDef() - klass1:GetTypeDef()
+                self.Header.typeDefinitions = klass1:GetTypeDefinition()
+                self.Header.typeDefinitionsSize = (klassEnd:GetTypeDefinition() + Il2Cpp.typeSize) - self.Header.typeDefinitions
+				Il2Cpp.log:warn("typeDefinitions: " .. Il2Cpp.ToHex(self.Header.typeDefinitions))
+				Il2Cpp.log:warn("typeDefinitionsSize: " .. self.Header.typeDefinitionsSize)
+             end
+            if not Il2Cpp.imageDef then
+                local imageAddrs = Il2Cpp.GetPtr(Il2Cpp.GetPtr(Il2Cpp.classPointer))
+                if isImage(imageAddrs) then
+                    Il2Cpp.imageDef = imageAddrs
+                    Il2Cpp.log:debug("Il2Cpp.imageDef: " .. Il2Cpp.ToHex(Il2Cpp.imageDef))
+                end
+            end
+            self.regionClass = self.ranges[gg.getValuesRange({{address = klass}})[1]]
+        end 
+        if Il2Cpp.imageDef and not Il2Cpp.imageSize then
+            local addr = Il2Cpp.imageDef + (i * Il2Cpp.pointSize)
+            if isImage(addr) then
+                Il2Cpp.imageSize = addr - Il2Cpp.imageDef
+                Il2Cpp.log:debug("Il2Cpp.imageSize: " .. Il2Cpp.imageSize)
+            end
+        end
+        if Il2Cpp.imageDef and Il2Cpp.imageCount and Il2Cpp.imageSize and Il2Cpp.classPointer then
+            if not Il2Cpp.Utf8ToString(Il2Cpp.stringDef, 100):find(".dll") then
+                local stringDef = Il2Cpp.GetPtr(Il2Cpp.imageDef)
+                if Il2Cpp.Utf8ToString(stringDef, 100):find(".dll") then
+                    local stringDef = Il2Cpp.GetPtr(Il2Cpp.GetPtr(Il2Cpp.imageDef + (Il2Cpp.Info.platform and 0x10 or 0x8)) + (Il2Cpp.Info.platform and 0x18 or 0x10))
+                    Il2Cpp.stringDef = stringDef
+                    Il2Cpp.log:warn("Il2Cpp.stringDef changed: " .. Il2Cpp.ToHex(Il2Cpp.stringDef))
+                else 
+                    Il2Cpp.log:error("stringDef not found: ", stringDef, self.Header)
+                end
+            end
+            break
+        elseif i > 100 then 
+            Il2Cpp.log:error(tostring{
+                imageDef = Il2Cpp.imageDef,
+                imageCount = Il2Cpp.imageCount,
+                imageSize = Il2Cpp.imageSize,
+                classPointer = Il2Cpp.classPointer
+            })
+        end
+        i = i + 1
+    end
+    
+    if self.Obf then
+        local param = Il2Cpp.Il2CppParameterDefinition(self.Header.parameters)
+        if param.token ~= 134217729 then
+            gg.clearResults();
+	        gg.setRanges(-1);
+	        gg.searchNumber(134217729, 4, nil, nil, globalMetadataHeader, -1, 1);
+	        local r = gg.getResults(1)
+	        gg.clearResults();
+	        self.Header.parameters = r[1].address - 4 
+			Il2Cpp.log:warn("parameters: " .. Il2Cpp.ToHex(self.Header.parameters))
+	    end
+	    for i = 0, Il2Cpp.pMetadataRegistration.typeDefinitionsSizesCount - 1 do 
+            local klass = Il2Cpp.Class(i)
+            klass:Dump()
+            local genericContainer = klass.genericContainerIndex or klass.genericContainerHandle
+            if genericContainer > 0 then 
+                self.Header.genericContainers = genericContainer
+                break
+            end
+        end
+        
+        Il2Cpp.log:warn("genericContainers: " .. Il2Cpp.ToHex(self.Header.genericContainers))
+        Il2Cpp.log:warn("genericParameters: " .. Il2Cpp.ToHex(self.Header.genericParameters))
+    end
+    
+    
+	
+	
+	
+	
+    
+    --[[ Version-specific logic
+    self.imageDefs = Il2Cpp.Image()--Il2Cpp.classArray(globalMetadataHeader + self.Header.imagesOffset, self.Header.imagesSize / Il2Cpp.Il2CppImageDefinition.size, Il2Cpp.Il2CppImageDefinition)
+    if version == 24 then
+        if self.Header.stringLiteralOffset == 264 then
+            self.Version = 24.2
+            Il2Cpp.Il2CppGlobalMetadataHeader = Il2Cpp.classGG(Il2Cpp._Il2CppGlobalMetadataHeader, self.Version)
+            self.Header = Il2Cpp.Il2CppGlobalMetadataHeader(globalMetadataHeader)
+        else
+            if not table.all(self.imageDefs, function(x) return x.token == 1 end) then
+                self.Version = 24.1
+            end
+        end
+    end
+    
+
+    
+    local v241Plus = false
+    if self.Version == 24.1 and self.Header.assembliesSize / 64 == #self.imageDefs then
+        v241Plus = true
+    end
+    if v241Plus then
+        self.Version = 24.4
+    end
+    
+    --self.assemblyDefs = Il2Cpp.classArray(globalMetadataHeader + self.Header.assembliesOffset, self.Header.assembliesOffset / self.Header.assembliesSize, Il2Cpp.Il2CppAssemblyDefinition)
+    if v241Plus then
+        self.Version = 24.1
+    end
+    ]]
+    if self.Version == 31 then
+        Il2Cpp.Il2CppMethodDefinition = Il2Cpp.classGG(Il2Cpp.Struct.Il2CppMethodDefinition, self.Version)
+    end
+    
+    return self
+end
+
+Meta.behaviorForTypes = {
+    [2] = function(blob)
+        return Il2Cpp.Meta.ReadNumberConst(blob, gg.TYPE_BYTE)
+    end,
+    [3] = function(blob)
+        return Il2Cpp.Meta.ReadNumberConst(blob, gg.TYPE_BYTE)
+    end,
+    [4] = function(blob)
+        return Il2Cpp.Meta.ReadNumberConst(blob, gg.TYPE_BYTE)
+    end,
+    [5] = function(blob)
+        return Il2Cpp.Meta.ReadNumberConst(blob, gg.TYPE_BYTE)
+    end,
+    [6] = function(blob)
+        return Il2Cpp.Meta.ReadNumberConst(blob, gg.TYPE_WORD)
+    end,
+    [7] = function(blob)
+        return Il2Cpp.Meta.ReadNumberConst(blob, gg.TYPE_WORD)
+    end,
+    [8] = function(blob)
+        local self = Il2Cpp.Meta
+        return Il2Cpp.Version < 29 and self.ReadNumberConst(blob, gg.TYPE_DWORD) or self.ReadCompressedInt32(blob)
+    end,
+    [9] = function(blob)
+        local self = Il2Cpp.Meta
+        return Il2Cpp.Version < 29 and Il2Cpp.FixValue(self.ReadNumberConst(blob, gg.TYPE_DWORD)) or self.ReadCompressedUInt32(blob)
+    end,
+    [10] = function(blob)
+        return Il2Cpp.Meta.ReadNumberConst(blob, gg.TYPE_QWORD)
+    end,
+    [11] = function(blob)
+        return Il2Cpp.Meta.ReadNumberConst(blob, gg.TYPE_QWORD)
+    end,
+    [12] = function(blob)
+        return Il2Cpp.Meta.ReadNumberConst(blob, gg.TYPE_FLOAT)
+    end,
+    [13] = function(blob)
+        return Il2Cpp.Meta.ReadNumberConst(blob, gg.TYPE_DOUBLE)
+    end,
+    [14] = function(blob)
+        local self = Il2Cpp.Meta
+        local length, offset = 0, 0
+        if Il2Cpp.Version >= 29 then
+            length, offset = self.ReadCompressedInt32(blob)
+        else
+            length = self.ReadNumberConst(blob, gg.TYPE_DWORD) 
+            offset = 4
+        end
+
+        if length ~= -1 then
+            return Il2Cpp.Utf8ToString(blob + offset, length)
+        end
+        return ""
+    end
+}
+
+
+Meta.ReadCompressedUInt32 = function(Address)
+    local val, offset = 0, 0
+    local read = gg.getValues({
+        { -- [1]
+            address = Address, 
+            flags = gg.TYPE_BYTE
+        },
+        { -- [2]
+            address = Address + 1, 
+            flags = gg.TYPE_BYTE
+        },
+        { -- [3]
+            address = Address + 2, 
+            flags = gg.TYPE_BYTE
+        },
+        { -- [4]
+            address = Address + 3, 
+            flags = gg.TYPE_BYTE
+        }
+    })
+    local read1 = read[1].value & 0xFF
+    offset = 1
+    if (read1 & 0x80) == 0 then
+        val = read1
+    elseif (read1 & 0xC0) == 0x80 then
+        val = (read1 & ~0x80) << 8
+        val = val | (read[2].value & 0xFF)
+        offset = offset + 1
+    elseif (read1 & 0xE0) == 0xC0 then
+        val = (read1 & ~0xC0) << 24
+        val = val | ((read[2].value & 0xFF) << 16)
+        val = val | ((read[3].value & 0xFF) << 8)
+        val = val | (read[4].value & 0xFF)
+        offset = offset + 3
+    elseif read1 == 0xF0 then
+        val = gg.getValues({{address = Address + 1, flags = gg.TYPE_DWORD}})[1].value
+        offset = offset + 4
+    elseif read1 == 0xFE then
+        val = 0xffffffff - 1
+    elseif read1 == 0xFF then
+        val = 0xffffffff
+    end
+    return val, offset
+end
+
+
+---@param Address number
+Meta.ReadCompressedInt32 = function(Address)
+    local encoded, offset = Il2Cpp.Meta.ReadCompressedUInt32(Address)
+
+    if encoded == 0xffffffff then
+        return -2147483647 - 1
+    end
+
+    local isNegative = (encoded & 1) == 1
+    encoded = encoded >> 1
+    if isNegative then
+        return -(encoded + 1)
+    end
+    return encoded, offset
+end
+
+
+---@param Address number
+---@param ggType number @gg.TYPE_
+Meta.ReadNumberConst = function(Address, ggType)
+    return gg.getValues({{
+        address = Address,
+        flags = ggType
+    }})[1].value
+end
+
+
+Meta.StringCacheApi = {}
+function Meta:FindStringApi(Name)
+	if self.StringCacheApi[Name] then
+	    return self.StringCacheApi[Name]
+	end
+	local result, chars = {}, {};
+	for key, name in pairs({string.lower(Name), string.upper(Name), string.upper(Name:sub(1, 1)) .. Name:sub(2, #Name), Name}) do
+		local Name = ":" .. name;
+		gg.setRanges(-1);
+		gg.clearResults();
+		gg.searchNumber(Name, gg.TYPE_BYTE, false, gg.SIGN_EQUAL, Il2Cpp.stringDef, self.metaEnd);
+    	gg.refineNumber(Name:sub(1, 2), gg.TYPE_BYTE);
+		local t = gg.getResults(gg.getResultsCount());
+		gg.clearResults();
+		for k, v in pairs(t) do
+		    chars[#chars + 1] = name;
+			result[#result + 1] = {address=v.address,flags=1,name=name};
+    		local char = {address=(v.address + 1),flags=1};
+			while true do
+			    _value = gg.getValues({char})[1].value;
+				_char = string.char(_value & 255);
+				char.address = char.address - 1;
+				if string.find(_char, "[%z%s]") then break end
+			end
+			local address = char.address + 2;
+			local name = Il2Cpp.Utf8ToString(address);
+			chars[#chars + 1] = name;
+			result[#result + 1] = {address=address,flags=1,name=name};
+		end
+	end
+	local val = {
+	    chars = chars,
+	    results = result
+	}
+	self.StringCacheApi[Name] = val
+	return val
+end
+
+Meta.PointerStringApiCache = {}
+function Meta:GetPointersToStringApi(name)
+    local Result = self:FindStringApi(name)
+    local Results = Result.results
+    if self.PointerStringApiCache[name] then
+	    return self.PointerStringApiCache[name]
+	end
+	local pointerString = pointerString or {}
+	local ResultsPointer = {}
+    gg.clearResults()
+    gg.setRanges(self.regionClass)
+    gg.loadResults(Results)
+    gg.searchPointer(0);
+    if gg.getResultsCount() == 0 and Il2Cpp.Info.platform and Il2Cpp.Info.sdk >= 30 then
+        for i, v in pairs(Results) do
+            gg.clearResults()
+            gg.searchNumber(tostring(v.address | 0xB400000000000000), Il2Cpp.MainType, nil, nil, #pointerString ~= 0 and pointerString[1].start or nil, #pointerString ~= 0 and pointerString[#pointerString]["end"] or nil)
+            local results = gg.getResults(gg.getResultsCount());
+            gg.clearResults()
+            if #results ~= 0 then
+                if #pointerString == 0 then
+                    for k, v in ipairs(gg.getRangesList()) do
+                        if (v.state == 'Ca' or v.state == 'A' or v.state == 'O') then
+                            pointerString[#pointerString + 1] = (Il2Cpp.FixValue(v.start) <= Il2Cpp.FixValue(results[1].address) and Il2Cpp.FixValue(results[1].address) < Il2Cpp.FixValue(v['end'])) and v or nil
+                        end
+                    end
+                    gg.setRanges(#pointerString ~= 0 and -1 or self.regionClass)
+                end
+                
+                for ii, vv in ipairs(results) do
+                    ResultsPointer[#ResultsPointer+1] = vv
+                end
+            end
+        end
+    end
+    local ResultsPointer = #ResultsPointer > 0 and ResultsPointer or gg.getResults(gg.getResultsCount())
+    gg.clearResults()
+    if #ResultsPointer == 0 then
+        return false
+    end
+    gg.loadResults(ResultsPointer)
+    local ResultsPointer = gg.getResults(gg.getResultsCount())
+    gg.clearResults()
+    self.PointerStringApiCache[name] = ResultsPointer
+    return ResultsPointer, Result
+end
+
+
+---Get pointers to a string in memory by searching for the string pattern
+-- @param name string The string name to search for
+-- @param addList any Additional list parameter (unused in current implementation)
+-- @return table Table of search results containing addresses pointing to the string
+-- @error Throws an error if the class is not found in global-metadata
+function Meta.GetPointersToString(name, ranges)
+    local ranges = ranges or Il2Cpp.Meta
+    gg.clearResults()
+    gg.setRanges(-1)
+    gg.searchNumber(string.format("Q 00 '%s' 00", name), gg.TYPE_BYTE, false, gg.SIGN_EQUAL,
+        ranges.metaStart, ranges.metaEnd)
+    local results = gg.getResults(1, 1)
+    if #results == 0 then
+        error(string.format("Không tìm thấy lớp %s trong global-metadata", name))
+    end
+    gg.setRanges(Il2Cpp.Meta.regionClass)
+    local res = Il2Cpp.searchPtr(results[1].address, Il2Cpp.MainType)
+    gg.clearResults()
+    if #res == 0 then
+        error(string.format("Không tìm thấy con trỏ cho lớp %s %d", name, results[1].address))
+    end
+    return res
+end
+
+---Get string from metadata using string index
+-- @param index number String index in metadata
+-- @return string Decoded UTF-8 string from metadata
+function Meta:GetStringFromIndex(index)
+    local stringDefinitions = Il2Cpp.stringDef --Meta.Header.strings
+    return Il2Cpp.Utf8ToString(stringDefinitions + index)
+end
+
+---Get generic container from metadata by index
+-- @param index number Generic container index
+-- @return table Il2CppGenericContainer object
+function Meta:GetGenericContainer(index)
+    local index = index
+    if self.Header.genericContainers > index then
+        index = self.Header.genericContainers + (index * Il2Cpp.Il2CppGenericContainer.size)
+    end
+    return Il2Cpp.Il2CppGenericContainer(index)
+end
+
+---Get generic parameter from metadata by index
+-- @param index number Generic parameter index
+-- @return table Il2CppGenericParameter object
+function Meta:GetGenericParameter(index)
+    local index = index
+    if self.Header.genericParameters > index then
+        index = self.Header.genericParameters + (index * Il2Cpp.Il2CppGenericParameter.size)
+    end
+    local genericParameter = Il2Cpp.Il2CppGenericParameter(index)
+    return genericParameter
+end
+
+function Meta:GetGenericContainerParams(genericContainer)
+    local genericParameterNames = {}
+    for i = 1, genericContainer.type_argc do
+        local genericParameterIndex = genericContainer.genericParameterStart + i
+        local genericParameter = self:GetGenericParameter(genericParameterIndex)
+        genericParameterNames[i] = self:GetStringFromIndex(genericParameter.nameIndex)
+    end
+    return "<" .. table.concat(genericParameterNames, ", ") .. ">"
+end
+
+
+function Meta:GetGenericInsts(index)
+    local index = Il2Cpp.pMetadataRegistration.genericInsts + (index * Il2Cpp.type.Pointer.size)
+    return Il2Cpp.Il2CppGenericInst(index)
+end
+
+function Meta:GetTypeDefinition(index)
+    local typeDefinition = self.Header.typeDefinitions + (index * Il2Cpp.Il2CppTypeDefinition.size)
+    return Il2Cpp.Il2CppTypeDefinition(typeDefinition)
+end
+
+function Meta:GetPropertyDefinition(index)
+    local addr = self.Header.properties + (index * Il2Cpp.Il2CppPropertyDefinition.size)
+    return Il2Cpp.Il2CppPropertyDefinition(addr)
+end
+
+function Meta:GetInterfaces(index)
+    local index = self.Header.interfaces + (index * 4)
+    return Il2Cpp.gV(index, 4)
+end
+
+
+---Get method definition from metadata by index
+-- @param index number Method definition index
+-- @return table Il2CppMethodDefinition object
+function Meta:GetMethodDefinition(index)
+    local index = self.Header.methods + (index * Il2Cpp.Il2CppMethodDefinition.size)
+    return Il2Cpp.Il2CppMethodDefinition(index)
+end
+
+function Meta:GetFieldDefinition(index)
+    local index = self.Header.fields + (index * Il2Cpp.Il2CppFieldDefinition.size)
+    return Il2Cpp.Il2CppFieldDefinition(index)
+end
+
+---Get parameter definition from metadata by index
+-- @param index number Parameter definition index
+-- @return table Il2CppParameterDefinition object
+function Meta:GetParameterDefinition(index, addList)
+    local index = self.Header.parameters + (index * Il2Cpp.Il2CppParameterDefinition.size)
+    return Il2Cpp.Il2CppParameterDefinition(index, addList)
+end
+
+
+function Meta:GetGenericMethodTable(index)
+    local index = index
+    if Il2Cpp.pMetadataRegistration.genericMethodTableCount > index then
+        index = Il2Cpp.pMetadataRegistration.genericMethodTable + (index * Il2Cpp.Il2CppGenericMethodFunctionsDefinitions.size)
+    end
+    return Il2Cpp.Il2CppGenericMethodFunctionsDefinitions(index)
+end
+
+function Meta:GetMethodSpec(index)
+    local index = index
+    if Il2Cpp.pMetadataRegistration.methodSpecsCount > index then
+        index = Il2Cpp.pMetadataRegistration.methodSpecs + (index * Il2Cpp.Il2CppMethodSpec.size)
+    end
+    return Il2Cpp.Il2CppMethodSpec(index)
+end
+
+function Meta:GetFieldDefaultValueFromIndex(index)
+    if not self.fieldDefaultValues then
+        local address = Il2Cpp.Meta.Header.fieldDefaultValues
+        local count = Il2Cpp.Meta.Header.fieldDefaultValuesSize / Il2Cpp.Il2CppFieldDefaultValue.size
+        Il2Cpp.log:info("Il2CppFieldDefaultValue[" .. count .. "] load from address: " .. Il2Cpp.ToHex(address))
+        self.fieldDefaultValues = {}
+        for i, v in ipairs(Il2Cpp.classArray(address, count, Il2Cpp.Il2CppFieldDefaultValue)) do
+            self.fieldDefaultValues[v.fieldIndex] = v
+        end
+        gg.saveVariable({parameterDefaultValues = self.parameterDefaultValues, fieldDefaultValues = self.fieldDefaultValues}, self.dataPath)
+    end
+    return self.fieldDefaultValues[index]
+end
+
+function Meta:GetParameterDefaultValueFromIndex(index)
+    if not self.parameterDefaultValues then
+        local address = Il2Cpp.Meta.Header.parameterDefaultValues
+        local count = Il2Cpp.Meta.Header.parameterDefaultValuesSize / Il2Cpp.Il2CppParameterDefaultValue.size
+        Il2Cpp.log:info("Il2CppParameterDefaultValue[" .. count .. "] load from address: " .. Il2Cpp.ToHex(address))
+        self.parameterDefaultValues = {}
+        for i, v in ipairs(Il2Cpp.classArray(address, count, Il2Cpp.Il2CppParameterDefaultValue)) do
+            self.parameterDefaultValues[v.parameterIndex] = v
+        end
+        gg.saveVariable({parameterDefaultValues = self.parameterDefaultValues, fieldDefaultValues = self.fieldDefaultValues}, self.dataPath)
+    end
+    return self.parameterDefaultValues[index]
+end
+
+function Meta:GetDefaultValueFromIndex(index)
+    return self.Header.fieldAndParameterDefaultValueData + index
+end
+
+local DefaultValue = {}
+function Meta:TryGetDefaultValue(typeIndex, dataIndex)
+    local pointer = self:GetDefaultValueFromIndex(dataIndex)
+    local defaultValueType = Il2Cpp.Type(typeIndex)
+    local behavior = self.behaviorForTypes[defaultValueType.type] or "Not support type"
+    if type(behavior) == "function" then
+        local ok, res = pcall(behavior, pointer)
+        if not ok then 
+            error({pointer = pointer, behavior = behavior, defaultValueType = defaultValueType, typeIndex = typeIndex, dataIndex = dataIndex})
+        end
+        return true, res
+    end
+    
+    return false, pointer
+end
+
+
+
+
+
+
+
+
+return setmetatable({}, {
+    __index = Meta,
+    __call = Meta.init 
+})
+
+
+
+end)
+__bundle_register("core.Decompiler", function(require, _LOADED, __bundle_register, __bundle_modules)
+-- Decompiler.lua
+local Constants = Il2Cpp.Il2CppConstants
+local info = gg.getTargetInfo()
+
+local Decompiler = {}
+Decompiler.__index = Decompiler
+
+function Decompiler.new(config)
+    local config = config or {
+        Attribute = false,
+        Field = true,
+        Property = true,
+        Method = true,
+        FieldOffset = false,
+        MethodOffset = false,
+        TypeDefIndex = true
+    }
+    config.Path = config.Path or gg.EXT_STORAGE .. "/" .. info.packageName .. "-" .. info.versionCode .. "-" .. (info.x64 and "64" or "32") .. ".cs"
+    local self = setmetatable({}, Decompiler)
+    config.FieldOffset = false
+    config.MethodOffset = false
+    self.config = config
+    self.methodModifiers = {}
+    return self
+end
+
+function Decompiler:decompile()
+    local startTime = os.time();
+    Il2Cpp.log:info("Path: " .. self.config.Path)
+    local dump = io.open(self.config.path, "w")
+    local imageDefs = self.config.Image or Il2Cpp.Image()
+    
+    -- Dump images
+    for i, imageDef in ipairs(imageDefs) do
+        dump:write(string.format("// Image %d: %s - %d\n", i - 1, imageDef:GetName(), imageDef.typeStart))
+    end
+
+    -- Dump types
+    for _, imageDef in ipairs(imageDefs) do
+    
+        local imageName = imageDef:GetName()
+        local typeEnd = imageDef.typeStart + imageDef.typeCount
+        
+        for typeDefIndex = imageDef.typeStart + 1, typeEnd - 1 do
+            local typeDef = Il2Cpp.Meta:GetTypeDefinition(typeDefIndex)
+            dump:write(self:typeDefinition(typeDef, typeDefIndex))
+        end
+    end
+    dump:close()
+    gg.alert(string.format("Dumper Done in %.2f seconds", os.time() - startTime));
+    return true
+end
+
+function Decompiler:getCustomAttribute(imageDef, customAttributeIndex, token, padding)
+    padding = padding or ""
+    if self.il2Cpp.stream.version < 21 then
+        return ""
+    end
+    local attributeIndex = self.metadata:getCustomAttributeIndex(imageDef, customAttributeIndex, token)
+    if attributeIndex >= 0 then
+        if self.il2Cpp.stream.version < 29 then
+            local methodPointer = self.executor.customAttributeGenerators[attributeIndex + 1]
+            local fixedMethodPointer = self.il2Cpp:getRVA(methodPointer)
+            local attributeTypeRange = self.metadata.attributeTypeRanges[attributeIndex + 1]
+            local lines = {}
+            for i = 1, attributeTypeRange.count do
+                local typeIndex = self.metadata.attributeTypes[attributeTypeRange.start + i]
+                table.insert(lines, string.format("%s[%s] // RVA: 0x%x Offset: 0x%x VA: 0x%x",
+                    padding,
+                    self.executor:getTypeName(self.il2Cpp:GetIl2CppType(typeIndex + 1), false, false),
+                    fixedMethodPointer,
+                    fixedMethodPointer,
+                    methodPointer))
+            end
+            return table.concat(lines, "\n")
+        else
+            -- Placeholder for version >= 29 (CustomAttributeDataReader not provided)
+            return string.format("%s// Custom attributes for version >= 29 not supported", padding)
+        end
+    end
+    return ""
+end
+
+function Decompiler:typeDefinition(typeDef, typeDefIndex)
+    --local typeDef = Il2Cpp.Meta:GetTypeDefinition(typeDefIndex)
+    local typeDefIndex = typeDefIndex and typeDefIndex or (typeDef.address - Il2Cpp.Meta.Header.typeDefinitions) / Il2Cpp.Il2CppTypeDefinition.size
+    local extends = {}
+    local output = {}
+    
+    if typeDef.parentIndex >= 0 then
+        local parent = Il2Cpp.Type(typeDef.parentIndex + 0)
+        local parentName = parent:GetName(false)
+        if not typeDef:IsValueType() and not typeDef:IsEnum() and parentName ~= "object" then
+            table.insert(extends, parentName)
+        end
+    end
+    
+    if typeDef.interfaces_count > 0 then
+        for i = 0, typeDef.interfaces_count - 1 do
+            local interface = Il2Cpp.Type(Il2Cpp.Meta:GetInterfaces(typeDef.interfacesStart + i) + 0)
+            table.insert(extends, interface:GetName(false, false))
+        end
+    end
+    
+    table.insert(output, string.format("\n// Namespace: %s", Il2Cpp.Meta:GetStringFromIndex(typeDef.namespaceIndex)))
+    
+    if self.config.Attribute then
+        table.insert(output, self:getCustomAttribute(imageDef, typeDef.customAttributeIndex, typeDef.token))
+    end
+    if self.config.Attribute and bit32.band(typeDef.flags, Constants.TYPE_ATTRIBUTE_SERIALIZABLE) ~= 0 then
+        table.insert(output, "[Serializable]")
+    end
+    
+    local visibility = bit32.band(typeDef.flags, Constants.TYPE_ATTRIBUTE_VISIBILITY_MASK)
+    local visibilityStr = ""
+    if visibility == Constants.TYPE_ATTRIBUTE_PUBLIC or visibility == Constants.TYPE_ATTRIBUTE_NESTED_PUBLIC then
+        visibilityStr = "public "
+    elseif visibility == Constants.TYPE_ATTRIBUTE_NOT_PUBLIC or visibility == Constants.TYPE_ATTRIBUTE_NESTED_FAM_AND_ASSEM or visibility == Constants.TYPE_ATTRIBUTE_NESTED_ASSEMBLY then
+        visibilityStr = "internal "
+    elseif visibility == Constants.TYPE_ATTRIBUTE_NESTED_PRIVATE then
+        visibilityStr = "private "
+    elseif visibility == Constants.TYPE_ATTRIBUTE_NESTED_FAMILY then
+        visibilityStr = "protected "
+    elseif visibility == Constants.TYPE_ATTRIBUTE_NESTED_FAM_OR_ASSEM then
+        visibilityStr = "protected internal "
+    end
+    
+    if bit32.band(typeDef.flags, Constants.TYPE_ATTRIBUTE_ABSTRACT) ~= 0 and bit32.band(typeDef.flags, Constants.TYPE_ATTRIBUTE_SEALED) ~= 0 then
+        visibilityStr = visibilityStr .. "static "
+    elseif bit32.band(typeDef.flags, Constants.TYPE_ATTRIBUTE_INTERFACE) == 0 and bit32.band(typeDef.flags, Constants.TYPE_ATTRIBUTE_ABSTRACT) ~= 0 then
+        visibilityStr = visibilityStr .. "abstract "
+    elseif not typeDef:IsValueType() and not typeDef:IsEnum() and bit32.band(typeDef.flags, Constants.TYPE_ATTRIBUTE_SEALED) ~= 0 then
+        visibilityStr = visibilityStr .. "sealed "
+    end
+    
+    local typeKind = ""
+    if bit32.band(typeDef.flags, Constants.TYPE_ATTRIBUTE_INTERFACE) ~= 0 then
+        typeKind = "interface "
+    elseif typeDef:IsEnum() then
+        typeKind = "enum "
+    elseif typeDef:IsValueType() then
+        typeKind = "struct "
+    else
+        typeKind = "class "
+    end
+    
+    local typeName = typeDef:GetName(false, true)
+    local extendsStr = #extends > 0 and string.format(" : %s", table.concat(extends, ", ")) or ""
+    local typeDefIndexStr = self.config.TypeDefIndex and string.format(" // TypeDefIndex: %d", typeDefIndex - 0) or ""
+    table.insert(output, string.format("%s%s%s%s%s\n{", visibilityStr, typeKind, typeName, extendsStr, typeDefIndexStr))
+
+    -- Dump fields
+    if self.config.Field and typeDef.field_count > 0 then
+        table.insert(output, "\t// Fields")
+        local fieldEnd = typeDef.fieldStart + typeDef.field_count
+        for i = typeDef.fieldStart + 0, fieldEnd - 1 do
+            local fieldDef = Il2Cpp.Meta:GetFieldDefinition(i)
+            local fieldType = fieldDef:GetType()
+            local isStatic = false
+            local isConst = false
+            if self.config.Attribute then
+                table.insert(output, self:getCustomAttribute(imageDef, fieldDef.customAttributeIndex, fieldDef.token, "\t"))
+            end
+            local access = bit32.band(fieldType.attrs, Constants.FIELD_ATTRIBUTE_FIELD_ACCESS_MASK)
+            local accessStr = ""
+            if access == Constants.FIELD_ATTRIBUTE_PRIVATE then
+                accessStr = "private "
+            elseif access == Constants.FIELD_ATTRIBUTE_PUBLIC then
+                accessStr = "public "
+            elseif access == Constants.FIELD_ATTRIBUTE_FAMILY then
+                accessStr = "protected "
+            elseif access == Constants.FIELD_ATTRIBUTE_ASSEMBLY or access == Constants.FIELD_ATTRIBUTE_FAM_AND_ASSEM then
+                accessStr = "internal "
+            elseif access == Constants.FIELD_ATTRIBUTE_FAM_OR_ASSEM then
+                accessStr = "protected internal "
+            end
+            if bit32.band(fieldType.attrs, Constants.FIELD_ATTRIBUTE_LITERAL) ~= 0 then
+                isConst = true
+                accessStr = accessStr .. "const "
+            else
+                if bit32.band(fieldType.attrs, Constants.FIELD_ATTRIBUTE_STATIC) ~= 0 then
+                    isStatic = true
+                    accessStr = accessStr .. "static "
+                end
+                if bit32.band(fieldType.attrs, Constants.FIELD_ATTRIBUTE_INIT_ONLY) ~= 0 then
+                    accessStr = accessStr .. "readonly "
+                end
+            end
+            local fieldName = fieldDef:GetName()
+            local fieldTypeName = fieldType:GetName(false, false)
+            local defaultValueStr = ""
+            local fieldDefaultValue = Il2Cpp.Meta:GetFieldDefaultValueFromIndex(i)
+            if fieldDefaultValue and fieldDefaultValue.dataIndex ~= -1 then
+                local success, value = Il2Cpp.Meta:TryGetDefaultValue(fieldDefaultValue.typeIndex, fieldDefaultValue.dataIndex)
+                if success then
+                    defaultValueStr = " = "
+                    if type(value) == "string" then
+                        defaultValueStr = defaultValueStr .. string.format("\"%s\"", value:gsub("[\"\\]", "\\%0"))
+                    elseif type(value) == "number" and math.floor(value) == value then
+                        defaultValueStr = defaultValueStr .. value --string.format("'\\x%02x'", value)
+                    elseif value ~= nil then
+                        defaultValueStr = defaultValueStr .. tostring(value)
+                    else
+                        defaultValueStr = defaultValueStr .. "null"
+                    end
+                else
+                    defaultValueStr = string.format(" /*Metadata offset 0x%x*/", value)
+                end
+            end
+            local offsetStr = ""
+            if self.config.FieldOffset and not isConst then
+                offsetStr = string.format("; // 0x%x", self.il2Cpp:getFieldOffsetFromIndex(typeDefIndex - 1, i - typeDef.fieldStart - 1, i - 1, typeDef:IsValueType(), isStatic))
+            else
+                offsetStr = ";"
+            end
+            table.insert(output, string.format("\t%s%s %s%s%s", accessStr, fieldTypeName, fieldName, defaultValueStr, offsetStr))
+        end
+    end
+
+    -- Dump properties
+    if self.config.Property and typeDef.property_count > 0 then
+        table.insert(output, "\n\t// Properties")
+        local propertyEnd = typeDef.propertyStart + typeDef.property_count
+        for i = typeDef.propertyStart + 0, propertyEnd - 1 do
+            local propertyDef = Il2Cpp.Meta:GetPropertyDefinition(i)
+            if self.config.Attribute then
+                table.insert(output, self:getCustomAttribute(imageDef, propertyDef.customAttributeIndex, propertyDef.token, "\t"))
+            end
+            local propertyType, modifiers
+            if propertyDef.get >= 0 then
+                local methodDef = Il2Cpp.Meta:GetMethodDefinition(typeDef.methodStart + propertyDef.get + 0)
+                modifiers = self:getModifiers(methodDef)
+                propertyType = methodDef:GetReturnType()
+            elseif propertyDef.set >= 0 then
+                local methodDef = Il2Cpp.Meta:GetMethodDefinition(typeDef.methodStart + propertyDef.set + 0)
+                modifiers = self:getModifiers(methodDef)
+                local parameterDef = methodDef:GetParam()
+                propertyType = parameterDef[1]:GetType()
+            end
+            local propertyName = Il2Cpp.Meta:GetStringFromIndex(propertyDef.nameIndex)
+            local propertyTypeName = propertyType:GetName(false, false)
+            local accessors = {}
+            if propertyDef.get >= 0 then
+                table.insert(accessors, "get; ")
+            end
+            if propertyDef.set >= 0 then
+                table.insert(accessors, "set; ")
+            end
+            table.insert(output, string.format("\t%s%s %s { %s}", modifiers, propertyTypeName, propertyName, table.concat(accessors)))
+        end
+    end
+
+    -- Dump methods
+    if self.config.Method and typeDef.method_count > 0 then
+        table.insert(output, "\n\t// Methods")
+        local methodEnd = typeDef.methodStart + typeDef.method_count
+        for i = typeDef.methodStart + 0, methodEnd - 1 do
+            table.insert(output, "")
+            local methodDef = Il2Cpp.Meta:GetMethodDefinition(i)
+            local isAbstract = bit32.band(methodDef.flags, Constants.METHOD_ATTRIBUTE_ABSTRACT) ~= 0
+            if self.config.Attribute then
+                table.insert(output, self:getCustomAttribute(imageDef, methodDef.customAttributeIndex, methodDef.token, "\t"))
+            end
+            if self.config.MethodOffset then
+                local methodPointer = self.il2Cpp:getMethodPointer(imageName, methodDef)
+                if not isAbstract and methodPointer > 0 then
+                    local fixedMethodPointer = self.il2Cpp:getRVA(methodPointer)
+                    table.insert(output, string.format("\t// RVA: 0x%x Offset: 0x%x VA: 0x%x", fixedMethodPointer, fixedMethodPointer, methodPointer))
+                else
+                    table.insert(output, "\t// RVA: -1 Offset: -1")
+                end
+                if methodDef.slot ~= 0xffff then
+                    table.insert(output, string.format(" Slot: %d", methodDef.slot))
+                end
+            end
+            local modifiers = self:getModifiers(methodDef)
+            local methodReturnType = methodDef:GetReturnType()
+            local methodName = methodDef:GetName()
+            
+            
+            if methodDef.genericContainerIndex >= 0 then
+                local genericContainer = Il2Cpp.Meta:GetGenericContainer(methodDef.genericContainerIndex)
+                methodName = methodName .. Il2Cpp.Meta:GetGenericContainerParams(genericContainer)
+            end
+            
+
+            local returnPrefix = methodReturnType.byref == 1 and "ref " or ""
+            local parameterStrs = {}
+            for j = 0, methodDef.parameterCount - 1 do
+                local parameterDef = Il2Cpp.Param(methodDef.parameterStart + j)
+                local parameterName = parameterDef:GetName()
+                local parameterType = parameterDef:GetType()
+                local parameterTypeName = parameterType:GetName(false, false)
+                local paramPrefix = ""
+                if parameterType.byref == 1 then
+                    if bit32.band(parameterType.attrs, Constants.PARAM_ATTRIBUTE_OUT) ~= 0 and bit32.band(parameterType.attrs, Constants.PARAM_ATTRIBUTE_IN) == 0 then
+                        paramPrefix = "out "
+                    elseif bit32.band(parameterType.attrs, Constants.PARAM_ATTRIBUTE_OUT) == 0 and bit32.band(parameterType.attrs, Constants.PARAM_ATTRIBUTE_IN) ~= 0 then
+                        paramPrefix = "in "
+                    else
+                        paramPrefix = "ref "
+                    end
+                else
+                    if bit32.band(parameterType.attrs, Constants.PARAM_ATTRIBUTE_IN) ~= 0 then
+                        paramPrefix = paramPrefix .. "[In] "
+                    end
+                    if bit32.band(parameterType.attrs, Constants.PARAM_ATTRIBUTE_OUT) ~= 0 then
+                        paramPrefix = paramPrefix .. "[Out] "
+                    end
+                end
+                local paramStr = paramPrefix .. parameterTypeName .. " " .. parameterName
+                local paramDefault = Il2Cpp.Meta:GetParameterDefaultValueFromIndex(methodDef.parameterStart + j - 0)
+                if paramDefault and paramDefault.dataIndex ~= -1 then
+                    local success, value = Il2Cpp.Meta:TryGetDefaultValue(paramDefault.typeIndex, paramDefault.dataIndex)
+                    if success then
+                        paramStr = paramStr .. " = "
+                        if type(value) == "string" then
+                            paramStr = paramStr .. string.format("\"%s\"", value:gsub("[\"\\]", "\\%0"))
+                        elseif type(value) == "number" and math.floor(value) == value then
+                            paramStr = paramStr .. value --string.format("'\\x%02x'", value)
+                        elseif value ~= nil then
+                            paramStr = paramStr .. tostring(value)
+                        else
+                            paramStr = paramStr .. "null"
+                        end
+                    else
+                        paramStr = paramStr .. string.format(" /*Metadata offset 0x%x*/", value)
+                    end
+                end
+                table.insert(parameterStrs, paramStr)
+            end
+            local methodBody = isAbstract and ";" or " { }"
+            table.insert(output, string.format("\t%s%s%s %s(%s)%s", modifiers, returnPrefix, methodReturnType:GetName(false, false), methodName, table.concat(parameterStrs, ", "), methodBody))
+
+            -- Dump generic method specs
+            if Il2Cpp.methodDefinitionMethodSpecs[i] then
+                table.insert(output, "\t/* GenericInstMethod :")
+                local groups = {}
+                for _, methodSpec in ipairs(self.il2Cpp.methodDefinitionMethodSpecs[i - 1]) do
+                    local ptr = self.il2Cpp.methodSpecGenericMethodPointers[methodSpec.methodDefinitionIndex .. ":" .. methodSpec.classIndexIndex .. ":" .. methodSpec.methodIndexIndex] or 0
+                    if not groups[ptr] then
+                        groups[ptr] = {}
+                    end
+                    table.insert(groups[ptr], methodSpec)
+                end
+                for ptr, group in pairs(groups) do
+                    table.insert(output, "\t|")
+                    if ptr > 0 then
+                        local fixedPointer = self.il2Cpp:getRVA(ptr)
+                        table.insert(output, string.format("\t|-RVA: 0x%x Offset: 0x%x VA: 0x%x", fixedPointer, fixedPointer, ptr))
+                    else
+                        table.insert(output, "\t|-RVA: -1 Offset: -1")
+                    end
+                    for _, methodSpec in ipairs(group) do
+                        local typeName, methodName = self.executor:getMethodSpecName(methodSpec)
+                        table.insert(output, string.format("\t|-%s.%s", typeName, methodName))
+                    end
+                end
+                table.insert(output, "\t*/")
+            end
+        end
+    end
+    table.insert(output, "}")
+    return table.concat(output, "\n")
+end
+
+function Decompiler:getModifiers(methodDef)
+    if self.methodModifiers[methodDef] then
+        return self.methodModifiers[methodDef]
+    end
+    local str = ""
+    local access = bit32.band(methodDef.flags, Constants.METHOD_ATTRIBUTE_MEMBER_ACCESS_MASK)
+    if access == Constants.METHOD_ATTRIBUTE_PRIVATE then
+        str = str .. "private "
+    elseif access == Constants.METHOD_ATTRIBUTE_PUBLIC then
+        str = str .. "public "
+    elseif access == Constants.METHOD_ATTRIBUTE_FAMILY then
+        str = str .. "protected "
+    elseif access == Constants.METHOD_ATTRIBUTE_ASSEM or access == Constants.METHOD_ATTRIBUTE_FAM_AND_ASSEM then
+        str = str .. "internal "
+    elseif access == Constants.METHOD_ATTRIBUTE_FAM_OR_ASSEM then
+        str = str .. "protected internal "
+    end
+    if bit32.band(methodDef.flags, Constants.METHOD_ATTRIBUTE_STATIC) ~= 0 then
+        str = str .. "static "
+    end
+    if bit32.band(methodDef.flags, Constants.METHOD_ATTRIBUTE_ABSTRACT) ~= 0 then
+        str = str .. "abstract "
+        if bit32.band(methodDef.flags, Constants.METHOD_ATTRIBUTE_VTABLE_LAYOUT_MASK) == Constants.METHOD_ATTRIBUTE_REUSE_SLOT then
+            str = str .. "override "
+        end
+    elseif bit32.band(methodDef.flags, Constants.METHOD_ATTRIBUTE_FINAL) ~= 0 then
+        if bit32.band(methodDef.flags, Constants.METHOD_ATTRIBUTE_VTABLE_LAYOUT_MASK) == Constants.METHOD_ATTRIBUTE_REUSE_SLOT then
+            str = str .. "sealed override "
+        end
+    elseif bit32.band(methodDef.flags, Constants.METHOD_ATTRIBUTE_VIRTUAL) ~= 0 then
+        if bit32.band(methodDef.flags, Constants.METHOD_ATTRIBUTE_VTABLE_LAYOUT_MASK) == Constants.METHOD_ATTRIBUTE_NEW_SLOT then
+            str = str .. "virtual "
+        else
+            str = str .. "override "
+        end
+    end
+    if bit32.band(methodDef.flags, Constants.METHOD_ATTRIBUTE_PINVOKE_IMPL) ~= 0 then
+        str = str .. "extern "
+    end
+    self.methodModifiers[methodDef] = str
+    return str
+end
+
+return Decompiler
+end)
+__bundle_register("core.Universalsearcher", function(require, _LOADED, __bundle_register, __bundle_modules)
+---@class Searcher
+---Universal searcher module for locating Il2Cpp and metadata components in memory
+local Searcher = {
+    searchWord = ":EnsureCapacity",
+    tokenParam = 134217729,
+    
+    ranges = {
+        A = gg.REGION_ANONYMOUS,
+        Ca = gg.REGION_C_ALLOC,
+        O = gg.REGION_OTHER
+    },
+    
+    ---Find global metadata in memory using various search strategies
+    -- @param self Searcher The Searcher instance
+    -- @return number Start address of global metadata
+    -- @return number End address of global metadata
+    FindGlobalMetaData = function(self)
+        gg.clearResults()
+        gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_ANONYMOUS |
+                         gg.REGION_OTHER)
+        local globalMetadata = gg.getRangesList('global-metadata.dat')
+        if not self:IsValidData(globalMetadata) then
+            globalMetadata = gg.getRangesList("dev/zero")
+        end
+        if not self:IsValidData(globalMetadata) then
+            globalMetadata = {}
+            for k, v in ipairs({
+                gg.REGION_C_ALLOC,
+                gg.REGION_ANONYMOUS,
+                gg.REGION_OTHER
+            }) do
+                gg.clearResults()
+                gg.setRanges(v)
+                gg.searchNumber(self.searchWord, gg.TYPE_BYTE, false, gg.SIGN_EQUAL, nil,
+                    nil, 1)
+                if gg.getResultsCount() > 0 then
+                    gg.refineNumber(self.searchWord:sub(1, 2), gg.TYPE_BYTE)
+                    EnsureCapacity = gg.getResults(gg.getResultsCount())
+                    gg.clearResults()
+                    break
+                end 
+            end
+            for k, v in ipairs(gg.getRangesList()) do
+                if (v.state == 'Ca' or v.state == 'A' or v.state == 'Cd' or v.state == 'Cb' or v.state == 'Ch' or
+                    v.state == 'O') then
+                    for key, val in ipairs(EnsureCapacity) do
+                        globalMetadata[#globalMetadata + 1] =
+                            (Il2Cpp.FixValue(v.start) <= Il2Cpp.FixValue(val.address) and Il2Cpp.FixValue(val.address) <
+                                Il2Cpp.FixValue(v['end'])) and v or nil
+                    end
+                end
+            end
+        end
+        local value = -89056337
+        if #globalMetadata > 0 and gg.getValues({{address = globalMetadata[1].start, flags = 4}})[1].value ~= value then
+            gg.searchNumber(value, 4, false, gg.SIGN_EQUAL, globalMetadata[1].start, globalMetadata[#globalMetadata]['end'])
+            if gg.getResultsCount() > 0 then
+                globalMetadata[1].start = gg.getResults(1)[1].address
+            end
+        end
+		
+        return type(globalMetadata) == "table" and globalMetadata[1].start, globalMetadata[#globalMetadata]['end'] or 0, 0
+    end,
+
+    ---Check if global metadata contains valid data by searching for the signature
+    -- @param self Searcher The Searcher instance
+    -- @param globalMetadata table Table of memory ranges to check
+    -- @return boolean True if valid data is found, false otherwise
+    IsValidData = function(self, globalMetadata)
+        if #globalMetadata ~= 0 then
+            --for k, v in pairs(self.ranges) do
+             --   gg.clearResults()
+                --gg.setRanges(v)
+                gg.searchNumber(self.searchWord, gg.TYPE_BYTE, false, gg.SIGN_EQUAL, globalMetadata[1].start,
+                    globalMetadata[#globalMetadata]['end'], 1)
+                if gg.getResultsCount() > 0 then
+                    gg.clearResults()
+                    return true
+                end
+            --end
+        end
+        return false
+    end,
+
+    ---Find Il2Cpp library in memory using various search strategies
+    -- @return number Start address of Il2Cpp library
+    -- @return number End address of Il2Cpp library
+    FindIl2cpp = function(Il2CppMetadataRegistration)
+        if Il2CppMetadataRegistration then
+            local rangesList = gg.getRangesList()
+            for k, v in ipairs(rangesList) do
+                if v.start > Il2CppMetadataRegistration and Il2CppMetadataRegistration < v['end'] then
+                    local i = k
+                    while true do 
+                        if gg.getValues({{address = rangesList[i].start, flags = 4}})[1].value == 0x464C457F then
+                            return rangesList[i].start, v['end']
+                        end 
+                        i = i - 1 
+                    end 
+                end
+            end 
+            Il2Cpp.log:error("FindIl2cpp not found Il2CppMetadataRegistration:", Il2CppMetadataRegistration)
+        end
+                    
+        local il2cpp = gg.getRangesList('libil2cpp.so')
+        if #il2cpp == 0 then
+            il2cpp = gg.getRangesList('split_config.')
+            local _il2cpp = {}
+            gg.setRanges(gg.REGION_C_DATA | gg.REGION_CODE_APP);
+            for k, v in ipairs(il2cpp) do
+                if (v.state == 'Xa') then
+                    gg.searchNumber(':il2cpp', gg.TYPE_BYTE, false, gg.SIGN_EQUAL, v.start, v['end'])
+                    if (gg.getResultsCount() > 0) then
+                        _il2cpp[#_il2cpp + 1] = v
+                        gg.clearResults()
+                    end
+                end
+            end
+            il2cpp = _il2cpp
+        else
+            local _il2cpp = {}
+            for k,v in ipairs(il2cpp) do
+                local Value = gg.getValues({{address = v.start, flags = 4}})[1].value
+                if Value==0x464C457F or Value==263434879 then
+                --if (string.find(v.type, "..x.") or v.state == "Xa") then
+                    _il2cpp[#_il2cpp + 1] = v
+                end
+            end
+            il2cpp[1] = _il2cpp[#_il2cpp]
+            --il2cpp = _il2cpp
+        end
+		
+        return il2cpp[1].start, il2cpp[#il2cpp]['end']
+    end,
+    
+    Il2CppSearchPointer = function(config)--address, ranges, endResults, startAddrs, endAddrs)
+        local ranges = config.ranges or {gg.REGION_C_BSS, gg.REGION_ANONYMOUS, gg.REGION_OTHER}
+        for i, range in ipairs(ranges) do 
+            gg.clearResults();
+    	    gg.setRanges(range);
+    	    gg.searchNumber(config.address, Il2Cpp.MainType, nil, nil, config.startAddrs, config.endAddrs, config.endResults);
+    	    
+    	    -- Handle 64-bit Android SDK 30+ special case
+    	    if gg.getResultsCount() == 0 and Il2Cpp.Info.platform and Il2Cpp.Info.sdk >= 30 then
+                gg.searchNumber(tostring(config.address | 0xB400000000000000), Il2Cpp.MainType, nil, nil, config.startAddrs, config.endAddrs, config.endResults);
+            end
+            
+            local t = gg.getResults(gg.getResultsCount())
+            gg.clearResults();
+            if #t > 0 then
+                return t
+            end
+        end
+    end,
+
+    ---Locate and initialize Il2Cpp metadata registration structures
+    -- @return table Table containing metadata registration information
+    Il2CppMetadataRegistration = function(self, globalMetadataHeader)
+        
+        
+        -- Set pointer sizes based on version and platform
+        --Il2Cpp.classPointer = Il2Cpp.Version < 27 and (Il2Cpp.Info.platform and 24 or 12) or (Il2Cpp.Info.platform and 40 or 20);
+        --Il2Cpp.imagePointer = Il2Cpp.Version < 27 and (Il2Cpp.Info.platform and 72 or 36) or (Il2Cpp.Info.platform and 24 or 12);
+        
+        -- Get global metadata range
+        local gmt = gg.getRangesList("global-metadata.dat");
+	    local addrs = ((gmt and #gmt > 0) and gmt[1].start) or globalMetadataHeader
+	    
+        --[[
+        gg.clearResults();
+	    gg.setRanges(gg.REGION_C_BSS | gg.REGION_ANONYMOUS | gg.REGION_OTHER);
+	    gg.searchNumber(gmt, Il2Cpp.MainType, nil, nil, Il2Cpp.il2cppStart, -1, 1);
+	    if gg.getResultsCount() == 0 and Il2Cpp.Info.platform and Il2Cpp.Info.sdk >= 30 then
+            gg.searchNumber(tostring(gmt | 0xB400000000000000), Il2Cpp.MainType, nil, nil, Il2Cpp.il2cppStart, -1, 1);
+        end
+        local t = gg.getResults(1)
+        gg.clearResults();
+        ]]
+        local startAddrs = Il2Cpp.il2cppStart
+	    local config = {
+	        address = addrs,
+	        ranges = {gg.REGION_C_BSS, gg.REGION_ANONYMOUS, gg.REGION_OTHER},
+	        endResults = 1,
+	        startAddrs = startAddrs
+	    }
+	    local t = self.Il2CppSearchPointer(config)
+	    if not t then
+	        config.startAddrs = nil
+	        t = self.Il2CppSearchPointer(config)
+	        if not t then
+	            Il2Cpp.log:error("Il2CppSearchPointer:" .. config)
+	        end
+	    end
+	    
+	
+	    Il2Cpp.metaPtr = t[1].address
+		Il2Cpp.log:info("Il2Cpp.metaPtr: " .. Il2Cpp.ToHex(Il2Cpp.metaPtr))
+		local metaHeaderObf = Il2Cpp.FixValue(Il2Cpp.gV(Il2Cpp.metaPtr + Il2Cpp.pointSize))
+		if Il2Cpp.gV(Il2Cpp.metaPtr) ~= metaHeaderObf then
+		    Il2Cpp.log:warn("globalMetadataHeader bị mã hoá globalMetadataHeader mới được phát hiện: " .. Il2Cpp.ToHex(metaHeaderObf))
+		    Il2Cpp.Meta.Header = Il2Cpp.Il2CppGlobalMetadataHeader(metaHeaderObf)
+		    --print(Il2Cpp.Il2CppGlobalMetadataHeader(globalMetadataHeader), Il2Cpp.Il2CppGlobalMetadataHeader(metaHeaderObf))
+		    --os.exit()
+		end
+		
+		local limit = 0x50000
+	    local i = 1
+	    while true do 
+	        local addr = Il2Cpp.metaPtr - (i * Il2Cpp.pointSize)
+	        local ptr = Il2Cpp.GetPtr(addr)
+	        local Range = gg.getValuesRange({{address = ptr}})[1]
+            if (Range == "Cd" or Range == "O" or Range == "A") then
+                local pReg = Il2Cpp.Il2CppMetadataRegistration(ptr)
+                if  pReg.typesCount < limit then
+                    Il2Cpp.metaReg = ptr
+                    Il2Cpp.il2cppReg = Il2Cpp.GetPtr(addr - Il2Cpp.pointSize)
+                    break
+                end
+            elseif i > 10 then
+                Il2Cpp.log:error("not find Il2CppMetadataRegistration in MetaStart: " .. Il2Cpp.ToHex(addrs))
+            end 
+            i = i + 1
+        end
+		Il2Cpp.log:info("Il2Cpp.metaReg: " .. Il2Cpp.ToHex(Il2Cpp.metaReg))
+		Il2Cpp.log:info("Il2Cpp.il2cppReg: " .. Il2Cpp.ToHex(Il2Cpp.il2cppReg))
+		
+        --Il2Cpp.Il2CppMetadataRegistration(Il2Cpp.metaReg):AddList()
+        --Il2Cpp.Il2CppCodeRegistration(Il2Cpp.il2cppReg):AddList()
+        --[[os.exit()
+        local Range, a = {}, t[1].address - (10 * Il2Cpp.pointSize)
+        for i = 1, 20 do
+            Range[i] = {address = a + (i * Il2Cpp.pointSize), flags = Il2Cpp.MainType}
+        end
+        local res = {}
+        for i, v in ipairs(gg.getValues(Range)) do
+            local addr = Il2Cpp.FixValue(v.value)
+            if addr ~= gmt then
+                res[#res+1] = {address = addr, value = v.address}
+            end
+        end
+        for i, v in ipairs(gg.getValuesRange(res)) do
+            if v == "Cd" or v == "O" then
+                local metaRegIndex = i + 1
+                local il2cppRegIndex = i
+                local pMetaReg = Il2Cpp.Il2CppMetadataRegistration(res[metaRegIndex].address)
+                if pMetaReg.typeDefinitionsSizesCount ~= pMetaReg.fieldOffsetsCount then
+                    metaRegIndex = i
+                    il2cppRegIndex = i+1
+                end
+                Il2Cpp.il2cppReg = Il2Cpp.il2cppReg or res[il2cppRegIndex].address
+                Il2Cpp.il2cppRegPtr = res[il2cppRegIndex].value
+                Il2Cpp.metaReg = Il2Cpp.metaReg or res[metaRegIndex].address
+                Il2Cpp.metaRegPtr = res[metaRegIndex].value
+                break
+            end
+        end
+        ]]
+        
+        --[[
+        local typeDef
+        for i = 0, 20 do
+            local addrs = Il2Cpp.GetPtr(Il2Cpp.metaPtr + (i * Il2Cpp.pointSize))
+            if addrs > 0 then
+                local kls = {}
+                for key = 0, 10 do
+                   local klass = Il2Cpp.GetPtr(addrs + (key * Il2Cpp.pointSize))
+                   if isImage(Il2Cpp.GetPtr(klass)) then
+                       kls[#kls+1] = {address = klass, flags = Il2Cpp.MainType}
+                   end
+                end
+                if #kls >= 5 then
+                    typeDef = addrs
+                end
+            end
+        end 
+        ]]
+        Il2Cpp.pMetadataRegistration = Il2Cpp.Il2CppMetadataRegistration(Il2Cpp.metaReg)
+        Il2Cpp.pCodeRegistration = Il2Cpp.Il2CppCodeRegistration(Il2Cpp.il2cppReg)
+        
+        
+        
+        
+		
+        
+        
+        --[[
+        for i = 1, 100 do
+            if not Il2Cpp.imageCount then
+                local count = Il2Cpp.GetPtr(t[1].address + (i * Il2Cpp.pointSize))
+                if count < 1000 then
+                    Il2Cpp.imageCount = count
+                end
+            end
+            if not Il2Cpp.imageDef then
+                local addr = Il2Cpp.GetPtr(Il2Cpp.GetPtr(Il2Cpp.typeDef + (i * Il2Cpp.pointSize)))
+                local image = isImage(addr)
+                if image then
+                    Il2Cpp.imageDef = addr
+                end
+            end
+            if Il2Cpp.imageDef then
+                local addr = Il2Cpp.imageDef + (i * Il2Cpp.pointSize)
+                if isImage(addr) then
+                    Il2Cpp.imageSize = addr - Il2Cpp.imageDef
+                    break
+                end
+            end
+        end
+        ]]
+        
+        --[[
+        local typeDefList = {}
+        for i = 0, Il2Cpp.pMetadataRegistration.fieldOffsetsCount - 1 do 
+            typeDefList[i] = {address = Il2Cpp.typeDef + (i * Il2Cpp.pointSize), flags = Il2Cpp.MainType}
+        end 
+        gg.loadResults({{address = Il2Cpp.typeDef + ((Il2Cpp.pMetadataRegistration.fieldOffsetsCount - 1) * Il2Cpp.pointSize), flags = Il2Cpp.MainType}})
+        ]]
+        
+        --print(Il2Cpp.typeDefSize, Il2Cpp.typeDefSizes, Il2Cpp.typeDefOffset)
+        --os.exit()
+        
+        
+        
+        
+        --[[
+        if (Il2Cpp.Version < 27) then
+            Il2Cpp.stringDef = Il2Cpp.FixValue(Il2Cpp.GetPtr(Il2Cpp.imageDef + ((Il2Cpp.Info.platform and 8) or 0)));
+            return
+        else
+            address = Il2Cpp.GetPtr(Il2Cpp.GetPtr(Il2Cpp.imageDef) + (Il2Cpp.Info.platform and 16 or 8)) + (Il2Cpp.Info.platform and 24 or 16);
+        end
+        Il2Cpp.stringDef = Il2Cpp.GetPtr(address);
+        ]]
+    end
+}
+
+return Searcher
+
+end)
+__bundle_register("api.Class", function(require, _LOADED, __bundle_register, __bundle_modules)
+---@class Class
+local Dump = require "utils.Dump"
+---Module for handling Il2Cpp class operations and metadata
+local Class = {
+    ---Cache for class information checks
+    IsClassCache = {},
+    
+    ---Name offset based on platform architecture
+    NameOffset = (Il2Cpp.x64 and 0x10 or 0x8),
+}
+
+---Get the name of a class, handling generic classes with type parameters
+-- @param klass table The class object
+-- @return string The class name with generic parameters if applicable
+function Class.GetName(klass)
+    local Name = klass.name
+    local index = Name:find("`")
+    if index then
+        Name = Name:sub(1, index - 1)
+        local index = klass.genericContainerIndex or klass.genericContainerHandle
+        local genericContainer = Il2Cpp.Meta:GetGenericContainer(index)
+        local genericParameterStart = genericContainer.genericParameterStart
+        local type_argc = {}
+        for i = 1, genericContainer.type_argc do
+            local genericParameter = Il2Cpp.Meta:GetGenericParameter(genericParameterStart + i)
+            type_argc[#type_argc+1] = Il2Cpp.Meta:GetStringFromIndex(genericParameter.nameIndex)
+        end
+        Name = Name .. "<" ..table.concat(type_argc, ", ") .. ">"
+    end
+    return Name
+end
+
+
+---Get the namespace of a class
+-- @param klass table The class object
+-- @return string The class namespace
+function Class.GetNamespace(klass)
+    return klass.namespaze
+end
+
+---Get the image (assembly) of a class
+-- @param klass table The class object
+-- @return string The image name containing the class
+function Class.GetImage(klass)
+    return Il2Cpp.Utf8ToString(Il2Cpp.GetPtr(klass.image))
+end
+
+---Get the parent class of a class
+-- @param klass table The class object
+-- @return table Parent class object
+function Class.GetParent(klass)
+    return Class(klass.parent)
+end
+
+function Class.IsValueType(klass)
+    return klass:GetParent():GetName() == "ValueType"
+end
+
+function Class.IsEnum(klass)
+    return klass:GetParent():GetName() == "Enum"
+end
+
+---Get all fields of a class
+-- @param klass table The class object
+-- @return table Array of field objects
+function Class.GetFields(klass)
+    if type(klass.fields) == "table" then return klass.fields end
+    local fields = {}
+    local iter = 0
+    local field
+    while iter < klass.field_count do
+        field = Il2Cpp.Field(klass.fields + iter * Il2Cpp.FieldInfo.size)
+        --field.type = field:GetType()
+        fields[#fields + 1] = field
+        iter = iter + 1
+    end
+    klass.fields = fields
+    return fields
+end
+
+---Find a field by name in a class
+-- @param klass table The class object
+-- @param name string The field name to search for
+-- @return table|nil Field object if found, nil otherwise
+function Class.GetField(klass, name)
+    for _, field in ipairs(klass:GetFields()) do
+        if field:GetName() == name then
+            return field, _ - 1
+        end
+    end
+end
+
+---Get all methods of a class
+-- @param klass table The class object
+-- @return table Array of method objects
+function Class.GetMethods(klass)
+    if type(klass.methods) == "table" then return klass.methods end
+    local methods = {}
+    local iter = 0
+    local method
+    while iter < klass.method_count do
+        method = Il2Cpp.Method(Il2Cpp.GetPtr(klass.methods + iter * Il2Cpp.pointSize))
+        --method.parameters = method:GetParam()
+        --method.return_type = method:GetReturnType()
+        methods[#methods + 1] = method
+        iter = iter + 1
+    end
+    klass.methods = methods
+    return methods
+end
+
+---Find a method by name and parameter count in a class
+-- @param klass table The class object
+-- @param name string The method name to search for
+-- @param paramCount number|nil The number of parameters (optional)
+-- @return table|nil Method object if found, nil otherwise
+function Class.GetMethod(klass, name, paramCount)
+    for _, method in ipairs(klass:GetMethods()) do
+        if method:GetName() == name and (not paramCount or method.parameters_count == paramCount) then
+            return method
+        end
+    end
+end
+
+---Check if a class is generic
+-- @param klass table The class object
+-- @return boolean True if the class is generic
+function Class.IsGeneric(klass)
+    return klass.is_generic ~= 0
+end
+
+---Check if a class is an inflated generic instance
+-- @param klass table The class object
+-- @return boolean True if the class is an inflated generic
+function Class.IsInflated(klass)
+    return klass.generic_class ~= 0
+end
+
+---Check if a class is a nested type
+-- @param klass table The class object
+-- @return boolean True if the class is nested
+function Class.IsNested(klass)
+    return klass.nested_type_count ~= 0
+end
+
+---Get the instance size of a class
+-- @param klass table The class object
+-- @return number The size of class instances in bytes
+function Class.GetInstanceSize(klass)
+    return klass.instance_size
+end
+
+---Find all instances of a class in memory
+-- @param klass table The class object
+-- @return table Array of object instances
+function Class.GetInstance(klass)
+    return Il2Cpp.Object:FindObjects(klass.address)
+end
+
+---Get all interfaces implemented by a class
+-- @param klass table The class object
+-- @return table Array of interface class objects
+function Class.GetInterfaces(klass)
+    if type(klass.implementedInterfaces) == "table" then return klass.implementedInterfaces end
+    local interfaces = {}
+    local iter = 0
+    local interface
+    while iter < klass.interfaces_count do
+        interface = Il2Cpp.GetPtr(klass.implementedInterfaces + iter * Il2Cpp.pointSize)
+        interfaces[#interfaces + 1] = Class(interface)
+        iter = iter + 1
+    end
+    klass.implementedInterfaces = interfaces
+    return interfaces
+end
+
+-- PropertyInfo
+
+function Class.GetPropertys(klass)
+    if type(klass.properties) == "table" then return klass.properties end
+    local properties = {}
+    local iter = 0
+    local propertie
+    while iter < klass.property_count do
+        propertie = Il2Cpp.PropertyInfo(klass.properties + iter * Il2Cpp.PropertyInfo.size)
+        properties[#properties + 1] = propertie
+        iter = iter + 1
+    end
+    klass.properties = properties
+    return properties
+end
+
+---Get the type definition index of a class
+-- @param klass table The class object
+-- @return number|nil The type definition index if found, nil otherwise
+function Class.GetIndex(klass)
+    local index = klass.byval_arg.data
+    if Il2Cpp.Meta.Header.typeDefinitions <= index and (Il2Cpp.Meta.Header.typeDefinitions + Il2Cpp.Meta.Header.typeDefinitionsSize) >= index then
+        return (index - Il2Cpp.Meta.Header.typeDefinitions) / Il2Cpp.typeDefSize
+    elseif index <= Il2Cpp.typesCount then
+        return index
+    end
+end
+
+---Get pointers to a class by its index
+-- @param index number The class index
+-- @return number|nil The class pointer if found, nil otherwise
+function Class.GetPointersToIndex(index)
+    --local typeDefOffset, typeDefSizes = Il2Cpp.typeDefOffset, Il2Cpp.typeDefSizes
+    if index > Il2Cpp.typesCount then
+        return index
+    elseif Il2Cpp.Meta.Header.typeDefinitions <= index and (Il2Cpp.Meta.Header.typeDefinitions + Il2Cpp.Meta.Header.typeDefinitionsSize) >= index then
+        index = (index - Il2Cpp.Meta.Header.typeDefinitions) / Il2Cpp.typeDefSize
+    end
+    return Il2Cpp.GetPtr(Il2Cpp.classPointer + (index * Il2Cpp.pointSize))
+end
+
+
+---Check if an address points to valid class information
+-- @param Address number Memory address to check
+-- @return string|nil Image name if valid class, nil otherwise
+function Class.IsClassInfo(Address)
+    if Class.IsClassCache[Address] then
+        return Class.IsClassCache[Address]
+    end
+    local imageAddress = Il2Cpp.FixValue(gg.getValues(
+        {
+            {
+                address = Il2Cpp.FixValue(Address),
+                flags = Il2Cpp.pointer
+            }
+        }
+    )[1].value)
+    local imageStr = Il2Cpp.Utf8ToString(Il2Cpp.FixValue(gg.getValues(
+        {
+            {
+                address = imageAddress,
+                flags = Il2Cpp.pointer
+            }
+        }
+    )[1].value))
+    local check = string.find(imageStr, ".-%.dll") or string.find(imageStr, "__Generated")
+    Class.IsClassCache[Address] = check and imageStr or nil
+    return Class.IsClassCache[Address]
+end
+
+function Class:GetTypeDefinition(isDumped)
+    local typeDef = self.typeDefinition or self.typeMetadataHandle
+    if not isDumped then return typeDef end 
+    local klass = Il2Cpp.Il2CppTypeDefinition(typeDef)
+    klass.address = typeDef
+    return klass
+end 
+
+
+---Create a class object from address, name, or index
+-- @param searchParams table|string|number Address, name, or index of the class
+-- @param addList any Additional parameter (unused in current implementation)
+-- @return table Class object or array of class objects
+function Class:From(searchParams, addList)
+    --Il2Cpp.log:debug("Class:", searchParams)
+    if Il2Cpp.__cache.Class[searchParams] then return Il2Cpp.__cache.Class[searchParams] end
+    local klass = {}
+    if type(searchParams) == "string" or type(searchParams) == "table" then
+        local res = type(searchParams) == "table" and searchParams or Il2Cpp.Meta.GetPointersToString(searchParams)
+        for i, v in ipairs(res) do
+            local addr = v.address - Class.NameOffset
+            klass[#klass+1] = Class.IsClassInfo(addr) and Class(addr, addList)
+            --[[
+            if imageName then
+                local kls = Il2Cpp.Il2CppClass(addr, addList)
+                kls.address = addr
+                --kls.byval_arg:Init()
+                --kls.class_index = Class.GetIndex(kls)
+                local res = setmetatable(kls, {
+                    __index = Class,
+                    __name = (kls.namespaze ~= "" and kls.namespaze .. "." or "") .. kls.name
+                })
+                klass[#klass+1] = res
+            end
+            ]]
+        end
+    else
+        local addr = Class.GetPointersToIndex(searchParams)
+        local kls = Il2Cpp.Il2CppClass(addr, addList)
+        kls.address = addr
+        --kls.class_index = Class.GetIndex(kls)
+        --kls.byval_arg:Init()
+        
+        klass = setmetatable(kls, {
+            __index = Class,
+            __name = (kls.namespaze ~= "" and kls.namespaze .. "." or "") .. kls.name
+        })
+        --klass[#klass+1] = klass
+    end
+    --self.__cache[searchParams] = #klass == 1 and klass[1] or klass
+    Il2Cpp.__cache.Class[searchParams] = klass
+    return klass
+end
+
+function Class.Dump(klass, config)
+    return Dump(klass, config)
+end
+
+return setmetatable(Class, {
+    ---Metatable call handler for Class
+    -- Allows Class to be called as a function
+    -- @param ... any Arguments passed to Class.From
+    -- @return table Class object or array of class objects
+    __call = Class.From
+})
+end)
+__bundle_register("utils.Dump", function(require, _LOADED, __bundle_register, __bundle_modules)
+function Dump(typeDef, config)
+    local Il2CppConstants = Il2Cpp.Il2CppConstants
+    local config = config or {
+        Attribute = false,
+        Field = true,
+        Property = true,
+        Method = true,
+        FieldOffset = true,
+        MethodOffset = true,
+        TypeDefIndex = false,
+    }
+    local output = {}
+    local extends = {}
+    
+    local typeDefs = Il2Cpp.Il2CppTypeDefinition(typeDef.typeMetadataHandle or typeDef.typeDefinition)
+    local typeDefIndex = config.TypeDefIndex and typeDef:GetIndex()
+    local isValueType = typeDefs:IsValueType()
+    
+    if typeDef.parent >= 0 then
+        local parent = typeDef:GetParent()
+        local parentName = parent:GetName()
+        if not isValueType and not typeDefs:IsEnum() and parentName ~= "Object" then
+            table.insert(extends, parentName)
+        end
+    end
+    if typeDef.interfaces_count == typeDefs.interfaces_count then
+        for i, interface in ipairs(typeDef:GetInterfaces()) do
+            table.insert(extends, interface:GetName())
+        end
+    end
+    
+    table.insert(output, string.format("\n// Namespace: %s", typeDef:GetNamespace()))
+    
+    
+    local visibility = bit32.band(typeDefs.flags, Il2CppConstants.TYPE_ATTRIBUTE_VISIBILITY_MASK)
+    local visibilityStr = ""
+    if visibility == Il2CppConstants.TYPE_ATTRIBUTE_PUBLIC or visibility == Il2CppConstants.TYPE_ATTRIBUTE_NESTED_PUBLIC then
+        visibilityStr = "public "
+    elseif visibility == Il2CppConstants.TYPE_ATTRIBUTE_NOT_PUBLIC or visibility == Il2CppConstants.TYPE_ATTRIBUTE_NESTED_FAM_AND_ASSEM or visibility == Il2CppConstants.TYPE_ATTRIBUTE_NESTED_ASSEMBLY then
+        visibilityStr = "internal "
+    elseif visibility == Il2CppConstants.TYPE_ATTRIBUTE_NESTED_PRIVATE then
+        visibilityStr = "private "
+    elseif visibility == Il2CppConstants.TYPE_ATTRIBUTE_NESTED_FAMILY then
+        visibilityStr = "protected "
+    elseif visibility == Il2CppConstants.TYPE_ATTRIBUTE_NESTED_FAM_OR_ASSEM then
+        visibilityStr = "protected internal "
+    end
+    if bit32.band(typeDefs.flags, Il2CppConstants.TYPE_ATTRIBUTE_ABSTRACT) ~= 0 and bit32.band(typeDefs.flags, Il2CppConstants.TYPE_ATTRIBUTE_SEALED) ~= 0 then
+        visibilityStr = visibilityStr .. "static "
+    elseif bit32.band(typeDefs.flags, Il2CppConstants.TYPE_ATTRIBUTE_INTERFACE) == 0 and bit32.band(typeDefs.flags, Il2CppConstants.TYPE_ATTRIBUTE_ABSTRACT) ~= 0 then
+        visibilityStr = visibilityStr .. "abstract "
+    elseif not typeDefs:IsValueType() and not typeDefs:IsEnum() and bit32.band(typeDefs.flags, Il2CppConstants.TYPE_ATTRIBUTE_SEALED) ~= 0 then
+        visibilityStr = visibilityStr .. "sealed "
+    end
+    local typeKind = ""
+    if bit32.band(typeDefs.flags, Il2CppConstants.TYPE_ATTRIBUTE_INTERFACE) ~= 0 then
+        typeKind = "interface "
+    elseif typeDefs:IsEnum() then
+        typeKind = "enum "
+    elseif isValueType then
+        typeKind = "struct "
+    else
+        typeKind = "class "
+    end
+    local typeName = typeDef:GetName()
+    local extendsStr = #extends > 0 and string.format(" : %s", table.concat(extends, ", ")) or ""
+    local typeDefIndexStr = config.TypeDefIndex and string.format(" // TypeDefIndex: %d", typeDefIndex) or ""
+    table.insert(output, string.format("%s%s%s%s%s\n{", visibilityStr, typeKind, typeName, extendsStr, typeDefIndexStr))
+    
+    
+    -- Dump fields
+    if config.Field and typeDef.field_count > 0 then
+        table.insert(output, "\t// Fields")
+        for i = 0, typeDef.field_count - 1 do
+            local fieldDef = type(typeDef.fields) == "number" and Il2Cpp.Field(typeDef.fields + i * Il2Cpp.FieldInfo.size) or typeDef.fields[i+1]
+            table.insert(output, fieldDef:ToString(typeDefs.fieldStart + i, isValueType))
+        end
+    end
+
+    -- Dump properties
+    if config.Property and typeDef.property_count > 0 then
+        table.insert(output, "\n\t// Properties")
+        for i = 0, typeDef.property_count - 1 do
+            if typeDef.properties == 0 then 
+                table.insert(output, "\t// propertyInfo: 0x0")
+                break 
+            end
+            local propertyDef = Il2Cpp.PropertyInfo(typeDef.properties + i * Il2Cpp.PropertyInfo.size)
+            if config.Attribute then
+                table.insert(output, self:getCustomAttribute(imageDef, propertyDef.customAttributeIndex, propertyDef.token, "\t"))
+            end
+            local propertyType, modifiers = "", ""
+            if propertyDef.get ~= 0 then
+                local methodDef = Il2Cpp.Method(propertyDef.get)
+                modifiers = Il2Cpp:GetModifiers(methodDef)
+                propertyType = methodDef:GetReturnType()
+            elseif propertyDef.set ~= 0 then
+                local methodDef = Il2Cpp.Method(propertyDef.set)
+                modifiers = Il2Cpp:GetModifiers(methodDef)
+                local parameterDef = methodDef:GetParam()
+                propertyType = parameterDef[1]:GetType()
+            end
+            local propertyName = propertyDef.name
+            local propertyTypeName = tostring(propertyType)
+            local accessors = {}
+            if propertyDef.get ~= 0 then
+                table.insert(accessors, "get; ")
+            end
+            if propertyDef.set ~= 0 then
+                table.insert(accessors, "set; ")
+            end
+            table.insert(output, string.format("\t%s%s %s { %s}", modifiers, propertyTypeName, propertyName, table.concat(accessors)))
+        end
+    end
+
+    -- Dump methods
+    if config.Method and typeDef.method_count > 0 then
+        table.insert(output, "\n\t// Methods")
+        for i = 0, typeDefs.method_count - 1 do
+            local methodDef = type(typeDef.methods) == "number" and Il2Cpp.Method(Il2Cpp.GetPtr(typeDef.methods + i * Il2Cpp.pointSize)) or typeDef.methods[i+1]
+            --local methodDef = Il2Cpp.Meta:GetMethodDefinition(typeDefs.methodStart + i)
+            table.insert(output, "")
+            table.insert(output, methodDef:ToString())
+            
+            -- Dump generic method specs
+            -- tạm thời bỏ qua vì tốn nhiều thời gian 
+            local methodIndex = 0--methodDef:GetIndex()
+            if Il2Cpp.methodDefinitionMethodSpecs[methodIndex] then
+                table.insert(output, "\t/* GenericInstMethod :")
+                local groups = {}
+                for _, methodSpec in ipairs(Il2Cpp.methodDefinitionMethodSpecs[methodIndex]) do
+                    local ptr = Il2Cpp.methodSpecGenericMethodPointers[methodSpec.methodDefinitionIndex .. ":" .. methodSpec.classIndexIndex .. ":" .. methodSpec.methodIndexIndex] or 0
+                    if not groups[ptr] then
+                        groups[ptr] = {}
+                    end
+                    table.insert(groups[ptr], methodSpec)
+                end
+                for ptr, group in pairs(groups) do
+                    table.insert(output, "\t|")
+                    if ptr > 0 then
+                        local fixedPointer = ptr - Il2Cpp.il2cppStart
+                        table.insert(output, string.format("\t|-RVA: 0x%x Offset: 0x%x VA: 0x%x", fixedPointer, fixedPointer, ptr))
+                    else
+                        table.insert(output, "\t|-RVA: -1 Offset: -1")
+                    end
+                    for _, methodSpec in ipairs(group) do
+                        local typeName, methodName = Il2Cpp.Meta:GetMethodSpecName(methodSpec)
+                        table.insert(output, string.format("\t|-%s.%s", typeName, methodName))
+                    end
+                end
+                table.insert(output, "\t*/")
+            end-- ]]
+        end
+    end
+    table.insert(output, "}")
+    return table.concat(output, "\n")
+end
+
+return Dump
+
+
+end)
+__bundle_register("api.Field", function(require, _LOADED, __bundle_register, __bundle_modules)
+---@class Field
+---Module for handling Il2Cpp field operations and metadata
+local Field = {
+    DumpFieldValues = true
+}
+
+---Get the name of a field
+-- @param field table The field object
+-- @return string Field name
+function Field.GetName(field)
+    return field.name
+end
+
+---Get the parent class of a field
+-- @param field table The field object
+-- @return table Parent class object
+function Field.GetParent(field)
+    if type(field.parent) == "table" then
+        return field.parent
+    end
+    field.parent = Il2Cpp.Class(field.parent)
+    return field.parent
+end
+
+---Get the offset of a field
+-- @param field table The field object
+-- @return number Field offset
+function Field.GetOffset(field, isValueType, isStatic)
+    return (isValueType and not isStatic and field.offset >= Il2Cpp.type.Object.size) and field.offset - Il2Cpp.type.Object.size or field.offset
+end
+
+---Get the type of a field
+-- @param field table The field object
+-- @return table Type object
+function Field.GetType(field)
+    if type(field.type) == "table" then
+        return field.type
+    end
+    field.type = Il2Cpp.Type(field.type)
+    return field.type
+end
+
+---Check if a field is an instance field
+-- @param field table The field object
+-- @return boolean True if the field is an instance field
+function Field.IsInstance(field)
+    local attrs = Field.GetType(field).attrs
+    return bit32.band(attrs, 0x0010) == 0 -- FIELD_ATTRIBUTE_STATIC = 0x0010
+end
+
+---Check if a field is a normal static field
+-- @param field table The field object
+-- @return boolean True if the field is a normal static field
+function Field.IsNormalStatic(field)
+    if not bit32.band(field.type.attrs, 0x0010) then -- FIELD_ATTRIBUTE_STATIC
+        return false
+    end
+    if field.offset == -1 then -- THREAD_STATIC_FIELD_OFFSET
+        return false
+    end
+    if bit32.band(field.type.attrs, 0x0040) ~= 0 then -- FIELD_ATTRIBUTE_LITERAL
+        return false
+    end
+    return true
+end
+
+---Get the value of an instance field
+-- @param field table The field object
+-- @param obj number Object address
+-- @return any Field value
+-- @error Throws an error if the field is not an instance field
+function Field.GetValue(field, obj)
+    if not Field.IsInstance(field) then
+        error("Field must be an instance field")
+    end
+    local tInfo = Il2Cpp.type[tostring(field:GetType())]
+    local results = {}
+    if type(obj) == "table" then
+        for i, v in ipairs(obj) do
+            results[#results+1] = {address = v.address + field.offset, flags = tInfo and tInfo.flags or Il2Cpp.MainType, name = field.name}
+        end
+    else 
+        results[#results+1] = {address = obj + field.offset, flags = tInfo and tInfo.flags or Il2Cpp.MainType, name = field.name}
+    end
+    return gg.getValues(results), results
+end
+
+---Set the value of an instance field
+-- @param field table The field object
+-- @param obj table Object address
+-- @param value any New value to set
+-- @error Throws an error if the field is not an instance field
+function Field.SetValue(field, obj, value)
+    if not Field.IsInstance(field) then
+        error("Field must be an instance field")
+    end
+    local tInfo = Il2Cpp.type[tostring(field:GetType())]
+    local results = {}
+    if type(obj) == "table" then
+        for i, v in ipairs(obj) do
+            results[#results+1] = {address = v.address + field.offset, flags = tInfo and tInfo.flags or Il2Cpp.MainType, value = value}
+        end
+    else 
+        results[#results+1] = {address = obj + field.offset, flags = tInfo and tInfo.flags or Il2Cpp.MainType, value = value}
+    end
+    gg.setValues(results)
+    return results
+end
+
+---Get the value of a static field
+-- @param field table The field object
+-- @return any Static field value
+-- @error Throws an error if the field is not a normal static field
+function Field.StaticGetValue(field)
+    if not Field.IsNormalStatic(field) then
+        error("Field must be a normal static field")
+    end
+    local address = field:GetParent().static_fields + field.offset
+    local tInfo = Il2Cpp.type[tostring(field:GetType())]
+    local result = {{address = address, flags = tInfo and tInfo.flags or Il2Cpp.MainType, name = field:GetName()}}
+    return Il2Cpp.gV(result), result
+end
+
+---Set the value of a static field
+-- @param field table The field object
+-- @param value any New value to set
+-- @error Throws an error if the field is not a normal static field
+function Field.StaticSetValue(field, value)
+    if not Field.IsNormalStatic(field) then
+        error("Field must be a normal static field")
+    end
+    local address = Il2Cpp.gV(field.parent.static_fields) + field.offset
+    local tInfo = Il2Cpp.type[field.type.type]
+    gg.setValues({{address = address, flags = tInfo and tInfo.flags or Il2Cpp.MainType, value = value}})
+end
+
+
+function Field.GetIndex(field, typeDefs)
+    local typeDef = field:GetParent()
+    local _, i = typeDef:GetField(field:GetName())
+    local typeDefs = typeDefs or typeDef:GetTypeDefinition(true)
+    return typeDefs.fieldStart + i
+end
+
+function Field.AddList(field)
+   Il2Cpp.aL(field.address, field:ToString())
+end
+
+
+function Field.ToString(field, fieldIndex, isValueType)
+    local output = {}
+    local fieldDef = field
+    local fieldType = fieldDef:GetType()
+    local isStatic = false
+    local isConst = false
+    local access = bit32.band(fieldType.attrs, Il2Cpp.Il2CppConstants.FIELD_ATTRIBUTE_FIELD_ACCESS_MASK)
+    local accessStr = ""
+    if access == Il2Cpp.Il2CppConstants.FIELD_ATTRIBUTE_PRIVATE then
+        accessStr = "private "
+    elseif access == Il2Cpp.Il2CppConstants.FIELD_ATTRIBUTE_PUBLIC then
+        accessStr = "public "
+    elseif access == Il2Cpp.Il2CppConstants.FIELD_ATTRIBUTE_FAMILY then
+        accessStr = "protected "
+    elseif access == Il2Cpp.Il2CppConstants.FIELD_ATTRIBUTE_ASSEMBLY or access == Il2Cpp.Il2CppConstants.FIELD_ATTRIBUTE_FAM_AND_ASSEM then
+        accessStr = "internal "
+    elseif access == Il2Cpp.Il2CppConstants.FIELD_ATTRIBUTE_FAM_OR_ASSEM then
+        accessStr = "protected internal "
+    end
+    if bit32.band(fieldType.attrs, Il2Cpp.Il2CppConstants.FIELD_ATTRIBUTE_LITERAL) ~= 0 then
+        isConst = true
+        accessStr = accessStr .. "const "
+    else
+        if bit32.band(fieldType.attrs, Il2Cpp.Il2CppConstants.FIELD_ATTRIBUTE_STATIC) ~= 0 then
+            isStatic = true
+            accessStr = accessStr .. "static "
+        end
+        if bit32.band(fieldType.attrs, Il2Cpp.Il2CppConstants.FIELD_ATTRIBUTE_INIT_ONLY) ~= 0 then
+            accessStr = accessStr .. "readonly "
+        end
+    end
+    local fieldName = fieldDef:GetName()
+    local fieldTypeName = tostring(fieldType)
+    local defaultValueStr = ""
+    
+    if Il2Cpp.Field.DumpFieldValues and isConst then
+        if not fieldIndex then
+            typeDef = Il2Cpp.Il2CppTypeDefinition(fieldDef:GetParent():GetTypeDefinition())
+            fieldIndex = fieldDef:GetIndex(typeDef)
+        end
+        local fieldDefaultValue = Il2Cpp.Meta:GetFieldDefaultValueFromIndex(fieldIndex)
+        if fieldDefaultValue and fieldDefaultValue.dataIndex ~= -1 then
+            local success, value = Il2Cpp.Meta:TryGetDefaultValue(fieldDefaultValue.typeIndex, fieldDefaultValue.dataIndex)
+            if success then
+                defaultValueStr = " = "
+                if type(value) == "string" then
+                    defaultValueStr = defaultValueStr .. string.format("\"%s\"", value:gsub("[\"\\]", "\\%0"))
+                elseif type(value) == "number" and math.floor(value) == value then
+                    defaultValueStr = defaultValueStr .. value
+                elseif value ~= nil then
+                    defaultValueStr = defaultValueStr .. tostring(value)
+                else
+                    defaultValueStr = defaultValueStr .. "null"
+                end
+            else
+                defaultValueStr = string.format(" /*Metadata offset 0x%x*/", value)
+            end
+        end
+    end
+    local offsetStr = ""
+    if not isConst then
+        offsetStr = string.format("; // 0x%x", fieldDef:GetOffset(isValueType, isStatic))
+    else
+        offsetStr = ";"
+    end
+    table.insert(output, string.format("\t%s%s %s%s%s", accessStr, fieldTypeName, fieldName, defaultValueStr, offsetStr))
+    return table.concat(output, "\n")
+end
+
+
+---Create a Field object from address or name
+-- @param searchParams string|number|table Field name or address or table address
+-- @return table Field object or array of field objects
+function Field:From(searchParams)
+    if Il2Cpp.__cache.Field[searchParams] then return Il2Cpp.__cache.Field[searchParams] end
+    local field = {}
+    local typeSearchParams = type(searchParams)
+    if typeSearchParams == "string" or typeSearchParams == "table" then
+        local res = typeSearchParams == "table" and searchParams or Il2Cpp.Meta.GetPointersToString(searchParams)
+        for i, v in ipairs(res) do
+            local addr = Il2Cpp.GetPtr(v.address + (Il2Cpp.pointSize * 2))
+            field[#field+1] = Il2Cpp.Class.IsClassInfo(addr) and Il2Cpp.Class(addr):GetField(Il2Cpp.Utf8ToString(Il2Cpp.FixValue(v.value)))
+            --[[
+            if f then
+                local kls = Il2Cpp.FieldInfo(v.address)
+                kls.address = v.address
+                local res = setmetatable(kls, {
+                    __index = Field,
+                    __name = kls.name
+                })
+                field[#field+1] = f
+            end
+            ]]
+        end
+    elseif typeSearchParams == "number" then
+        local field = Il2Cpp.FieldInfo(searchParams)
+        field.address = searchParams
+        return setmetatable(field, {
+            __index = Field,
+            __name = field.name
+        })
+    else
+        Il2Cpp.log:error("Il2Cpp.Field(searchParams): param searchParams string|number|table Field name or address or table address")
+    end
+    Il2Cpp.__cache.Field[searchParams] = field
+    return field--#field == 1 and field[1] or field
+end
+
+return setmetatable(Field, {
+    ---Metatable call handler for Field
+    -- Allows Field to be called as a function
+    -- @param ... any Arguments passed to Field.From
+    -- @return table Field object or array of field objects
+    __call = Field.From
+})
+
+end)
+__bundle_register("api.Method", function(require, _LOADED, __bundle_register, __bundle_modules)
+---@class Method
+---Module for handling Il2Cpp method operations and metadata
+local Method = require "utils.Hook"
+-- Version-specific constants for method parameter handling
+--Method.parameterStart = Il2Cpp.Version >= 31 and 16 or 12
+--Method.parameterSize = Il2Cpp.Version <= 24 and 16 or 12
+
+Method.DumpParamValues = true
+
+---Get the name of a method
+-- @param method table The method object
+-- @return string Method name
+function Method.GetName(method)
+    return method.name
+end
+
+function Method.SetValue(method, value)
+    local func = Il2Cpp.Patch:setValues(method.methodPointer, value, method:GetReturnType().type)
+    function method.RestoreValue()
+        func()
+        method.RestoreValue = nil
+    end
+end
+
+---Get the declaring class of a method
+-- @param method table The method object
+-- @return table Declaring class object
+function Method.GetDeclaringType(method)
+    return Il2Cpp.Class(method.klass)
+end
+
+---Get the return type of a method
+-- @param method table The method object
+-- @return table Return type object
+function Method.GetReturnType(method)
+    return Il2Cpp.Type(method.return_type)
+end
+
+---Get the parameter count of a method
+-- @param method table The method object
+-- @return number Number of parameters
+function Method.GetParamCount(method)
+    return method.parameters_count
+end
+
+---Get the parameters of a method
+-- @param method table The method object
+-- @return table Array of parameter information
+function Method.GetParam(method, dump)
+    if type(method.parameters) == "table" then
+        return method.parameters
+    end
+    --local methodDef = method.methodMetadataHandle or method.methodDefinition
+    --local paramStart = Il2Cpp.Meta.Header.parameters + Il2Cpp.gV(methodDef + Method.parameterStart, 4) * Method.parameterSize
+    local methodDef = Il2Cpp.Il2CppMethodDefinition(method.methodMetadataHandle or method.methodDefinition)
+    --[[
+    local param = Il2Cpp.classArray(method.parameters, Method.GetParamCount(method), Il2Cpp.Version > 27 and "Pointer" or Il2Cpp.ParameterInfo)
+    for i, v in ipairs(param) do
+        local il2cppType, name, token
+        if Il2Cpp.Version > 27 then
+            il2cppType = v--Il2Cpp.Type(v)
+            local param = Il2Cpp.Meta:GetParameterDefinition(methodDef.parameterStart + (i - 0))  
+            --local addr = Il2Cpp.Meta.Header.parameters + (methodDef.parameterStart + i - 1)
+            name = Il2Cpp.Meta:GetStringFromIndex(param.nameIndex)--Il2Cpp.gV(addr, 4))
+            token = param.token--Il2Cpp.gV(addr + 4, 4)
+        else 
+            il2cppType = v.parameter_type--Il2Cpp.Type(v.parameter_type)
+            name = v.name
+            token = v.token
+        end
+        method.parameters[i] = setmetatable({
+            typeIndex = il2cppType,
+            name = name,
+            token = token
+        }, {
+            __index = Il2Cpp.Param
+        })
+    end
+    ]]
+    method.parameters = {}
+    -- [==[
+    for index = 0, Method.GetParamCount(method) - 1 do
+        --[[
+        paramStart = paramStart + (index * Method.parameterSize)
+        local token = paramStart + 4
+        local paramType = paramStart + Method.parameterSize - 4
+        local paramInfo = Il2Cpp.gV({{address = paramStart, flags = 4}, {address = paramType, flags = 4},{address = token, flags = 4}})
+        method.parameters[index + 1] = {
+            type = Il2Cpp.Type(paramInfo[2].value),
+            name = Il2Cpp.Meta:GetStringFromIndex(paramInfo[1].value),
+            token = paramInfo[3].value
+        }
+        ]]
+        
+        local paramDef = Il2Cpp.Param(methodDef.parameterStart + index)
+        method.parameters[index + 1] = dump and tostring(paramDef) or paramDef
+    end
+    --]==]
+    return dump and ("(" .. table.concat(method.parameters, ", ") .. ")") or method.parameters
+end
+
+---Check if a method is an instance method
+-- @param method table The method object
+-- @return boolean True if the method is an instance method
+function Method.IsInstance(method)
+    return bit32.band(method.flags, 0x0010) == 0 -- METHOD_ATTRIBUTE_STATIC = 0x0010
+end
+
+---Check if a method is abstract
+-- @param method table The method object
+-- @return boolean True if the method is abstract
+function Method.IsAbstract(method)
+    return (method.flags & Il2Cpp.Il2CppFlags.Method.METHOD_ATTRIBUTE_ABSTRACT) ~= 0
+end
+
+---Check if a method is static
+-- @param method table The method object
+-- @return boolean True if the method is static
+function Method.IsStatic(method)
+    return (method.flags & Il2Cpp.Il2CppFlags.Method.METHOD_ATTRIBUTE_STATIC) ~= 0
+end
+
+---Get the access level of a method
+-- @param method table The method object
+-- @return string Access level description
+function Method.GetAccess(method)
+    return Il2Cpp.Il2CppFlags.Method.Access[method.flags & Il2Cpp.Il2CppFlags.Method.METHOD_ATTRIBUTE_MEMBER_ACCESS_MASK] or ""
+end
+
+---Check if a method is generic
+-- @param method table The method object
+-- @return boolean True if the method is generic
+function Method.IsGeneric(method)
+    return method.is_generic ~= 0
+end
+
+---Check if a method is a generic instance
+-- @param method table The method object
+-- @return boolean True if the method is a generic instance
+function Method.IsGenericInstance(method)
+    return method.is_inflated ~= 0 and method.is_generic == 0
+end
+
+function Method.GetIndex(method)  
+    return ((method.methodMetadataHandle or method.methodDefinition) - Il2Cpp.Meta.Header.methods) / Il2Cpp.Il2CppMethodDefinition.size
+end  
+
+function Method.GetClass(method)
+    if type(method.klass) == "number" then
+        method.klass = Il2Cpp.Class(method.klass)
+    end
+    return method.klass
+end
+
+function Method.ToString(method)
+    if method.address == 0 then return "\t// methodInfo: 0x0" end
+    local output = {}
+    local methodDef = method
+    
+    local methodDefs = methodDef.parameters_count ~= 0 and Il2Cpp.Il2CppMethodDefinition(methodDef.methodMetadataHandle or methodDef.methodDefinition)
+    local isAbstract = bit32.band(methodDef.flags, Il2Cpp.Il2CppConstants.METHOD_ATTRIBUTE_ABSTRACT) ~= 0
+    
+    
+    local methodPointer = Il2Cpp.FixValue(methodDef.methodPointer)
+    if not isAbstract and methodPointer > 0 then
+        local fixedMethodPointer = methodDef.address
+        table.insert(output, string.format("\t// RVA: 0x%x Offset: 0x%x VA: 0x%x", fixedMethodPointer, methodPointer  - Il2Cpp.il2cppStart, methodPointer))
+    else
+        table.insert(output, "\t// RVA: -1 Offset: -1")
+    end
+    if methodDef.slot ~= -1 then
+        table.insert(output, string.format(" Slot: %d", methodDef.slot))
+    end
+    
+    local modifiers = Il2Cpp:GetModifiers(methodDef)
+    local methodReturnType = methodDef:GetReturnType()
+    local methodName = methodDef:GetName()
+    local genericContainers = methodDef.genericContainerHandle or methodDef.genericContainer
+    if genericContainers ~= 0 then
+        local genericContainer = Il2Cpp.Meta:GetGenericContainer(genericContainers)
+        methodName = methodName .. Il2Cpp.Meta:GetGenericContainerParams(genericContainer)
+    end
+    local returnPrefix = methodReturnType.byref == 1 and "ref " or ""
+    local parameterStrs = {}
+    for j = 0, methodDef.parameters_count - 1 do
+        local parameterDef = Il2Cpp.Param(methodDefs.parameterStart + j)
+        local parameterName = parameterDef:GetName()
+        local parameterType = parameterDef:GetType()
+        local parameterTypeName = parameterType:GetName()
+        local paramPrefix = ""
+        if parameterType.byref == 1 then
+            if bit32.band(parameterType.attrs, Il2Cpp.Il2CppConstants.PARAM_ATTRIBUTE_OUT) ~= 0 and bit32.band(parameterType.attrs, Il2Cpp.Il2CppConstants.PARAM_ATTRIBUTE_IN) == 0 then
+                paramPrefix = "out "
+            elseif bit32.band(parameterType.attrs, Il2Cpp.Il2CppConstants.PARAM_ATTRIBUTE_OUT) == 0 and bit32.band(parameterType.attrs, Il2Cpp.Il2CppConstants.PARAM_ATTRIBUTE_IN) ~= 0 then
+                paramPrefix = "in "
+            else
+                paramPrefix = "ref "
+            end
+        else
+            if bit32.band(parameterType.attrs, Il2Cpp.Il2CppConstants.PARAM_ATTRIBUTE_IN) ~= 0 then
+                paramPrefix = paramPrefix .. "[In] "
+            end
+            if bit32.band(parameterType.attrs, Il2Cpp.Il2CppConstants.PARAM_ATTRIBUTE_OUT) ~= 0 then
+                paramPrefix = paramPrefix .. "[Out] "
+            end
+        end
+        local paramStr = paramPrefix .. parameterTypeName .. " " .. parameterName
+        if Il2Cpp.Method.DumpParamValues then
+            local paramDefault = Il2Cpp.Meta:GetParameterDefaultValueFromIndex(methodDefs.parameterStart + j - 1)
+            if paramDefault and paramDefault.dataIndex ~= -1 then
+                local success, value = Il2Cpp.Meta:TryGetDefaultValue(paramDefault.typeIndex, paramDefault.dataIndex)
+                if success then
+                    paramStr = paramStr .. " = "
+                    if type(value) == "string" then
+                        paramStr = paramStr .. string.format("\"%s\"", value:gsub("[\"\\]", "\\%0"))
+                    elseif type(value) == "number" and math.floor(value) == value then
+                        paramStr = paramStr .. value --string.format("\\x%x", value)
+                    elseif value ~= nil then
+                        paramStr = paramStr .. tostring(value)
+                    else
+                        paramStr = paramStr .. "null"
+                    end
+                else
+                    paramStr = paramStr .. string.format(" /*Metadata offset 0x%x*/", value)
+                end
+            end
+        end
+        table.insert(parameterStrs, paramStr)
+    end
+    local methodBody = isAbstract and ";" or " { }"
+    table.insert(output, string.format("\t%s%s%s %s(%s)%s", modifiers, returnPrefix, tostring(methodReturnType), methodName, table.concat(parameterStrs, ", "), methodBody))
+    return table.concat(output, "\n")
+end 
+
+
+
+
+
+function Method:AddList()
+    Il2Cpp.aL(self.address, self:ToString())
+end
+
+
+
+
+
+---Create a Method object from address or name
+-- @param searchParams number|string|table Address of the method info or name or table address name
+-- @param addList any Additional parameter (unused in current implementation)
+-- @return table Method object
+function Method:From(searchParams, addList)
+    if Il2Cpp.__cache.Method[searchParams] then return Il2Cpp.__cache.Method[searchParams] end
+    local method = {}
+    if type(searchParams) == "string" or type(searchParams) == "table" then
+        local res = type(searchParams) == "table" and searchParams or Il2Cpp.Meta.GetPointersToString(searchParams)
+        for i, v in ipairs(res) do
+            local addr = Il2Cpp.GetPtr(v.address + (Il2Cpp.pointSize * 1))
+            local IsClass = Il2Cpp.Class.IsClassInfo(addr)
+            --local addr = Il2Cpp.GetPtr(v.address + (Il2Cpp.pointSize * 2))
+            --local IsType = Il2Cpp.Type(addr)
+            if IsClass then
+                v.address = v.address - (Il2Cpp.Version < 29 and Il2Cpp.pointSize * 2 or Il2Cpp.pointSize * 3)
+                --[[
+                local kls = Il2Cpp.MethodInfo(v.address, addList)
+                kls.address = v.address
+                local res = setmetatable(kls, {
+                    __index = Method,
+                    __name = kls.name
+                })
+                ]]
+                method[#method+1] = Method(v.address, addList)
+            end
+        end
+    else
+        method = Il2Cpp.MethodInfo(searchParams, addList)
+        method.address = searchParams
+        return setmetatable(method, {
+            __index = Method,
+            __name = method.name
+        })
+    end
+    Il2Cpp.__cache.Method[searchParams] = method
+    return method--#method == 1 and method[1] or method
+end
+
+
+
+
+return setmetatable(Method, {
+    ---Metatable call handler for Method
+    -- Allows Method to be called as a function
+    -- @param ... any Arguments passed to Method.From
+    -- @return table Method object
+    __call = Method.From
+})
+end)
+__bundle_register("utils.Hook", function(require, _LOADED, __bundle_register, __bundle_modules)
+--- @module hook
+--- @brief Script Lua để hook memory, hỗ trợ mod game và reverse engineering với GameGuardian.
+--- @details Hỗ trợ cả kiến trúc 32-bit và 64-bit, cho phép hook method, param, field, và call.
+
+local gg = gg
+--local malloc = require "malloc"
+local info = gg.getTargetInfo()
+local x64 = info.x64
+
+--- @var pointerFlagsType number Loại flags cho con trỏ (32 cho 64-bit, 4 cho 32-bit)
+local pointerFlagsType = x64 and 32 or 4
+--- @var pointerSize number Kích thước con trỏ (8 cho 64-bit, 4 cho 32-bit)
+local pointerSize = x64 and 8 or 4
+--- @var armType number Loại ARM (6 cho 64-bit, 4 cho 32-bit)
+local armType = x64 and 6 or 4
+--- @var returnType number Kiểu trả về (0x10 cho 64-bit, 0x8 cho 32-bit)
+local returnType = x64 and 0x10 or 0x8
+--- @var jumpOpcode string Opcode để nhảy (jump) trong memory
+local jumpOpcode = x64 and "h5100005820021FD6" or "h04F01FE5"
+--- @var nullOpcode string|number Opcode rỗng (null) để điền mặc định
+local nullOpcode = x64 and "B4000000h" or 0
+
+--- @function table:union
+--- @brief Gộp nhiều bảng vào bảng hiện tại.
+--- @param ... table Các bảng cần gộp
+--- @return table Bảng hiện tại sau khi gộp
+table.__index = table
+setmetatable(table, {
+    __call = function(t, ...)
+        return setmetatable({}, table):union(...)
+    end
+})
+function table:union(...)
+    for i = 1, select('#', ...) do
+        local o = select(i, ...)
+        if o then
+            for k, v in pairs(o) do
+                self[k] = v
+            end
+        end
+    end
+    return self
+end
+
+--- @function getValue
+--- @brief Lấy giá trị từ memory tại địa chỉ cho trước.
+--- @param address number Địa chỉ memory
+--- @param flags number|nil Loại flags (nếu nil, dùng mặc định)
+--- @return table|number Giá trị từ memory
+--- @throws Nếu địa chỉ rỗng
+function getValue(address, flags)
+    if not address then
+        error("địa chỉ rỗng là sao?")
+    end
+    return not flags and gg.getValues(address) or gg.getValues({{address = address, flags = flags}})[1].value
+end
+
+--- @function setValues
+--- @brief Set giá trị vào memory và thêm vào danh sách GameGuardian.
+--- @param results table Bảng chứa các giá trị {address, flags, value, freeze}
+--- @param freeze boolean|nil Nếu true, giữ giá trị trong danh sách
+--- @return table Danh sách các giá trị đã set
+--- @throws Nếu bảng results rỗng
+function setValues(results, freeze)
+    if not results or next(results) == nil then
+        error("Bảng giá trị rỗng")
+    end
+    local t = {}
+    for i, v in pairs(results) do
+        t[#t + 1] = {address = v.address, flags = v.flags, value = v.value, freeze = true}
+    end
+    gg.addListItems(t)
+    gg.removeListItems(freeze and {} or t)
+    return t
+end
+
+--- @module opcode
+--- @brief Module xử lý opcode cho hook.
+local opcode = {}
+
+--- @function opcode.generateLDR
+--- @brief Tạo opcode LDR để load giá trị từ memory.
+--- @param param number Tham số (register index)
+--- @param index number Offset trong memory
+--- @param flags string Loại flags (int, float, double, string)
+--- @param x64 boolean Kiến trúc 64-bit hay không
+--- @return string Opcode LDR
+function opcode.generateLDR(param, index, flags, x64)
+    local iP = string.format("0x%X", index)
+    local opR = (x64 and flags or "R") .. param
+    return x64 and "~A8 LDR " .. opR .. ", [PC,#" .. iP .. "]" or "~A LDR " .. opR .. ", [PC,#" .. (iP - 8) .. "]"
+end
+
+--- @function opcode.generateSTR
+--- @brief Tạo opcode STR để store giá trị vào memory.
+--- @param param number Tham số (register index)
+--- @param offset number Offset trong memory
+--- @param flags string Loại flags (int, float, double, string)
+--- @param x64 boolean Kiến trúc 64-bit hay không
+--- @return string Opcode STR
+function opcode.generateSTR(param, offset, flags, x64)
+    local opR = (x64 and flags or "R") .. param
+    return x64 and "~A8 STR " .. opR .. ", [X0,#" .. offset .. "]" or "~A STR " .. opR .. ", [R0,#" .. offset .. "]"
+end
+
+--- @table hook
+--- @brief Đối tượng chính để hook memory.
+local hook = {}
+
+--- @field flags table Ánh xạ loại dữ liệu (int, float, double, string) sang ký hiệu register
+hook.flags = {int = "X", float = "S", double = "D", string = "X"}
+--- @field type table Ánh xạ loại dữ liệu sang flags của GameGuardian
+hook.type = {int = 4, float = 16, double = 64, string = pointerFlagsType}
+
+--- @function hook.addToResults
+--- @brief Thêm giá trị vào danh sách kết quả.
+--- @param res table Danh sách kết quả
+--- @param address number Địa chỉ memory
+--- @param flags number Loại flags
+--- @param value any Giá trị cần set
+function hook.addToResults(res, address, flags, value)
+    res[#res + 1] = {address = address, flags = flags, value = value}
+end
+
+--- @function hook:searchPointer
+--- @brief Tìm kiếm con trỏ trong memory.
+--- @param address number Địa chỉ cần tìm
+--- @param ranges number|nil Vùng memory để tìm (mặc định: 4 | 32 | -2080896)
+--- @return table Danh sách kết quả tìm kiếm
+--- @throws Nếu địa chỉ rỗng
+function hook:searchPointer(address, ranges)
+    if not address then
+        error("Địa chỉ rỗng")
+    end
+    gg.setRanges(ranges or (4 | 32 | -2080896))
+    gg.clearResults()
+    gg.searchNumber(address, pointerFlagsType)
+    local count = gg.getResultsCount()
+    if count == 0 and x64 then
+        gg.searchNumber(tostring(address | 0xB400000000000000), pointerFlagsType)
+        count = gg.getResultsCount()
+    end
+    if count == 0 then
+        print("Không tìm thấy con trỏ nào tại địa chỉ: " .. tostring(address))
+        return {}
+    end
+    local results = gg.getResults(count) or {}
+    gg.clearResults()
+    return results
+end
+
+--- @function hook:off
+--- @brief Tắt hook và khôi phục giá trị gốc.
+function hook:off()
+    if self.on then
+        setValues({self.methodInfo})
+        self.on = false
+        --print("Hook đã off")
+    end
+end
+
+setmetatable(hook, {
+    __call = function(self, ...)
+        return setmetatable({...}, {
+            __index = self,
+            __call = function(self, ...)
+                return self:init(...)
+            end
+        })
+    end
+})
+
+--- @field hook.call table Instance để hook call
+hook.call = hook()
+--- @field hook.method table Instance để hook method
+hook.method = hook()
+--- @field hook.field table Instance để hook field
+hook.field = hook()
+--- @field hook.param table Instance để hook param
+hook.param = hook()
+
+--- @var PARAM_OFFSET number Offset cho param (0x38 cho 64-bit, 0x30 cho 32-bit)
+local PARAM_OFFSET = x64 and 0x38 or 0x30
+--- @var FIELD_OFFSET number Offset cho field (gấp đôi PARAM_OFFSET)
+local FIELD_OFFSET = PARAM_OFFSET * 2
+hook.param.offset = { value = PARAM_OFFSET }
+hook.field.offset = { value = FIELD_OFFSET }
+
+--- @function hook.method:init
+--- @brief Khởi tạo hook cho method.
+--- @param methodInfoAddress number Địa chỉ của hàm
+--- @return table Instance hook.method
+--- @throws Nếu địa chỉ rỗng hoặc không hợp lệ
+function hook.method:init(methodInfo)
+    if not methodInfo then
+        error("Địa chỉ hàm rỗng")
+    end
+    self.methodInfo = {address = methodInfo.address, value = methodInfo.methodPointer, flags = pointerFlagsType}
+    self.methodPointer = self.methodInfo.value
+    if self.methodPointer == 0 then
+        error("địa chỉ " .. string.format("%X", self.methodPointer) .. " fail")
+    end
+    self.on = false
+    return self
+end
+
+--- @function hook.method:call
+--- @brief Gọi hàm với địa chỉ con trỏ mới.
+--- @param methodPointerAddress number Địa chỉ con trỏ mới
+--- @return table Instance hook.call
+function hook.method:call(methodInfo)
+    return hook.call(self.methodInfo.address)(methodInfo)
+end
+
+--- @function hook.method:param
+--- @brief Set tham số cho method hook.
+--- @param table table Bảng chứa tham số {param, flags, value}
+--- @return table Instance hook.method
+--- @throws Nếu bảng tham số rỗng hoặc không hợp lệ
+function hook.method:param(table)
+    if not table or next(table) == nil then
+        error("Bảng tham số rỗng")
+    end
+    if not self.on then
+        local values = {
+            {address = self.methodPointer, flags = pointerFlagsType},
+            {address = self.methodPointer + pointerSize, flags = pointerFlagsType}
+        }
+        self.results = gg.getValues(values)
+        self.alloc = gg.allocatePage(gg.PROT_READ | gg.PROT_WRITE | gg.PROT_EXEC, self.methodPointer)
+
+        local result = {}
+        hook.addToResults(result, self.alloc, pointerFlagsType, self.results[1].value)
+        hook.addToResults(result, self.alloc + pointerSize, pointerFlagsType, self.results[2].value)
+        hook.addToResults(result, self.methodPointer, pointerFlagsType, jumpOpcode)
+        hook.addToResults(result, self.methodPointer + pointerSize, pointerFlagsType, self.alloc)
+
+        setValues(result)
+        self.param = hook.param(self.methodPointer + (pointerSize * 2), self.alloc + (pointerSize * 2))
+        setValues(self.param:setValues(table))
+        self.on = true
+        return self
+    end
+    setValues(self.param:setValues(table))
+    self.on = true
+    return self
+end
+
+--- @function hook.method:off
+--- @brief Tắt hook method và khôi phục giá trị gốc.
+function hook.method:off()
+    if self.on then
+        setValues(self.results)
+        self.on = false
+        --print("Method hook off")
+    end
+end
+
+--- @function hook.param:init
+--- @brief Khởi tạo hook cho tham số.
+--- @param methodPointerAddress number Địa chỉ hàm
+--- @param allocAddress number|nil Địa chỉ phân bổ memory (nếu nil, tự động phân bổ)
+--- @return table Instance hook.param
+--- @throws Nếu địa chỉ rỗng hoặc không hợp lệ
+function hook.param:init(methodPointerAddress, allocAddress)
+    if not methodPointerAddress then
+        error("Địa chỉ hàm rỗng")
+    end
+    self.methodPointer = methodPointerAddress
+    if self.methodPointer == 0 then
+        error("Địa chỉ " .. string.format("%X", self.methodPointer) .. " fail")
+    end
+    self.alloc = allocAddress or gg.allocatePage(gg.PROT_READ | gg.PROT_WRITE | gg.PROT_EXEC, self.methodPointer)
+    local res = {}
+    for i = 0, 9 do
+        hook.addToResults(res, self.alloc + (i * 4), 4, nullOpcode)
+    end
+    hook.addToResults(res, self.alloc + (10 * 4), pointerFlagsType, jumpOpcode)
+    hook.addToResults(res, self.alloc + (10 * 4) + (x64 and 8 or 4), pointerFlagsType, methodPointerAddress)
+    setValues(res)
+    return self
+end
+
+--- @function hook.param:setValues
+--- @brief Set giá trị cho tham số hook.
+--- @param table table Bảng chứa tham số {param, flags, value}
+--- @return table Danh sách giá trị để set vào memory
+--- @throws Nếu flags không hợp lệ
+function hook.param:setValues(table)
+    local res = {}
+    for i, v in pairs(table) do
+        if not v.flags or not self.type[v.flags] then
+            error("Loại flags không hợp lệ: " .. tostring(v.flags))
+        end
+        local param = v.param or i
+        local index = (param - 1) * 4
+        local iP = self.offset.value + index
+        local opLDR = v.flags and opcode.generateLDR(param, iP, self.flags[v.flags], x64) or nullOpcode
+        hook.addToResults(res, self.alloc + index, 4, opLDR)
+        hook.addToResults(res, self.alloc + index + iP, self.type[v.flags] or 32, v.flags and v.value or 0)
+    end
+    return res
+end
+
+--- @function hook.call:init
+--- @brief Khởi tạo hook cho call.
+--- @param methodInfoAddress number Địa chỉ hàm
+--- @return function Hàm để set địa chỉ con trỏ mới
+--- @throws Nếu địa chỉ rỗng hoặc không hợp lệ
+function hook.call:init(methodInfo)
+    if not methodInfo then
+        error("Địa chỉ hàm rỗng")
+    end
+    self.methodInfo = {address = methodInfo.address, value = methodInfo.methodPointer, flags = pointerFlagsType}
+    self.methodPointer = self.methodInfo.value
+    if self.methodPointer == 0 then
+        error("Địa chỉ " .. string.format("%X", self.methodPointer) .. " fail")
+    end
+    self.on = false
+    return function(methodInfo)
+        self.to = methodInfo.methodPointer
+        self.param = hook.param(methodInfo.methodPointer)
+        self.alloc = self.param.alloc
+        return self
+    end
+end
+
+--- @function hook.call:setValues
+--- @brief Set giá trị cho call hook.
+--- @param table table Bảng chứa tham số {param, flags, value}
+--- @return table Instance hook.call
+function hook.call:setValues(table)
+    local res = self.param:setValues(table)
+    if not self.on then
+        hook.addToResults(res, self.methodInfo.address, self.methodInfo.flags, self.alloc)
+        self.on = true
+    end
+    setValues(res)
+    return self
+end
+
+--- @function hook.field:init
+--- @brief Khởi tạo hook cho field.
+--- @param methodInfoAddress number Địa chỉ field
+--- @return table Instance hook.field
+--- @throws Nếu địa chỉ rỗng hoặc không hợp lệ
+function hook.field:init(methodInfo)
+    if not methodInfo then
+        error("Địa chỉ hàm rỗng")
+    end
+    self.methodInfo = {address = methodInfo.address, value = methodInfo.methodPointer, flags = pointerFlagsType}
+    self.methodPointer = self.methodInfo.value
+    if self.methodPointer == 0 then
+        error("Địa chỉ " .. string.format("%X", self.methodPointer) .. " fail")
+    end
+    self.on = false
+    self.alloc = gg.allocatePage(gg.PROT_READ | gg.PROT_WRITE | gg.PROT_EXEC, methodInfo.methodPointer)
+    local res = {}
+    for i = 0, 21 do
+        hook.addToResults(res, self.alloc + (i * 4), 4, nullOpcode)
+    end
+    hook.addToResults(res, self.alloc + (22 * 4), pointerFlagsType, jumpOpcode)
+    hook.addToResults(res, self.alloc + (22 * 4) + (x64 and 8 or 4), pointerFlagsType, self.methodPointer)
+    setValues(res)
+    return self
+end
+
+--- @function hook.field:setValues
+--- @brief Set giá trị cho field hook.
+--- @param table table Bảng chứa {offset, flags, value}
+--- @return table Instance hook.field
+--- @throws Nếu offset hoặc flags không hợp lệ
+function hook.field:setValues(table)
+    local res = {}
+    for i, v in pairs(table) do
+        if not v.offset or not v.flags or not self.type[v.flags] then
+            error("Offset hoặc flags không hợp lệ: " .. tostring(v.flags))
+        end
+        local offset = v.offset
+        local index = (i - 1) * 4
+        local iP = self.offset.value + index
+        local opR = (x64 and self.flags[v.flags] or "R") .. i
+        local opLDR = v.flags and opcode.generateLDR(i, iP, self.flags[v.flags], x64) or nullOpcode
+        local opSTR = v.flags and opcode.generateSTR(i, offset, self.flags[v.flags], x64) or nullOpcode
+        hook.addToResults(res, self.alloc + index, 4, opLDR)
+        hook.addToResults(res, self.alloc + index + 8, 4, opSTR)
+        hook.addToResults(res, self.alloc + index + iP, self.type[v.flags] or 32, v.flags and v.value or 0)
+    end
+    if not self.on then
+        hook.addToResults(res, self.methodInfo.address, self.methodInfo.flags, self.alloc)
+        self.on = true
+    end
+    setValues(res)
+    return self
+end
+
+
+return hook
+end)
+__bundle_register("api.Param", function(require, _LOADED, __bundle_register, __bundle_modules)
+---@class Param
+---Module for handling Il2Cpp param operations and metadata
+local Param = {}
+
+---Get the name of a param
+-- @param param table The param object
+-- @return string Param name
+function Param.GetName(param)
+    if not param.name then
+        param.name = Il2Cpp.Meta:GetStringFromIndex(param.nameIndex)
+    end
+    return param.name 
+end
+
+---Get the offset of a param
+-- @param param table The param object
+-- @return number Param offset
+function Param.GetToken(param)
+    return param.token
+end
+
+---Get the type of a param
+-- @param param table The param object
+-- @return table Type object
+function Param.GetType(param)
+    if not param.type then
+        param.type = Il2Cpp.Type(param.typeIndex)
+    end
+    return param.type
+end
+
+function Param:From(param_index, add)
+    local param = Il2Cpp.Meta:GetParameterDefinition(param_index, add)
+    --param.index = param_index
+    return setmetatable(param, {
+        __index = Param,
+        __name = 'Param[' .. param_index .. ']',
+        __tostring = Param.ToString
+    })
+end
+
+function Param.ToString(param)
+    return tostring(Param.GetType(param)) .. " " .. Param.GetName(param)
+end
+
+return setmetatable(Param, {
+    __call = Param.From
+})
+end)
+__bundle_register("api.Object", function(require, _LOADED, __bundle_register, __bundle_modules)
+---@class ObjectApi
+---Module for handling Il2Cpp object operations and memory management
+local ObjectApi = {
+
+    ---@field regionObject number Memory region to search for objects (default: gg.REGION_ANONYMOUS)
+    regionObject = gg.REGION_ANONYMOUS,
+    
+    ---Filter objects to remove invalid references and handle 64-bit Android SDK 30+ special cases
+    -- @param self ObjectApi The ObjectApi instance
+    -- @param Objects table Table of objects to filter
+    -- @return table Filtered objects with valid references
+    FilterObjects = function(self, Objects)
+        local FilterObjects = {}
+        for k, v in ipairs(gg.getValuesRange(Objects)) do
+            if v == 'A' then
+                FilterObjects[#FilterObjects + 1] = Objects[k]
+            end
+        end
+        Objects = FilterObjects
+        gg.loadResults(Objects)
+        gg.searchPointer(0)
+        if gg.getResultsCount() <= 0 and Il2Cpp.Info.platform and Il2Cpp.Info.sdk >= 30 then
+            local FixRefToObjects = {}
+            for k, v in ipairs(Objects) do
+                gg.searchNumber(tostring(v.address | 0xB400000000000000), gg.TYPE_QWORD)
+                ---@type tablelib
+                local RefToObject = gg.getResults(gg.getResultsCount())
+                table.move(RefToObject, 1, #RefToObject, #FixRefToObjects + 1, FixRefToObjects)
+                gg.clearResults()
+            end
+            gg.loadResults(FixRefToObjects)
+        end
+        local RefToObjects, FilterObjects = gg.getResults(gg.getResultsCount()), {}
+        gg.clearResults()
+        for k, v in ipairs(gg.getValuesRange(RefToObjects)) do
+            if v == 'A' then
+                FilterObjects[#FilterObjects + 1] = {
+                    address = Il2Cpp.FixValue(RefToObjects[k].value),
+                    flags = RefToObjects[k].flags
+                }
+            end
+        end
+        gg.loadResults(FilterObjects)
+        local _FilterObjects = gg.getResults(gg.getResultsCount())
+        gg.clearResults()
+        for i, v in ipairs(_FilterObjects) do 
+            local class = Il2Cpp.Class(Il2Cpp.FixValue(v.value))
+            _FilterObjects[i] = setmetatable({}, {
+                __name = class.name,
+                __index = function(self, key)
+                    return class:GetField(key):GetValue(v.address)[1].value
+                end,
+                __newindex = function(self, key, val)
+                    class:GetField(key):SetValue(v.address, val)
+                end
+            })
+        end
+        return _FilterObjects
+    end,
+
+    ---Find objects of a specific class in memory
+    -- @param self ObjectApi The ObjectApi instance
+    -- @param ClassAddress string|number Address of the class to search for
+    -- @return table Table of found objects
+    FindObjects = function(self, ClassAddress)
+        gg.clearResults()
+        gg.setRanges(0)
+        --gg.setRanges(gg.REGION_C_HEAP | gg.REGION_C_HEAP | gg.REGION_ANONYMOUS | gg.REGION_C_BSS | gg.REGION_C_DATA | gg.REGION_C_ALLOC)
+        gg.setRanges(self.regionObject)
+        gg.loadResults({{
+            address = tonumber(ClassAddress),
+            flags = Il2Cpp.MainType
+        }})
+        gg.searchPointer(0)
+        if gg.getResultsCount() <= 0 and Il2Cpp.Info.platform and Il2Cpp.Info.sdk >= 30 then
+            gg.searchNumber(tostring(tonumber(ClassAddress) | 0xB400000000000000), gg.TYPE_QWORD)
+        end
+        local FindsResult = gg.getResults(gg.getResultsCount())
+        gg.clearResults()
+        local t = {}
+        for i, v in ipairs(FindsResult) do
+            if Il2Cpp.gV(v.address + Il2Cpp.pointSize) == 0 and Il2Cpp.gV(v.address + Il2Cpp.Il2CppObject.size, 4) ~= 75 then
+                t[#t+1]=v
+            end
+        end
+        return self:FilterObjects(t);
+    end,
+
+    ---Find objects from multiple class information structures
+    -- @param self ObjectApi The ObjectApi instance
+    -- @param ClassesInfo ClassInfo[] Array of class information tables
+    -- @return table Table of found objects
+    From = function(self, ClassesInfo)
+        local Objects = {}
+        for j = 1, #ClassesInfo do
+            local FindResult = self:FindObjects(ClassesInfo[j].address)
+            table.move(FindResult, 1, #FindResult, #Objects + 1, Objects)
+        end
+        return Objects
+    end,
+
+    ---Find the class head (start address) for a given object address
+    -- @param Address number Memory address of an object
+    -- @return table Table containing address and value of the class head
+    FindHead = function(Address)
+        local validAddress = Address
+        local mayBeHead = {}
+        for i = 1, 1000 do
+            mayBeHead[i] = {
+                address = validAddress - (4 * (i - 1)),
+                flags = Il2Cpp.MainType
+            } 
+        end
+        mayBeHead = gg.getValues(mayBeHead)
+        for i = 1, #mayBeHead do
+            local mayBeClass = Il2Cpp.FixValue(mayBeHead[i].value)
+            if Il2Cpp.Class.IsClassInfo(mayBeClass) then
+                return mayBeHead[i]
+            end
+        end
+        return {value = 0, address = 0}
+    end,
+}
+
+return setmetatable(ObjectApi, {
+    ---Metatable call handler for ObjectApi
+    -- Allows ObjectApi to be called as a function
+    -- @param ... any Arguments passed to ObjectApi.From
+    -- @return table Table of found objects
+    __call = ObjectApi.From
+})
+end)
+__bundle_register("api.Image", function(require, _LOADED, __bundle_register, __bundle_modules)
+---@class Image
+---Module for handling Il2Cpp image operations and metadata
+local Image = {}
+
+---Create an Image object from name or get all images
+-- @param name string|nil Image name to search for (optional)
+-- @return table Image object or table of all images
+function Image:From(name)
+    if not self.__cache then
+        if not Il2Cpp.imageSize then
+            Il2Cpp.Meta()
+        end
+        local typeStart = 0
+        local addr = Il2Cpp.imageDef
+        local typeCountOffset = gg.getValues({{address = addr + (Il2Cpp.pointSize * 3), flags = 4}})[1].value == 0 and (Il2Cpp.pointSize * 3) + 4 or Il2Cpp.pointSize * 3
+        self.__cache = {}
+        for i = 1, Il2Cpp.imageCount do
+            local imageInfo = gg.getValues({
+                {address = addr, flags = Il2Cpp.MainType},
+                {address = addr + typeCountOffset, flags = 4}, -- typeCount
+                {address = addr + (Il2Cpp.pointSize * 2), flags = Il2Cpp.MainType}, -- assembly
+                {address = addr + typeCountOffset + (Il2Cpp.pointSize * 5), flags = 4} -- token
+            })
+            
+            local name = Il2Cpp.Utf8ToString(Il2Cpp.FixValue(imageInfo[1].value))
+            local check = string.find(name, ".-%.dll") or string.find(name, "__Generated")
+            if not check then
+                Il2Cpp.imageCount = i 
+                break
+            end
+            self.__cache[i] = setmetatable({
+                index = i,
+                typeCount = imageInfo[2].value,
+                typeStart = typeStart,
+                name = name,
+                assembly = imageInfo[3].value,
+                token = imageInfo[4].value
+            }, {__index = Image})
+            typeStart = typeStart + imageInfo[2].value
+            addr = addr + Il2Cpp.imageSize
+        end
+    end
+    if name then
+        for i, v in ipairs(self.__cache) do
+            if v.name == name or v.name == (name .. ".dll") then
+                return v
+            end
+        end
+    else
+        return self.__cache
+    end
+end
+
+---Get the name of an image
+-- @param image table The image object
+-- @return string Image name
+function Image.GetName(image)
+    return image.name
+end
+
+---Get the file name of an image
+-- @param image table The image object
+-- @return string Image file name
+function Image.GetFileName(image)
+    return image.name
+end
+
+---Get the assembly of an image
+-- @param image table The image object
+-- @return number Assembly pointer
+function Image.GetAssembly(image)
+    return image.assembly
+end
+
+---Get the entry point of an image
+-- @param image table The image object
+-- @return table|nil Method object if entry point exists, nil otherwise
+function Image.GetEntryPoint(image)
+    local method = Il2Cpp.il2cpp_image_get_entry_point(image)
+    return method ~= 0 and Il2Cpp.MethodInfo(method) or nil
+end
+
+---Get the corlib image
+-- @return table Corlib image object
+function Image.GetCorlib()
+    return Il2Cpp.il2cpp_get_corlib()
+end
+
+---Get the number of types in an image
+-- @param image table The image object
+-- @return number Number of types
+function Image.GetNumTypes(image)
+    return image.typeCount
+end
+
+---Get a type by index from an image
+-- @param image table The image object
+-- @param index number Type index
+-- @return table|nil Class object if found, nil otherwise
+function Image.GetType(image, index)
+    if index >= image.typeCount then
+        return nil
+    end
+    local handle = Il2Cpp.GetPtr(Il2Cpp.typeDef + (image.typeStart + index) * Il2Cpp.pointSize)
+    return handle ~= 0 and Il2Cpp.Class(handle) or nil
+end
+
+---Get all types from an image
+-- @param image table The image object
+-- @param exportedOnly boolean Whether to return only exported types
+-- @return table Array of class objects
+function Image.GetTypes(image, exportedOnly)
+    local types = {}
+    for i = 0, image.typeCount - 1 do
+        local type = Image.GetType(image, i)
+        if type and type.name ~= "<Module>" then
+            if not exportedOnly or Image.IsExported(type) then
+                types[#types + 1] = type
+            end
+        end
+    end
+    return types
+end
+
+---Check if a type is exported
+-- @param type table The class object
+-- @return boolean True if the type is exported
+function Image.IsExported(type)
+    local flags = Class.GetFlags(type)
+    local visibility = bit32.band(flags, 0x0007) -- TYPE_ATTRIBUTE_VISIBILITY_MASK
+    if visibility == 0x0001 then -- TYPE_ATTRIBUTE_PUBLIC
+        return true
+    elseif visibility == 0x0004 then -- TYPE_ATTRIBUTE_NESTED_PUBLIC
+        local parent = Class.GetParent(type)
+        return parent and Image.IsExported(parent)
+    end
+    return false
+end
+
+---Find a class by namespace and name in an image
+-- @param image table The image object
+-- @param namespace string Namespace of the class
+-- @param name string Name of the class
+-- @return table|nil Class object if found, nil otherwise
+function Image.Class(image, namespace, name)
+    local key = (namespace or "") .. "." .. name
+    if not image.nameToClassHashTable or image.typeCount > image.countHashTable then
+        image.nameToClassHashTable = image.nameToClassHashTable or {}
+        image.countHashTable = image.countHashTable or 0
+        Image.InitNameToClassHashTable(image, key)
+    end
+    
+    return Il2Cpp.Class(image.nameToClassHashTable[key])
+end
+
+---Find a class from type name parse info
+-- @param image table The image object
+-- @param parseInfo table Parsed type information
+-- @param ignoreCase boolean Whether to ignore case when matching names
+-- @return table|nil Class object if found, nil otherwise
+function Image.FromTypeNameParseInfo(image, parseInfo, ignoreCase)
+    local ns = parseInfo.ns or ""
+    local name = parseInfo.name or ""
+    local klass = Image.Class(image, ns, name)
+    if not klass then
+        -- Search in exported types if not found
+        for i = 0, image.exportedTypeCount - 1 do
+            local handle = Il2Cpp.il2cpp_assembly_get_exported_type_handle(image, i)
+            if handle ~= 0 then
+                local typeNs, typeName = Il2Cpp.il2cpp_type_get_namespace_and_name(handle)
+                if (ignoreCase and string.lower(typeNs) == string.lower(ns) and string.lower(typeName) == string.lower(name)) or
+                   (typeNs == ns and typeName == name) then
+                    klass = Il2Cpp.Il2CppClass(handle)
+                    break
+                end
+            end
+        end
+    end
+    if not klass then
+        return nil
+    end
+
+    local nested = parseInfo.nested or {}
+    for _, nestedName in ipairs(nested) do
+        local found = false
+        for _, nestedType in ipairs(Class.GetNestedTypes(klass)) do
+            local typeName = nestedType.name
+            if (ignoreCase and string.lower(typeName) == string.lower(nestedName)) or typeName == nestedName then
+                klass = nestedType
+                found = true
+                break
+            end
+        end
+        if not found then
+            return nil
+        end
+    end
+    return klass
+end
+
+---Get the executing image from the current stack
+-- @return table Executing image object
+function Image.GetExecutingImage()
+    local stack = Il2Cpp.il2cpp_stack_frames()
+    for _, frame in ipairs(stack) do
+        local klass = frame.method.klass
+        if klass.image and not Image.IsSystemType(klass) and not Image.IsSystemReflectionAssembly(klass) then
+            return klass.image
+        end
+    end
+    return Image.GetCorlib()
+end
+
+---Get the calling image from the current stack
+-- @return table Calling image object
+function Image.GetCallingImage()
+    local stack = Il2Cpp.il2cpp_stack_frames()
+    local foundFirst = false
+    for _, frame in ipairs(stack) do
+        local klass = frame.method.klass
+        if klass.image and not Image.IsSystemType(klass) and not Image.IsSystemReflectionAssembly(klass) then
+            if foundFirst then
+                return klass.image
+            end
+            foundFirst = true
+        end
+    end
+    return Image.GetCorlib()
+end
+
+---Check if a class is System.Type
+-- @param klass table The class object
+-- @return boolean True if the class is System.Type
+function Image.IsSystemType(klass)
+    return klass.namespaze == "System" and klass.name == "Type"
+end
+
+---Check if a class is System.Reflection.Assembly
+-- @param klass table The class object
+-- @return boolean True if the class is System.Reflection.Assembly
+function Image.IsSystemReflectionAssembly(klass)
+    return klass.namespaze == "System.Reflection" and klass.name == "Assembly"
+end
+
+---Initialize name to class hash table for an image
+-- @param image table The image object
+-- @param key string The key to search for
+function Image.InitNameToClassHashTable(image, key)
+    if image.nameToClassHashTable[key] then
+        return
+    end
+    for i = image.countHashTable, image.typeCount - 1 do
+        local index = Il2Cpp.typeDef + (image.typeStart + i) * Il2Cpp.pointSize
+        local klass = Il2Cpp.GetPtr(index)
+        if klass ~= 0 then
+            local ns, name = Il2Cpp.Utf8ToString(Il2Cpp.GetPtr(klass + (Il2Cpp.pointSize * 3))), Il2Cpp.Utf8ToString(Il2Cpp.GetPtr(klass + (Il2Cpp.pointSize * 2))):gsub("<.*", "")
+            image.nameToClassHashTable[ns .. "." .. name] = klass
+            image.countHashTable = i + 1
+            if image.nameToClassHashTable[key] then
+                return klass
+            end
+        end
+    end
+end
+
+---Add nested types to hash table for an image
+-- @param image table The image object
+-- @param handle number Class handle
+-- @param namespaze string Namespace of the class
+-- @param parentName string Name of the parent class
+function Image.AddNestedTypesToHashTable(image, handle, namespaze, parentName)
+    local iter = 0
+    while true do
+        local nested = Il2Cpp.il2cpp_get_nested_types(handle, iter)
+        if nested == 0 then break end
+        local ns, name = Il2Cpp.il2cpp_type_get_namespace_and_name(nested)
+        local fullName = parentName .. "/" .. name
+        image.nameToClassHashTable[ns .. "." .. fullName] = nested
+        Image.AddNestedTypesToHashTable(image, nested, ns, fullName)
+        iter = iter + 1
+    end
+end
+
+---Initialize nested types for an image
+-- @param image table The image object
+function Image.InitNestedTypes(image)
+    for i = 0, image.typeCount - 1 do
+        local handle = Il2Cpp.il2cpp_assembly_get_type_handle(image, i)
+        if handle ~= 0 and not Il2Cpp.il2cpp_type_is_nested(handle) then
+            Image.AddNestedTypesToHashTable(image, handle, Il2Cpp.il2cpp_type_get_namespace_and_name(handle))
+        end
+    end
+    for i = 0, image.exportedTypeCount - 1 do
+        local handle = Il2Cpp.il2cpp_assembly_get_exported_type_handle(image, i)
+        if handle ~= 0 and not Il2Cpp.il2cpp_type_is_nested(handle) then
+            Image.AddNestedTypesToHashTable(image, handle, Il2Cpp.il2cpp_type_get_namespace_and_name(handle))
+        end
+    end
+end
+
+---Get cached resource data from an image
+-- @param image table The image object
+-- @param name string Resource name
+-- @return any|nil Resource data if found, nil otherwise
+function Image.GetCachedResourceData(image, name)
+    local data = Il2Cpp.il2cpp_get_cached_resource_data(image, name)
+    return data or nil
+end
+
+---Clear cached resource data
+function Image.ClearCachedResourceData()
+    Il2Cpp.il2cpp_clear_cached_resource_data()
+end
+
+return setmetatable(Image, {
+    ---Metatable call handler for Image
+    -- Allows Image to be called as a function
+    -- @param ... any Arguments passed to Image.From
+    -- @return table Image object or table of image objects
+    __call = Image.From
+})
+end)
+__bundle_register("api.Type", function(require, _LOADED, __bundle_register, __bundle_modules)
+---@class Type
+---Module for handling Il2Cpp type operations and metadata
+local Type = {}
+
+---Create a Type object from memory address or index
+-- @param searchParams number Memory address or type index
+-- @return table Type object with metadata
+function Type:From(searchParams)
+    local searchParams = Il2Cpp.FixValue(searchParams)
+    if Il2Cpp.pMetadataRegistration.typesCount >= searchParams then -- if it's an index
+        searchParams = Il2Cpp.gV(Il2Cpp.pMetadataRegistration.types + (searchParams * Il2Cpp.pointSize), Il2Cpp.pointer)
+    end
+    if Il2Cpp.__cache.Type[searchParams] then return Il2Cpp.__cache.Type[searchParams] end
+    local typeStruct = Il2Cpp.Il2CppType(searchParams)
+    typeStruct:Init()
+    typeStruct.address = searchParams
+    
+    if Il2Cpp.Meta.Obf and not Il2Cpp.Meta.Header.genericParameters and Type.IsGenericParameter(typeStruct) then
+        Il2Cpp.Meta.Header.genericParameters = typeStruct.data
+    end
+    
+    local types = setmetatable(typeStruct, {
+        __index = Type,
+        __tostring = Type.ToString,
+        __name = "Type"
+    })
+    Il2Cpp.__cache.Type[searchParams] = types
+    return types
+end
+
+---Check if a type is a reference type
+-- @param typeStruct table Type object to check
+-- @return boolean True if the type is a reference type
+function Type.IsReference(typeStruct)
+    local t = typeStruct.type
+    return t == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_STRING or
+           t == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_SZARRAY or
+           t == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_CLASS or
+           t == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_OBJECT or
+           t == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_ARRAY
+end
+
+---Check if a type is a struct (value type but not enum)
+-- @param typeStruct table Type object to check
+-- @return boolean True if the type is a struct
+function Type.IsStruct(typeStruct)
+    if typeStruct.byref == 1 then return false end
+    
+    local t = typeStruct.type
+    if t == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_TYPEDBYREF then
+        return true
+    end
+    
+    if t == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_VALUETYPE then
+        return not Type.IsEnum(typeStruct)
+    end
+    
+    if t == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_GENERICINST then
+        local genericType = Type:From(typeStruct.data)
+        return genericType.type == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_VALUETYPE and 
+               not Type.IsEnum(genericType)
+    end
+    
+    return false
+end
+
+---Check if a type is an enum
+-- @param typeStruct table Type object to check
+-- @return boolean True if the type is an enum
+function Type.IsEnum(typeStruct)
+    local t = typeStruct.type
+    if t == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_VALUETYPE then
+        local typeDef = Il2Cpp.Meta.GetTypeDefinition(typeStruct.data)
+        return typeDef.bitfield:And(0x1 << (Il2Cpp.Meta.kBitIsEnum - 1)) ~= 0
+    end
+    
+    if t == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_GENERICINST then
+        return Type.IsEnum(Type:From(typeStruct.data))
+    end
+    
+    return false
+end
+
+---Check if a type is a value type
+-- @param typeStruct table Type object to check
+-- @return boolean True if the type is a value type
+function Type.IsValueType(typeStruct)
+    return typeStruct.valuetype == 1
+end
+
+---Check if a type is an array
+-- @param typeStruct table Type object to check
+-- @return boolean True if the type is an array
+function Type.IsArray(typeStruct)
+    local t = typeStruct.type
+    return t == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_SZARRAY or 
+           t == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_ARRAY
+end
+
+---Check if a type is a pointer
+-- @param typeStruct table Type object to check
+-- @return boolean True if the type is a pointer
+function Type.IsPointer(typeStruct)
+    return typeStruct.type == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_PTR
+end
+
+---Get the Il2CppClass corresponding to a type
+-- @param typeStruct table Type object
+-- @param add any Additional parameter (unused in current implementation)
+-- @return table|nil Class object if found, nil otherwise
+function Type.GetClass(typeStruct, add)
+    if typeStruct.type == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_CLASS or
+       typeStruct.type == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_VALUETYPE then
+        return Il2Cpp.Class(typeStruct.data, add)
+    end
+    return nil
+end
+
+function Type.GetTypeDefinitionFromIl2CppType(il2CppType)
+    if Il2Cpp.Version <= 27 then
+        local index = Il2Cpp.Meta.Header.typeDefinitions + (il2CppType.data * Il2Cpp.Il2CppTypeDefinition:GetSize())
+        return Il2Cpp.Il2CppTypeDefinition(index)
+    else
+        return Il2Cpp.Il2CppTypeDefinition(il2CppType.data)
+    end
+end
+
+---Get the simple name of a type (for basic types)
+-- @param typeStruct table Type object
+-- @return string Simple type name
+
+function Type.GetSimpleName(typeStruct)
+    local basicTypes = {
+        [Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_VOID] = "void",
+        [Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_BOOLEAN] = "bool",
+        [Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_CHAR] = "char",
+        [Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_I1] = "sbyte",
+        [Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_U1] = "byte",
+        [Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_I2] = "short",
+        [Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_U2] = "ushort",
+        [Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_I4] = "int",
+        [Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_U4] = "uint",
+        [Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_I8] = "long",
+        [Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_U8] = "ulong",
+        [Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_R4] = "float",
+        [Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_R8] = "double",
+        [Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_STRING] = "string",
+        [Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_OBJECT] = "object",
+    }
+    local TypeString = {
+        [1] = "void",
+        [2] = "bool",
+        [3] = "char",
+        [4] = "sbyte",
+        [5] = "byte",
+        [6] = "short",
+        [7] = "ushort",
+        [8] = "int",
+        [9] = "uint",
+        [10] = "long",
+        [11] = "ulong",
+        [12] = "float",
+        [13] = "double",
+        [14] = "string",
+        [22] = "TypedReference",
+        [24] = "IntPtr",
+        [25] = "UIntPtr",
+        [28] = "object",
+    }
+    
+    return TypeString[typeStruct.type] or "Unknown"
+end
+---Get the full name of a type
+-- @param typeStruct table Type object
+-- @param addNamespaze boolean Whether to include namespace in the name
+-- @return string Full type name
+function Type.GetName(typeStruct, addNamespaze)
+    local t = typeStruct.type
+    local name = Type.GetSimpleName(typeStruct)
+    
+    if name ~= "Unknown" then
+        return name
+    end
+    
+    if t == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_PTR then
+        local elementType = Type:From(typeStruct.data)
+        return Type.GetName(elementType) .. "*"
+    end
+    
+    if t == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_SZARRAY then
+        local elementType = Type:From(typeStruct.data)
+        return Type.GetName(elementType) .. "[]"
+    end
+    
+    if t == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_ARRAY then
+        local arrayType = Il2Cpp.Il2CppArrayType(typeStruct.data)
+        local elementType = Type:From(arrayType.etype)
+        return Type.GetName(elementType) .. "[" .. string.rep(",", arrayType.rank - 1) .. "]"
+    end
+    
+    if t == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_CLASS or 
+       t == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_VALUETYPE then
+        local klass = Type.GetTypeDefinitionFromIl2CppType(typeStruct)
+        if klass then
+            return Type:GetTypeDefName(klass, addNamespaze, false)
+        end
+    end
+    
+    if t == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_VAR or 
+       t == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_MVAR then
+       local param = Il2Cpp.Meta:GetGenericParameter(typeStruct.data)
+       local name = Il2Cpp.Meta:GetStringFromIndex(param.nameIndex)
+       return name--:gsub("`.*", "")
+   end
+    
+    if t == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_GENERICINST then
+        -- Read generic class
+        local genericClass = Il2Cpp.Il2CppGenericClass(typeStruct.data)
+        if genericClass then
+            local typeDef = Il2Cpp.Class(genericClass.type and Il2Cpp.GetPtr(genericClass.type) or genericClass.typeDefinitionIndex)
+            local baseName = typeDef.name:gsub("`.*", "")
+            
+            -- Read generic context
+            local context = genericClass.context
+            if context then
+                local classInst = context.class_inst
+                if classInst then
+                    local genericInst = Il2Cpp.Il2CppGenericInst(classInst)
+                    if genericInst then
+                        local argc = genericInst.type_argc
+                        local argv = {}
+                        for i=0, argc-1 do
+                            local argType = Type:From(Il2Cpp.GetPtr(genericInst.type_argv + (i * Il2Cpp.pointSize)))
+                            table.insert(argv, tostring(argType))
+                        end
+                        return baseName .. "<" .. table.concat(argv, ", ") .. ">"
+                    end
+                end
+            end
+            return baseName
+        end
+    end
+    --error(typeStruct, true)
+    return "Unknown"
+end
+
+function Type:GetTypeDefName(typeDef, addNamespace, genericParameter)
+    local prefix = ""
+    if typeDef.declaringTypeIndex ~= -1 then
+        prefix = Il2Cpp.Type(typeDef.declaringTypeIndex):GetName(addNamespace, true) .. "."
+    elseif addNamespace then
+        local namespace = Il2Cpp.Meta:GetStringFromIndex(typeDef.namespaceIndex)
+        if namespace ~= "" then
+            prefix = namespace .. "."
+        end
+    end
+    local typeName = Il2Cpp.Meta:GetStringFromIndex(typeDef.nameIndex)
+    if typeDef.genericContainerIndex >= 0 then
+        local index = typeName:find("`")
+        if index then
+            typeName = typeName:sub(1, index - 1)
+        end
+        if genericParameter then
+            local genericContainer = Il2Cpp.Meta:GetGenericContainer(typeDef.genericContainerIndex + 1)
+            typeName = typeName .. Il2Cpp.Meta:GetGenericContainerParams(genericContainer)
+        end
+    end
+    return prefix .. typeName
+end
+
+---Get the token of a type (used in metadata)
+-- @param typeStruct table Type object
+-- @return number Type token
+function Type.GetToken(typeStruct)
+    if Type.IsGenericInstance(typeStruct) then
+        local genericClass = Il2Cpp.Il2CppGenericClass(typeStruct.data)
+        local typeDef = genericClass.typeDefinitionIndex or genericClass.type
+        local typeDefStruct = Il2Cpp.Meta.GetTypeDefinition(typeDef)
+        return typeDefStruct.token
+    end
+    local klass = Type.GetClass(typeStruct)
+    return klass.token
+end
+
+---Check if a type is a generic instance (IL2CPP_TYPE_GENERICINST)
+-- @param typeStruct table Type object
+-- @return boolean True if the type is a generic instance
+function Type.IsGenericInstance(typeStruct)
+    return typeStruct.type == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_GENERICINST
+end
+
+---Check if a type is a generic parameter (IL2CPP_TYPE_VAR or IL2CPP_TYPE_MVAR)
+-- @param typeStruct table Type object
+-- @return boolean True if the type is a generic parameter
+function Type.IsGenericParameter(typeStruct)
+    return typeStruct.type == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_VAR or 
+           typeStruct.type == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_MVAR
+end
+
+---Get generic parameter handle (only for generic parameters)
+-- @param typeStruct table Type object
+-- @return table|nil Generic parameter handle if found, nil otherwise
+function Type.GetGenericParameterHandle(typeStruct)
+    if not Type.IsGenericParameter(typeStruct) then
+        return nil
+    end
+    return Il2Cpp.Meta.GetGenericParameterFromType(typeStruct)
+end
+
+---Get generic parameter information
+-- @param typeStruct table Type object
+-- @return table|nil Generic parameter information if found, nil otherwise
+function Type.GetGenericParameterInfo(typeStruct)
+    local handle = Type.GetGenericParameterHandle(typeStruct)
+    if not handle then
+        return nil
+    end
+    return Il2Cpp.Meta.GetGenericParameterInfo(handle)
+end
+
+---Get the declaring type of a generic parameter
+-- @param typeStruct table Type object
+-- @return table|nil Declaring type if found, nil otherwise
+function Type.GetDeclaringType(typeStruct)
+    if typeStruct.byref ~= 0 then
+        return nil
+    end
+    if typeStruct.type == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_VAR or 
+       typeStruct.type == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_MVAR then
+        return Il2Cpp.Meta.GetParameterDeclaringType(Type.GetGenericParameterHandle(typeStruct))
+    end
+    local klass = Type.GetClass(typeStruct)
+    return klass.declaringType
+end
+
+---Get the declaring method (only for MVAR generic parameters)
+-- @param typeStruct table Type object
+-- @return table|nil Declaring method if found, nil otherwise
+function Type.GetDeclaringMethod(typeStruct)
+    if typeStruct.byref ~= 0 then
+        return nil
+    end
+    if typeStruct.type == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_MVAR then
+        return Il2Cpp.Meta.GetParameterDeclaringMethod(Type.GetGenericParameterHandle(typeStruct))
+    end
+    return nil
+end
+
+---Get the generic type definition (only for generic instances)
+-- @param typeStruct table Type object
+-- @return table Generic type definition
+function Type.GetGenericTypeDefinition(typeStruct)
+    if not Type.IsGenericInstance(typeStruct) then
+        return typeStruct
+    end
+    local genericClass = Il2Cpp.Il2CppGenericClass(typeStruct.data)
+    return Type:From(genericClass.type)
+end
+
+---Compare if two types are equal
+-- @param type1 table First type object
+-- @param type2 table Second type object
+-- @return boolean True if types are equal
+function Type.AreEqual(type1, type2)
+    if type1.address == type2.address then
+        return true
+    end
+    -- TODO: Implement detailed comparison if needed
+    return false
+end
+
+---Get the size of a type in memory
+-- @param typeStruct table Type object
+-- @return number Size in bytes
+function Type.GetSize(typeStruct)
+    if Type.IsValueType(typeStruct) then
+        local klass = Type.GetClass(typeStruct)
+        return klass.instance_size
+    end
+    
+    -- Reference types have pointer size
+    return Il2Cpp.pointSize
+end
+
+---Get array information if the type is an array
+-- @param typeStruct table Type object
+-- @return table|nil Array information if type is an array, nil otherwise
+function Type.GetArrayInfo(typeStruct)
+    if not Type.IsArray(typeStruct) then
+        return nil
+    end
+    
+    if typeStruct.type == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_SZARRAY then
+        return {
+            elementType = Type:From(typeStruct.data),
+            rank = 1,
+            isSzArray = true
+        }
+    end
+    
+    if typeStruct.type == Il2Cpp.Il2CppTypeEnum.IL2CPP_TYPE_ARRAY then
+        local arrayType = Il2Cpp.Il2CppArrayType(typeStruct.data)
+        return {
+            elementType = Type:From(arrayType.etype),
+            rank = arrayType.rank,
+            sizes = arrayType.sizes,
+            lobounds = arrayType.lobounds,
+            isSzArray = false
+        }
+    end
+    
+    return nil
+end
+
+function Type.GetTypeEnum(self)
+    return gg.getValues({{address = self.address + (Il2Cpp.x64 and 0xA or 0x6), flags = gg.TYPE_BYTE}})[1].value
+end
+
+---Convert Il2CppType to a descriptive string
+-- @param typeStruct table Type object
+-- @return string Descriptive string representation
+function Type.ToString(typeStruct)
+    local name = Type.GetName(typeStruct)
+    local flags = {}
+    
+    if typeStruct.byref == 1 then
+        table.insert(flags, "byref")
+    end
+    
+    if typeStruct.pinned == 1 then
+        table.insert(flags, "pinned")
+    end
+    
+    if #flags > 0 then
+        return string.format("%s (%s)", name, table.concat(flags, ", "))
+    end
+    
+    return name
+end
+
+return setmetatable(Type, {
+    ---Metatable call handler for Type
+    -- Allows Type to be called as a function
+    -- @param ... any Arguments passed to Type.From
+    -- @return table Type object
+    __call = Type.From
+})
+end)
+
+return __bundle_require("Il2CppGG")
