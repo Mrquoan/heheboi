@@ -1722,7 +1722,7 @@ __bundle_register("config", function(require, _LOADED, __bundle_register, __bund
 return {
    name = "Il2CppGG",
    version = '1.0.4',
-   author = "LeThi9GG",
+   author = "QUOẮN",
    
    build = {
       input = "Toolbox",
@@ -5669,32 +5669,40 @@ return setmetatable(Type, {
 })
 end)
 
-__bundle_register("toolbox.main", function(require, _LOADED, __bundle_register, __bundle_modules)
+__bundle_register("myutils", function(require, _LOADED, __bundle_register, __bundle_modules)
+    -- Đảm bảo Il2Cpp đã được khởi tạo (require "Il2CppGG" sẽ chạy toàn bộ)
+    local Il2Cpp = require("Il2CppGG")
+    
+    -- Khai báo các hàm của bạn, gắn vào global hoặc vào Il2Cpp
+    function ClassFind(className)
+        local r = {}
+        for _, k in ipairs(Il2Cpp.Class(className) or {}) do
+            for _, m in ipairs(k:GetMethods() or {}) do
+                if m.methodPointer and m.methodPointer ~= 0 then
+                    r[#r+1] = {address = m.methodPointer, flags = gg.TYPE_DWORD}
+                end
+            end
+        end
+        if #r > 0 then gg.loadResults(r) gg.setVisible(false) end
+        return #r > 0
+    end
 
-end)
-__bundle_register("toolbox.config", function(require, _LOADED, __bundle_register, __bundle_modules)
+    function MethodFind(methodName)
+        local r = {}
+        for _, m in ipairs(Il2Cpp.Method(methodName) or {}) do
+            if m.methodPointer and m.methodPointer ~= 0 then
+                r[#r+1] = {address = m.methodPointer, flags = gg.TYPE_DWORD}
+            end
+        end
+        if #r > 0 then gg.loadResults(r) gg.setVisible(false) end
+        return #r > 0
+    end
 
-end)
-__bundle_register("toolbox.ui", function(require, _LOADED, __bundle_register, __bundle_modules)
+    -- Tùy chọn: gắn vào bảng Il2Cpp để gọi theo kiểu Il2Cpp.ClassFind
+    Il2Cpp.ClassFind = ClassFind
+    Il2Cpp.MethodFind = MethodFind
 
-end)
-__bundle_register("toolbox.utils", function(require, _LOADED, __bundle_register, __bundle_modules)
-
-end)
-
-__bundle_register("toolbox.toolbox", function(require, _LOADED, __bundle_register, __bundle_modules)
-
-return 
-end)
-__bundle_register("toolbox.search", function(require, _LOADED, __bundle_register, __bundle_modules)
-
-return 
-end)
-__bundle_register("toolbox.creator", function(require, _LOADED, __bundle_register, __bundle_modules)
-return
-end)
-__bundle_register("toolbox.generateScript", function(require, _LOADED, __bundle_register, __bundle_modules)
-return
+    print("[myutils] Loaded successfully")
 end)
 
 return __bundle_require("Il2CppGG")
